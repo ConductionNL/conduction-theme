@@ -1,0 +1,16 @@
+{
+  "name": "@conduction/theme",
+  "version": "1.0.1",
+  "description": "Conduction's design tokens theme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConductionNL/conduction-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConductionNL/conduction-theme/issues"
+  },
+  "homepage": "https://github.com/ConductionNL/conduction-theme#readme"
+}
