@@ -76,9 +76,41 @@
 
   /*
    *
-   * UTRECHT COMPONENTS
+   * UTRECHT COMPONENTS & DEFAULTS
    *
    */
+
+  /* Sizes */
+
+  --utrecht-space-block-3xs: var(--conduction-size-3xs);
+  --utrecht-space-block-2xs: var(--conduction-size-2xs);
+  --utrecht-space-block-xs: var(--conduction-size-xs);
+  --utrecht-space-block-sm: var(--conduction-size-sm);
+  --utrecht-space-block-md: var(--conduction-size-md);
+  --utrecht-space-block-lg: var(--conduction-size-lg);
+  --utrecht-space-block-xl: var(--conduction-size-xl);
+  --utrecht-space-block-2xl: var(--conduction-size-2xl);
+  --utrecht-space-block-3xl: var(--conduction-size-3xl);
+
+  --utrecht-space-inline-3xs: var(--conduction-size-3xs);
+  --utrecht-space-inline-2xs: var(--conduction-size-2xs);
+  --utrecht-space-inline-xs: var(--conduction-size-xs);
+  --utrecht-space-inline-sm: var(--conduction-size-sm);
+  --utrecht-space-inline-md: var(--conduction-size-md);
+  --utrecht-space-inline-lg: var(--conduction-size-lg);
+  --utrecht-space-inline-xl: var(--conduction-size-xl);
+  --utrecht-space-inline-2xl: var(--conduction-size-2xl);
+  --utrecht-space-inline-3xl: var(--conduction-size-3xl);
+
+  --utrecht-typography-scale-2xs: var(--conduction-font-size-2xs);
+  --utrecht-typography-scale-xs: var(--conduction-font-size-xs);
+  --utrecht-typography-scale-sm: var(--conduction-font-size-sm);
+  --utrecht-typography-scale-md: var(--conduction-font-size-md);
+  --utrecht-typography-scale-lg: var(--conduction-font-size-lg);
+  --utrecht-typography-scale-xl: var(--conduction-font-size-xl);
+  --utrecht-typography-scale-2xl: var(--conduction-font-size-2xl);
+  --utrecht-typography-scale-3xl: var(--conduction-font-size-3xl);
+  --utrecht-typography-scale-4xl: var(--conduction-font-size-4xl);
 
   /* Document */
   --utrecht-document-font-family: var(--conduction-typography-sans-serif-font-family);
