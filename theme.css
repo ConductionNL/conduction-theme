@@ -130,6 +130,7 @@
   /* Page */
   --utrecht-page-padding-inline-start: var(--conduction-size-lg);
   --utrecht-page-padding-inline-end: var(--conduction-size-lg);
+  --utrecht-page-max-inline-size: 1140px;
 
   /* Headings */
   --utrecht-heading-1-font-family: var(--conduction-typography-header-font-family);
