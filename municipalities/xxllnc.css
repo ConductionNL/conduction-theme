@@ -72,6 +72,7 @@
   --xxllnc-typography-header-font-family: neue-haas-grotesk-text, sans-serif,
     sans-serif;
   --xxllnc-typography-code-font-family: Monospace, "Lucida Console";
+  --xxllnc-typography-button-font-family:"Inter", sans-serif;
 
   /*
    *
@@ -325,12 +326,12 @@
   --utrecht-button-color: var(--xxllnc-color-grey-95);
   --utrecht-button-background-color: var(--xxllnc-color-black-15);
 
-  --utrecht-button-border-color: none;
-  --utrecht-button-border-width: 0;
+   /* --utrecht-button-border-color: <color>; */
+   --utrecht-button-border-width: 0;
   --utrecht-button-border-radius: var(--xxllnc-size-xs);
   /* --utrecht-button-border-bottom-width: <length>; */
 
-  --utrecht-button-font-family: "Inter", sans-serif;
+  --utrecht-button-font-family: var(--xxllnc-typography-button-font-family);
   --utrecht-button-font-size: inherit;
   --utrecht-button-font-weight: inherit;
 
@@ -348,8 +349,13 @@
 
   /* --utrecht-button-text-transform: <length>; */
 
+    /* --utrecht-button-focus-background-color: <color>; */
+   /* --utrecht-button-focus-border-color: <color>; */
+   /* --utrecht-button-focus-color: <color>; */
+
   --utrecht-button-hover-background-color: var(--xxllnc-color-black-15-hover);
-  --utrecht-button-hover-border-color: unset;
   --utrecht-button-hover-color: var(--xxllnc-color-grey-95-hover);
-  --utrecht-button-focus-transform-scale: unset;
+  /* --utrecht-button-hover-border-color: unset; */
+  /* --utrecht-button-focus-transform-scale: unset; */
+   
 }
