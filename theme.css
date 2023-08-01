@@ -113,13 +113,17 @@
   --utrecht-typography-scale-4xl: var(--conduction-font-size-4xl);
 
   /* Document */
-  --utrecht-document-font-family: var(--conduction-typography-sans-serif-font-family);
+  --utrecht-document-font-family: var(
+    --conduction-typography-sans-serif-font-family
+  );
   --utrecht-document-font-size: var(--conduction-font-size-md);
   --utrecht-document-color: var(--conduction-color-black);
   --utrecht-space-around: 1;
 
   /* Typography */
-  --utrecht-typography-sans-serif-font-family: var(--conduction-typography-sans-serif-font-family);
+  --utrecht-typography-sans-serif-font-family: var(
+    --conduction-typography-sans-serif-font-family
+  );
 
   /* Header */
   --utrecht-page-header-color: var(--conduction-color-white);
@@ -133,35 +137,45 @@
   --utrecht-page-max-inline-size: 1140px;
 
   /* Headings */
-  --utrecht-heading-1-font-family: var(--conduction-typography-header-font-family);
+  --utrecht-heading-1-font-family: var(
+    --conduction-typography-header-font-family
+  );
   --utrecht-heading-1-font-size: var(--conduction-font-size-3xl);
   --utrecht-heading-1-font-weight: var(--conduction-font-weight-bold);
   --utrecht-heading-1-letter-spacing: var(--conduction-letter-spacing-normal);
   --utrecht-heading-1-margin-block-start: var(--conduction-size-2xl);
   --utrecht-heading-1-margin-block-end: var(--conduction-size-md);
 
-  --utrecht-heading-2-font-family: var(--conduction-typography-header-font-family);
+  --utrecht-heading-2-font-family: var(
+    --conduction-typography-header-font-family
+  );
   --utrecht-heading-2-font-weight: var(--conduction-font-weight-bold);
   --utrecht-heading-2-font-size: var(--conduction-font-size-2xl);
   --utrecht-heading-2-letter-spacing: var(--conduction-letter-spacing-normal);
   --utrecht-heading-2-margin-block-start: var(--conduction-size-2xl);
   --utrecht-heading-2-margin-block-end: var(--conduction-size-md);
 
-  --utrecht-heading-3-font-family: var(--conduction-typography-header-font-family);
+  --utrecht-heading-3-font-family: var(
+    --conduction-typography-header-font-family
+  );
   --utrecht-heading-3-font-weight: var(--conduction-font-weight-normal);
   --utrecht-heading-3-font-size: var(--conduction-font-size-xl);
   --utrecht-heading-3-letter-spacing: var(--conduction-letter-spacing-normal);
   --utrecht-heading-3-margin-block-start: var(--conduction-size-xl);
   --utrecht-heading-3-margin-block-end: var(--conduction-size-md);
 
-  --utrecht-heading-4-font-family: var(--conduction-typography-header-font-family);
+  --utrecht-heading-4-font-family: var(
+    --conduction-typography-header-font-family
+  );
   --utrecht-heading-4-font-size: var(--conduction-font-size-lg);
   --utrecht-heading-4-font-weight: var(--conduction-font-weight-normal);
   --utrecht-heading-4-letter-spacing: var(--conduction-letter-spacing-normal);
   --utrecht-heading-4-margin-block-start: var(--conduction-size-lf);
   --utrecht-heading-4-margin-block-end: var(--conduction-size-md);
 
-  --utrecht-heading-5-font-family: var(--conduction-typography-header-font-family);
+  --utrecht-heading-5-font-family: var(
+    --conduction-typography-header-font-family
+  );
   --utrecht-heading-5-font-size: var(--conduction-font-size-md);
   --utrecht-heading-5-font-weight: var(--conduction-font-weight-light);
   --utrecht-heading-5-letter-spacing: var(--conduction-letter-spacing-normal);
@@ -171,7 +185,9 @@
 
   /* Paragraph */
   --utrecht-paragraph-color: var(--utrecht-document-color) inherit;
-  --utrecht-paragraph-font-family: var(--conduction-typography-sans-serif-font-family);
+  --utrecht-paragraph-font-family: var(
+    --conduction-typography-sans-serif-font-family
+  );
   --utrecht-paragraph-font-size: var(--conduction-font-size-md);
   --utrecht-paragraph-font-weight: var(--conduction-font-weight-normal);
   --utrecht-paragraph-line-height: 1.5;
@@ -233,7 +249,9 @@
 
   --utrecht-code-block-color: var(--conduction-color-black);
   --utrecht-code-block-background-color: var(--conduction-color-lightgrey);
-  --utrecht-code-block-font-family: var(--conduction-typography-code-font-family);
+  --utrecht-code-block-font-family: var(
+    --conduction-typography-code-font-family
+  );
   --utrecht-code-block-font-size: var(--conduction-font-size-md);
   --utrecht-code-block-font-weight: var(--conduction-font-weight-normal);
   --utrecht-code-block-line-height: var(--conduction-size-lg);
@@ -275,7 +293,9 @@
 
   /* Alert */
   --utrecht-alert-color: var(--conduction-color-alert-info);
-  --utrecht-alert-background-color: var(--conduction-color-alert-info-background);
+  --utrecht-alert-background-color: var(
+    --conduction-color-alert-info-background
+  );
   /* --utrecht-alert-border-color: <color>; */
   /* --utrecht-alert-border-width: <length>; */
   --utrecht-alert-padding-block-start: var(--conduction-size-lg);
@@ -288,7 +308,9 @@
   /* --utrecht-alert-warning-color: <color>; */
   /* --utrecht-alert-warning-border-color: <color>; */
   /* --utrecht-alert-warning-border-width: <length>; */
-  --utrecht-alert-error-background-color: var(--conduction-color-alert-error-background);
+  --utrecht-alert-error-background-color: var(
+    --conduction-color-alert-error-background
+  );
   --utrecht-alert-error-color: var(--conduction-color-alert-error);
   /* --utrecht-alert-error-border-color: <color>; */
   /* --utrecht-alert-error-border-width: <color>; */
@@ -304,9 +326,50 @@
   /* Icon */
   --utrecht-alert-icon-gap: var(--conduction-size-xs);
   --utrecht-icon-gap: var(--conduction-size-xs);
+
+  /* Button */
+  --utrecht-button-color: var(--conduction-color-white);
+  --utrecht-button-background-color: var(--conduction-color-primary);
+
+  /* --utrecht-button-border-color: <color>; */
+  --utrecht-button-border-width: 0;
+  --utrecht-button-border-radius: 3px;
+  /* --utrecht-button-border-bottom-width: <length>; */
+
+  --utrecht-button-font-family: var(
+    --conduction-typography-sans-serif-font-family
+  );
+  --utrecht-button-font-size: inherit;
+  --utrecht-button-font-weight: inherit;
+
+  /* --utrecht-button-inline-size: <length>; */
+  /* --utrecht-button-letter-spacing: <length>; */
+  /* --utrecht-button-line-height: <length>; */
+
+  /* --utrecht-button-min-block-size: <length>; */
+  /* --utrecht-button-min-inline-size: <length>; */
+
+  --utrecht-button-padding-block-end: var(--conduction-size-xs);
+  --utrecht-button-padding-block-start: var(--conduction-size-xs);
+  --utrecht-button-padding-inline-end: var(--conduction-size-xs);
+  --utrecht-button-padding-inline-start: var(--conduction-size-xs);
+
+  /* --utrecht-button-text-transform: <length>; */
+
+  /* --utrecht-button-focus-background-color: <color>; */
+  /* --utrecht-button-focus-border-color: <color>; */
+  /* --utrecht-button-focus-color: <color>; */
+
+  --utrecht-button-hover-background-color: var(
+    --conduction-color-primary-hover
+  );
+  --utrecht-button-hover-color: var(--conduction-color-white);
+  /* --utrecht-button-hover-border-color: unset; */
+  /* --utrecht-button-focus-transform-scale: unset; */
 }
 
 @font-face {
   font-family: "Aldritch";
   src: url("./fonts/Aldritch.woff2") format("woff2");
 }
+

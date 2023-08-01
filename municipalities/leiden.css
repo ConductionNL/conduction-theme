@@ -113,13 +113,17 @@
   --utrecht-typography-scale-4xl: var(--leiden-font-size-4xl);
 
   /* Document */
-  --utrecht-document-font-family: var(--leiden-typography-sans-serif-font-family);
+  --utrecht-document-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
   --utrecht-document-font-size: var(--leiden-font-size-md);
   --utrecht-document-color: var(--leiden-color-black);
   --utrecht-space-around: 1;
 
   /* Typography */
-  --utrecht-typography-sans-serif-font-family: var(--leiden-typography-sans-serif-font-family);
+  --utrecht-typography-sans-serif-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
 
   /* Header */
   --utrecht-page-header-color: var(--leiden-color-white);
@@ -170,7 +174,9 @@
 
   /* Paragraph */
   --utrecht-paragraph-color: var(--utrecht-document-color) inherit;
-  --utrecht-paragraph-font-family: var(--leiden-typography-sans-serif-font-family);
+  --utrecht-paragraph-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
   --utrecht-paragraph-font-size: var(--leiden-font-size-md);
   --utrecht-paragraph-font-weight: var(--leiden-font-weight-normal);
   --utrecht-paragraph-line-height: 1.5;
@@ -260,7 +266,8 @@
   --utrecht-table-header-font-weight: var(--leiden-font-weight-bold);
   --utrecht-table-header-text-transform: unset;
 
-  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size) inherit;
+  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size)
+    inherit;
   --utrecht-table-header-cell-font-weight: var(--leiden-font-weight-bold);
   --utrecht-table-header-cell-text-transform: unset;
 
@@ -287,7 +294,9 @@
   /* --utrecht-alert-warning-color: <color>; */
   /* --utrecht-alert-warning-border-color: <color>; */
   /* --utrecht-alert-warning-border-width: <length>; */
-  --utrecht-alert-error-background-color: var(--leiden-color-alert-error-background);
+  --utrecht-alert-error-background-color: var(
+    --leiden-color-alert-error-background
+  );
   --utrecht-alert-error-color: var(--leiden-color-alert-error);
   /* --utrecht-alert-error-border-color: <color>; */
   /* --utrecht-alert-error-border-width: <color>; */
@@ -303,4 +312,40 @@
   /* Icon */
   --utrecht-alert-icon-gap: var(--leiden-size-xs);
   --utrecht-icon-gap: var(--leiden-size-xs);
+
+  /* Button */
+  --utrecht-button-color: var(--leiden-color-primary);
+  --utrecht-button-background-color: var(--leiden-color-white);
+
+  --utrecht-button-border-color: var(--leiden-color-primary);
+  --utrecht-button-border-width: var(--leiden-size-3xs);
+  --utrecht-button-border-radius: var(--leiden-size-2xs);
+  /* --utrecht-button-border-bottom-width: <length>; */
+
+  --utrecht-button-font-family: var(--leiden-typography-sans-serif-font-family);
+  --utrecht-button-font-size: inherit;
+  --utrecht-button-font-weight: inherit;
+
+  /* --utrecht-button-inline-size: <length>; */
+  /* --utrecht-button-letter-spacing: <length>; */
+  /* --utrecht-button-line-height: <length>; */
+
+  /* --utrecht-button-min-block-size: <length>; */
+  /* --utrecht-button-min-inline-size: <length>; */
+
+  --utrecht-button-padding-block-end: var(--leiden-size-xs);
+  --utrecht-button-padding-block-start: var(--leiden-size-xs);
+  --utrecht-button-padding-inline-end: var(--leiden-size-xs);
+  --utrecht-button-padding-inline-start: var(--leiden-size-xs);
+
+  /* --utrecht-button-text-transform: <length>; */
+
+  --utrecht-button-focus-background-color: var(--leiden-color-primary);
+  --utrecht-button-focus-border-color: var(--leiden-color-primary);
+  --utrecht-button-focus-color: var(--leiden-color-white);
+
+  --utrecht-button-hover-background-color: var(--leiden-color-white);
+  --utrecht-button-hover-color: var(--leiden-color-primary-hover);
+  /* --utrecht-button-hover-border-color: unset; */
+  /* --utrecht-button-focus-transform-scale: unset; */
 }
