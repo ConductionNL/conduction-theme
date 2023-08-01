@@ -266,8 +266,7 @@
   --utrecht-table-header-font-weight: var(--leiden-font-weight-bold);
   --utrecht-table-header-text-transform: unset;
 
-  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size)
-    inherit;
+  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size) inherit;
   --utrecht-table-header-cell-font-weight: var(--leiden-font-weight-bold);
   --utrecht-table-header-cell-text-transform: unset;
 
