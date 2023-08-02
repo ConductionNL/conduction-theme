@@ -5,6 +5,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.8: Added formField, cards and conduction overwrite tokens to xxllnc theme.
   - 1.0.7: Added button tokens to all themes.
   - 1.0.6: Added xxllnc theme.
   - 1.0.5: Added page-max-inline size to Conduction theme.
