@@ -331,6 +331,7 @@
   --utrecht-button-color: var(--xxllnc-color-grey-95);
   --utrecht-button-background-color: var(--xxllnc-color-black-15);
 
+  --utrecht-button-icon-gap: var(--xxllnc-size-xs);
   /* --utrecht-button-border-color: <color>; */
   --utrecht-button-border-width: 0;
   --utrecht-button-border-radius: var(--xxllnc-size-xs);
