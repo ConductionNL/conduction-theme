@@ -4,7 +4,7 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1**
-
+  - 1.0.12: implemented Select Single styling in xxllnc and Leiden
   - 1.0.11: fixed typo and added page-content-background-color token to Conduction theme.
   - 1.0.10: 
     - Added document-backgroundcolor to all themes.
