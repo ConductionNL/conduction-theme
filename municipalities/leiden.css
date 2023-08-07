@@ -141,7 +141,7 @@
   --utrecht-page-padding-inline-start: var(--leiden-size-lg);
   --utrecht-page-padding-inline-end: var(--leiden-size-lg);
   --utrecht-page-max-inline-size: 1140px;
-  --utrehct-page-content-background-color: var(--leiden-color-black);
+  --utrecht-page-content-background-color: var(--leiden-color-black);
 
   /* Headings */
   --utrecht-heading-1-font-family: var(--leiden-typography-header-font-family);
