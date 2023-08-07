@@ -56,8 +56,15 @@
   --conduction-color-alert-info: #004085;
   --conduction-color-alert-info-background: #cce5ff;
 
+  --conduction-color-grey: #808080;
+  --conduction-color-grey-29: #4a4a4a;
+  --conduction-color-grey-48: #7a7a7a;
+
   --conduction-color-lightgrey: #f5f5f5;
+
   --conduction-color-white: #ffffff;
+  --conduction-color-white-98: #fafafa;
+
   --conduction-color-black: #000000;
 
   /* Typography */
@@ -118,6 +125,7 @@
   );
   --utrecht-document-font-size: var(--conduction-font-size-md);
   --utrecht-document-color: var(--conduction-color-black);
+  --utrecht-document-background-color: var(--conduction-color-white-98);
   --utrecht-space-around: 1;
 
   /* Typography */
@@ -331,6 +339,7 @@
   --utrecht-button-color: var(--conduction-color-white);
   --utrecht-button-background-color: var(--conduction-color-primary);
 
+  --utrecht-button-icon-gap: var(--conduction-size-xs); 
   /* --utrecht-button-border-color: <color>; */
   --utrecht-button-border-width: 0;
   --utrecht-button-border-radius: 3px;
@@ -351,8 +360,8 @@
 
   --utrecht-button-padding-block-end: var(--conduction-size-xs);
   --utrecht-button-padding-block-start: var(--conduction-size-xs);
-  --utrecht-button-padding-inline-end: var(--conduction-size-xs);
-  --utrecht-button-padding-inline-start: var(--conduction-size-xs);
+  --utrecht-button-padding-inline-end: var(--conduction-size-sm);
+  --utrecht-button-padding-inline-start: var(--conduction-size-sm);
 
   /* --utrecht-button-text-transform: <length>; */
 
@@ -366,10 +375,60 @@
   --utrecht-button-hover-color: var(--conduction-color-white);
   /* --utrecht-button-hover-border-color: unset; */
   /* --utrecht-button-focus-transform-scale: unset; */
+
+  /* InputField */
+  --utrecht-form-input-background-color: var(--conduction-color-white);
+  --utrecht-form-input-border-width: var(--conduction-size-4xs);
+  --utrecht-form-input-border-color: var(--conduction-color-grey-48);
+  --utrecht-form-input-border-radius: 3px;
+  --utrecht-form-input-color: var(--conduction-color-grey-29);
+  --utrecht-form-input-font-family: var(
+    --conduction-typography-sans-serif-font-family
+  );
+  --utrecht-form-input-font-size: 15px;
+  /* --utrecht-form-input-max-inline-size: ; */
+  --utrecht-form-input-padding-block-end: var(--conduction-size-xs);
+  --utrecht-form-input-padding-block-start: var(--conduction-size-xs);
+  --utrecht-form-input-padding-inline-end: var(--conduction-size-sm);
+  --utrecht-form-input-padding-inline-start: var(--conduction-size-sm);
+
+  /* InputField-TextField */
+  --utrecht-textbox-background-color: var(--conduction-color-white);
+  --utrecht-textbox-border-width: var(--conduction-size-4xs);
+  /* --utrecht-textbox-border-bottom-width: ; */
+  --utrecht-textbox-border-color: var(--conduction-color-grey-48);
+  --utrecht-form-input-border-radius: 3px;
+  --utrecht-textbox-color: var(--conduction-color-grey-29);
+  --utrecht-textbox-font-family: var(
+    --conduction-typography-sans-serif-font-family
+  );
+  --utrecht-textbox-font-size: 15px;
+  /* --utrecht-textbox-max-inline-size: ; */
+  --utrecht-textbox-padding-block-end: var(--conduction-size-xs);
+  --utrecht-textbox-padding-block-start: var(--conduction-size-xs);
+  --utrecht-textbox-padding-inline-end: var(--conduction-size-sm);
+  --utrecht-textbox-padding-inline-start: var(--conduction-size-sm);
+
+  --utrecht-textbox-placeholder-color: var(--conduction-color-grey);
+
+  /* conduction select-field */
+  --skeleton-color-white: var(--conduction-color-white);
+  --conduction-input-select-border: var(--conduction-size-4xs) solid
+    var(--conduction-color-grey-48);
+  --skeleton-border-radius-md: 6px;
+  --skeleton-size-xs: var(--conduction-size-xs);
+
+  /* conduction Card */
+  --utrecht-card-background-color: var(--conduction-color-white);
+  --utrecht-card-color: var(--xxllnc-color-white-95);
+  --utrecht-card-border-radius: 16px;
+  --utrecht-card-padding-block-end: var(--conduction-size-md);
+  --utrecht-card-padding-block-start: var(--conduction-size-md);
+  --utrecht-card-padding-inline-end: var(--conduction-size-md);
+  --utrecht-card-padding-inline-start: var(--conduction-size-md);
 }
 
 @font-face {
   font-family: "Aldritch";
   src: url("./fonts/Aldritch.woff2") format("woff2");
 }
-
