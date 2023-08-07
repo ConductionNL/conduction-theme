@@ -366,6 +366,12 @@
   /* --utrecht-button-hover-border-color: unset; */
   /* --utrecht-button-focus-transform-scale: unset; */
 
+  --utrecht-button-secondary-action-background-color: var(--xxllnc-color-white);
+  --utrecht-button-secondary-action-border-color: var(--xxllnc-color-black-15);
+  --utrecht-button-secondary-action-border-width: 2px;
+  --utrecht-button-secondary-action-color: var(--xxllnc-color-black-15);
+  --utrecht-button-secondary-action-font-weight: var(--xxllnc-font-weight-normal);
+
   /* InputField */
   --utrecht-form-input-background-color: var(--xxllnc-color-white-100);
   --utrecht-form-input-border-width: var(--xxllnc-size-4xs);
