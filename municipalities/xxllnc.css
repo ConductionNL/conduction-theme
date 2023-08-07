@@ -150,7 +150,7 @@
   --utrecht-page-padding-inline-start: var(--xxllnc-size-lg);
   --utrecht-page-padding-inline-end: var(--xxllnc-size-lg);
   --utrecht-page-max-inline-size: 1140px;
-  --utrehct-page-content-background-color: var(--xxllnc-color-black);
+  --utrecht-page-content-background-color: var(--xxllnc-color-black);
 
   /* Headings */
   --utrecht-heading-1-font-family: var(--xxllnc-typography-header-font-family);
@@ -419,7 +419,7 @@
   /* conduction Card */
   --utrecht-card-background-color: var(--xxllnc-color-black-21);
   --utrecht-card-color: var(--xxllnc-color-white-95);
-  --utrehct-card-border-radius: 16px;
+  --utrecht-card-border-radius: 16px;
   --utrecht-card-padding-block-end: var(--xxllnc-size-md);
   --utrecht-card-padding-block-start: var(--xxllnc-size-md);
   --utrecht-card-padding-inline-end: var(--xxllnc-size-md);

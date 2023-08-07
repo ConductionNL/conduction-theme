@@ -143,6 +143,7 @@
   --utrecht-page-padding-inline-start: var(--conduction-size-lg);
   --utrecht-page-padding-inline-end: var(--conduction-size-lg);
   --utrecht-page-max-inline-size: 1140px;
+  --utrecht-page-content-background-color: var(--conduction-color-black);
 
   /* Headings */
   --utrecht-heading-1-font-family: var(
