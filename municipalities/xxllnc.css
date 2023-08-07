@@ -132,6 +132,7 @@
   );
   --utrecht-document-font-size: var(--xxllnc-font-size-sm);
   --utrecht-document-color: var(--xxllnc-color-black);
+  --utrecht-document-background-color: var(--xxllnc-color-white);
   --utrecht-space-around: 1;
 
   /* Typography */
@@ -237,6 +238,8 @@
   --utrecht-link-text-underline-offset: var(--xxllnc-size-3xs);
 
   --utrecht-link-hover-color: var(--xxllnc-color-primary-hover);
+  /* --utrecht-link-hover-text-decoration: none; */
+  /* --utrecht-link-hover-text-decoration-thickness: <size>; */
 
   /* Blockquote */
   --utrecht-blockquote-content-color: var(--xxllnc-color-black);
@@ -280,8 +283,7 @@
   --utrecht-table-header-font-weight: var(--xxllnc-font-weight-bold);
   --utrecht-table-header-text-transform: unset;
 
-  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size)
-    inherit;
+  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size) inherit;
   --utrecht-table-header-cell-font-weight: var(--xxllnc-font-weight-bold);
   --utrecht-table-header-cell-text-transform: unset;
 

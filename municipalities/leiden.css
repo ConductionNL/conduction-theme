@@ -60,6 +60,11 @@
   --leiden-color-white: #ffffff;
   --leiden-color-black: #0d1921;
 
+  --leiden-color-grey-33: #5f594a;
+
+  --leiden-color-light-blue-24: #2c3e50;
+  --leiden-color-light-blue-89: #dce4ec;
+
   /* Typography */
   --leiden-typography-sans-serif-font-family: "Open Sans", Arial, sans-serif;
   --leiden-typography-header-font-family: "Open Sans", Arial, sans-serif;
@@ -118,6 +123,7 @@
   );
   --utrecht-document-font-size: var(--leiden-font-size-md);
   --utrecht-document-color: var(--leiden-color-black);
+  --utrecht-document-background-color: var(--leiden-color-white);
   --utrecht-space-around: 1;
 
   /* Typography */
@@ -134,6 +140,8 @@
   /* Page */
   --utrecht-page-padding-inline-start: var(--leiden-size-lg);
   --utrecht-page-padding-inline-end: var(--leiden-size-lg);
+  --utrecht-page-max-inline-size: 1140px;
+  --utrehct-page-content-background-color: var(--leiden-color-black);
 
   /* Headings */
   --utrecht-heading-1-font-family: var(--leiden-typography-header-font-family);
@@ -316,6 +324,7 @@
   --utrecht-button-color: var(--leiden-color-primary);
   --utrecht-button-background-color: var(--leiden-color-white);
 
+  --utrecht-button-icon-gap: var(--leiden-size-xs);
   --utrecht-button-border-color: var(--leiden-color-primary);
   --utrecht-button-border-width: var(--leiden-size-3xs);
   --utrecht-button-border-radius: var(--leiden-size-2xs);
@@ -347,4 +356,55 @@
   --utrecht-button-hover-color: var(--leiden-color-primary-hover);
   /* --utrecht-button-hover-border-color: unset; */
   /* --utrecht-button-focus-transform-scale: unset; */
+
+  /* InputField */
+  --utrecht-form-input-background-color: var(--leiden-color-white-100);
+  --utrecht-form-input-border-width: var(--leiden-size-4xs);
+  --utrecht-form-input-border-color: var(--leiden-color-grey-33);
+  --utrecht-form-input-border-radius: 0px;
+  --utrecht-form-input-color: var(--leiden-color-grey-43);
+  --utrecht-form-input-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
+  --utrecht-form-input-font-size: 15px;
+  /* --utrecht-form-input-max-inline-size: ; */
+  --utrecht-form-input-padding-block-end: var(--leiden-size-xs);
+  --utrecht-form-input-padding-block-start: var(--leiden-size-xs);
+  --utrecht-form-input-padding-inline-end: var(--leiden-size-sm);
+  --utrecht-form-input-padding-inline-start: var(--leiden-size-sm);
+
+  /* InputField-TextField */
+  --utrecht-textbox-background-color: var(--leiden-color-white-100);
+  --utrecht-textbox-border-width: var(--leiden-size-4xs);
+  /* --utrecht-textbox-border-bottom-width: ; */
+  --utrecht-textbox-border-color: var(--leiden-color-grey-33);
+  --utrecht-textbox-border-radius: 0px;
+  --utrecht-textbox-color: var(--leiden-color-grey-43);
+  --utrecht-textbox-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
+  --utrecht-textbox-font-size: 15px;
+  /* --utrecht-textbox-max-inline-size: ; */
+  --utrecht-textbox-padding-block-end: var(--leiden-size-xs);
+  --utrecht-textbox-padding-block-start: var(--leiden-size-xs);
+  --utrecht-textbox-padding-inline-end: var(--leiden-size-sm);
+  --utrecht-textbox-padding-inline-start: var(--leiden-size-sm);
+
+  --utrecht-textbox-placeholder-color: var(--leiden-color-light-blue-24);
+
+  /* conduction select-field */
+  --skeleton-color-white: var(--leiden-color-white-100);
+  --conduction-input-select-border: var(--leiden-size-4xs) solid
+    var(--leiden-color-light-blue-89);
+  --skeleton-border-radius-md: 0px;
+  --skeleton-size-xs: var(--leiden-size-xs);
+
+  /* conduction Card */
+  --utrecht-card-background-color: var(--leiden-color-lightgrey);
+  --utrecht-card-color: var(--leiden-color-black);
+  /* --utrecht-card-border-radius: <length>; */
+  --utrecht-card-padding-block-end: var(--leiden-size-sm);
+  --utrecht-card-padding-block-start: var(--leiden-size-sm);
+  --utrecht-card-padding-inline-end: var(--leiden-size-xl);
+  --utrecht-card-padding-inline-start: var(--leiden-size-xl);
 }
