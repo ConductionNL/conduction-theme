@@ -5,6 +5,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.11: fixed typo and added page-content-background-color token to Conduction theme.
   - 1.0.10: 
     - Added document-backgroundcolor to all themes.
     - Added buttonIconGap token to Conduction and Leiden themes.
