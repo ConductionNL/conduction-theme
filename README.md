@@ -4,7 +4,7 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1**
-
+  - 1.0.12: implemented Select Single styling in xxllnc and Leiden
   - 1.0.10: 
     - Added document-backgroundcolor to all themes.
     - Added buttonIconGap token to Conduction and Leiden themes.
