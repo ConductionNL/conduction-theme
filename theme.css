@@ -366,6 +366,12 @@
 
   /* --utrecht-button-text-transform: <length>; */
 
+  --utrecht-button-secondary-action-background-color: var(--conduction-color-white);
+  --utrecht-button-secondary-action-border-color: var(--conduction-color-primary);
+  --utrecht-button-secondary-action-border-width: 2px;
+  --utrecht-button-secondary-action-color: var(--conduction-color-primary);
+  --utrecht-button-secondary-action-font-weight: var(--conduction-font-weight-normal);
+
   /* --utrecht-button-focus-background-color: <color>; */
   /* --utrecht-button-focus-border-color: <color>; */
   /* --utrecht-button-focus-color: <color>; */

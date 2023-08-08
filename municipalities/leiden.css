@@ -321,8 +321,8 @@
   --utrecht-icon-gap: var(--leiden-size-xs);
 
   /* Button */
-  --utrecht-button-color: var(--leiden-color-primary);
-  --utrecht-button-background-color: var(--leiden-color-white);
+  --utrecht-button-color: var(--leiden-color-white);
+  --utrecht-button-background-color: var(--leiden-color-primary);
 
   --utrecht-button-icon-gap: var(--leiden-size-xs);
   --utrecht-button-border-color: var(--leiden-color-primary);
@@ -356,6 +356,12 @@
   --utrecht-button-hover-color: var(--leiden-color-primary-hover);
   /* --utrecht-button-hover-border-color: unset; */
   /* --utrecht-button-focus-transform-scale: unset; */
+
+  --utrecht-button-secondary-action-background-color: var(--leiden-color-white);
+  --utrecht-button-secondary-action-border-color: var(--leiden-color-primary);
+  --utrecht-button-secondary-action-border-width: 2px;
+  --utrecht-button-secondary-action-color: var(--leiden-color-primary);
+  --utrecht-button-secondary-action-font-weight: var(--leiden-font-weight-normal);
 
   /* InputField */
   --utrecht-form-input-background-color: var(--leiden-color-white-100);
