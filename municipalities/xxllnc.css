@@ -287,7 +287,9 @@
 
   --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size)
     inherit;
-  --utrecht-table-header-cell-font-weight: var(--xxllnc-typography-font-weight-bold);
+  --utrecht-table-header-cell-font-weight: var(
+    --xxllnc-typography-font-weight-bold
+  );
   --utrecht-table-header-cell-text-transform: unset;
 
   --utrecht-table-row-border-block-end-color: var(--xxllnc-color-lightgrey);
@@ -339,7 +341,7 @@
   --utrecht-button-icon-gap: var(--xxllnc-size-xs);
   /* --utrecht-button-border-color: <color>; */
   --utrecht-button-border-width: 0;
-  --utrecht-button-border-radius: var(--xxllnc-size-xs);
+  --utrecht-button-border-radius: "16px";
   /* --utrecht-button-border-bottom-width: <length>; */
 
   --utrecht-button-font-family: var(--xxllnc-typography-inter-font-family);
