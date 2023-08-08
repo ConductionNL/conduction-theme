@@ -34,13 +34,13 @@
         "error": {
           "color": { "value": "{xxllnc.color.alert-error}" }
         },
+        "gap": { "value": "{xxllnc.size.xs}" },
         "warning": {
           "color": { "value": "{xxllnc.color.alert-warning}" }
         },
         "ok": {
           "color": { "value": "{xxllnc.color.alert-succes}" }
-        },
-        "gap": { "value": "{xxllnc.size.xs}" }
+        }
       }
     }
   }

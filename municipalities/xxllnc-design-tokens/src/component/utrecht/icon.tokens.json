@@ -2,12 +2,12 @@
   "utrecht": {
     "icon": {
       "color": {},
+      "gap": { "value": "{xxllnc.size.xs}" },
       "size": {},
       "inset-block-start": {},
       "baseline": {
         "inset-block-start": {}
-      },
-      "gap": { "value": "{xxllnc.size.xs}" }
+      }
     }
   }
 }
