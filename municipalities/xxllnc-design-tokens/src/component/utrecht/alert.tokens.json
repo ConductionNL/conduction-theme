@@ -39,7 +39,8 @@
         },
         "ok": {
           "color": { "value": "{xxllnc.color.alert-succes}" }
-        }
+        },
+        "gap": { "value": "{xxllnc.size.xs}" }
       }
     }
   }
