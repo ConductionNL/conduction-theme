@@ -398,12 +398,20 @@
 
   --utrecht-textbox-placeholder-color: var(--leiden-color-light-blue-24);
 
-  /* conduction select-field */
-  --skeleton-color-white: var(--leiden-color-white-100);
-  --conduction-input-select-border: var(--leiden-size-4xs) solid
-    var(--leiden-color-light-blue-89);
-  --skeleton-border-radius-md: 0px;
-  --skeleton-size-xs: var(--leiden-size-xs);
+  /*
+   *
+   * CONDUCTION COMPONENTS & DEFAULTS
+   *
+   */
+
+  /* Input select single */
+  --conduction-input-select-padding-block-start: 0;
+  --conduction-input-select-padding-block-end: 0;
+  --conduction-input-select-border-radius: var(--utrecht-form-input-border-radius);
+  --conduction-input-select-background-color: var(--leiden-color-white);
+  --conduction-input-select-border: 1px solid var(--utrecht-form-input-border-color);
+  --conduction-input-select-border-focus: unset;
+  --conduction-input-select-invalid-border-color: var(--leiden-color-error);
 
   /* conduction Card */
   --utrecht-card-background-color: var(--leiden-color-lightgrey);
