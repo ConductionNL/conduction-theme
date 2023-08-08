@@ -1,0 +1,13 @@
+{
+  "xxllnc": {
+    "color": {
+      "primary":{
+        "value": "#000000ad",
+        "$comment": "#000000ad"
+      },
+      "primary-hover":{
+        "value": "#00000080"
+      }
+    }
+  }
+}
