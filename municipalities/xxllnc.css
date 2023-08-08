@@ -428,7 +428,7 @@
   --conduction-input-select-border-radius: var(
     --utrecht-form-input-border-radius
   );
-  --conduction-input-select-background-color: var(--xxllnce-color-white);
+  --conduction-input-select-background-color: var(--xxllnc-color-white-100);
   --conduction-input-select-border: 1px solid var(--xxllnc-color-grey-92);
   --conduction-input-select-border-focus: unset;
   --conduction-input-select-invalid-border-color: var(--xxllnc-color-error);
