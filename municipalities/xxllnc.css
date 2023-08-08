@@ -21,7 +21,7 @@
   --xxllnc-font-size-2xs: 10px;
   --xxllnc-font-size-xs: 12px;
   --xxllnc-font-size-sm: 14px;
-  --xxllnc-font-size-md: 18px;
+  --xxllnc-font-size-md: 16px;
   --xxllnc-font-size-lg: 20px;
   --xxllnc-font-size-xl: 24px;
   --xxllnc-font-size-2xl: 32px;
@@ -54,30 +54,30 @@
 
   --xxllnc-color-info: var(--xxllnc-color-primary);
   --xxllnc-color-alert-info: var(--xxllnc-color-black);
-  --xxllnc-color-alert-info-background: var(--xxllnc-color-grey);
+  --xxllnc-color-alert-info-background: var(--xxllnc-color-grey-92);
 
-  --xxllnc-color-grey: #eaeaea;
-  --xxllnc-color-grey-95: #e5e5e5;
-  --xxllnc-color-grey-95-hover: #e5e5e5cc;
+  --xxllnc-color-grey-92: #eaeaea;
+  --xxllnc-color-grey-90: #e5e5e5;
+  --xxllnc-color-grey-90-hover: #e5e5e5cc;
   --xxllnc-color-grey-43: #6d6d6d;
 
   --xxllnc-color-lightgrey: #f5f5f5;
 
-  --xxllnc-color-white: #ffffff;
+  --xxllnc-color-white-100: #ffffff;
   --xxllnc-color-white-95: #f1f1f1;
-  --xxllnc-color-white-100: #ffffff00;
+  --xxllnc-color-white-100-0t: #ffffff00;
 
   --xxllnc-color-black: #28282c;
-  --xxllnc-color-black-15: #2b2b2b;
-  --xxllnc-color-black-15-hover: #2b2b2bcc;
+  --xxllnc-color-black-17: #2b2b2b;
+  --xxllnc-color-black-17-hover: #2b2b2bcc;
   --xxllnc-color-black-21: #333338;
-  --xxllnc-color-black-38: #00000038;
+  --xxllnc-color-black-0-22t: #00000038;
 
   /* Typography */
   --xxllnc-typography-sans-serif-font-family: neue-haas-grotesk-text, sans-serif;
   --xxllnc-typography-header-font-family: neue-haas-grotesk-text, sans-serif;
-  --xxllnc-typography-code-font-family: Monospace, "Lucida Console";
-  --xxllnc-typography-button-font-family: "Inter", sans-serif;
+  --xxllnc-typography-monospace-font-family: Monospace, "Lucida Console";
+  --xxllnc-typography-inter-font-family: "Inter", sans-serif;
 
   /*
    *
@@ -130,9 +130,9 @@
   --utrecht-document-font-family: var(
     --xxllnc-typography-sans-serif-font-family
   );
-  --utrecht-document-font-size: var(--xxllnc-font-size-sm);
+  --utrecht-document-font-size: var(--xxllnc-font-size-md);
   --utrecht-document-color: var(--xxllnc-color-black);
-  --utrecht-document-background-color: var(--xxllnc-color-white);
+  --utrecht-document-background-color: var(--xxllnc-color-white-100);
   --utrecht-space-around: 1;
 
   /* Typography */
@@ -142,7 +142,7 @@
 
   /* Header */
   --utrecht-page-header-color: var(--xxllnc-color-black);
-  --utrecht-page-header-background-color: var(--xxllnc-color-grey);
+  --utrecht-page-header-background-color: var(--xxllnc-color-grey-92);
   --utrecht-page-header-padding-block-start: var(--xxllnc-size-sm);
   --utrecht-page-header-padding-block-end: var(--xxllnc-size-sm);
 
@@ -194,7 +194,7 @@
   --utrecht-paragraph-font-family: var(
     --xxllnc-typography-sans-serif-font-family
   );
-  --utrecht-paragraph-font-size: var(--xxllnc-font-size-sm);
+  --utrecht-paragraph-font-size: var(--xxllnc-font-size-md);
   --utrecht-paragraph-font-weight: var(--xxllnc-font-weight-normal);
   --utrecht-paragraph-line-height: 1.5;
   --utrecht-paragraph-margin-block-start: 0;
@@ -202,7 +202,7 @@
 
   /* Footer */
   --utrecht-page-footer-color: var(--xxllnc-color-primary);
-  --utrecht-page-footer-background-color: var(--xxllnc-color-white);
+  --utrecht-page-footer-background-color: var(--xxllnc-color-white-100);
   --utrecht-page-footer-background-image: unset;
   --utrecht-page-footer-padding-block-start: var(--xxllnc-size-2xl);
   --utrecht-page-footer-padding-block-end: var(--xxllnc-size-2xl);
@@ -250,13 +250,15 @@
   /* Code */
   --utrecht-code-color: var(--xxllnc-color-black);
   --utrecht-code-background-color: var(--xxllnc-color-lightgrey);
-  --utrecht-code-font-family: var(--xxllnc-typography-code-font-family);
+  --utrecht-code-font-family: var(--xxllnc-typography-monospace-font-family);
   --utrecht-code-font-size: inherit;
 
   --utrecht-code-block-color: var(--xxllnc-color-black);
   --utrecht-code-block-background-color: var(--xxllnc-color-lightgrey);
-  --utrecht-code-block-font-family: var(--xxllnc-typography-code-font-family);
-  --utrecht-code-block-font-size: var(--xxllnc-font-size-sm);
+  --utrecht-code-block-font-family: var(
+    --xxllnc-typography-monospace-font-family
+  );
+  --utrecht-code-block-font-size: var(--xxllnc-font-size-md);
   --utrecht-code-block-font-weight: var(--xxllnc-font-weight-normal);
   --utrecht-code-block-line-height: var(--xxllnc-size-lg);
   --utrecht-code-block-margin-block-start: var(--xxllnc-size-md);
@@ -283,7 +285,8 @@
   --utrecht-table-header-font-weight: var(--xxllnc-font-weight-bold);
   --utrecht-table-header-text-transform: unset;
 
-  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size) inherit;
+  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size)
+    inherit;
   --utrecht-table-header-cell-font-weight: var(--xxllnc-font-weight-bold);
   --utrecht-table-header-cell-text-transform: unset;
 
@@ -330,8 +333,8 @@
   --utrecht-icon-gap: var(--xxllnc-size-xs);
 
   /* Button */
-  --utrecht-button-color: var(--xxllnc-color-grey-95);
-  --utrecht-button-background-color: var(--xxllnc-color-black-15);
+  --utrecht-button-color: var(--xxllnc-color-grey-90);
+  --utrecht-button-background-color: var(--xxllnc-color-black-17);
 
   --utrecht-button-icon-gap: var(--xxllnc-size-xs);
   /* --utrecht-button-border-color: <color>; */
@@ -339,7 +342,7 @@
   --utrecht-button-border-radius: var(--xxllnc-size-xs);
   /* --utrecht-button-border-bottom-width: <length>; */
 
-  --utrecht-button-font-family: var(--xxllnc-typography-button-font-family);
+  --utrecht-button-font-family: var(--xxllnc-typography-inter-font-family);
   --utrecht-button-font-size: inherit;
   --utrecht-button-font-weight: inherit;
 
@@ -361,21 +364,25 @@
   /* --utrecht-button-focus-border-color: <color>; */
   /* --utrecht-button-focus-color: <color>; */
 
-  --utrecht-button-hover-background-color: var(--xxllnc-color-black-15-hover);
-  --utrecht-button-hover-color: var(--xxllnc-color-grey-95-hover);
+  --utrecht-button-hover-background-color: var(--xxllnc-color-black-17-hover);
+  --utrecht-button-hover-color: var(--xxllnc-color-grey-90-hover);
   /* --utrecht-button-hover-border-color: unset; */
   /* --utrecht-button-focus-transform-scale: unset; */
 
-  --utrecht-button-secondary-action-background-color: var(--xxllnc-color-white);
-  --utrecht-button-secondary-action-border-color: var(--xxllnc-color-black-15);
+  --utrecht-button-secondary-action-background-color: var(
+    --xxllnc-color-white-100
+  );
+  --utrecht-button-secondary-action-border-color: var(--xxllnc-color-black-17);
   --utrecht-button-secondary-action-border-width: 2px;
-  --utrecht-button-secondary-action-color: var(--xxllnc-color-black-15);
-  --utrecht-button-secondary-action-font-weight: var(--xxllnc-font-weight-normal);
+  --utrecht-button-secondary-action-color: var(--xxllnc-color-black-17);
+  --utrecht-button-secondary-action-font-weight: var(
+    --xxllnc-font-weight-normal
+  );
 
   /* InputField */
-  --utrecht-form-input-background-color: var(--xxllnc-color-white-100);
+  --utrecht-form-input-background-color: var(--xxllnc-color-white-100-0t);
   --utrecht-form-input-border-width: var(--xxllnc-size-4xs);
-  --utrecht-form-input-border-color: var(--xxllnc-color-black-38);
+  --utrecht-form-input-border-color: var(--xxllnc-color-black-0-22t);
   --utrecht-form-input-border-radius: 6px;
   --utrecht-form-input-color: var(--xxllnc-color-grey-43);
   --utrecht-form-input-font-family: var(
@@ -389,10 +396,10 @@
   --utrecht-form-input-padding-inline-start: var(--xxllnc-size-sm);
 
   /* InputField-TextField */
-  --utrecht-textbox-background-color: var(--xxllnc-color-white-100);
+  --utrecht-textbox-background-color: var(--xxllnc-color-white-100-0t);
   --utrecht-textbox-border-width: var(--xxllnc-size-4xs);
   /* --utrecht-textbox-border-bottom-width: ; */
-  --utrecht-textbox-border-color: var(--xxllnc-color-black-38);
+  --utrecht-textbox-border-color: var(--xxllnc-color-black-0-22t);
   --utrecht-textbox-border-radius: 6px;
   --utrecht-textbox-color: var(--xxllnc-color-grey-43);
   --utrecht-textbox-font-family: var(
@@ -416,9 +423,11 @@
   /* Input select single */
   --conduction-input-select-padding-block-start: 0;
   --conduction-input-select-padding-block-end: 0;
-  --conduction-input-select-border-radius: var(--utrecht-form-input-border-radius);
+  --conduction-input-select-border-radius: var(
+    --utrecht-form-input-border-radius
+  );
   --conduction-input-select-background-color: var(--xxllnce-color-white);
-  --conduction-input-select-border: 1px solid var(--xxllnc-color-grey);
+  --conduction-input-select-border: 1px solid var(--xxllnc-color-grey-92);
   --conduction-input-select-border-focus: unset;
   --conduction-input-select-invalid-border-color: var(--xxllnc-color-error);
 
