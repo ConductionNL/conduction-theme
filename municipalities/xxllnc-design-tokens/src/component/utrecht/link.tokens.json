@@ -2,7 +2,7 @@
   "utrecht": {
     "link": {
       "color": { "value": "{xxllnc.color.primary}" },
-      "text-decoration": {},
+      "text-decoration": { "value": "none" },
       "text-decoration-color": {},
       "text-decoration-thickness": { "value": 0 },
       "text-underline-offset": { "value": "{xxllnc.size.3xs}" },
