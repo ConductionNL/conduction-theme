@@ -4,6 +4,7 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1**
+  - 1.0.14: added xxllnc theme as JSON format.
   - 1.0.13: added secondary button styling for all themes.
   - 1.0.12: implemented Select Single styling in xxllnc and Leiden
   - 1.0.11: fixed typo and added page-content-background-color token to Conduction theme.
