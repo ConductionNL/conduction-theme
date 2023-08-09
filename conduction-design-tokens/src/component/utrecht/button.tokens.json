@@ -2,9 +2,9 @@
   "utrecht": {
     "button": {
       "background-color": { "value": "{conduction.color.primary}" },
-      "border-color": {},
+      "border-color": { "value": "{conduction.color.primary}" },
       "border-radius": { "value": "3px" },
-      "border-width": { "value": 0 },
+      "border-width": { "value": "{conduction.size.3xs}" },
       "color": { "value": "{conduction.color.white.100}" },
       "font-family": { "value": "{conduction.typography.sans-serif.font-family}" },
       "font-size": { "value": "inherit" },
@@ -41,7 +41,7 @@
       },
       "hover": {
         "background-color": { "value": "{conduction.color.primary-hover}" },
-        "border-color": {},
+        "border-color": { "value": "{conduction.color.primary-hover}" },
         "color": { "value": "{conduction.color.white.100}" },
         "scale": {}
       },
@@ -52,8 +52,8 @@
       },
       "primary-action": {
         "background-color": { "value": "{conduction.color.primary}" },
-        "border-color": {},
-        "border-width": { "value": 0 },
+        "border-color": { "value": "{conduction.color.primary}" },
+        "border-width": { "value": "{conduction.size.3xs}" },
         "color": { "value": "{conduction.color.white.100}" },
         "font-weight": { "value": "inherit" },
         "active": {
@@ -68,7 +68,7 @@
         },
         "hover": {
           "background-color": { "value": "{conduction.color.primary}" },
-          "border-color": {},
+          "border-color": { "value": "{conduction.color.primary}" },
           "color": { "value": "{conduction.color.white.100}" },
           "scale": {}
         },
