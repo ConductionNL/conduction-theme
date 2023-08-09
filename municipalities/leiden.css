@@ -58,7 +58,7 @@
 
   --leiden-color-lightgrey-89: #e4e4e4;
   --leiden-color-white-100: #ffffff;
-  --leiden-color-black-0: #0d1921;
+  --leiden-color-black-9: #0d1921;
 
   --leiden-color-grey-33: #5f594a;
 
@@ -121,7 +121,7 @@
     --leiden-typography-sans-serif-font-family
   );
   --utrecht-document-font-size: var(--leiden-font-size-md);
-  --utrecht-document-color: var(--leiden-color-black-0);
+  --utrecht-document-color: var(--leiden-color-black-9);
   --utrecht-document-background-color: var(--leiden-color-white-100);
   --utrecht-space-around: 1;
 
@@ -132,7 +132,7 @@
 
   /* Header */
   --utrecht-page-header-color: var(--leiden-color-white-100);
-  --utrecht-page-header-background-color: var(--leiden-color-black-0);
+  --utrecht-page-header-background-color: var(--leiden-color-black-9);
   --utrecht-page-header-padding-block-start: var(--leiden-size-sm);
   --utrecht-page-header-padding-block-end: var(--leiden-size-sm);
 
@@ -140,7 +140,7 @@
   --utrecht-page-padding-inline-start: var(--leiden-size-lg);
   --utrecht-page-padding-inline-end: var(--leiden-size-lg);
   --utrecht-page-max-inline-size: 1140px;
-  --utrecht-page-content-background-color: var(--leiden-color-black-0);
+  --utrecht-page-content-background-color: var(--leiden-color-black-9);
 
   /* Headings */
   --utrecht-heading-1-font-family: var(
@@ -202,7 +202,7 @@
 
   /* Footer */
   --utrecht-page-footer-color: var(--leiden-color-white-100);
-  --utrecht-page-footer-background-color: var(--leiden-color-black-0);
+  --utrecht-page-footer-background-color: var(--leiden-color-black-9);
   --utrecht-page-footer-background-image: unset;
   --utrecht-page-footer-padding-block-start: var(--leiden-size-2xl);
   --utrecht-page-footer-padding-block-end: var(--leiden-size-2xl);
@@ -242,18 +242,18 @@
   --utrecht-link-hover-text-decoration-thickness: var(--leiden-size-4xs);
 
   /* Blockquote */
-  --utrecht-blockquote-content-color: var(--leiden-color-black-0);
+  --utrecht-blockquote-content-color: var(--leiden-color-black-9);
   --utrecht-blockquote-content-font-size: var(--leiden-size-md);
   --utrecht-blockquote-margin-inline-start: var(--leiden-size-xl);
   --utrecht-blockquote-margin-inline-end: var(--leiden-size-xl);
 
   /* Code */
-  --utrecht-code-color: var(--leiden-color-black-0);
+  --utrecht-code-color: var(--leiden-color-black-9);
   --utrecht-code-background-color: var(--leiden-color-lightgrey-89);
   --utrecht-code-font-family: var(--leiden-typography-monospace-font-family);
   --utrecht-code-font-size: inherit;
 
-  --utrecht-code-block-color: var(--leiden-color-black-0);
+  --utrecht-code-block-color: var(--leiden-color-black-9);
   --utrecht-code-block-background-color: var(--leiden-color-lightgrey-89);
   --utrecht-code-block-font-family: var(
     --leiden-typography-monospace-font-family
@@ -434,7 +434,7 @@
 
   /* conduction Card */
   --utrecht-card-background-color: var(--leiden-color-lightgrey-89);
-  --utrecht-card-color: var(--leiden-color-black-0);
+  --utrecht-card-color: var(--leiden-color-black-9);
   /* --utrecht-card-border-radius: <length>; */
   --utrecht-card-padding-block-end: var(--leiden-size-sm);
   --utrecht-card-padding-block-start: var(--leiden-size-sm);
