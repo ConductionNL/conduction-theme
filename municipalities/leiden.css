@@ -67,8 +67,7 @@
 
   /* Typography */
   --leiden-typography-sans-serif-font-family: "Open Sans", Arial, sans-serif;
-  --leiden-typography-header-font-family: "Open Sans", Arial, sans-serif;
-  --leiden-typography-code-font-family: Monospace, "Lucida Console";
+  --leiden-typography-monospace-font-family: Monospace, "Lucida Console";
 
   /*
    *
@@ -144,35 +143,45 @@
   --utrecht-page-content-background-color: var(--leiden-color-black);
 
   /* Headings */
-  --utrecht-heading-1-font-family: var(--leiden-typography-header-font-family);
+  --utrecht-heading-1-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
   --utrecht-heading-1-font-size: var(--leiden-font-size-3xl);
   --utrecht-heading-1-font-weight: var(--leiden-font-weight-bold);
   --utrecht-heading-1-letter-spacing: var(--leiden-letter-spacing-normal);
   --utrecht-heading-1-margin-block-start: var(--leiden-size-2xl);
   --utrecht-heading-1-margin-block-end: var(--leiden-size-md);
 
-  --utrecht-heading-2-font-family: var(--leiden-typography-header-font-family);
+  --utrecht-heading-2-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
   --utrecht-heading-2-font-weight: var(--leiden-font-weight-bold);
   --utrecht-heading-2-font-size: var(--leiden-font-size-2xl);
   --utrecht-heading-2-letter-spacing: var(--leiden-letter-spacing-normal);
   --utrecht-heading-2-margin-block-start: var(--leiden-size-2xl);
   --utrecht-heading-2-margin-block-end: var(--leiden-size-md);
 
-  --utrecht-heading-3-font-family: var(--leiden-typography-header-font-family);
+  --utrecht-heading-3-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
   --utrecht-heading-3-font-weight: var(--leiden-font-weight-normal);
   --utrecht-heading-3-font-size: var(--leiden-font-size-xl);
   --utrecht-heading-3-letter-spacing: var(--leiden-letter-spacing-normal);
   --utrecht-heading-3-margin-block-start: var(--leiden-size-xl);
   --utrecht-heading-3-margin-block-end: var(--leiden-size-md);
 
-  --utrecht-heading-4-font-family: var(--leiden-typography-header-font-family);
+  --utrecht-heading-4-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
   --utrecht-heading-4-font-size: var(--leiden-font-size-lg);
   --utrecht-heading-4-font-weight: var(--leiden-font-weight-normal);
   --utrecht-heading-4-letter-spacing: var(--leiden-letter-spacing-normal);
   --utrecht-heading-4-margin-block-start: var(--leiden-size-lf);
   --utrecht-heading-4-margin-block-end: var(--leiden-size-md);
 
-  --utrecht-heading-5-font-family: var(--leiden-typography-header-font-family);
+  --utrecht-heading-5-font-family: var(
+    --leiden-typography-sans-serif-font-family
+  );
   --utrecht-heading-5-font-size: var(--leiden-font-size-md);
   --utrecht-heading-5-font-weight: var(--leiden-font-weight-light);
   --utrecht-heading-5-letter-spacing: var(--leiden-letter-spacing-normal);
@@ -241,12 +250,14 @@
   /* Code */
   --utrecht-code-color: var(--leiden-color-black);
   --utrecht-code-background-color: var(--leiden-color-lightgrey);
-  --utrecht-code-font-family: var(--leiden-typography-code-font-family);
+  --utrecht-code-font-family: var(--leiden-typography-monospace-font-family);
   --utrecht-code-font-size: inherit;
 
   --utrecht-code-block-color: var(--leiden-color-black);
   --utrecht-code-block-background-color: var(--leiden-color-lightgrey);
-  --utrecht-code-block-font-family: var(--leiden-typography-code-font-family);
+  --utrecht-code-block-font-family: var(
+    --leiden-typography-monospace-font-family
+  );
   --utrecht-code-block-font-size: var(--leiden-font-size-md);
   --utrecht-code-block-font-weight: var(--leiden-font-weight-normal);
   --utrecht-code-block-line-height: var(--leiden-size-lg);
@@ -274,7 +285,8 @@
   --utrecht-table-header-font-weight: var(--leiden-font-weight-bold);
   --utrecht-table-header-text-transform: unset;
 
-  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size) inherit;
+  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size)
+    inherit;
   --utrecht-table-header-cell-font-weight: var(--leiden-font-weight-bold);
   --utrecht-table-header-cell-text-transform: unset;
 
@@ -361,7 +373,9 @@
   --utrecht-button-secondary-action-border-color: var(--leiden-color-primary);
   --utrecht-button-secondary-action-border-width: 2px;
   --utrecht-button-secondary-action-color: var(--leiden-color-primary);
-  --utrecht-button-secondary-action-font-weight: var(--leiden-font-weight-normal);
+  --utrecht-button-secondary-action-font-weight: var(
+    --leiden-font-weight-normal
+  );
 
   /* InputField */
   --utrecht-form-input-background-color: var(--leiden-color-white-100);
@@ -407,9 +421,12 @@
   /* Input select single */
   --conduction-input-select-padding-block-start: 0;
   --conduction-input-select-padding-block-end: 0;
-  --conduction-input-select-border-radius: var(--utrecht-form-input-border-radius);
+  --conduction-input-select-border-radius: var(
+    --utrecht-form-input-border-radius
+  );
   --conduction-input-select-background-color: var(--leiden-color-white);
-  --conduction-input-select-border: 1px solid var(--utrecht-form-input-border-color);
+  --conduction-input-select-border: 1px solid
+    var(--utrecht-form-input-border-color);
   --conduction-input-select-border-focus: unset;
   --conduction-input-select-invalid-border-color: var(--leiden-color-error);
 
