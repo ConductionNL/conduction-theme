@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "icon": {
+      "color": {},
+      "gap": { "value": "{conduction.size.xs}" },
+      "size": {},
+      "inset-block-start": {},
+      "baseline": {
+        "inset-block-start": {}
+      }
+    }
+  }
+}
