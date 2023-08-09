@@ -176,7 +176,7 @@
   --utrecht-heading-4-font-size: var(--leiden-font-size-lg);
   --utrecht-heading-4-font-weight: var(--leiden-font-weight-normal);
   --utrecht-heading-4-letter-spacing: var(--leiden-letter-spacing-normal);
-  --utrecht-heading-4-margin-block-start: var(--leiden-size-lf);
+  --utrecht-heading-4-margin-block-start: var(--leiden-size-lg);
   --utrecht-heading-4-margin-block-end: var(--leiden-size-md);
 
   --utrecht-heading-5-font-family: var(
