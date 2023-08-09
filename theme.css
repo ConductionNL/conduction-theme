@@ -179,7 +179,7 @@
   --utrecht-heading-4-font-size: var(--conduction-font-size-lg);
   --utrecht-heading-4-font-weight: var(--conduction-font-weight-normal);
   --utrecht-heading-4-letter-spacing: var(--conduction-letter-spacing-normal);
-  --utrecht-heading-4-margin-block-start: var(--conduction-size-lf);
+  --utrecht-heading-4-margin-block-start: var(--conduction-size-lg);
   --utrecht-heading-4-margin-block-end: var(--conduction-size-md);
 
   --utrecht-heading-5-font-family: var(
