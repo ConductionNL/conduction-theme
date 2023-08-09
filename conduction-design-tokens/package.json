@@ -1,14 +1,14 @@
 {
   "version": "1.0.0-alpha.1",
   "author": "Community for NL Design System",
-  "description": "NL Design System design tokens for xxllnc",
-  "website": "https://www.xxllnc.nl/",
+  "description": "NL Design System design tokens for conduction",
+  "website": "https://www.conduction.nl/",
   "keywords": [
     "nl-design-system",
     "conduction"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@conduction/xxllnc-design-tokens",
+  "name": "@conduction/theme",
   "private": false,
   "publishConfig": {
     "access": "public"

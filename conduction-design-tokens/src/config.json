@@ -1,0 +1,7 @@
+{
+  "fullName": "Conduction",
+  "name": "conduction",
+  "prefix": "conduction",
+  "npm": "@conduction/theme",
+  "stories": ["react-utrecht-link--default"]
+}

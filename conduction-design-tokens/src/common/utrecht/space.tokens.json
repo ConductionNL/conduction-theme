@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{conduction.size.3xs}" },
+        "2xs": { "value": "{conduction.size.2xs}" },
+        "xs": { "value": "{conduction.size.xs}" },
+        "sm": { "value": "{conduction.size.sm}" },
+        "md": { "value": "{conduction.size.md}" },
+        "lg": { "value": "{conduction.size.lg}" },
+        "xl": { "value": "{conduction.size.xl}" },
+        "2xl": { "value": "{conduction.size.2xl}" },
+        "3xl": { "value": "{conduction.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{conduction.size.3xs}" },
+        "2xs": { "value": "{conduction.size.2xs}" },
+        "xs": { "value": "{conduction.size.xs}" },
+        "sm": { "value": "{conduction.size.sm}" },
+        "md": { "value": "{conduction.size.md}" },
+        "lg": { "value": "{conduction.size.lg}" },
+        "xl": { "value": "{conduction.size.xl}" },
+        "2xl": { "value": "{conduction.size.2xl}" },
+        "3xl": { "value": "{conduction.size.3xl}" }
+      }
+    }
+  }
+}
