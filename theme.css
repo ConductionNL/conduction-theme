@@ -69,8 +69,8 @@
 
   /* Typography */
   --conduction-typography-sans-serif-font-family: "Noto Sans", Arial, sans-serif;
-  --conduction-typography-header-font-family: "Aldritch", "Noto Sans", Arial, sans-serif;
-  --conduction-typography-code-font-family: Monospace, "Lucida Console";
+  --conduction-typography-aldritch-font-family: "Aldritch", "Noto Sans", Arial, sans-serif;
+  --conduction-typography-monospace-font-family: Monospace, "Lucida Console";
 
   /*
    *
@@ -147,7 +147,7 @@
 
   /* Headings */
   --utrecht-heading-1-font-family: var(
-    --conduction-typography-header-font-family
+    --conduction-typography-aldritch-font-family
   );
   --utrecht-heading-1-font-size: var(--conduction-font-size-3xl);
   --utrecht-heading-1-font-weight: var(--conduction-font-weight-bold);
@@ -156,7 +156,7 @@
   --utrecht-heading-1-margin-block-end: var(--conduction-size-md);
 
   --utrecht-heading-2-font-family: var(
-    --conduction-typography-header-font-family
+    --conduction-typography-aldritch-font-family
   );
   --utrecht-heading-2-font-weight: var(--conduction-font-weight-bold);
   --utrecht-heading-2-font-size: var(--conduction-font-size-2xl);
@@ -165,7 +165,7 @@
   --utrecht-heading-2-margin-block-end: var(--conduction-size-md);
 
   --utrecht-heading-3-font-family: var(
-    --conduction-typography-header-font-family
+    --conduction-typography-aldritch-font-family
   );
   --utrecht-heading-3-font-weight: var(--conduction-font-weight-normal);
   --utrecht-heading-3-font-size: var(--conduction-font-size-xl);
@@ -174,7 +174,7 @@
   --utrecht-heading-3-margin-block-end: var(--conduction-size-md);
 
   --utrecht-heading-4-font-family: var(
-    --conduction-typography-header-font-family
+    --conduction-typography-aldritch-font-family
   );
   --utrecht-heading-4-font-size: var(--conduction-font-size-lg);
   --utrecht-heading-4-font-weight: var(--conduction-font-weight-normal);
@@ -183,7 +183,7 @@
   --utrecht-heading-4-margin-block-end: var(--conduction-size-md);
 
   --utrecht-heading-5-font-family: var(
-    --conduction-typography-header-font-family
+    --conduction-typography-aldritch-font-family
   );
   --utrecht-heading-5-font-size: var(--conduction-font-size-md);
   --utrecht-heading-5-font-weight: var(--conduction-font-weight-light);
@@ -253,13 +253,13 @@
   /* Code */
   --utrecht-code-color: var(--conduction-color-black-0);
   --utrecht-code-background-color: var(--conduction-color-lightgrey-96);
-  --utrecht-code-font-family: var(--conduction-typography-code-font-family);
+  --utrecht-code-font-family: var(--conduction-typography-monospace-font-family);
   --utrecht-code-font-size: inherit;
 
   --utrecht-code-block-color: var(--conduction-color-black-0);
   --utrecht-code-block-background-color: var(--conduction-color-lightgrey-96);
   --utrecht-code-block-font-family: var(
-    --conduction-typography-code-font-family
+    --conduction-typography-monospace-font-family
   );
   --utrecht-code-block-font-size: var(--conduction-font-size-md);
   --utrecht-code-block-font-weight: var(--conduction-font-weight-normal);
