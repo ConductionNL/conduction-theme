@@ -1,28 +1,27 @@
 {
-    "utrecht": {
-      "blockquote": {
-        "background-color": {},
+  "utrecht": {
+    "blockquote": {
+      "background-color": {},
+      "color": {},
+      "margin-inline-start": { "value": "{conduction.size.xl}" },
+      "margin-inline-end": { "value": "{conduction.size.xl}" },
+      "margin-inline-block-start": {},
+      "margin-inline-block-end": {},
+      "font-size": {},
+      "font-style": {},
+      "font-family": {},
+      "padding-inline-start": {},
+      "padding-inline-end": {},
+      "padding-inline-block-start": {},
+      "padding-inline-block-end": {},
+      "attribution": {
         "color": {},
-        "margin-inline-start": { "value": "{conduction.size.xl}" },
-        "margin-inline-end": { "value": "{conduction.size.xl}" },
-        "margin-inline-block-start": {},
-        "margin-inline-block-end": {},
-        "font-size": {},
-        "font-style": {},
-        "font-family": {},
-        "padding-inline-start": {},
-        "padding-inline-end": {},
-        "padding-inline-block-start": {},
-        "padding-inline-block-end": {},
-        "attribution": {
-          "color": {},
-          "font-size": {}
-        },
-        "content": {
-          "color": { "value": "{conduction.color.black.0}" },
-          "font-size": { "value": "{conduction.font-size.md}" }
-        }
+        "font-size": {}
+      },
+      "content": {
+        "color": { "value": "{conduction.color.black.0}" },
+        "font-size": { "value": "{conduction.font-size.md}" }
       }
     }
   }
-  
+}

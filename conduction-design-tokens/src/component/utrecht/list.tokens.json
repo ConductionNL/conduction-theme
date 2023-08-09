@@ -1,33 +1,32 @@
 {
-    "utrecht": {
-      "ordered-list": {
-        "font-size": { "value": "{utrecht.document.font-size}" },
-        "line-height": {},
-        "margin-block-start": { "value": "{conduction.size.sm}" },
-        "margin-block-end": { "value": "{conduction.size.sm}" },
-        "padding-inline-start": { "value": "{conduction.size.xl}" },
-        "item": {
-          "margin-block-start": { "value": "{conduction.size.2xs}" },
-          "margin-block-end": { "value": "{conduction.size.2xs}" },
-          "padding-inline-start": { "value": "1ch" }
-        }
+  "utrecht": {
+    "ordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{conduction.size.sm}" },
+      "margin-block-end": { "value": "{conduction.size.sm}" },
+      "padding-inline-start": { "value": "{conduction.size.xl}" },
+      "item": {
+        "margin-block-start": { "value": "{conduction.size.2xs}" },
+        "margin-block-end": { "value": "{conduction.size.2xs}" },
+        "padding-inline-start": { "value": "1ch" }
+      }
+    },
+
+    "unordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{conduction.size.md}" },
+      "margin-block-end": { "value": 0 },
+      "padding-inline-start": { "value": "2ch" },
+      "item": {
+        "margin-block-start": { "value": "{conduction.size.xs}" },
+        "margin-block-end": { "value": "{conduction.size.xs}" },
+        "padding-inline-start": { "value": "1ch" }
       },
-  
-      "unordered-list": {
-        "font-size": { "value": "{utrecht.document.font-size}" },
-        "line-height": {},
-        "margin-block-start": { "value": "{conduction.size.md}" },
-        "margin-block-end": { "value": 0 },
-        "padding-inline-start": { "value": "2ch" },
-        "item": {
-          "margin-block-start": { "value": "{conduction.size.xs}" },
-          "margin-block-end": { "value": "{conduction.size.xs}" },
-          "padding-inline-start": { "value": "1ch" }
-        },
-        "marker": {
-          "color": { "value": "{conduction.color.primary}" }
-        }
+      "marker": {
+        "color": { "value": "{conduction.color.primary}" }
       }
     }
   }
-  
+}

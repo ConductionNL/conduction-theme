@@ -69,7 +69,8 @@
 
   /* Typography */
   --conduction-typography-sans-serif-font-family: "Noto Sans", Arial, sans-serif;
-  --conduction-typography-aldritch-font-family: "Aldritch", "Noto Sans", Arial, sans-serif;
+  --conduction-typography-aldritch-font-family: "Aldritch", "Noto Sans", Arial,
+    sans-serif;
   --conduction-typography-monospace-font-family: Monospace, "Lucida Console";
 
   /*
@@ -253,7 +254,9 @@
   /* Code */
   --utrecht-code-color: var(--conduction-color-black-0);
   --utrecht-code-background-color: var(--conduction-color-lightgrey-96);
-  --utrecht-code-font-family: var(--conduction-typography-monospace-font-family);
+  --utrecht-code-font-family: var(
+    --conduction-typography-monospace-font-family
+  );
   --utrecht-code-font-size: inherit;
 
   --utrecht-code-block-color: var(--conduction-color-black-0);
@@ -288,11 +291,14 @@
   --utrecht-table-header-font-weight: var(--conduction-font-weight-bold);
   --utrecht-table-header-text-transform: unset;
 
-  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size) inherit;
+  --utrecht-table-header-cell-font-size: var(--utrecht-document-font-size)
+    inherit;
   --utrecht-table-header-cell-font-weight: var(--conduction-font-weight-bold);
   --utrecht-table-header-cell-text-transform: unset;
 
-  --utrecht-table-row-border-block-end-color: var(--conduction-color-lightgrey-96);
+  --utrecht-table-row-border-block-end-color: var(
+    --conduction-color-lightgrey-96
+  );
   --utrecht-table-row-border-block-end-width: var(--conduction-size-4xs);
 
   --utrecht-table-cell-padding-block-start: var(--conduction-size-md);
@@ -340,7 +346,7 @@
   --utrecht-button-color: var(--conduction-color-white-100);
   --utrecht-button-background-color: var(--conduction-color-primary);
 
-  --utrecht-button-icon-gap: var(--conduction-size-xs); 
+  --utrecht-button-icon-gap: var(--conduction-size-xs);
   /* --utrecht-button-border-color: <color>; */
   --utrecht-button-border-width: 0;
   --utrecht-button-border-radius: 3px;
@@ -366,11 +372,17 @@
 
   /* --utrecht-button-text-transform: <length>; */
 
-  --utrecht-button-secondary-action-background-color: var(--conduction-color-white-100);
-  --utrecht-button-secondary-action-border-color: var(--conduction-color-primary);
+  --utrecht-button-secondary-action-background-color: var(
+    --conduction-color-white-100
+  );
+  --utrecht-button-secondary-action-border-color: var(
+    --conduction-color-primary
+  );
   --utrecht-button-secondary-action-border-width: 2px;
   --utrecht-button-secondary-action-color: var(--conduction-color-primary);
-  --utrecht-button-secondary-action-font-weight: var(--conduction-font-weight-normal);
+  --utrecht-button-secondary-action-font-weight: var(
+    --conduction-font-weight-normal
+  );
 
   /* --utrecht-button-focus-background-color: <color>; */
   /* --utrecht-button-focus-border-color: <color>; */
@@ -427,7 +439,7 @@
 
   /* conduction Card */
   --utrecht-card-background-color: var(--conduction-color-white-100);
-  --utrecht-card-color: var(--xxllnc-color-white-95);
+  --utrecht-card-color: var(--conduction-color-black-0);
   --utrecht-card-border-radius: 16px;
   --utrecht-card-padding-block-end: var(--conduction-size-md);
   --utrecht-card-padding-block-start: var(--conduction-size-md);
