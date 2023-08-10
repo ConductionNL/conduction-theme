@@ -4,6 +4,9 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1**
+  - 1.0.17: 
+    - removed gitignore.
+    - fixed alert warning colors in xxllnc theme.
   - 1.0.16: added Leiden theme as JSON format.
   - 1.0.15: added Conduction theme as JSON format.
   - 1.0.14: added xxllnc theme as JSON format.

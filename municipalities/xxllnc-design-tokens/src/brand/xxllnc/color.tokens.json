@@ -16,15 +16,15 @@
 
       "warning": { "value": "#ffc107" },
       "alert-warning": { "value": "#856404" },
-      "alert-warning-background": { "value": "#333338" },
+      "alert-warning-background": { "value": "#fff3cd" },
 
       "succes": { "value": "#28a745" },
       "alert-succes": { "value": "#155724" },
       "alert-succes-background": { "value": "#d4edda" },
 
       "info": { "value": "{xxllnc.color.primary}" },
-      "alert-info": { "value": "#155724" },
-      "alert-info-background": { "value": "#d4edda" },
+      "alert-info": { "value": "{xxllnc.color.black.16}" },
+      "alert-info-background": { "value": "{xxllnc.color.grey.92}" },
 
       "white": {
         "100": {
