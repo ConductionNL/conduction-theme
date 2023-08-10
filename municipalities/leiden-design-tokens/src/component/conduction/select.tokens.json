@@ -1,0 +1,15 @@
+{
+  "conduction": {
+    "input-select": {
+      "background-color": { "value": "{leiden.color.white.100}" },
+      "border": { "value": "1px solid {utrecht.form-input.border-color}" },
+      "border-focus": { "value": "unset" },
+      "border-radius": { "value": "{utrecht.form-input.border-radius}" },
+      "invalid-border-color": { "value": "{leiden.color.error}" },
+      "padding-block-end": { "value": 0 },
+      "padding-block-start": { "value": 0 },
+      "hover": {},
+      "focus": {}
+    }
+  }
+}
