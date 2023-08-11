@@ -9,22 +9,28 @@
       },
 
       "error": { "value": "#d62410" },
-      "alert-error": { "value": "#721c24" },
+      "alert-error": { "value": "{tubbergen.color.black.20}" },
       "alert-error-background": { "value": "#f8d7da" },
 
       "warning": { "value": "#ffc107" },
-      "alert-warning": { "value": "#856404" },
+      "alert-warning": { "value": "{tubbergen.color.black.20}" },
       "alert-warning-background": { "value": "#fff3cd" },
 
       "succes": { "value": "#28a745" },
-      "alert-succes": { "value": "#155724" },
+      "alert-succes": { "value": "{tubbergen.color.black.20}" },
       "alert-succes-background": { "value": "#d4edda" },
 
-      "info": { "value": "{tubbergen.color.green.21}" },
-      "alert-info": { "value": "#004085" },
-      "alert-info-background": { "value": "#cce5ff" },
+      "info": { "value": "{tubbergen.color.green.24}" },
+      "alert-info": { "value": "{tubbergen.color.black.20}" },
+      "alert-info-background": { "value": "{tubbergen.color.green.89}" },
 
       "green": {
+        "89": {
+          "value": "#d5efdf"
+        },
+        "24": {
+          "value": "#067432"
+        },
         "21": {
           "value": "#0b612d",
           "comment": "Base/Green"
