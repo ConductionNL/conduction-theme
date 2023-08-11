@@ -3,12 +3,12 @@
     "typography": {
       "lato": {
         "font-family": {
-          "value": "Lato, Arial, sans-serif"
+          "value": "\"Lato\", Arial, sans-serif"
         }
       },
       "montserrat": {
         "font-family": {
-          "value": "Montserrat, Arial, sans-serif"
+          "value": "\"Montserrat\", Arial, sans-serif"
         }
       },
       "monospace": {

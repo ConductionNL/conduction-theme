@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{tubberbergen.color.white.100}" },
+      "color": { "value": "{tubberbergen.color.black.20}" },
+      "font-family": { "value": "{tubberbergen.typography.lato.font-family}" },
+      "font-size": { "value": "{tubberbergen.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}
