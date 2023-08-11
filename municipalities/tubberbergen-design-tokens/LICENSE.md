@@ -1,12 +1,12 @@
-# Auteursrecht Gemeente Tubberbergen
+# Auteursrecht Gemeente Tubbergen
 
-Copyright (c) 2023 Gemeente Tubberbergen
+Copyright (c) 2023 Gemeente Tubbergen
 
 ## Logo en huisstijl
 
-Op het huisstijl en logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik door Gemeente Tubberbergen.
+Op het huisstijl en logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik door Gemeente Tubbergen.
 
-Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van Gemeente Tubberbergen gebruiken en je ontwerpt een eigen huisstijl.
+Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van Gemeente Tubbergen gebruiken en je ontwerpt een eigen huisstijl.
 
 ## Lettertype
 
@@ -14,4 +14,4 @@ Lettertypes die worden gebruikt voor de huisstijl zijn niet allemaal gratis en o
 
 ## Toestemming
 
-Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met Gemeente Tubberbergen.
+Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met Gemeente Tubbergen.

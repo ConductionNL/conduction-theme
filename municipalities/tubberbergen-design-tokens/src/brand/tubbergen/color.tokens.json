@@ -1,11 +1,11 @@
 {
-  "tubberbergen": {
+  "tubbergen": {
     "color": {
       "primary": {
-        "value": "{tubberbergen.color.green.21}"
+        "value": "{tubbergen.color.green.21}"
       },
       "primary-hover": {
-        "value": "{tubberbergen.color.green.11}"
+        "value": "{tubbergen.color.green.11}"
       },
 
       "error": { "value": "#d62410" },
@@ -20,7 +20,7 @@
       "alert-succes": { "value": "#155724" },
       "alert-succes-background": { "value": "#d4edda" },
 
-      "info": { "value": "{tubberbergen.color.green.21}" },
+      "info": { "value": "{tubbergen.color.green.21}" },
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
 
