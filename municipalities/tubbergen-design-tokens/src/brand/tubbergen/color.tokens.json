@@ -69,8 +69,13 @@
 
       "grey": {
         "64": {
-          "value": "#9aa1ab"
+          "value": "#9aa1ab",
+          "comment": "Base/Grey"
         }
+      },
+
+      "lightgrey": {
+        "89": { "value": "#e4e4e4", "comment": "Base/LightGrey" }
       }
     }
   }
