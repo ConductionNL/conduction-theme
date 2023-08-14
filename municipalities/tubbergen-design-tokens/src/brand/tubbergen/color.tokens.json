@@ -43,7 +43,11 @@
 
       "blue": {
         "84": {
-          "value": "#ccd4df"
+          "value": "#ccd4df",
+          "comment": "Base/Blue"
+        },
+        "48": {
+          "value": "#2e79c6"
         }
       },
 
@@ -60,7 +64,8 @@
       "black": {
         "0": { "value": "#000000" },
         "13": { "value": "#222222", "comment": "Base/Black" },
-        "20": { "value": "#333333" }
+        "20": { "value": "#333333" },
+        "33": { "value": "#555555" }
       },
 
       "yellow": {
@@ -71,6 +76,12 @@
         "64": {
           "value": "#9aa1ab",
           "comment": "Base/Grey"
+        },
+        "42": {
+          "value": "#6b6b6b"
+        },
+        "46": {
+          "value": "#767676"
         }
       },
 
