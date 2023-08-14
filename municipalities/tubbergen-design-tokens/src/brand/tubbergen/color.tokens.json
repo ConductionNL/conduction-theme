@@ -1,0 +1,95 @@
+{
+  "tubbergen": {
+    "color": {
+      "primary": {
+        "value": "{tubbergen.color.green.21}"
+      },
+      "primary-hover": {
+        "value": "{tubbergen.color.green.11}"
+      },
+
+      "error": { "value": "#d62410" },
+      "alert-error": { "value": "{tubbergen.color.black.20}" },
+      "alert-error-background": { "value": "#f8d7da" },
+
+      "warning": { "value": "#ffc107" },
+      "alert-warning": { "value": "{tubbergen.color.black.20}" },
+      "alert-warning-background": { "value": "#fff3cd" },
+
+      "succes": { "value": "#28a745" },
+      "alert-succes": { "value": "{tubbergen.color.black.20}" },
+      "alert-succes-background": { "value": "#d4edda" },
+
+      "info": { "value": "{tubbergen.color.green.24}" },
+      "alert-info": { "value": "{tubbergen.color.black.20}" },
+      "alert-info-background": { "value": "{tubbergen.color.green.89}" },
+
+      "green": {
+        "89": {
+          "value": "#d5efdf"
+        },
+        "76": { "value": "#b0d4be" },
+        "24": {
+          "value": "#067432"
+        },
+        "21": {
+          "value": "#0b612d",
+          "comment": "Base/Green"
+        },
+        "11": {
+          "value": "#063318"
+        }
+      },
+
+      "blue": {
+        "84": {
+          "value": "#ccd4df",
+          "comment": "Base/Blue"
+        },
+        "96": { "value": "#f2f4f7" },
+        "94": { "value": "#edeff2" },
+        "48": {
+          "value": "#2e79c6"
+        }
+      },
+
+      "white": {
+        "100": {
+          "value": "#ffffff",
+          "comment": "Base/White"
+        },
+        "98": {
+          "value": "#fafafa"
+        }
+      },
+
+      "black": {
+        "0": { "value": "#000000" },
+        "13": { "value": "#222222", "comment": "Base/Black" },
+        "20": { "value": "#333333" },
+        "33": { "value": "#555555" }
+      },
+
+      "yellow": {
+        "0": { "value": "#f0b700", "comment": "Base/Yellow" }
+      },
+
+      "grey": {
+        "64": {
+          "value": "#9aa1ab",
+          "comment": "Base/Grey"
+        },
+        "42": {
+          "value": "#6b6b6b"
+        },
+        "46": {
+          "value": "#767676"
+        }
+      },
+
+      "lightgrey": {
+        "89": { "value": "#e4e4e4", "comment": "Base/LightGrey" }
+      }
+    }
+  }
+}

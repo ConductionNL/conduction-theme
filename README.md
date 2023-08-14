@@ -4,6 +4,9 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1**
+  - 1.0.18:
+    - added gitingore.
+    - added Tubbergen theme.
   - 1.0.17: 
     - removed gitignore.
     - fixed alert warning colors in xxllnc theme.
