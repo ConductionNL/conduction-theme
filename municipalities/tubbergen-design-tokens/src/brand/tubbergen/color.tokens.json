@@ -65,6 +65,12 @@
 
       "yellow": {
         "0": { "value": "#f0b700", "comment": "Base/Yellow" }
+      },
+
+      "grey": {
+        "64": {
+          "value": "#9aa1ab"
+        }
       }
     }
   }
