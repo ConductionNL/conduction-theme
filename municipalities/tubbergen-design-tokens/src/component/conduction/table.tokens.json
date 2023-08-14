@@ -5,9 +5,9 @@
       "background-color": { "value": "{tubbergen.color.white.100}" },
       "header": {
         "border-block-end-color": { "value": "{tubbergen.color.blue.94}" },
-        "border-block-end-width": { "value": "{tubbergen.size.4xs}" }
+        "border-block-end-width": { "value": "{tubbergen.size.4xs}" },
+        "font-family": { "value": "{tubbergen.typography.montserrat.font-family}" }
       },
-      "header": { "font-family": { "value": "{tubbergen.typography.montserrat.font-family}" } },
       "row": {
         "hover": {
           "background-color": { "value": "{tubbergen.color.blue.94}" },
