@@ -4,6 +4,7 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1**
+  - 1.0.19: added build all command.
   - 1.0.18:
     - added gitingore.
     - added Tubbergen theme.
