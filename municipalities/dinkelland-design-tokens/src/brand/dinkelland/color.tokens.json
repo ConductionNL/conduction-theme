@@ -24,6 +24,13 @@
       "alert-info": { "value": "{dinkelland.color.black.20}" },
       "alert-info-background": { "value": "{dinkelland.color.blue.94}" },
 
+      "green": {
+        "24": {
+          "value": "#007a4d",
+          "comment": "Base/Green"
+        }
+      },
+
       "blue": {
         "26": {
           "value": "#004e86"
@@ -40,6 +47,9 @@
         },
         "94": {
           "value": "#e5f0f8"
+        },
+        "96": {
+          "value": "#f2f4f7"
         }
       },
 
@@ -79,6 +89,9 @@
         "64": {
           "value": "#9aa1ab",
           "comment": "Base/Grey"
+        },
+        "94": {
+          "value": "#edeff2"
         }
       },
 
