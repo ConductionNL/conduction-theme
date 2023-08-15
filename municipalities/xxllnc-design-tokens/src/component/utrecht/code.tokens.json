@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "code": {
-      "background-color": { "value": "{xxllnc.color.lightgrey}" },
+      "background-color": { "value": "{xxllnc.color.lightgrey.96}" },
       "color": { "value": "{xxllnc.color.black.16}" },
       "font-family": { "value": "{xxllnc.typography.monospace.font-family}" },
       "font-size": { "value": "inherit" },
@@ -9,7 +9,7 @@
     },
 
     "code-block": {
-      "background-color": { "value": "{xxllnc.color.lightgrey}" },
+      "background-color": { "value": "{xxllnc.color.lightgrey.96}" },
       "color": { "value": "{xxllnc.color.black.16}" },
       "font-family": { "value": "{xxllnc.typography.monospace.font-family}" },
       "font-size": { "value": "{xxllnc.font-size.md}" },
