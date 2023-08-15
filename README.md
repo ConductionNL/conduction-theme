@@ -4,19 +4,24 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1**
-  - 1.0.19: added build all command.
+  - 1.0.20:
+    - Set color tokens of all themes in ascending order.
+    - Added Dinkelland theme.
+  - 1.0.19: 
+    - Added build all command.
+    - Removed unused dist folders.
   - 1.0.18:
-    - added gitingore.
-    - added Tubbergen theme.
+    - Added gitingore.
+    - Added Tubbergen theme.
   - 1.0.17: 
-    - removed gitignore.
-    - fixed alert warning colors in xxllnc theme.
-  - 1.0.16: added Leiden theme as JSON format.
-  - 1.0.15: added Conduction theme as JSON format.
-  - 1.0.14: added xxllnc theme as JSON format.
-  - 1.0.13: added secondary button styling for all themes.
-  - 1.0.12: implemented Select Single styling in xxllnc and Leiden
-  - 1.0.11: fixed typo and added page-content-background-color token to Conduction theme.
+    - Removed gitignore.
+    - Fixed alert warning colors in xxllnc theme.
+  - 1.0.16: Added Leiden theme as JSON format.
+  - 1.0.15: Added Conduction theme as JSON format.
+  - 1.0.14: Added xxllnc theme as JSON format.
+  - 1.0.13: Added secondary button styling for all themes.
+  - 1.0.12: Implemented Select Single styling in xxllnc and Leiden.
+  - 1.0.11: Fixed typo and added page-content-background-color token to Conduction theme.
   - 1.0.10: 
     - Added document-backgroundcolor to all themes.
     - Added buttonIconGap token to Conduction and Leiden themes.
