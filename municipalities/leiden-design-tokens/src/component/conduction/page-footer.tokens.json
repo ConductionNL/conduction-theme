@@ -1,10 +1,10 @@
 {
   "utrecht": {
     "page-footer": {
-      "min-height": { "value": "300px" },
+      "min-height": {},
       "logo": {
         "max-height": { "value": "100px" },
-        "max-width": { "value": "220px" }
+        "max-width": { "value": "100px" }
       }
     }
   }
