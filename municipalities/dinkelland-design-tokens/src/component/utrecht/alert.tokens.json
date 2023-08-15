@@ -34,7 +34,6 @@
         "error": {
           "color": { "value": "{dinkelland.color.alert-error}" }
         },
-        "gap": { "value": "{dinkelland.size.xs}" },
         "warning": {
           "color": { "value": "{dinkelland.color.alert-warning}" }
         },

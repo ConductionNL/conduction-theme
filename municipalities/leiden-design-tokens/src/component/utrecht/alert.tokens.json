@@ -34,7 +34,6 @@
         "error": {
           "color": { "value": "{leiden.color.alert-error}" }
         },
-        "gap": { "value": "{leiden.size.xs}" },
         "warning": {
           "color": { "value": "{leiden.color.alert-warning}" }
         },

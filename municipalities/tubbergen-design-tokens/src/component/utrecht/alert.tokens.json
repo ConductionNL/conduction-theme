@@ -34,7 +34,6 @@
         "error": {
           "color": { "value": "{tubbergen.color.alert-error}" }
         },
-        "gap": { "value": "{tubbergen.size.xs}" },
         "warning": {
           "color": { "value": "{tubbergen.color.alert-warning}" }
         },
