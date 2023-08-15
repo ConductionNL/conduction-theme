@@ -9,25 +9,28 @@
       },
 
       "error": { "value": "#dc3545" },
-      "alert-error": { "value": "#721c24" },
+      "alert-error": { "value": "{dinkelland.color.black.20}" },
       "alert-error-background": { "value": "#f8d7da" },
 
       "warning": { "value": "#ffc107" },
-      "alert-warning": { "value": "#856404" },
+      "alert-warning": { "value": "{dinkelland.color.black.20}" },
       "alert-warning-background": { "value": "#fff3cd" },
 
       "succes": { "value": "#28a745" },
-      "alert-succes": { "value": "#155724" },
+      "alert-succes": { "value": "{dinkelland.color.black.20}" },
       "alert-succes-background": { "value": "#d4edda" },
 
-      "info": { "value": "{dinkelland.color.primary}" },
-      "alert-info": { "value": "#004085" },
-      "alert-info-background": { "value": "#cce5ff" },
+      "info": { "value": "{dinkelland.color.blue.36}" },
+      "alert-info": { "value": "{dinkelland.color.black.20}" },
+      "alert-info-background": { "value": "{dinkelland.color.blue.94}" },
 
       "blue": {
         "36": {
           "value": "#006cb9",
           "comment": "Base/Blue"
+        },
+        "94": {
+          "value": "#e5f0f8"
         },
         "26": {
           "value": "#004e86"
