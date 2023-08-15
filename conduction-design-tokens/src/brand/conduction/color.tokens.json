@@ -25,34 +25,46 @@
       "alert-info-background": { "value": "#cce5ff" },
 
       "grey": {
+        "29": {
+          "value": "#4a4a4a"
+        },
+        "48": {
+          "value": "#7a7a7a"
+        },
         "50": {
           "value": "#808080",
           "comment": "Base/Grey"
         },
-        "29": {
-          "value": "#4a4a4a"
+        "82": {
+          "value": "#d1d1d1"
         },
-        "48": { "value": "#7a7a7a" },
-        "82": { "value": "#d1d1d1" },
-        "97": { "value": "#f7f7f7" }
+        "97": {
+          "value": "#f7f7f7"
+        }
       },
 
       "lightgrey": {
-        "96": { "value": "#f5f5f5", "comment": "Base/LightGrey" }
+        "96": {
+          "value": "#f5f5f5",
+          "comment": "Base/LightGrey"
+        }
       },
 
       "white": {
+        "98": {
+          "value": "#fafafa"
+        },
         "100": {
           "value": "#ffffff",
           "comment": "Base/White"
-        },
-        "98": {
-          "value": "#fafafa"
         }
       },
 
       "black": {
-        "0": { "value": "#000000", "comment": "Base/Black" }
+        "0": {
+          "value": "#000000",
+          "comment": "Base/Black"
+        }
       }
     }
   }

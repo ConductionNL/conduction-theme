@@ -25,57 +25,71 @@
       "alert-info-background": { "value": "{dinkelland.color.blue.94}" },
 
       "blue": {
+        "26": {
+          "value": "#004e86"
+        },
         "36": {
           "value": "#006cb9",
           "comment": "Base/Blue"
         },
-        "94": {
-          "value": "#e5f0f8"
+        "48": {
+          "value": "#2e79c6"
         },
         "91": {
           "value": "#deebf4"
         },
-        "26": {
-          "value": "#004e86"
-        },
-        "48": {
-          "value": "#2e79c6"
+        "94": {
+          "value": "#e5f0f8"
         }
       },
 
       "white": {
+        "98": {
+          "value": "#fafafa"
+        },
         "100": {
           "value": "#ffffff",
           "comment": "Base/White"
-        },
-        "98": {
-          "value": "#fafafa"
         }
       },
 
       "black": {
-        "0": { "value": "#000000" },
-        "13": { "value": "#222222", "comment": "Base/Black" },
-        "20": { "value": "#333333" },
-        "33": { "value": "#555555" }
+        "0": {
+          "value": "#000000"
+        },
+        "13": {
+          "value": "#222222",
+          "comment": "Base/Black"
+        },
+        "20": {
+          "value": "#333333"
+        },
+        "33": {
+          "value": "#555555"
+        }
       },
 
       "grey": {
-        "64": {
-          "value": "#9aa1ab",
-          "comment": "Base/Grey"
-        },
         "42": {
           "value": "#6b6b6b"
         },
         "46": {
           "value": "#767676"
+        },
+        "64": {
+          "value": "#9aa1ab",
+          "comment": "Base/Grey"
         }
       },
 
       "lightgrey": {
-        "89": { "value": "#e4e4e4", "comment": "Base/LightGrey" },
-        "96": { "value": "#f5f5f5" }
+        "89": {
+          "value": "#e4e4e4",
+          "comment": "Base/LightGrey"
+        },
+        "96": {
+          "value": "#f5f5f5"
+        }
       }
     }
   }

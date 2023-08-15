@@ -25,17 +25,20 @@
       "alert-info-background": { "value": "#cce5ff" },
 
       "grey": {
+        "11": {
+          "value": "#1d1d1b"
+        },
         "33": {
           "value": "#5f594a",
           "comment": "Base/Grey"
-        },
-        "11": {
-          "value": "#1d1d1b"
         }
       },
 
       "lightgrey": {
-        "89": { "value": "#e4e4e4", "comment": "Base/LightGrey" }
+        "89": {
+          "value": "#e4e4e4",
+          "comment": "Base/LightGrey"
+        }
       },
 
       "white": {
@@ -46,7 +49,10 @@
       },
 
       "black": {
-        "9": { "value": "#0d1921", "comment": "Base/Black" }
+        "9": {
+          "value": "#0d1921",
+          "comment": "Base/Black"
+        }
       },
 
       "lightblue": {
