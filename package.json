@@ -14,7 +14,8 @@
     "build:leiden": "cd ./municipalities/leiden-design-tokens && npm run build",
     "build:xxllnc": "cd ./municipalities/xxllnc-design-tokens && npm run build",
     "build:tubbergen": "cd ./municipalities/tubbergen-design-tokens && npm run build",
-    "build:dinkelland": "cd ./municipalities/dinkelland-design-tokens && npm run build"
+    "build:dinkelland": "cd ./municipalities/dinkelland-design-tokens && npm run build",
+    "build:epe": "cd ./municipalities/epe-design-tokens && npm run build"
  
   },
   "author": "",
