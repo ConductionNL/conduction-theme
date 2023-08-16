@@ -34,7 +34,6 @@
         "error": {
           "color": { "value": "{xxllnc.color.alert-error}" }
         },
-        "gap": { "value": "{xxllnc.size.xs}" },
         "warning": {
           "color": { "value": "{xxllnc.color.alert-warning}" }
         },
