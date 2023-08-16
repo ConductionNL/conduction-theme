@@ -1,9 +1,12 @@
 # conduction-theme
+
 Conduction's design tokens theme
 
 ## Changelog
 
 - **Version 1**
+
+  - 1.0.22: Updated footer and header logo's for xxllnc, Leiden and Dinkelland themes.
   - 1.0.21:
     - Added custom header and footer logo code to all themes.
     - Set custom icon code from Utrecht to Conduction directory in all themes.
@@ -13,13 +16,13 @@ Conduction's design tokens theme
   - 1.0.20:
     - Set color tokens of all themes in ascending order.
     - Added Dinkelland theme.
-  - 1.0.19: 
+  - 1.0.19:
     - Added build all command.
     - Removed unused dist folders.
   - 1.0.18:
     - Added gitingore.
     - Added Tubbergen theme.
-  - 1.0.17: 
+  - 1.0.17:
     - Removed gitignore.
     - Fixed alert warning colors in xxllnc theme.
   - 1.0.16: Added Leiden theme as JSON format.
@@ -28,7 +31,7 @@ Conduction's design tokens theme
   - 1.0.13: Added secondary button styling for all themes.
   - 1.0.12: Implemented Select Single styling in xxllnc and Leiden.
   - 1.0.11: Fixed typo and added page-content-background-color token to Conduction theme.
-  - 1.0.10: 
+  - 1.0.10:
     - Added document-backgroundcolor to all themes.
     - Added buttonIconGap token to Conduction and Leiden themes.
     - Added formField, cards and Conduction overwrite tokens to Conduction and Leiden themes.
@@ -39,6 +42,6 @@ Conduction's design tokens theme
   - 1.0.6: Added xxllnc theme.
   - 1.0.5: Added page-max-inline size to Conduction theme.
   - 1.0.4: Added Leiden theme.
-  - 1.0.3: Updated sizes.  
+  - 1.0.3: Updated sizes.
   - 1.0.2: Added Aldritch font.
   - 1.0.1: Added Conduction theme.
