@@ -4,6 +4,12 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1**
+  - 1.0.21:
+    - Added custom header and footer logo code to all themes.
+    - Set custom icon code from Utrecht to Conduction directory in all themes.
+    - Set custom textbox and form-input code from Utrecht to Conduction directory in all themes.
+    - Set custom alert code from Utrecht to Conduction directory in all themes.
+    - Fixed blockquote tokens not building for xxllnc and Leiden theme.
   - 1.0.20:
     - Set color tokens of all themes in ascending order.
     - Added Dinkelland theme.
