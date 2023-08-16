@@ -4,7 +4,7 @@
       "min-height": {},
       "logo": {
         "max-height": { "value": "100px" },
-        "max-width": { "value": "100px" }
+        "max-width": { "value": "120px" }
       }
     }
   }
