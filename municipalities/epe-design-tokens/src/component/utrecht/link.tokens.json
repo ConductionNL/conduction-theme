@@ -23,7 +23,7 @@
         "color": {}
       },
       "visited": {
-        "color": { "value": "{epe.color.primary}" }
+        "color": { "value": "{epe.color.purple.45}" }
       },
       "icon": {
         "size": { "value": "{epe.size.md}" }
