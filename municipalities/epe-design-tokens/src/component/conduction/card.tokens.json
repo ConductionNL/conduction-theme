@@ -1,0 +1,30 @@
+{
+  "utrecht": {
+    "card": {
+      "background-color": { "value": "{epe.color.white.100}" },
+      "border-color": {},
+      "border-radius": { "value": "0px" },
+      "border-width": { "value": "unset" },
+      "color": { "value": "{utrecht.document.color}" },
+      "header": {
+        "color": {
+          "value": "{epe.color.blue.31}"
+        },
+        "border-block-end": { "value": "1px solid {epe.color.yellow.42}" },
+        "hover": {
+          "color": {
+            "value": "{epe.color.blue.31}"
+          },
+          "border-block-end": { "value": "1px solid {epe.color.blue.31}" }
+        }
+      },
+      "hover": {
+        "background-color": { "value": "{epe.color.yellow.90}" }
+      },
+      "padding-inline-end": { "value": "1em" },
+      "padding-inline-start": { "value": "1em" },
+      "padding-block-end": { "value": "1em" },
+      "padding-block-start": { "value": "1em" }
+    }
+  }
+}

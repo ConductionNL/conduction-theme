@@ -38,6 +38,9 @@
         "42": {
           "value": "#d6a100",
           "comment": "Base/Yellow"
+        },
+        "90": {
+          "value": "#fdf1ce"
         }
       },
 
