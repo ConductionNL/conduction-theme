@@ -48,6 +48,16 @@
         }
       },
 
+      "grey": {
+        "34": {
+          "value": "#575757",
+          "comment": "Base/Grey"
+        },
+        "46": {
+          "value": "#757575"
+        }
+      },
+
       "white": {
         "98": {
           "value": "#fafafa"
@@ -60,7 +70,8 @@
 
       "purple": {
         "45": {
-          "value": "#7337ae"
+          "value": "#7337ae",
+          "comment": "Base/Purple"
         }
       },
 
