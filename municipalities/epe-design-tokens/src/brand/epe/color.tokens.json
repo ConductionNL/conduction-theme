@@ -2,10 +2,10 @@
   "epe": {
     "color": {
       "primary": {
-        "value": "{epe.color.blue.31}"
+        "value": "{epe.color.light-blue.31}"
       },
       "primary-hover": {
-        "value": "{epe.color.blue.21}"
+        "value": "{epe.color.light-blue.21}"
       },
 
       "error": { "value": "#dc3545" },
@@ -20,16 +20,23 @@
       "alert-succes": { "value": "#155724" },
       "alert-succes-background": { "value": "#d4edda" },
 
-      "info": { "value": "{epe.color.blue.31}" },
+      "info": { "value": "{epe.color.light-blue.31}" },
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
 
-      "blue": {
+      "light-blue": {
         "21": {
           "value": "#01476a"
         },
         "31": {
           "value": "#01699d",
+          "comment": "Base/Light-Blue"
+        }
+      },
+
+      "blue": {
+        "31": {
+          "value": "#00549e",
           "comment": "Base/Blue"
         }
       },
