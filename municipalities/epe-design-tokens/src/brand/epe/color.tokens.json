@@ -34,6 +34,13 @@
         }
       },
 
+      "yellow": {
+        "42": {
+          "value": "#d6a100",
+          "comment": "Base/Yellow"
+        }
+      },
+
       "blue": {
         "31": {
           "value": "#00549e",
