@@ -9,19 +9,19 @@
       },
 
       "error": { "value": "#dc3545" },
-      "alert-error": { "value": "#721c24" },
+      "alert-error": { "value": "{epe.color.black.19}" },
       "alert-error-background": { "value": "#f8d7da" },
 
       "warning": { "value": "#ffc107" },
-      "alert-warning": { "value": "#856404" },
+      "alert-warning": { "value": "{epe.color.black.19}" },
       "alert-warning-background": { "value": "#fff3cd" },
 
       "succes": { "value": "#28a745" },
-      "alert-succes": { "value": "#155724" },
+      "alert-succes": { "value": "{epe.color.black.19}" },
       "alert-succes-background": { "value": "#d4edda" },
 
       "info": { "value": "{epe.color.light-blue.31}" },
-      "alert-info": { "value": "#004085" },
+      "alert-info": { "value": "{epe.color.black.19}" },
       "alert-info-background": { "value": "#cce5ff" },
 
       "light-blue": {
