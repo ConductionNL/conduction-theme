@@ -1,0 +1,15 @@
+{
+  "conduction": {
+    "input-select": {
+      "background-color": { "value": "{epe.color.white.100}" },
+      "border": { "value": "{epe.size.4xs} solid {epe.color.lightgrey.41}" },
+      "border-focus": { "value": "unset" },
+      "border-radius": { "value": "{utrecht.form-input.border-radius}" },
+      "invalid-border-color": { "value": "{epe.color.error}" },
+      "padding-block-end": { "value": 0 },
+      "padding-block-start": { "value": 0 },
+      "hover": {},
+      "focus": {}
+    }
+  }
+}
