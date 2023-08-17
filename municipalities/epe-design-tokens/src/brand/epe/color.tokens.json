@@ -42,6 +42,9 @@
       },
 
       "blue": {
+        "26": {
+          "value": "#004785"
+        },
         "31": {
           "value": "#00549e",
           "comment": "Base/Blue"
