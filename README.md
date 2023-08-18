@@ -6,6 +6,11 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.24:
+    - Updated page tokens in all themes.
+    - Updated list tokens in all themes.
+    - Updated table tokens in all themes.
+    - Updated card tokens in all themes.
   - 1.0.23: Added Epe theme.
   - 1.0.22: Updated footer and header logo's for xxllnc, Leiden and Dinkelland themes.
   - 1.0.21:
