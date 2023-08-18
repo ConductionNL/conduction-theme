@@ -6,6 +6,17 @@
       "border-radius": { "value": "0px" },
       "border-width": { "value": "unset" },
       "color": { "value": "{utrecht.document.color}" },
+      "header": {
+        "border-block-end": {},
+        "color": {},
+        "hover": {
+          "border-block-end": {},
+          "color": {}
+        }
+      },
+      "hover": {
+        "background-color": {}
+      },
       "padding-inline-end": { "value": "30px" },
       "padding-inline-start": { "value": "30px" },
       "padding-block-end": { "value": "30px" },

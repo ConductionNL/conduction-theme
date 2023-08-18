@@ -6,6 +6,17 @@
       "border-radius": {},
       "border-width": { "value": "unset" },
       "color": { "value": "{leiden.color.black.9}" },
+      "header": {
+        "border-block-end": {},
+        "color": {},
+        "hover": {
+          "border-block-end": {},
+          "color": {}
+        }
+      },
+      "hover": {
+        "background-color": {}
+      },
       "padding-inline-end": { "value": "{leiden.size.xl}" },
       "padding-inline-start": { "value": "{leiden.size.xl}" },
       "padding-block-end": { "value": "{leiden.size.sm}" },
