@@ -1,7 +1,6 @@
 {
   "utrecht": {
     "table": {
-      "border-collapse": { "value": "collapse" },
       "background-color": { "value": "{tubbergen.color.white.100}" },
       "header": {
         "border-block-end-color": { "value": "{tubbergen.color.blue.94}" },
@@ -16,6 +15,9 @@
       },
       "body": {
         "border": { "value": "{tubbergen.size.4xs} solid {tubbergen.color.blue.94}" }
+      },
+      "caption": {
+        "font-style": {}
       }
     }
   }

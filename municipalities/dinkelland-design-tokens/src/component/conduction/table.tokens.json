@@ -1,7 +1,6 @@
 {
   "utrecht": {
     "table": {
-      "border-collapse": { "value": "collapse" },
       "background-color": { "value": "{dinkelland.color.white.100}" },
       "header": {
         "border-block-end-color": { "value": "{dinkelland.color.blue.94}" },
@@ -16,6 +15,9 @@
       },
       "body": {
         "border": { "value": "{dinkelland.size.4xs} solid {dinkelland.color.blue.94}" }
+      },
+      "caption": {
+        "font-style": {}
       }
     }
   }
