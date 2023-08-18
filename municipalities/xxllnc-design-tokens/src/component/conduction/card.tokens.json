@@ -6,6 +6,17 @@
       "border-radius": { "value": "16px" },
       "border-width": { "value": "unset" },
       "color": { "value": "{xxllnc.color.white.95}" },
+      "header": {
+        "border-block-end": {},
+        "color": {},
+        "hover": {
+          "border-block-end": {},
+          "color": {}
+        }
+      },
+      "hover": {
+        "background-color": {}
+      },
       "padding-inline-end": { "value": "{xxllnc.size.md}" },
       "padding-inline-start": { "value": "{xxllnc.size.md}" },
       "padding-block-end": { "value": "{xxllnc.size.md}" },

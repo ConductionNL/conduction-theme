@@ -3,8 +3,8 @@
     "page": {
       "background-color": {},
       "color": {},
-      "padding-inline-start": { "value": "{dinkelland.size.lg}" },
-      "padding-inline-end": { "value": "{dinkelland.size.lg}" },
+      "margin-inline-start": { "value": "{dinkelland.size.lg}" },
+      "margin-inline-end": { "value": "{dinkelland.size.lg}" },
       "max-inline-size": { "value": "1140px" }
     }
   }

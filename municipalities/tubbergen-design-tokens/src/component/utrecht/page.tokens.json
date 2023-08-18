@@ -3,8 +3,8 @@
     "page": {
       "background-color": {},
       "color": {},
-      "padding-inline-start": { "value": "{tubbergen.size.lg}" },
-      "padding-inline-end": { "value": "{tubbergen.size.lg}" },
+      "margin-inline-start": { "value": "{tubbergen.size.lg}" },
+      "margin-inline-end": { "value": "{tubbergen.size.lg}" },
       "max-inline-size": { "value": "1140px" }
     }
   }

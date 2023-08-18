@@ -7,15 +7,15 @@
       "border-width": { "value": "unset" },
       "color": { "value": "{utrecht.document.color}" },
       "header": {
+        "border-block-end": { "value": "1px solid {epe.color.yellow.42}" },
         "color": {
           "value": "{epe.color.blue.31}"
         },
-        "border-block-end": { "value": "1px solid {epe.color.yellow.42}" },
         "hover": {
+          "border-block-end": { "value": "1px solid {epe.color.blue.31}" },
           "color": {
             "value": "{epe.color.blue.31}"
-          },
-          "border-block-end": { "value": "1px solid {epe.color.blue.31}" }
+          }
         }
       },
       "hover": {

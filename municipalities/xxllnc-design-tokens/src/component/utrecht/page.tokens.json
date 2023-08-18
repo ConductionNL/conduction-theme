@@ -3,8 +3,8 @@
     "page": {
       "background-color": {},
       "color": {},
-      "padding-inline-start": { "value": "{xxllnc.size.lg}" },
-      "padding-inline-end": { "value": "{xxllnc.size.lg}" },
+      "margin-inline-start": { "value": "{xxllnc.size.lg}" },
+      "margin-inline-end": { "value": "{xxllnc.size.lg}" },
       "max-inline-size": { "value": "1140px" }
     }
   }
