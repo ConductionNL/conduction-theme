@@ -24,6 +24,7 @@
         "margin-block-end": { "value": "{epe.size.xs}" },
         "padding-inline-start": { "value": "1ch" }
       },
+
       "marker": {
         "color": { "value": "{epe.color.black.19}" }
       }
