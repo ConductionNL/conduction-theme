@@ -3,17 +3,10 @@
     "card-wrapper": {
       "background-color": { "value": "{xxllnc.color.black.21}" },
       "border-color": {},
-      "border-radius": { "value": "16px" },
-      "border-width": { "value": "unset" },
+      "border-width": {},
+      "border-style": {},
+      "border-radius": { "value": "{xxllnc.size.md}" },
       "color": { "value": "{xxllnc.color.white.95}" },
-      "header": {
-        "border-block-end": {},
-        "color": {},
-        "hover": {
-          "border-block-end": {},
-          "color": {}
-        }
-      },
       "hover": {
         "background-color": {}
       },

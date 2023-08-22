@@ -3,28 +3,17 @@
     "card-wrapper": {
       "background-color": { "value": "{epe.color.white.100}" },
       "border-color": {},
-      "border-radius": { "value": "0px" },
-      "border-width": { "value": "unset" },
+      "border-width": {},
+      "border-style": {},
+      "border-radius": {},
       "color": { "value": "{utrecht.document.color}" },
-      "header": {
-        "border-block-end": { "value": "1px solid {epe.color.yellow.42}" },
-        "color": {
-          "value": "{epe.color.blue.31}"
-        },
-        "hover": {
-          "border-block-end": { "value": "1px solid {epe.color.blue.31}" },
-          "color": {
-            "value": "{epe.color.blue.31}"
-          }
-        }
-      },
       "hover": {
-        "background-color": { "value": "{epe.color.yellow.90}" }
+        "background-color": {}
       },
-      "padding-inline-end": { "value": "1em" },
-      "padding-inline-start": { "value": "1em" },
-      "padding-block-end": { "value": "1em" },
-      "padding-block-start": { "value": "1em" }
+      "padding-inline-end": { "value": "{epe.size.md}" },
+      "padding-inline-start": { "value": "{epe.size.md}" },
+      "padding-block-end": { "value": "{epe.size.md}" },
+      "padding-block-start": { "value": "{epe.size.md}" }
     }
   }
 }
