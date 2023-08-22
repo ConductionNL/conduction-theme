@@ -3,17 +3,10 @@
     "card-wrapper": {
       "background-color": { "value": "{noordwijk.color.white.100}" },
       "border-color": {},
-      "border-radius": { "value": "5px" },
       "border-width": { "value": "unset" },
+      "border-style": {},
+      "border-radius": { "value": "5px" },
       "color": { "value": "{noordwijk.color.black.0}" },
-      "header": {
-        "border-block-end": {},
-        "color": { "value": "{noordwijk.color.primary}" },
-        "hover": {
-          "border-block-end": {},
-          "color": {}
-        }
-      },
       "hover": {
         "background-color": {}
       },
