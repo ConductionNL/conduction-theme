@@ -1,0 +1,26 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{noordwijk.color.white.100}" },
+      "border-color": {},
+      "border-radius": { "value": "5px" },
+      "border-width": { "value": "unset" },
+      "color": { "value": "{noordwijk.color.black.0}" },
+      "header": {
+        "border-block-end": {},
+        "color": { "value": "{noordwijk.color.primary}" },
+        "hover": {
+          "border-block-end": {},
+          "color": {}
+        }
+      },
+      "hover": {
+        "background-color": {}
+      },
+      "padding-inline-end": { "value": "{noordwijk.size.md}" },
+      "padding-inline-start": { "value": "{noordwijk.size.md}" },
+      "padding-block-end": { "value": "{noordwijk.size.md}" },
+      "padding-block-start": { "value": "{noordwijk.size.md}" }
+    }
+  }
+}
