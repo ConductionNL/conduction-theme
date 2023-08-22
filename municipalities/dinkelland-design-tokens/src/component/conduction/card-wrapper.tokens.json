@@ -3,24 +3,17 @@
     "card-wrapper": {
       "background-color": { "value": "{dinkelland.color.blue.94}" },
       "border-color": {},
-      "border-radius": { "value": "0px" },
-      "border-width": { "value": "unset" },
+      "border-width": {},
+      "border-style": {},
+      "border-radius": {},
       "color": { "value": "{utrecht.document.color}" },
-      "header": {
-        "border-block-end": {},
-        "color": {},
-        "hover": {
-          "border-block-end": {},
-          "color": {}
-        }
-      },
       "hover": {
         "background-color": {}
       },
-      "padding-inline-end": { "value": "30px" },
-      "padding-inline-start": { "value": "30px" },
-      "padding-block-end": { "value": "30px" },
-      "padding-block-start": { "value": "30px" }
+      "padding-inline-end": { "value": "{dinkelland.size.xl}" },
+      "padding-inline-start": { "value": "{dinkelland.size.xl}" },
+      "padding-block-end": { "value": "{dinkelland.size.xl}" },
+      "padding-block-start": { "value": "{dinkelland.size.xl}" }
     }
   }
 }
