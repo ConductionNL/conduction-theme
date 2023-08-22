@@ -1,6 +1,6 @@
 {
-  "utrecht": {
-    "card": {
+  "conduction": {
+    "card-wrapper": {
       "background-color": { "value": "{epe.color.white.100}" },
       "border-color": {},
       "border-radius": { "value": "0px" },

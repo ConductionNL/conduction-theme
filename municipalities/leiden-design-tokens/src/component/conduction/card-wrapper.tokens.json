@@ -1,6 +1,6 @@
 {
-  "utrecht": {
-    "card": {
+  "conduction": {
+    "card-wrapper": {
       "background-color": { "value": "{leiden.color.lightgrey.89}" },
       "border-color": {},
       "border-radius": {},

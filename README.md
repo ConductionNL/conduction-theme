@@ -6,6 +6,10 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.25:
+    - Updated prefix of card tokens from `utrecht` to `conduction` in all themes.
+    - Moved all custom tokens from Conduction directory to utrecht/extra-tokens directory.
+    - Added readme to all themes.
   - 1.0.24:
     - Updated page tokens in all themes.
     - Updated list tokens in all themes.
