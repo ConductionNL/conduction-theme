@@ -28,6 +28,10 @@
         "22": {
           "value": "#003772",
           "comment": "Base/Blue"
+        },
+        "31": {
+          "value": "#012c9d99",
+          "comment": "Blue with 60% transparency"
         }
       },
 
