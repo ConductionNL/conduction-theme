@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.26: Added Noordwijk theme.
   - 1.0.25:
     - Updated prefix of card tokens from `utrecht` to `conduction` in all themes.
     - Moved all custom tokens from Conduction directory to utrecht/extra-tokens directory.
