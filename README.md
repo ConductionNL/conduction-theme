@@ -6,7 +6,10 @@ Conduction's design tokens theme
 
 - **Version 1**
 
-  - 1.0.26: 
+  - 1.0.27:
+    - Added conduction-card-header tokens in all themes.
+    - Updated conduction-card-wrapper tokens in all themes.
+  - 1.0.26:
     - Added Noordwijk theme.
     - Updated conduction-card-wrapper tokens in all themes.
   - 1.0.25:
