@@ -1,0 +1,19 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{epe.color.white.100}" },
+      "border-color": {},
+      "border-width": {},
+      "border-style": {},
+      "border-radius": {},
+      "color": { "value": "{utrecht.document.color}" },
+      "hover": {
+        "background-color": {}
+      },
+      "padding-inline-end": { "value": "{epe.size.md}" },
+      "padding-inline-start": { "value": "{epe.size.md}" },
+      "padding-block-end": { "value": "{epe.size.md}" },
+      "padding-block-start": { "value": "{epe.size.md}" }
+    }
+  }
+}

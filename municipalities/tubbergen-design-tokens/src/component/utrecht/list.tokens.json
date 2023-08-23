@@ -24,6 +24,7 @@
         "margin-block-end": { "value": "{tubbergen.size.xs}" },
         "padding-inline-start": { "value": "1ch" }
       },
+
       "marker": {
         "color": { "value": "{utrecht.document.color}" }
       }

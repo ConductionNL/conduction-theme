@@ -9,8 +9,7 @@
       "padding-inline-end": { "value": "{tubbergen.size.sm}" },
       "padding-inline-start": { "value": "{tubbergen.size.sm}" },
       "padding-block-end": { "value": "{tubbergen.size.2xl}" },
-      "padding-block-start": { "value": "{tubbergen.size.2xl}" },
-      "min-height": { "value": "300px" }
+      "padding-block-start": { "value": "{tubbergen.size.2xl}" }
     }
   }
 }

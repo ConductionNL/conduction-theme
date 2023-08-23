@@ -2,7 +2,6 @@
   "utrecht": {
     "icon": {
       "color": {},
-      "gap": { "value": "{xxllnc.size.xs}" },
       "size": {},
       "inset-block-start": {},
       "baseline": {

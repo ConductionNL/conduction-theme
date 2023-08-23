@@ -34,7 +34,6 @@
         "error": {
           "color": { "value": "{conduction.color.alert-error}" }
         },
-        "gap": { "value": "{conduction.size.xs}" },
         "warning": {
           "color": { "value": "{conduction.color.alert-warning}" }
         },

@@ -1,0 +1,24 @@
+{
+  "utrecht": {
+    "table": {
+      "background-color": { "value": "{conduction.color.white.100}" },
+      "header": {
+        "border-block-end-color": { "value": "{conduction.color.grey.82}" },
+        "border-block-end-width": { "value": "{conduction.size.4xs}" },
+        "font-family": {}
+      },
+      "row": {
+        "hover": {
+          "background-color": { "value": "{conduction.color.grey.97}" },
+          "color": {}
+        }
+      },
+      "body": {
+        "border": {}
+      },
+      "caption": {
+        "font-style": {}
+      }
+    }
+  }
+}

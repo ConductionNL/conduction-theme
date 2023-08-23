@@ -1,0 +1,19 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{tubbergen.color.green.89}" },
+      "border-color": {},
+      "border-width": {},
+      "border-style": {},
+      "border-radius": {},
+      "color": { "value": "{utrecht.document.color}" },
+      "hover": {
+        "background-color": {}
+      },
+      "padding-inline-end": { "value": "{tubbergen.size.xl}" },
+      "padding-inline-start": { "value": "{tubbergen.size.xl}" },
+      "padding-block-end": { "value": "{tubbergen.size.sm}" },
+      "padding-block-start": { "value": "{tubbergen.size.sm}" }
+    }
+  }
+}
