@@ -3,7 +3,7 @@
     "card-wrapper": {
       "background-color": { "value": "{xxllnc.color.black.21}" },
       "border-color": {},
-      "border-width": {},
+      "border-width": { "value": "unset" },
       "border-style": {},
       "border-radius": { "value": "{xxllnc.size.md}" },
       "color": { "value": "{xxllnc.color.white.95}" },
