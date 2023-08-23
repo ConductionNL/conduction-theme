@@ -24,6 +24,12 @@
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
 
+      "light-green": {
+        "24": {
+          "value": "#007c4c"
+        }
+      },
+
       "grey": {
         "29": {
           "value": "#4a4a4a"
