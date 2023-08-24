@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "table": {
-      "border-color": { "value": "{noordwijk.color.black.0}" },
-      "border-width": { "value": "{noordwijk.size.4xs}" },
+      "border-color": {},
+      "border-width": {},
       "font-family": { "value": "{utrecht.document.font-family}" },
       "font-size": { "value": "{utrecht.document.font-size}" },
       "line-height": {},
@@ -42,8 +42,8 @@
         }
       },
       "row": {
-        "border-block-end-color": { "value": "{noordwijk.color.black.0}" },
-        "border-block-end-width": { "value": "{noordwijk.size.4xs}" },
+        "border-block-end-color": {},
+        "border-block-end-width": {},
         "padding-inline-end": {},
         "padding-inline-start": {},
         "alternate-odd": {
