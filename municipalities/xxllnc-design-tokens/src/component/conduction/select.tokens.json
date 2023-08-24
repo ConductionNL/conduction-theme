@@ -9,7 +9,22 @@
       "padding-block-end": { "value": 0 },
       "padding-block-start": { "value": 0 },
       "hover": {},
-      "focus": {}
+      "focus": {},
+      "list-option": {
+        "font-family": { "value": "{xxllnc.typography.sans-serif.font-family}" },
+        "background-color": {},
+        "hover": {
+          "font-family": { "value": "{xxllnc.typography.sans-serif.font-family}" },
+          "color": {},
+          "background-color": {}
+        }
+      },
+      "placeholder": {
+        "color": {
+          "value": "{utrecht.form-input.placeholder.color}"
+        },
+        "font-family": { "value": "{xxllnc.typography.sans-serif.font-family}" }
+      }
     }
   }
 }
