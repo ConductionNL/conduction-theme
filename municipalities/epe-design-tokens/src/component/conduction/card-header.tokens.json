@@ -16,10 +16,10 @@
         "color": { "value": "{epe.color.blue.31}" }
       },
       "date": {
-        "color": { "value": "{epe.color.blue.31}" },
-        "font-size": { "value": "{epe.color.blue.31}" },
-        "font-weight": { "value": "{epe.color.blue.31}" },
-        "margin-block-end": { "value": "{epe.color.blue.31}" }
+        "color": { "value": "{utrecht.document.color}" },
+        "font-size": { "value": "{epe.font-size.sm}" },
+        "font-weight": { "value": "{epe.typography.font-weight.light}" },
+        "margin-block-end": { "value": "{epe.size.xs}" }
       }
     }
   }
