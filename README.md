@@ -6,6 +6,10 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.29: 
+    - Added extra select tokens to all themes.
+    - Updated table tokens in noordwijk theme.
+    - Updated card-header tokens in epe theme.
   - 1.0.28: Fixed conduction-card-header tokens for epe theme.
   - 1.0.27:
     - Added conduction-card-header tokens in all themes.
