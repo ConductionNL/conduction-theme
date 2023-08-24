@@ -7,7 +7,7 @@
         "border-radius": { "value": "9999px" },
         "border-width": { "value": "{noaberkracht.size.4xs}" },
         "color": { "value": "{noaberkracht.color.blue.22}" },
-        "font-family": { "value": "{noaberkracht.typography.sans-serif.font-family}" },
+        "font-family": { "value": "{noaberkracht.typography.greycliff-cf.font-family}" },
         "font-size": { "value": "14px" },
         "line-height": {},
         "max-inline-size": {},
