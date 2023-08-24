@@ -26,8 +26,8 @@
 
       "blue": {
         "22": {
-          "value": "#003772",
-          "comment": "Base/Blue"
+          "value": "#003790",
+          "comment": "Base/Blue from Huisstijlhandboek, base color of website is #012c9d"
         },
         "31": {
           "value": "#012c9d99",
@@ -38,7 +38,7 @@
       "yellow": {
         "47": {
           "value": "#f0b800",
-          "comment": "Base/Yellow"
+          "comment": "Base/Yellow from Huisstijlhandboek, base color of website is #f0af00"
         }
       },
 
