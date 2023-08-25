@@ -6,8 +6,9 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.31: Added surface tokens to all themes.
   - 1.0.30: Added Noaberkracht theme.
-  - 1.0.29: 
+  - 1.0.29:
     - Added extra select tokens to all themes.
     - Updated table tokens in noordwijk theme.
     - Updated card-header tokens in epe theme.
