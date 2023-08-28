@@ -3,9 +3,9 @@
     "card-wrapper": {
       "background-color": { "value": "{tubbergen.color.green.89}" },
       "border-color": {},
-      "border-width": {},
+      "border-width": { "value": "unset" },
       "border-style": {},
-      "border-radius": {},
+      "border-radius": { "value": "0px" },
       "color": { "value": "{utrecht.document.color}" },
       "hover": {
         "background-color": {}
