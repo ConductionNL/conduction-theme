@@ -1,0 +1,19 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "var(--rotterdam-color-base-white)" },
+      "border-color": {},
+      "border-width": {},
+      "border-style": {},
+      "border-radius": { "value": "0px" },
+      "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
+      "hover": {
+        "background-color": {}
+      },
+      "padding-inline-end": { "value": "16px" },
+      "padding-inline-start": { "value": "16px" },
+      "padding-block-end": { "value": "16px" },
+      "padding-block-start": { "value": "16px" }
+    }
+  }
+}
