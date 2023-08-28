@@ -6,6 +6,23 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.31: Added surface tokens to all themes.
+  - 1.0.30: Added Noaberkracht theme.
+  - 1.0.29:
+    - Added extra select tokens to all themes.
+    - Updated table tokens in noordwijk theme.
+    - Updated card-header tokens in epe theme.
+  - 1.0.28: Fixed conduction-card-header tokens for epe theme.
+  - 1.0.27:
+    - Added conduction-card-header tokens in all themes.
+    - Updated conduction-card-wrapper tokens in all themes.
+  - 1.0.26:
+    - Added Noordwijk theme.
+    - Updated conduction-card-wrapper tokens in all themes.
+  - 1.0.25:
+    - Updated prefix of card tokens from `utrecht` to `conduction` in all themes.
+    - Moved all custom tokens from Conduction directory to utrecht/extra-tokens directory.
+    - Added readme to all themes.
   - 1.0.24:
     - Updated page tokens in all themes.
     - Updated list tokens in all themes.
