@@ -1,0 +1,35 @@
+{
+  "conduction": {
+    "pagination": {
+      "container-background-color": { "value": "unset" },
+      "container-padding-inline-start": { "value": "0px" },
+      "container-padding-inline-end": { "value": "0px" },
+      "container-padding-block-start": { "value": "0px" },
+      "container-padding-block-end": { "value": "0px" },
+
+      "item-gap": { "value": "{noordwijk.size.xs}" },
+      "item-color": { "value": "{noordwijk.color.black.0}" },
+      "item-background-color": { "value": "{noordwijk.color.white.100}" },
+      "item-border-radius": { "value": "{noordwijk.size.2xs}" },
+      "item-padding-inline-start": { "value": "{noordwijk.size.xs}" },
+      "item-padding-inline-end": { "value": "{noordwijk.size.xs}" },
+      "item-padding-block-start": { "value": "{noordwijk.size.xs}" },
+      "item-padding-block-end": { "value": "{noordwijk.size.xs}" },
+
+      "navigation-button-padding-inline-start": { "value": "{noordwijk.size.xs}" },
+      "navigation-button-padding-inline-end": { "value": "{noordwijk.size.xs}" },
+      "navigation-button-padding-block-start": { "value": "0px" },
+      "navigation-button-padding-block-end": { "value": "0px" },
+
+      "disabled-color": { "value": "{noordwijk.color.black.0}" },
+      "disabled-background-color": { "value": "{noordwijk.color.lightgrey.96}" },
+
+      "current-page-color": { "value": "{noordwijk.color.white.100}" },
+      "current-page-background-color": { "value": "{noordwijk.color.primary}" },
+      "current-page-font-weight": { "value": "{noordwijk.typography.font-weight.bold}" },
+      "current-page-text-decoration": { "value": "unset" },
+
+      "page-hover-color": { "value": "{noordwijk.color.primary}" }
+    }
+  }
+}
