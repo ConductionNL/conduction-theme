@@ -27,7 +27,7 @@
 
       "current-page-color": { "value": "{dinkelland.color.primary}" },
       "current-page-background-color": { "value": "{dinkelland.color.white.100}" },
-      "current-page-font-weight": { "value": "{dinkelland.typography.font-weight.bold}" },
+      "current-page-font-weight": { "value": "{dinkelland.typography.font-weight.normal}" },
       "current-page-text-decoration": { "value": "unset" },
 
       "page-hover-color": { "value": "{dinkelland.color.white.100}" },
