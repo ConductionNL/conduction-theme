@@ -31,7 +31,9 @@
       "current-page-text-decoration": { "value": "unset" },
 
       "page-hover-color": { "value": "{tubbergen.color.white.100}" },
-      "page-hover-background-color": { "value": "{tubbergen.color.green.16}" }
+      "page-hover-background-color": { "value": "{tubbergen.color.green.16}" },
+      "page-hover-text-decoration": { "value": "unset" },
+      "page-hover-text-decoration-thickness": { "value": "0px" }
     }
   }
 }
