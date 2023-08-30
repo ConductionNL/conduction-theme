@@ -17,6 +17,7 @@
       "item-padding-block-end": { "value": "{epe.size.xs}" },
       "item-font-size": { "value": "{utrecht.document.font-size}" },
       "item-font-weight": { "value": "{epe.typography.font-weight.normal}" },
+      "item-font-family": { "value": "{utrecht.document.font-family}" },
 
       "navigation-button-padding-inline-start": { "value": "{epe.size.xs}" },
       "navigation-button-padding-inline-end": { "value": "{epe.size.xs}" },
