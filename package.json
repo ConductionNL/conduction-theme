@@ -1,6 +1,6 @@
 {
   "name": "@conduction/theme",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "description": "Conduction's design tokens theme",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,6 @@
     "url": "git+https://github.com/ConductionNL/conduction-theme.git"
   },
   "scripts": {
-
     "build": "npm-run-all build:**",
     "build:conduction": "cd ./conduction-design-tokens && npm run build",
     "build:leiden": "cd ./municipalities/leiden-design-tokens && npm run build",
@@ -18,7 +17,6 @@
     "build:epe": "cd ./municipalities/epe-design-tokens && npm run build",
     "build:noordwijk": "cd ./municipalities/noordwijk-design-tokens && npm run build",
     "build:noaberkracht": "cd ./municipalities/noaberkracht-design-tokens && npm run build"
- 
   },
   "author": "",
   "license": "ISC",

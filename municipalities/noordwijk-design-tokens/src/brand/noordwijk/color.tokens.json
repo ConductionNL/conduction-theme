@@ -52,7 +52,7 @@
         }
       },
 
-      "light-grey": {
+      "lightgrey": {
         "96": {
           "value": "#f5f5f5",
           "comment": "Base/LightGrey"
