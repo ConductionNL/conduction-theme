@@ -18,6 +18,9 @@
       "item-font-size": { "value": "{utrecht.document.font-size}" },
       "item-font-weight": { "value": "{noordwijk.typography.font-weight.normal}" },
       "item-font-family": { "value": "{noordwijk.typography.roboto-slab.font-family}" },
+      "item-border-width": {},
+      "item-border-style": {},
+      "item-border-color": {},
 
       "navigation-button-padding-inline-start": { "value": "{noordwijk.size.xs}" },
       "navigation-button-padding-inline-end": { "value": "{noordwijk.size.xs}" },
@@ -31,11 +34,17 @@
       "current-page-background-color": { "value": "{noordwijk.color.primary}" },
       "current-page-font-weight": { "value": "{noordwijk.typography.font-weight.normal}" },
       "current-page-text-decoration": { "value": "unset" },
+      "current-page-border-width": {},
+      "current-page-border-style": {},
+      "current-page-border-color": {},
 
       "page-hover-color": { "value": "{noordwijk.color.white.100}" },
       "page-hover-background-color": { "value": "{noordwijk.color.primary}" },
       "page-hover-text-decoration": { "value": "unset" },
-      "page-hover-text-decoration-thickness": { "value": "0px" }
+      "page-hover-text-decoration-thickness": { "value": "0px" },
+      "page-hover-border-width": {},
+      "page-hover-border-style": {},
+      "page-hover-border-color": {}
     }
   }
 }
