@@ -16,6 +16,7 @@
       "item-padding-block-start": { "value": "7.5px" },
       "item-padding-block-end": { "value": "7.5px" },
       "item-font-size": { "value": "17.6px" },
+      "item-font-weight": { "value": "{dinkelland.typography.font-weight.normal}" },
 
       "navigation-button-padding-inline-start": { "value": "{dinkelland.size.xs}" },
       "navigation-button-padding-inline-end": { "value": "{dinkelland.size.xs}" },

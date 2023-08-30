@@ -16,6 +16,7 @@
       "item-padding-block-start": { "value": "{conduction.size.xs}" },
       "item-padding-block-end": { "value": "{conduction.size.xs}" },
       "item-font-size": { "value": "{utrecht.document.font-size}" },
+      "item-font-weight": { "value": "{conduction.typography.font-weight.normal}" },
 
       "navigation-button-padding-inline-start": { "value": "{conduction.size.xs}" },
       "navigation-button-padding-inline-end": { "value": "{conduction.size.xs}" },
