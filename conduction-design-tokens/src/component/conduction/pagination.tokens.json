@@ -21,7 +21,7 @@
       "navigation-button-padding-block-start": { "value": "0px" },
       "navigation-button-padding-block-end": { "value": "0px" },
 
-      "disabled-color": { "value": "{conduction.color.black.0}" },
+      "disabled-color": { "value": "{conduction.color.grey.82}" },
       "disabled-background-color": { "value": "{conduction.color.lightgrey.96}" },
 
       "current-page-color": { "value": "{conduction.color.white.100}" },
