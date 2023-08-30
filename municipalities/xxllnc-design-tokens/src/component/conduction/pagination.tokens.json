@@ -15,13 +15,16 @@
       "item-padding-inline-end": { "value": "12px" },
       "item-padding-block-start": { "value": "{xxllnc.size.xs}" },
       "item-padding-block-end": { "value": "{xxllnc.size.xs}" },
+      "item-font-size": { "value": "{utrecht.document.font-size}" },
+      "item-font-weight": { "value": "{xxllnc.typography.font-weight.normal}" },
+      "item-font-family": { "value": "{utrecht.document.font-family}" },
 
       "navigation-button-padding-inline-start": { "value": "" },
       "navigation-button-padding-inline-end": { "value": "" },
       "navigation-button-padding-block-start": { "value": "0px" },
       "navigation-button-padding-block-end": { "value": "0px" },
 
-      "disabled-color": { "value": "{xxllnc.color.black.16}" },
+      "disabled-color": { "value": "{xxllnc.color.grey.90}" },
       "disabled-background-color": { "value": "unset" },
 
       "current-page-color": { "value": "{xxllnc.color.white.100}" },
@@ -29,7 +32,10 @@
       "current-page-font-weight": { "value": "{xxllnc.typography.font-weight.bold}" },
       "current-page-text-decoration": { "value": "unset" },
 
-      "page-hover-color": { "value": "{xxllnc.color.primary}" }
+      "page-hover-color": { "value": "{xxllnc.color.primary}" },
+      "page-hover-background-color": { "value": "{xxllnc.color.white.100}" },
+      "page-hover-text-decoration": { "value": "unset" },
+      "page-hover-text-decoration-thickness": { "value": "0px" }
     }
   }
 }
