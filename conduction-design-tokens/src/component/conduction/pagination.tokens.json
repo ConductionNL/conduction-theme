@@ -15,6 +15,7 @@
       "item-padding-inline-end": { "value": "{conduction.size.xs}" },
       "item-padding-block-start": { "value": "{conduction.size.xs}" },
       "item-padding-block-end": { "value": "{conduction.size.xs}" },
+      "item-font-size": { "value": "{utrecht.document.font-size}" },
 
       "navigation-button-padding-inline-start": { "value": "{conduction.size.xs}" },
       "navigation-button-padding-inline-end": { "value": "{conduction.size.xs}" },
@@ -29,7 +30,8 @@
       "current-page-font-weight": { "value": "{conduction.typography.font-weight.bold}" },
       "current-page-text-decoration": { "value": "unset" },
 
-      "page-hover-color": { "value": "{conduction.color.primary}" }
+      "page-hover-color": { "value": "{conduction.color.primary}" },
+      "page-hover-background-color": { "value": "{conduction.color.white.100}" }
     }
   }
 }

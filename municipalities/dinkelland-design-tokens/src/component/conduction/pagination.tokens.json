@@ -8,28 +8,30 @@
       "container-padding-block-end": { "value": "0px" },
 
       "item-gap": { "value": "{dinkelland.size.2xs}" },
-      "item-color": { "value": "{dinkelland.color.black.0}" },
-      "item-background-color": { "value": "{dinkelland.color.white.100}" },
+      "item-color": { "value": "{dinkelland.color.white.100}" },
+      "item-background-color": { "value": "{dinkelland.color.primary}" },
       "item-border-radius": { "value": "0px" },
-      "item-padding-inline-start": { "value": "{dinkelland.size.xs}" },
-      "item-padding-inline-end": { "value": "{dinkelland.size.xs}" },
-      "item-padding-block-start": { "value": "{dinkelland.size.xs}" },
-      "item-padding-block-end": { "value": "{dinkelland.size.xs}" },
+      "item-padding-inline-start": { "value": "15px" },
+      "item-padding-inline-end": { "value": "15px" },
+      "item-padding-block-start": { "value": "7.5px" },
+      "item-padding-block-end": { "value": "7.5px" },
+      "item-font-size": { "value": "17.6px" },
 
       "navigation-button-padding-inline-start": { "value": "{dinkelland.size.xs}" },
       "navigation-button-padding-inline-end": { "value": "{dinkelland.size.xs}" },
       "navigation-button-padding-block-start": { "value": "0px" },
       "navigation-button-padding-block-end": { "value": "0px" },
 
-      "disabled-color": { "value": "{dinkelland.color.black.0}" },
+      "disabled-color": { "value": "{dinkelland.color.white.100}" },
       "disabled-background-color": { "value": "{dinkelland.color.lightgrey.96}" },
 
-      "current-page-color": { "value": "{dinkelland.color.white.100}" },
-      "current-page-background-color": { "value": "{dinkelland.color.primary}" },
+      "current-page-color": { "value": "{dinkelland.color.primary}" },
+      "current-page-background-color": { "value": "{dinkelland.color.white.100}" },
       "current-page-font-weight": { "value": "{dinkelland.typography.font-weight.bold}" },
       "current-page-text-decoration": { "value": "unset" },
 
-      "page-hover-color": { "value": "{dinkelland.color.primary}" }
+      "page-hover-color": { "value": "{dinkelland.color.white.100}" },
+      "page-hover-background-color": { "value": "{dinkelland.color.blue.31}" }
     }
   }
 }
