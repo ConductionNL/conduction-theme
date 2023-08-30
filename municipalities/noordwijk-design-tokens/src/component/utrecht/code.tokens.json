@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "code": {
-      "background-color": { "value": "{noordwijk.color.light-grey.92}" },
+      "background-color": { "value": "{noordwijk.color.lightgrey.92}" },
       "color": { "value": "{noordwijk.color.black.0}" },
       "font-family": { "value": "{noordwijk.typography.monospace.font-family}" },
       "font-size": { "value": "inherit" },
@@ -9,7 +9,7 @@
     },
 
     "code-block": {
-      "background-color": { "value": "{noordwijk.color.light-grey.92}" },
+      "background-color": { "value": "{noordwijk.color.lightgrey.92}" },
       "color": { "value": "{noordwijk.color.black.0}" },
       "font-family": { "value": "{noordwijk.typography.monospace.font-family}" },
       "font-size": { "value": "{noordwijk.font-size.md}" },
