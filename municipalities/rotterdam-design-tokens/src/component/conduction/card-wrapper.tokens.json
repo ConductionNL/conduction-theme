@@ -3,12 +3,18 @@
     "card-wrapper": {
       "background-color": { "value": "var(--rotterdam-color-base-white)" },
       "border-color": {},
-      "border-width": {},
       "border-style": {},
+      "border-width": {},
+      "border-bottom-color": { "value": "var(--rotterdam-color-gray-tint-04)" },
+      "border-bottom-style": { "value": "solid" },
+      "border-bottom-width": { "value": "4px" },
       "border-radius": { "value": "0px" },
       "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
       "hover": {
-        "background-color": {}
+        "background-color": {},
+        "border-bottom-color": { "value": "var(--rotterdam-color-green-tint-01)" },
+        "border-bottom-style": { "value": "solid" },
+        "border-bottom-width": { "value": "4px" }
       },
       "padding-inline-end": { "value": "16px" },
       "padding-inline-start": { "value": "16px" },
