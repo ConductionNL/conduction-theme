@@ -6,7 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
-  - 1.0.34: Rotterdam theme fix.
+  - 1.0.34 / 1.0.35: Rotterdam theme fix.
   - 1.0.33: Added Rotterdam theme.
   - 1.0.32: Added Pagination tokens for: Conduction, Dinkelland, Epe, Leiden, Noaberkracht, Noordwijk, Tubbergen and XXLLNC.
   - 1.0.31: Added surface tokens to all themes.
