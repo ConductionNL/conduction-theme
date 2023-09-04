@@ -1,0 +1,26 @@
+{
+  "conduction": {
+    "card-header": {
+      "background-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "color": { "value": "var(--utrecht-document-color)" },
+      "hover": {
+        "background-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
+      },
+      "title": {
+        "color": { "value": "var(--rotterdam-color-green-tint-01)" }
+      },
+      "date": {
+        "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
+        "font-size": { "value": "16px" },
+        "font-weight": { "value": "400" },
+        "margin-block-end": { "value": "8px" }
+      }
+    }
+  }
+}
