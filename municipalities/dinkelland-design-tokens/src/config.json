@@ -1,7 +1,7 @@
 {
   "fullName": "Gemeente Dinkelland",
   "name": "Dinkelland",
-  "prefix": "rotterdam",
+  "prefix": "dinkelland",
   "npm": "@conduction/dinkelland-design-tokens",
   "stories": ["react-utrecht-link--default"]
 }
