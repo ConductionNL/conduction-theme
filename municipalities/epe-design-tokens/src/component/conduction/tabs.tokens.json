@@ -56,6 +56,7 @@
         "border-bottom-color": { "value": "{epe.color.grey.90}" }
       },
       "panel": {
+        "background-color": {},
         "padding-block-start": { "value": "{epe.size.lg}" },
         "padding-block-end": { "value": "{epe.size.lg}" },
         "padding-inline-start": { "value": "{epe.size.lg}" },

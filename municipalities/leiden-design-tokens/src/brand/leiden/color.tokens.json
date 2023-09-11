@@ -38,6 +38,12 @@
         "89": {
           "value": "#e4e4e4",
           "comment": "Base/LightGrey"
+        },
+        "95": {
+          "value": "#f1f1f1"
+        },
+        "98": {
+          "value": "#fbfbfb"
         }
       },
 

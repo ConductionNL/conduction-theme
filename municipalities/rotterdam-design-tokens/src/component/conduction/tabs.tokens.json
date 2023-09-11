@@ -56,6 +56,7 @@
         "border-bottom-color": { "value": "var(--rotterdam-color-gray-tint-01)" }
       },
       "panel": {
+        "background-color": {},
         "padding-block-start": { "value": "24px" },
         "padding-block-end": { "value": "24px" },
         "padding-inline-start": { "value": "24px" },
