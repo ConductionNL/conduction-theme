@@ -10,7 +10,7 @@
       "border-bottom-width": {},
       "border-bottom-style": {},
       "border-bottom-color": {},
-      "bottom": { "value": "-1px" },
+      "bottom": { "value": "0px" },
       "padding-block-start": { "value": "{dinkelland.size.xs}" },
       "padding-block-end": { "value": "{dinkelland.size.xs}" },
       "padding-inline-start": { "value": "{dinkelland.size.sm}" },
