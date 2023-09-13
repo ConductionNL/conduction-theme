@@ -7,7 +7,6 @@
       "font-size": { "value": "inherit" },
       "line-height": {}
     },
-
     "code-block": {
       "background-color": { "value": "{leiden.color.lightgrey.89}" },
       "color": { "value": "{leiden.color.black.9}" },
