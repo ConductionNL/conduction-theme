@@ -8,7 +8,7 @@
     "conduction"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/noordwijk-design-tokens",
+  "name": "@nl-design-system-unstable/dinkelland-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

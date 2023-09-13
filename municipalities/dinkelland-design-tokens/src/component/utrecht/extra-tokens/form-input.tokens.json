@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "textbox": {
+    "form-input": {
       "background-color": { "value": "{dinkelland.color.white.100}" },
       "line-height": {},
       "placeholder": {
