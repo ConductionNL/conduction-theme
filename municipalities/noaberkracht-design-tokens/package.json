@@ -8,14 +8,14 @@
     "conduction"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@conduction/noaberkracht-design-tokens",
+  "name": "@nl-design-system-unstable/noaberkracht-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ConductionNL/conduction-theme.git"
+    "type": "git+ssh",
+    "url": "git@github.com:nl-design-system/themes.git"
   },
   "scripts": {
     "clean": "rimraf -rf dist/",
