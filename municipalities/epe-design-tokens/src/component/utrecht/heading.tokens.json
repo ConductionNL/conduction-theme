@@ -9,7 +9,6 @@
       "margin-block-end": { "value": "{epe.size.sm}" },
       "margin-block-start": { "value": "{epe.size.sm}" }
     },
-
     "heading-2": {
       "color": { "value": "{epe.color.black.19}" },
       "font-family": { "value": "{epe.typography.source-sans.font-family}" },
@@ -19,7 +18,6 @@
       "margin-block-end": { "value": "{epe.size.xs}" },
       "margin-block-start": { "value": 0 }
     },
-
     "heading-3": {
       "color": { "value": "{epe.color.black.19}" },
       "font-family": { "value": "{epe.typography.source-sans.font-family}" },
@@ -29,7 +27,6 @@
       "margin-block-end": { "value": "{epe.size.2xs}" },
       "margin-block-start": { "value": 0 }
     },
-
     "heading-4": {
       "color": { "value": "{epe.color.black.19}" },
       "font-family": { "value": "{epe.typography.source-sans.font-family}" },
@@ -39,7 +36,6 @@
       "margin-block-end": { "value": 0 },
       "margin-block-start": { "value": 0 }
     },
-
     "heading-5": {
       "color": { "value": "{epe.color.black.19}" },
       "font-family": { "value": "{epe.typography.source-sans.font-family}" },
