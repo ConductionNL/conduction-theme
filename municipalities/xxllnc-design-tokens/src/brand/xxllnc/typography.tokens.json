@@ -16,7 +16,6 @@
           "value": "\"Inter\", sans-serif"
         }
       },
-
       "font-weight": {
         "bold": {
           "value": "700"
@@ -28,7 +27,6 @@
           "value": "100"
         }
       },
-
       "scale": {
         "4xs": { "value": "{xxllnc.font-size.4xs}" },
         "3xs": { "value": "{xxllnc.font-size.3xs}" },
