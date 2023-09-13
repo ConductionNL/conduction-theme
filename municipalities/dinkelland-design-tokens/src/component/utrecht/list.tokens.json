@@ -23,7 +23,6 @@
         "margin-block-end": { "value": "{dinkelland.size.xs}" },
         "padding-inline-start": { "value": "1ch" }
       },
-
       "marker": {
         "color": { "value": "{utrecht.document.color}" }
       }

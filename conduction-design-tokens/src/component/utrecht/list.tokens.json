@@ -23,7 +23,6 @@
         "margin-block-end": { "value": "{conduction.size.xs}" },
         "padding-inline-start": { "value": "1ch" }
       },
-
       "marker": {
         "color": { "value": "{conduction.color.primary}" }
       }
