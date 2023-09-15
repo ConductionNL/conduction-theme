@@ -7,23 +7,18 @@
       "primary-hover": {
         "value": "#2e5ed9"
       },
-
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
       "alert-error-background": { "value": "#f8d7da" },
-
       "warning": { "value": "#ffc107" },
       "alert-warning": { "value": "#856404" },
       "alert-warning-background": { "value": "#fff3cd" },
-
       "succes": { "value": "#28a745" },
       "alert-succes": { "value": "#155724" },
       "alert-succes-background": { "value": "#d4edda" },
-
       "info": { "value": "{conduction.color.primary}" },
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
-
       "grey": {
         "29": {
           "value": "#4a4a4a"
@@ -42,14 +37,12 @@
           "value": "#f7f7f7"
         }
       },
-
       "lightgrey": {
         "96": {
           "value": "#f5f5f5",
           "comment": "Base/LightGrey"
         }
       },
-
       "white": {
         "98": {
           "value": "#fafafa"
@@ -59,7 +52,6 @@
           "comment": "Base/White"
         }
       },
-
       "black": {
         "0": {
           "value": "#000000",

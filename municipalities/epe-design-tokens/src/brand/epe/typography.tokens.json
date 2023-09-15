@@ -6,13 +6,11 @@
           "value": "\"Source Sans\""
         }
       },
-
       "monospace": {
         "font-family": {
           "value": "Monospace, \"Lucida Console\""
         }
       },
-
       "font-weight": {
         "bold": {
           "value": "700"
@@ -24,7 +22,6 @@
           "value": "100"
         }
       },
-
       "scale": {
         "4xs": { "value": "{epe.font-size.4xs}" },
         "3xs": { "value": "{epe.font-size.3xs}" },

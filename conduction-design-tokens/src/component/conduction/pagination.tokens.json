@@ -6,7 +6,6 @@
       "container-padding-inline-end": { "value": "0px" },
       "container-padding-block-start": { "value": "0px" },
       "container-padding-block-end": { "value": "0px" },
-
       "item-gap": { "value": "{conduction.size.2xs}" },
       "item-color": { "value": "{conduction.color.black.0}" },
       "item-background-color": { "value": "{conduction.color.white.100}" },
@@ -21,15 +20,12 @@
       "item-border-width": {},
       "item-border-style": {},
       "item-border-color": {},
-
       "navigation-button-padding-inline-start": { "value": "{conduction.size.xs}" },
       "navigation-button-padding-inline-end": { "value": "{conduction.size.xs}" },
       "navigation-button-padding-block-start": { "value": "0px" },
       "navigation-button-padding-block-end": { "value": "0px" },
-
       "disabled-color": { "value": "{conduction.color.grey.82}" },
       "disabled-background-color": { "value": "{conduction.color.lightgrey.96}" },
-
       "current-page-color": { "value": "{conduction.color.white.100}" },
       "current-page-background-color": { "value": "{conduction.color.primary}" },
       "current-page-font-weight": { "value": "{conduction.typography.font-weight.bold}" },
@@ -37,7 +33,6 @@
       "current-page-border-width": {},
       "current-page-border-style": {},
       "current-page-border-color": {},
-
       "page-hover-color": { "value": "{conduction.color.primary}" },
       "page-hover-background-color": { "value": "{conduction.color.white.100}" },
       "page-hover-text-decoration": { "value": "unset" },

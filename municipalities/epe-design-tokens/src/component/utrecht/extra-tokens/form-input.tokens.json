@@ -2,26 +2,12 @@
   "utrecht": {
     "form-input": {
       "background-color": { "value": "{epe.color.white.100}" },
-      "border-bottom-width": {},
-      "border-color": { "value": "{epe.color.grey.34}" },
-      "border-radius": { "value": "{epe.size.2xs}" },
-      "border-width": { "value": "{epe.size.4xs}" },
-      "color": { "value": "{epe.color.black.0}" },
-      "font-family": { "value": "{epe.typography.source-sans.font-family}" },
-      "font-size": { "value": "{epe.size.md}" },
       "line-height": {},
-      "max-inline-size": {},
-      "padding-block-end": { "value": "{epe.size.xs}" },
-      "padding-block-start": { "value": "{epe.size.xs}" },
-      "padding-inline-end": { "value": "{epe.size.sm}" },
-      "padding-inline-start": { "value": "{epe.size.sm}" },
       "placeholder": {
         "color": { "value": "{epe.color.grey.46}" }
       },
       "disabled": {
-        "background-color": {},
-        "border-color": {},
-        "color": {}
+        "background-color": {}
       },
       "focus": {
         "background-color": { "value": "{epe.color.white.100}" },
@@ -30,14 +16,10 @@
       },
       "invalid": {
         "background-color": {},
-        "border-color": {},
-        "border-width": {},
         "color": {}
       },
       "read-only": {
-        "background-color": {},
-        "border-color": {},
-        "color": {}
+        "background-color": {}
       }
     }
   }

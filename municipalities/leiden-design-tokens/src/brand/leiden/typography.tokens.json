@@ -3,7 +3,7 @@
     "typography": {
       "sans-serif": {
         "font-family": {
-          "value": "\"Open Sans\", Arial, sans-serif"
+          "value": "\"Open Sans\", Monospace, Arial, sans-serif"
         }
       },
       "monospace": {
@@ -11,7 +11,6 @@
           "value": "Monospace, \"Lucida Console\""
         }
       },
-
       "font-weight": {
         "bold": {
           "value": "700"
@@ -23,7 +22,6 @@
           "value": "100"
         }
       },
-
       "scale": {
         "4xs": { "value": "{leiden.font-size.4xs}" },
         "3xs": { "value": "{leiden.font-size.3xs}" },
