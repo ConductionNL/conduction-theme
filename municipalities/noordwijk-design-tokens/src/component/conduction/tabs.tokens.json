@@ -65,6 +65,14 @@
           "border-color": {},
           "border-top": {}
         }
+      },
+      "scroll-button": {
+        "background-color": { "value": "{noordwijk.color.white.100}" },
+        "color": { "value": "{noordwijk.color.grey.29}" },
+        "hover": {
+          "background-color": { "value": "{noordwijk.color.white.100}" },
+          "color": { "value": "{noordwijk.color.light-blue.58}" }
+        }
       }
     }
   }
