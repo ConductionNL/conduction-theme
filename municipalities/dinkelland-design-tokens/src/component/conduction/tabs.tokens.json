@@ -67,6 +67,14 @@
           "border-color": { "value": "{dinkelland.color.grey.72}" },
           "border-top": { "value": "0" }
         }
+      },
+      "scroll-button": {
+        "background-color": { "value": "{dinkelland.color.blue.96}" },
+        "color": { "value": "{dinkelland.color.grey.38}" },
+        "hover": {
+          "background-color": { "value": "{dinkelland.color.blue.96}" },
+          "color": { "value": "{dinkelland.color.blue.36}" }
+        }
       }
     }
   }
