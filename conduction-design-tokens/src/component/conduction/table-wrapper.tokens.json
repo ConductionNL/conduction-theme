@@ -1,0 +1,18 @@
+{
+  "conduction": {
+    "table-wrapper": {
+      "scroll-button": {
+        "background-color": { "value": "{conduction.color.white.100}" },
+        "color": { "value": "{conduction.color.black.0}" },
+        "padding-inline-start": { "value": "{conduction.size.sm}" },
+        "padding-inline-end": { "value": "{conduction.size.sm}" },
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "hover": {
+          "background-color": { "value": "{conduction.color.white.100}" },
+          "color": { "value": "{conduction.color.primary}" }
+        }
+      }
+    }
+  }
+}

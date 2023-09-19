@@ -67,6 +67,14 @@
           "border-color": {},
           "border-top": {}
         }
+      },
+      "scroll-button": {
+        "background-color": { "value": "{conduction.color.primary}" },
+        "color": { "value": "{conduction.color.white.100}" },
+        "hover": {
+          "background-color": { "value": "{conduction.color.primary-hover}" },
+          "color": { "value": "{conduction.color.white.100}" }
+        }
       }
     }
   }
