@@ -67,6 +67,14 @@
           "border-color": { "value": "{tubbergen.color.grey.72}" },
           "border-top": { "value": "0" }
         }
+      },
+      "scroll-button": {
+        "background-color": { "value": "{tubbergen.color.blue.96}" },
+        "color": { "value": "{tubbergen.color.grey.38}" },
+        "hover": {
+          "background-color": { "value": "{tubbergen.color.blue.96}" },
+          "color": { "value": "{tubbergen.color.primary}" }
+        }
       }
     }
   }
