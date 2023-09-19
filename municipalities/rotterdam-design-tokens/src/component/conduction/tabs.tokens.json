@@ -67,6 +67,14 @@
           "border-color": {},
           "border-top": {}
         }
+      },
+      "scroll-button": {
+        "background-color": { "value": "var(--rotterdam-color-base-white)" },
+        "color": { "value": "var(--utrecht-document-color)" },
+        "hover": {
+          "background-color": { "value": "var(--rotterdam-color-base-white)" },
+          "color": { "value": "var(--rotterdam-color-green-tint-01)" }
+        }
       }
     }
   }
