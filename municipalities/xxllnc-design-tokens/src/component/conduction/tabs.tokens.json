@@ -71,6 +71,9 @@
       "scroll-button": {
         "background-color": { "value": "{xxllnc.color.white.100}" },
         "color": { "value": "{xxllnc.color.black.16}" },
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
         "hover": {
           "background-color": { "value": "{xxllnc.color.white.100}" },
           "color": { "value": "{xxllnc.color.black.17-hover}" }

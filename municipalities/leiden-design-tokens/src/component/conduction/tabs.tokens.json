@@ -71,6 +71,9 @@
       "scroll-button": {
         "background-color": { "value": "{leiden.color.white.100}" },
         "color": { "value": "{leiden.color.black.9}" },
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
         "hover": {
           "background-color": { "value": "{leiden.color.lightgrey.98}" },
           "color": { "value": "{leiden.color.black.9}" }

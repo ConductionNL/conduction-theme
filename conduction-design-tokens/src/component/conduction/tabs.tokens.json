@@ -71,6 +71,9 @@
       "scroll-button": {
         "background-color": { "value": "{conduction.color.primary}" },
         "color": { "value": "{conduction.color.white.100}" },
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
         "hover": {
           "background-color": { "value": "{conduction.color.primary-hover}" },
           "color": { "value": "{conduction.color.white.100}" }
