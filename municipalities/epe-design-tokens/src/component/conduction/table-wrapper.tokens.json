@@ -8,14 +8,9 @@
         "padding-inline-end": { "value": "{epe.size.sm}" },
         "padding-block-start": {},
         "padding-block-end": {},
-        "hover": {
-          "background-color": { "value": "{epe.color.white.100}" },
-          "color": { "value": "{epe.color.primary}" }
-        }
-      },
-      "scroll-button": {
-        "background-color": { "value": "{epe.color.white.100}" },
-        "color": { "value": "{utrecht.document.color}" },
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
         "hover": {
           "background-color": { "value": "{epe.color.white.100}" },
           "color": { "value": "{epe.color.primary}" }

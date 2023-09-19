@@ -8,6 +8,9 @@
         "padding-inline-end": { "value": "{conduction.size.sm}" },
         "padding-block-start": {},
         "padding-block-end": {},
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
         "hover": {
           "background-color": { "value": "{conduction.color.white.100}" },
           "color": { "value": "{conduction.color.primary}" }
