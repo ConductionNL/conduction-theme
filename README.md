@@ -6,7 +6,10 @@ Conduction's design tokens theme
 
 - **Version 1**
 
-  - 1.0.37: updated all themes to correct way of working.
+  - 1.0.38: 
+    - Added table-wrapper-tokens to all themes.
+    - Updated tabs tokens in all themes.
+  - 1.0.37: Updated all themes to correct way of working.
   - 1.0.36: Added Badge-counter and Tabs tokens to all themes.
   - 1.0.34 / 1.0.35: Rotterdam theme fix.
   - 1.0.33: Added Rotterdam theme.
