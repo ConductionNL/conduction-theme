@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "breadcrumb": {
+      "link": {
+        "disabled": {
+          "background-color": {},
+          "color": { "value": "{conduction.color.grey.29}" }
+        },
+        "hover": {
+          "background-color": {},
+          "color": { "value": "{conduction.color.primary-hover}" }
+        }
+      }
+    }
+  }
+}
