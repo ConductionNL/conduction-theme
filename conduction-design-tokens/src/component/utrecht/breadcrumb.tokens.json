@@ -12,14 +12,14 @@
         "padding-inline-start": {}
       },
       "link": {
-        "background-color": {},
+        "background-color": {  },
         "color": { "value": "{conduction.color.primary}" },
         "focus": {
-          "background-color": {},
+          "background-color": { "value": "green" },
           "color": {}
         },
         "current": {
-          "background-color": {},
+          "background-color": { "value": "red" },
           "color": { "value": "{conduction.color.grey.29}" }
         }
       },

@@ -1,6 +1,11 @@
 {
   "utrecht": {
     "breadcrumb": {
+      "background-color": { "value": "{conduction.color.white.100}" },
+      "padding-inline-start": { "value": "0" },
+      "padding-inline-end": { "value": "0" },
+      "padding-block-start": { "value": "12px" },
+      "padding-block-end": { "value": "12px" },
       "link": {
         "disabled": {
           "background-color": {},
