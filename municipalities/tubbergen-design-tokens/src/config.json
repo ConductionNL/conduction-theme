@@ -1,7 +1,7 @@
 {
   "fullName": "Gemeente Tubbergen",
   "name": "Tubbergen",
-  "prefix": "tubbergen",
+  "prefix": "conduction",
   "npm": "@nl-design-system-unstable/tubbergen-design-tokens",
   "stories": [
     "react-utrecht-alert--default",
