@@ -2,7 +2,7 @@
   "utrecht": {
     "breadcrumb": {
       "block-size": {},
-      "font-family": {},
+      "font-family": { "value": "{utrecht.document.font-family}" },
       "font-size": {},
       "text-transform": {},
       "item": {
