@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.39: Added breadcrumb tokens to all themes. 
   - 1.0.38: 
     - Added table-wrapper-tokens to all themes.
     - Updated tabs tokens in all themes.
