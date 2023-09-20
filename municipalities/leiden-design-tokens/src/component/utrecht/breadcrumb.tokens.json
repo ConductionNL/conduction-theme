@@ -1,0 +1,35 @@
+{
+  "utrecht": {
+    "breadcrumb": {
+      "block-size": {},
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "15px" },
+      "text-transform": {},
+      "item": {
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "padding-inline-end": {},
+        "padding-inline-start": {}
+      },
+      "link": {
+        "background-color": {},
+        "color": { "value": "{leiden.color.black.9}" },
+        "focus": {
+          "background-color": {},
+          "color": {}
+        },
+        "current": {
+          "background-color": {},
+          "color": { "value": "{leiden.color.black.9}" }
+        }
+      },
+      "separator": {
+        "inline-size": {},
+        "icon": {
+          "color": { "value": "{leiden.color.black.9}" },
+          "size": { "value": "9px" }
+        }
+      }
+    }
+  }
+}
