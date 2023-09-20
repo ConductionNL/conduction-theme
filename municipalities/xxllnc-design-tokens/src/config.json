@@ -1,7 +1,7 @@
 {
   "fullName": "xxllnc",
   "name": "xxllnc",
-  "prefix": "xxllnc",
+  "prefix": "conduction",
   "npm": "@nl-design-system-unstable/xxllnc-design-tokens",
   "stories": [
     "react-utrecht-alert--default",
