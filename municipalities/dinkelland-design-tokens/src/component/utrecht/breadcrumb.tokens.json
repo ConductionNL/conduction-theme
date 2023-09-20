@@ -3,7 +3,7 @@
     "breadcrumb": {
       "block-size": {},
       "font-family": {},
-      "font-size": {},
+      "font-size": { "value": "{dinkelland.font-size.xs}" },
       "text-transform": {},
       "item": {
         "padding-block-start": {},
@@ -13,21 +13,21 @@
       },
       "link": {
         "background-color": {},
-        "color": { "value": "{conduction.color.primary}" },
+        "color": { "value": "{dinkelland.color.white.100}" },
         "focus": {
           "background-color": {},
           "color": {}
         },
         "current": {
           "background-color": {},
-          "color": { "value": "{conduction.color.grey.29}" }
+          "color": { "value": "{dinkelland.color.white.100}" }
         }
       },
       "separator": {
         "inline-size": {},
         "icon": {
-          "color": { "value": "{conduction.color.black.0}" },
-          "size": { "value": "{conduction.font-size.sm}" }
+          "color": { "value": "{dinkelland.color.white.100}" },
+          "size": { "value": "{dinkelland.font-size.xs}" }
         }
       }
     }
