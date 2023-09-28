@@ -1,0 +1,25 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{open-webconcept.color.white.100}" },
+      "border-color": { "value": "{open-webconcept.color.white.87}" },
+      "border-style": { "value": "solid" },
+      "border-width": { "value": "{open-webconcept.size.4xs}" },
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": {},
+      "color": { "value": "{open-webconcept.color.black.33}" },
+      "hover": {
+        "background-color": {},
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {}
+      },
+      "padding-inline-end": { "value": "{open-webconcept.size.md}" },
+      "padding-inline-start": { "value": "{open-webconcept.size.md}" },
+      "padding-block-end": { "value": "{open-webconcept.size.md}" },
+      "padding-block-start": { "value": "{open-webconcept.size.md}" }
+    }
+  }
+}

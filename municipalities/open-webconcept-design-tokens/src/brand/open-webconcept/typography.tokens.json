@@ -6,11 +6,6 @@
           "value": "\"Open Sans\", Monospace, Arial, sans-serif"
         }
       },
-      "test": {
-        "font-family": {
-          "value": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif"
-        }
-      },
       "monospace": {
         "font-family": {
           "value": "Monospace, \"Lucida Console\""

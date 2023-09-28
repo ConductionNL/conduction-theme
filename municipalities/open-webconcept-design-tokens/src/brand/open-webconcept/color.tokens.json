@@ -20,6 +20,9 @@
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "white": {
+        "87": {
+          "value": "#dcdcde"
+        },
         "100": {
           "value": "#ffffff",
           "comment": "Base/White"
