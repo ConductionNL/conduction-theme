@@ -1,0 +1,39 @@
+{
+  "conduction": {
+    "primary": {
+      "top-nav": {
+        "color": { "value": "{open-webconcept.color.black.27}" },
+        "background-color": { "value": "{open-webconcept.color.white.100}" },
+        "background-color-hover": { "value": "{open-webconcept.color.grey.93}" },
+        "background-color-active": { "value": "unset" },
+        "box-shadow-active": { "value": "inset 0 -4px {open-webconcept.color.primary}" },
+        "dropdown-border-radius": { "value": "{open-webconcept.size.md}" },
+
+        "item": {
+          "padding": { "value": "18px" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    },
+    "secondary": {
+      "top-nav": {
+        "color": { "value": "{open-webconcept.color.black.27}" },
+        "background-color": { "value": "transparent" },
+        "background-color-hover": { "value": "{open-webconcept.color.grey.93}" },
+        "background-color-active": { "value": "unset" },
+        "font-size": { "value": "{open-webconcept.font-size.md}" },
+        "font-weight": { "value": "400" },
+        "item": {
+          "padding": { "value": "18px" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    }
+  }
+}

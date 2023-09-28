@@ -26,7 +26,7 @@
         "color": { "value": "{open-webconcept.color.primary}" }
       },
       "icon": {
-        "size": { "value": "{open-webconcept.size.md}" }
+        "size": {}
       }
     }
   }
