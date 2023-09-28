@@ -52,9 +52,15 @@
         "16": {
           "value": "#292929"
         },
+        "29": {
+          "value": "#4a4a4a"
+        },
         "46": {
           "value": "#6c757d",
           "comment": "Base/Grey"
+        },
+        "50": {
+          "value": "#808080"
         },
         "73": {
           "value": "#bbbbbb"
