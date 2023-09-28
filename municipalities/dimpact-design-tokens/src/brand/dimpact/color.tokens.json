@@ -25,6 +25,12 @@
           "comment": "Base/Blue"
         }
       },
+      "light-blue": {
+        "53": {
+          "value": "#26b8e6",
+          "comment": "Base/Light-Blue"
+        }
+      },
       "pink": {
         "62": {
           "value": "#fa4494",
