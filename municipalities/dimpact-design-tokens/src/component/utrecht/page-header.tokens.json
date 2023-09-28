@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{dimpact.color.light-blue.53}" },
+      "color": { "value": "{dimpact.color.white.100}" },
+      "padding-block-start": { "value": "{dimpact.size.sm}" },
+      "padding-block-end": { "value": "{dimpact.size.sm}" }
+    }
+  }
+}
