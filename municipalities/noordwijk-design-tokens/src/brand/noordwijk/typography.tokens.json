@@ -3,12 +3,12 @@
     "typography": {
       "roboto": {
         "font-family": {
-          "value": "\"Roboto\",  Arial, sans-serif"
+          "value": "\"Roboto\", Monospace, Arial, sans-serif"
         }
       },
       "roboto-slab": {
         "font-family": {
-          "value": "\"Roboto Slab\", Arial, sans-serif"
+          "value": "\"Roboto Slab\", Monospace, Arial, sans-serif"
         }
       },
       "monospace": {
