@@ -42,6 +42,12 @@
           "value": "#000000",
           "comment": "Base/Black"
         }
+      },
+      "grey": {
+        "29": {
+          "value": "#4a4a4a",
+          "comment": "Base/Grey"
+        }
       }
     }
   }
