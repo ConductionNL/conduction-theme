@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.41: Added Dimpact theme. 
   - 1.0.40: Added Open Webconcept theme. 
   - 1.0.39: Added breadcrumb tokens to all themes. 
   - 1.0.38: 
