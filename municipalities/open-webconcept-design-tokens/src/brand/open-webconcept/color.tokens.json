@@ -49,6 +49,9 @@
         }
       },
       "grey": {
+        "16": {
+          "value": "#292929"
+        },
         "46": {
           "value": "#6c757d",
           "comment": "Base/Grey"
