@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{open-webconcept.size.3xs}" },
+        "2xs": { "value": "{open-webconcept.size.2xs}" },
+        "xs": { "value": "{open-webconcept.size.xs}" },
+        "sm": { "value": "{open-webconcept.size.sm}" },
+        "md": { "value": "{open-webconcept.size.md}" },
+        "lg": { "value": "{open-webconcept.size.lg}" },
+        "xl": { "value": "{open-webconcept.size.xl}" },
+        "2xl": { "value": "{open-webconcept.size.2xl}" },
+        "3xl": { "value": "{open-webconcept.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{open-webconcept.size.3xs}" },
+        "2xs": { "value": "{open-webconcept.size.2xs}" },
+        "xs": { "value": "{open-webconcept.size.xs}" },
+        "sm": { "value": "{open-webconcept.size.sm}" },
+        "md": { "value": "{open-webconcept.size.md}" },
+        "lg": { "value": "{open-webconcept.size.lg}" },
+        "xl": { "value": "{open-webconcept.size.xl}" },
+        "2xl": { "value": "{open-webconcept.size.2xl}" },
+        "3xl": { "value": "{open-webconcept.size.3xl}" }
+      }
+    }
+  }
+}
