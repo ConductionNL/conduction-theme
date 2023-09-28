@@ -23,17 +23,17 @@
         }
       },
       "scale": {
-        "4xs": { "value": "{conduction.font-size.4xs}" },
-        "3xs": { "value": "{conduction.font-size.3xs}" },
-        "2xs": { "value": "{conduction.font-size.2xs}" },
-        "xs": { "value": "{conduction.font-size.xs}" },
-        "sm": { "value": "{conduction.font-size.sm}" },
-        "md": { "value": "{conduction.font-size.md}" },
-        "lg": { "value": "{conduction.font-size.lg}" },
-        "xl": { "value": "{conduction.font-size.xl}" },
-        "2xl": { "value": "{conduction.font-size.2xl}" },
-        "3xl": { "value": "{conduction.font-size.3xl}" },
-        "4xl": { "value": "{conduction.font-size.4xl}" }
+        "4xs": { "value": "{open-webconcept.font-size.4xs}" },
+        "3xs": { "value": "{open-webconcept.font-size.3xs}" },
+        "2xs": { "value": "{open-webconcept.font-size.2xs}" },
+        "xs": { "value": "{open-webconcept.font-size.xs}" },
+        "sm": { "value": "{open-webconcept.font-size.sm}" },
+        "md": { "value": "{open-webconcept.font-size.md}" },
+        "lg": { "value": "{open-webconcept.font-size.lg}" },
+        "xl": { "value": "{open-webconcept.font-size.xl}" },
+        "2xl": { "value": "{open-webconcept.font-size.2xl}" },
+        "3xl": { "value": "{open-webconcept.font-size.3xl}" },
+        "4xl": { "value": "{open-webconcept.font-size.4xl}" }
       }
     }
   }
