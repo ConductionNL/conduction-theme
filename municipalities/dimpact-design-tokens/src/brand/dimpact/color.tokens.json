@@ -54,6 +54,12 @@
           "value": "#4a4a4a",
           "comment": "Base/Grey"
         }
+      },
+      "light-grey": {
+        "96": {
+          "value": "#f5f5f5",
+          "comment": "Base/LightGrey"
+        }
       }
     }
   }
