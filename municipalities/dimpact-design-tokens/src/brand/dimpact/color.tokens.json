@@ -1,5 +1,48 @@
 {
   "dimpact": {
-    "color": {}
+    "color": {
+      "primary": {
+        "value": "#00377a"
+      },
+      "primary-hover": {
+        "value": "#fa4494"
+      },
+      "error": { "value": "#dc3545" },
+      "alert-error": { "value": "#721c24" },
+      "alert-error-background": { "value": "#f8d7da" },
+      "warning": { "value": "#ffc107" },
+      "alert-warning": { "value": "#856404" },
+      "alert-warning-background": { "value": "#fff3cd" },
+      "succes": { "value": "#28a745" },
+      "alert-succes": { "value": "#155724" },
+      "alert-succes-background": { "value": "#d4edda" },
+      "info": { "value": "{dimpact.color.primary}" },
+      "alert-info": { "value": "#004085" },
+      "alert-info-background": { "value": "#cce5ff" },
+      "blue": {
+        "24": {
+          "value": "#00377a",
+          "comment": "Base/Blue"
+        }
+      },
+      "pink": {
+        "62": {
+          "value": "#fa4494",
+          "comment": "Base/Pink"
+        }
+      },
+      "white": {
+        "100": {
+          "value": "#ffffff",
+          "comment": "Base/White"
+        }
+      },
+      "black": {
+        "0": {
+          "value": "#000000",
+          "comment": "Base/Black"
+        }
+      }
+    }
   }
 }
