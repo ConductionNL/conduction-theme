@@ -8,7 +8,7 @@
       "border-bottom-color": {},
       "border-bottom-style": {},
       "border-bottom-width": {},
-      "border-radius": {},
+      "border-radius": { "value": "usnet" },
       "color": { "value": "{open-webconcept.color.black.33}" },
       "hover": {
         "background-color": {},
