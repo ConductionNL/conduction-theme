@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{dimpact.color.pink.62}" },
+      "font-family": { "value": "{dimpact.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{dimpact.font-size.3xl}" },
+      "font-weight": { "value": "{dimpact.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{dimpact.size.2xl}" },
+      "margin-block-start": { "value": "{dimpact.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{dimpact.color.pink.62}" },
+      "font-family": { "value": "{dimpact.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{dimpact.font-size.2xl}" },
+      "font-weight": { "value": "{dimpact.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{dimpact.size.2xl}" },
+      "margin-block-start": { "value": "{dimpact.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{dimpact.color.pink.62}" },
+      "font-family": { "value": "{dimpact.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{dimpact.font-size.xl}" },
+      "font-weight": { "value": "{dimpact.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{dimpact.size.xl}" },
+      "margin-block-start": { "value": "{dimpact.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{dimpact.color.pink.62}" },
+      "font-family": { "value": "{dimpact.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{dimpact.font-size.lg}" },
+      "font-weight": { "value": "{dimpact.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{dimpact.size.lg}" },
+      "margin-block-start": { "value": "{dimpact.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{dimpact.color.pink.62}" },
+      "font-family": { "value": "{dimpact.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{dimpact.font-size.md}" },
+      "font-weight": { "value": "{dimpact.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{dimpact.size.lg}" },
+      "margin-block-start": { "value": "{dimpact.size.md}" }
+    }
+  }
+}
