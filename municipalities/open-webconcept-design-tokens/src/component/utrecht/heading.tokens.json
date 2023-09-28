@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{open-webconcept.color.black.27}" },
+      "font-family": { "value": "{open-webconcept.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{open-webconcept.font-size.3xl}" },
+      "font-weight": { "value": "{open-webconcept.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{open-webconcept.size.2xl}" },
+      "margin-block-start": { "value": "{open-webconcept.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{open-webconcept.color.black.27}" },
+      "font-family": { "value": "{open-webconcept.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{open-webconcept.font-size.2xl}" },
+      "font-weight": { "value": "{open-webconcept.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{open-webconcept.size.2xl}" },
+      "margin-block-start": { "value": "{open-webconcept.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{open-webconcept.color.black.27}" },
+      "font-family": { "value": "{open-webconcept.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{open-webconcept.font-size.xl}" },
+      "font-weight": { "value": "{open-webconcept.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{open-webconcept.size.xl}" },
+      "margin-block-start": { "value": "{open-webconcept.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{open-webconcept.color.black.27}" },
+      "font-family": { "value": "{open-webconcept.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{open-webconcept.font-size.lg}" },
+      "font-weight": { "value": "{open-webconcept.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{open-webconcept.size.lg}" },
+      "margin-block-start": { "value": "{open-webconcept.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{open-webconcept.color.black.27}" },
+      "font-family": { "value": "{open-webconcept.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{open-webconcept.font-size.md}" },
+      "font-weight": { "value": "{open-webconcept.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{open-webconcept.size.lg}" },
+      "margin-block-start": { "value": "{open-webconcept.size.md}" }
+    }
+  }
+}

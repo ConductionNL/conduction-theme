@@ -1,0 +1,17 @@
+{
+  "open-webconcept": {
+    "font-size": {
+      "4xs": { "value": "3px" },
+      "3xs": { "value": "5px" },
+      "2xs": { "value": "8px" },
+      "xs": { "value": "10px" },
+      "sm": { "value": "12px" },
+      "md": { "value": "14px" },
+      "lg": { "value": "18px" },
+      "xl": { "value": "21px" },
+      "2xl": { "value": "24px" },
+      "3xl": { "value": "36px" },
+      "4xl": { "value": "48px" }
+    }
+  }
+}
