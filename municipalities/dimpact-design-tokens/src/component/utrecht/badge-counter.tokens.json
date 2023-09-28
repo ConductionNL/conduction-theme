@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "badge-counter": {
-      "background-color": { "value": "{dimpact.color.primary}" },
+      "background-color": { "value": "{dimpact.color.pink.62}" },
       "border-radius": { "value": "50%" },
       "color": { "value": "{dimpact.color.white.100}" },
       "font-size": { "value": "{utrecht.document.font-size}" },
