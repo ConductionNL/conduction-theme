@@ -27,6 +27,10 @@
         "100-25t": {
           "value": "##ffffff40",
           "comment": "White with 25% transparency"
+        },
+        "100-70t": {
+          "value": "#ffffffb3",
+          "comment": "White with 70% transparency"
         }
       },
       "black": {
@@ -42,6 +46,18 @@
         },
         "33": {
           "value": "#555555"
+        }
+      },
+      "grey": {
+        "46": {
+          "value": "#6c757d",
+          "comment": "Base/Grey"
+        },
+        "73": {
+          "value": "#bbbbbb"
+        },
+        "93": {
+          "value": "#eeeeee"
         }
       }
     }
