@@ -4,11 +4,26 @@
       "top-nav": {
         "color": { "value": "{open-webconcept.color.black.27}" },
         "background-color": { "value": "{open-webconcept.color.white.100}" },
-        "background-color-hover": { "value": "{open-webconcept.color.grey.93}" },
-        "background-color-active": { "value": "unset" },
-        "box-shadow-active": { "value": "inset 0 -4px {open-webconcept.color.primary}" },
-        "dropdown-border-radius": { "value": "{open-webconcept.size.md}" },
-
+        "hover": {
+          "color": { "value": "{open-webconcept.color.black.27}" },
+          "background-color": { "value": "{open-webconcept.color.grey.93}" }
+        },
+        "current": {
+          "color": { "value": "{open-webconcept.color.black.27}" },
+          "background-color": { "value": "unset" },
+          "box-shadow": { "value": "inset 0 -4px {open-webconcept.color.primary}" }
+        },
+        "dropdown": {
+          "color": {},
+          "background-color": {},
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "hover": {
+            "color": {},
+            "background-color": {}
+          }
+        },
         "item": {
           "padding": { "value": "18px" }
         },
@@ -22,8 +37,15 @@
       "top-nav": {
         "color": { "value": "{open-webconcept.color.black.27}" },
         "background-color": { "value": "transparent" },
-        "background-color-hover": { "value": "{open-webconcept.color.grey.93}" },
-        "background-color-active": { "value": "unset" },
+        "hover": {
+          "color": { "value": "{open-webconcept.color.black.27}" },
+          "background-color": { "value": "{open-webconcept.color.grey.93}" }
+        },
+        "current": {
+          "color": { "value": "{open-webconcept.color.black.27}" },
+          "background-color": { "value": "unset" },
+          "box-shadow": { "value": "inset 0 -4px {open-webconcept.color.primary}" }
+        },
         "font-size": { "value": "{open-webconcept.font-size.md}" },
         "font-weight": { "value": "400" },
         "item": {
