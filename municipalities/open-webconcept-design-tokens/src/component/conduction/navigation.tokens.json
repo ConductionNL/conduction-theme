@@ -6,7 +6,8 @@
         "background-color": { "value": "{open-webconcept.color.white.100}" },
         "hover": {
           "color": { "value": "{open-webconcept.color.black.27}" },
-          "background-color": { "value": "{open-webconcept.color.grey.93}" }
+          "background-color": { "value": "{open-webconcept.color.grey.93}" },
+          "box-shadow": {}
         },
         "current": {
           "color": { "value": "{open-webconcept.color.black.27}" },
@@ -21,7 +22,8 @@
           "border-color": {},
           "hover": {
             "color": {},
-            "background-color": {}
+            "background-color": {},
+            "box-shadow": {}
           }
         },
         "item": {

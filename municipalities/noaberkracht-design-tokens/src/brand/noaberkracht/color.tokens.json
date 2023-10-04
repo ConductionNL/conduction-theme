@@ -27,6 +27,10 @@
         "31-60t": {
           "value": "#012c9d99",
           "comment": "Blue with 60% transparency"
+        },
+        "59": {
+          "value": "#6780c4",
+          "comment": "Blue color for over 31-60t color"
         }
       },
       "yellow": {
