@@ -6,12 +6,16 @@
         "background-color": { "value": "{epe.color.white.100}" },
         "hover": {
           "color": { "value": "{epe.color.primary}" },
-          "background-color": { "value": "{epe.color.white.100}" }
+          "background-color": { "value": "{epe.color.white.100}" },
+          "box-shadow": {}
         },
         "current": {
           "color": { "value": "{epe.color.primary}" },
           "background-color": { "value": "unset" },
-          "box-shadow": { "value": "inset 0 -4px {epe.color.primary}" }
+          "box-shadow": { "value": "inset 0 -4px {epe.color.primary}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 4px 0 {epe.color.primary}" }
+          }
         },
         "dropdown": {
           "color": {},
@@ -21,7 +25,8 @@
           "border-color": {},
           "hover": {
             "color": {},
-            "background-color": {}
+            "background-color": {},
+            "box-shadow": {}
           }
         },
         "item": {

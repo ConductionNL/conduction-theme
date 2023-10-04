@@ -12,7 +12,10 @@
         "current": {
           "color": { "value": "{noaberkracht.color.white.100}" },
           "background-color": { "value": "{noaberkracht.color.blue.59}" },
-          "box-shadow": { "value": "inset 0 -4px {noaberkracht.color.yellow.47}" }
+          "box-shadow": { "value": "inset 0 -4px {noaberkracht.color.yellow.47}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 4px 0 {noaberkracht.color.yellow.47}" }
+          }
         },
         "dropdown": {
           "color": { "value": "{noaberkracht.color.white.100}" },

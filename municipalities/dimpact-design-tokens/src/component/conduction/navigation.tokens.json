@@ -6,12 +6,16 @@
         "background-color": { "value": "{dimpact.color.white.100}" },
         "hover": {
           "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" }
+          "background-color": { "value": "{dimpact.color.pink.62}" },
+          "box-shadow": {}
         },
         "current": {
           "color": { "value": "{dimpact.color.white.100}" },
           "background-color": { "value": "{dimpact.color.pink.62}" },
-          "box-shadow": { "value": "" }
+          "box-shadow": { "value": "" },
+          "mobile": {
+            "box-shadow": { "value": "" }
+          }
         },
         "dropdown": {
           "color": {},
@@ -21,7 +25,8 @@
           "border-color": {},
           "hover": {
             "color": {},
-            "background-color": {}
+            "background-color": {},
+            "box-shadow": {}
           }
         },
         "item": {

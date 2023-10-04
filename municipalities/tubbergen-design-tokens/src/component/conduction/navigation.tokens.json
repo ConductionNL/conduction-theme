@@ -12,7 +12,10 @@
         "current": {
           "color": { "value": "{tubbergen.color.primary}" },
           "background-color": { "value": "unset" },
-          "box-shadow": { "value": "inset 0 -4px {tubbergen.color.primary}" }
+          "box-shadow": { "value": "inset 0 -4px {tubbergen.color.primary}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 4px 0 {tubbergen.color.primary}" }
+          }
         },
         "dropdown": {
           "color": {},

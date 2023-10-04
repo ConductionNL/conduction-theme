@@ -12,7 +12,10 @@
         "current": {
           "color": { "value": "{open-webconcept.color.black.27}" },
           "background-color": { "value": "unset" },
-          "box-shadow": { "value": "inset 0 -4px {open-webconcept.color.primary}" }
+          "box-shadow": { "value": "inset 0 -4px {open-webconcept.color.primary}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 4px 0 {open-webconcept.color.primary}" }
+          }
         },
         "dropdown": {
           "color": {},

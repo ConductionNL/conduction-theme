@@ -12,7 +12,10 @@
         "current": {
           "color": { "value": "{xxllnc.color.black.23}" },
           "background-color": { "value": "{xxllnc.color.black.12-6-7t}" },
-          "box-shadow": {}
+          "box-shadow": {},
+          "mobile": {
+            "box-shadow": {}
+          }
         },
         "dropdown": {
           "color": { "value": "{xxllnc.color.lightgrey.86}" },

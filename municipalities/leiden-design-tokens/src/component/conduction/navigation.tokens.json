@@ -6,12 +6,16 @@
         "background-color": { "value": "{leiden.color.black.9}" },
         "hover": {
           "color": { "value": "{leiden.color.blue.27}" },
-          "background-color": { "value": "{leiden.color.black.9}" }
+          "background-color": { "value": "{leiden.color.black.9}" },
+          "box-shadow": {}
         },
         "current": {
           "color": { "value": "{leiden.color.white.100}" },
           "background-color": { "value": "{leiden.color.black.9}" },
-          "box-shadow": { "value": "inset 0 -4px {leiden.color.white.100}" }
+          "box-shadow": { "value": "inset 0 -4px {leiden.color.white.100}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 4px 0 {leiden.color.white.100}" }
+          }
         },
         "dropdown": {
           "color": { "value": "{leiden.color.blue.27}" },
@@ -21,7 +25,8 @@
           "border-color": {},
           "hover": {
             "color": { "value": "{leiden.color.black.9}" },
-            "background-color": { "value": "{leiden.color.white.100}" }
+            "background-color": { "value": "{leiden.color.white.100}" },
+            "box-shadow": {}
           }
         },
         "item": {

@@ -12,7 +12,10 @@
         "current": {
           "color": { "value": "{noordwijk.color.blue.30}" },
           "background-color": { "value": "unset" },
-          "box-shadow": { "value": "inset 0 -4px {noordwijk.color.light-blue.58}" }
+          "box-shadow": { "value": "inset 0 -4px {noordwijk.color.light-blue.58}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 4px 0 {noordwijk.color.light-blue.58}" }
+          }
         },
         "dropdown": {
           "color": { "value": "{noordwijk.color.black.15}" },
