@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "breadcrumb": {
+    "breadcrumb-nav": {
       "block-size": {},
       "font-family": { "value": "{noordwijk.typography.roboto-slab.font-family}" },
       "font-size": { "value": "{noordwijk.font-size.sm}" },
@@ -24,9 +24,9 @@
         }
       },
       "separator": {
+        "color": { "value": "{noordwijk.color.white.100}" },
         "inline-size": {},
         "icon": {
-          "color": { "value": "{noordwijk.color.white.100}" },
           "size": { "value": "{noordwijk.font-size.sm}" }
         }
       }
