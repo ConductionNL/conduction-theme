@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "breadcrumb": {
+    "breadcrumb-nav": {
       "background-color": { "value": "{noordwijk.color.light-blue.46}" },
       "padding-inline-start": { "value": "0" },
       "padding-inline-end": { "value": "0" },

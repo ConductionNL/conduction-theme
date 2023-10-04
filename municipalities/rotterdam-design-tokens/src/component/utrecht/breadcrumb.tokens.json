@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "breadcrumb": {
+    "breadcrumb-nav": {
       "block-size": {},
       "font-family": { "value": "var(--utrecht-document-font-family)" },
       "font-size": {},
@@ -24,9 +24,9 @@
         }
       },
       "separator": {
+        "color": { "value": "var(--rotterdam-color-green-tint-01)" },
         "inline-size": {},
         "icon": {
-          "color": { "value": "var(--rotterdam-color-green-tint-01)" },
           "size": { "value": "16px" }
         }
       }
