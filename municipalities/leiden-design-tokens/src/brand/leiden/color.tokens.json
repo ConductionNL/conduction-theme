@@ -55,6 +55,11 @@
           "comment": "Base/Black"
         }
       },
+      "blue": {
+        "27": {
+          "value": "#035688"
+        }
+      },
       "lightblue": {
         "24": {
           "value": "#2c3e50",
