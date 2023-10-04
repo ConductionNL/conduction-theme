@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "separator": {
+      "color": { "value": "{dimpact.color.grey.84}" },
+      "block-size": { "value": "{dimpact.size.4xs}" },
+      "margin-block-end": { "value": "0px" },
+      "margin-block-start": { "value": "0px" }
+    }
+  }
+}

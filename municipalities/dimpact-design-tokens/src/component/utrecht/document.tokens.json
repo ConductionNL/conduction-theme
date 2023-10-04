@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": {},
+      "color": { "value": "{dimpact.color.primary}" },
+      "font-family": { "value": "{dimpact.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{dimpact.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}
