@@ -1,17 +1,18 @@
 {
   "noaberkracht": {
     "font-size": {
-      "4xs": { "value": "8px" },
-      "3xs": { "value": "10x" },
-      "2xs": { "value": "12px" },
-      "xs": { "value": "14px" },
-      "sm": { "value": "18px" },
-      "md": { "value": "24px" },
-      "lg": { "value": "36px" },
-      "xl": { "value": "48px" },
-      "2xl": { "value": "60px" },
-      "3xl": { "value": "72px" },
-      "4xl": { "value": "84px" }
+      "4xs": { "value": "5px" },
+      "3xs": { "value": "8px" },
+      "2xs": { "value": "10x" },
+      "xs": { "value": "12px" },
+      "sm": { "value": "14px" },
+      "md": { "value": "18px" },
+      "lg": { "value": "24px" },
+      "xl": { "value": "36px" },
+      "2xl": { "value": "48px" },
+      "3xl": { "value": "60px" },
+      "4xl": { "value": "72px" },
+      "5xl": { "value": "84px" }
     }
   }
 }
