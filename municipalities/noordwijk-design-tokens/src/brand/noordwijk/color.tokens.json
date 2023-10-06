@@ -46,12 +46,12 @@
         }
       },
       "lightgrey": {
+        "92": {
+          "value": "#ebebeb"
+        },
         "96": {
           "value": "#f5f5f5",
           "comment": "Base/LightGrey"
-        },
-        "92": {
-          "value": "#ebebeb"
         }
       },
       "light-blue": {
