@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.45: Updated card-header border-bottom width for Epe theme
   - 1.0.44: 
     - Updated card-header border bottom and logo with in Epe theme.
     - Updated font-sizes in Noaberkracht theme.
