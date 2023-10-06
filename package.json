@@ -1,6 +1,6 @@
 {
   "name": "@conduction/theme",
-  "version": "1.0.43",
+  "version": "1.0.44",
   "description": "Conduction's design tokens theme",
   "main": "index.js",
   "repository": {
