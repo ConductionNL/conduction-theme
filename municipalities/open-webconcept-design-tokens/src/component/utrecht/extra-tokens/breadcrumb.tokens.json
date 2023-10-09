@@ -1,7 +1,8 @@
 {
   "utrecht": {
-    "breadcrumb": {
+    "breadcrumb-nav": {
       "background-color": { "value": "{open-webconcept.color.black.20}" },
+      "border-radius": { "value": "999px" },
       "padding-inline-start": { "value": "0" },
       "padding-inline-end": { "value": "0" },
       "padding-block-start": { "value": "12px" },

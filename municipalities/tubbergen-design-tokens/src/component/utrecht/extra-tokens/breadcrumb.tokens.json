@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "breadcrumb": {
+    "breadcrumb-nav": {
       "background-color": { "value": "{tubbergen.color.green.21}" },
       "padding-inline-start": { "value": "7.5px" },
       "padding-inline-end": { "value": "7.5px" },

@@ -1,7 +1,8 @@
 {
   "utrecht": {
-    "breadcrumb": {
+    "breadcrumb-nav": {
       "background-color": { "value": "{dinkelland.color.green.24}" },
+      "border-radius": {},
       "padding-inline-start": { "value": "7.5px" },
       "padding-inline-end": { "value": "7.5px" },
       "padding-block-start": { "value": "15px" },

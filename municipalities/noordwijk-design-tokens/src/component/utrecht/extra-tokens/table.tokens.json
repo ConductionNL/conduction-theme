@@ -9,7 +9,7 @@
       },
       "row": {
         "hover": {
-          "background-color": {},
+          "background-color": { "value": "{noordwijk.color.white.98}" },
           "color": {}
         }
       },

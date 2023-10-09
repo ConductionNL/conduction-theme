@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "breadcrumb": {
+    "breadcrumb-nav": {
       "block-size": {},
       "font-family": { "value": "{utrecht.document.font-family}" },
       "font-size": {},
@@ -25,8 +25,8 @@
       },
       "separator": {
         "inline-size": {},
+        "color": { "value": "{conduction.color.black.0}" },
         "icon": {
-          "color": { "value": "{conduction.color.black.0}" },
           "size": { "value": "{conduction.font-size.sm}" }
         }
       }

@@ -2,19 +2,19 @@
   "conduction": {
     "primary": {
       "top-nav": {
-        "color": { "value": "{dimpact.color.blue.24}" },
-        "background-color": { "value": "{dimpact.color.white.100}" },
+        "color": { "value": "{epe.color.black.19}" },
+        "background-color": { "value": "{epe.color.white.100}" },
         "hover": {
-          "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" },
+          "color": { "value": "{epe.color.primary}" },
+          "background-color": { "value": "{epe.color.white.100}" },
           "box-shadow": {}
         },
         "current": {
-          "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" },
-          "box-shadow": { "value": "" },
+          "color": { "value": "{epe.color.primary}" },
+          "background-color": { "value": "unset" },
+          "box-shadow": { "value": "inset 0 -4px {epe.color.primary}" },
           "mobile": {
-            "box-shadow": { "value": "" }
+            "box-shadow": { "value": "inset 4px 0 {epe.color.primary}" }
           }
         },
         "dropdown": {
@@ -40,18 +40,18 @@
     },
     "secondary": {
       "top-nav": {
-        "color": { "value": "{dimpact.color.blue.24}" },
+        "color": { "value": "{epe.color.black.19}" },
         "background-color": { "value": "transparent" },
         "hover": {
-          "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" }
+          "color": { "value": "{epe.color.primary}" },
+          "background-color": { "value": "{epe.color.grey.90}" }
         },
         "current": {
-          "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" },
-          "box-shadow": { "value": "" }
+          "color": { "value": "{epe.color.primary}" },
+          "background-color": { "value": "unset" },
+          "box-shadow": { "value": "inset 0 -4px {epe.color.primary}" }
         },
-        "font-size": { "value": "{dimpact.font-size.md}" },
+        "font-size": { "value": "{epe.font-size.md}" },
         "font-weight": { "value": "400" },
         "item": {
           "padding": { "value": "18px" }

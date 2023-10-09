@@ -1,7 +1,8 @@
 {
   "utrecht": {
-    "breadcrumb": {
+    "breadcrumb-nav": {
       "background-color": { "value": "{leiden.color.lightgrey.89}" },
+      "border-radius": {},
       "padding-inline-start": { "value": "30px" },
       "padding-inline-end": { "value": "30px" },
       "padding-block-start": { "value": "17px" },

@@ -2,30 +2,30 @@
   "conduction": {
     "primary": {
       "top-nav": {
-        "color": { "value": "{dimpact.color.blue.24}" },
-        "background-color": { "value": "{dimpact.color.white.100}" },
+        "color": { "value": "{conduction.color.grey.29}" },
+        "background-color": { "value": "{conduction.color.white.100}" },
         "hover": {
-          "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" },
+          "color": { "value": "{conduction.color.primary}" },
+          "background-color": { "value": "{conduction.color.white.100}" },
           "box-shadow": {}
         },
         "current": {
-          "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" },
+          "color": { "value": "{conduction.color.primary}" },
+          "background-color": { "value": "{conduction.color.white.100}" },
           "box-shadow": { "value": "" },
           "mobile": {
             "box-shadow": { "value": "" }
           }
         },
         "dropdown": {
-          "color": {},
-          "background-color": {},
+          "color": { "value": "{conduction.color.grey.29}" },
+          "background-color": { "value": "{conduction.color.white.100}" },
           "border-width": {},
           "border-style": {},
           "border-color": {},
           "hover": {
-            "color": {},
-            "background-color": {},
+            "color": { "value": "{conduction.color.primary}" },
+            "background-color": { "value": "{conduction.color.white.100}" },
             "box-shadow": {}
           }
         },
@@ -40,18 +40,18 @@
     },
     "secondary": {
       "top-nav": {
-        "color": { "value": "{dimpact.color.blue.24}" },
+        "color": { "value": "{conduction.color.grey.29}" },
         "background-color": { "value": "transparent" },
         "hover": {
-          "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" }
+          "color": { "value": "{conduction.color.primary}" },
+          "background-color": { "value": "{conduction.color.white.100}" }
         },
         "current": {
-          "color": { "value": "{dimpact.color.white.100}" },
-          "background-color": { "value": "{dimpact.color.pink.62}" },
+          "color": { "value": "{conduction.color.primary}" },
+          "background-color": { "value": "{conduction.color.white.100}" },
           "box-shadow": { "value": "" }
         },
-        "font-size": { "value": "{dimpact.font-size.md}" },
+        "font-size": { "value": "{conduction.font-size.md}" },
         "font-weight": { "value": "400" },
         "item": {
           "padding": { "value": "18px" }

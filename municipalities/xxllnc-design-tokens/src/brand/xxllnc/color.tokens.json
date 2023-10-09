@@ -39,6 +39,13 @@
           "value": "#00000038",
           "comment": "Black with 22% transparency"
         },
+        "6": {
+          "value": "#0e0d10"
+        },
+        "12-6-7t": {
+          "value": "#1e1e2010",
+          "comment": "Black with transparency between 6% and 7%"
+        },
         "14": {
           "value": "#202125"
         },
@@ -55,6 +62,9 @@
         },
         "21": {
           "value": "#333338"
+        },
+        "23": {
+          "value": "#39383f"
         }
       },
       "grey": {
@@ -74,6 +84,9 @@
         }
       },
       "lightgrey": {
+        "86": {
+          "value": "#dbdbdb"
+        },
         "96": {
           "value": "#f5f5f5"
         }
