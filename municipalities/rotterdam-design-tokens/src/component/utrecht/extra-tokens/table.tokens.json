@@ -1,6 +1,7 @@
 {
   "utrecht": {
     "table": {
+      "border-collapse": { "value": "collapse" },
       "background-color": { "value": "var(--rotterdam-color-base-white)" },
       "header": {
         "border-block-end-color": { "value": "var(--rotterdam-color-gray-tint-11)" },
