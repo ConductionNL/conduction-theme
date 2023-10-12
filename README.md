@@ -6,6 +6,9 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.46: 
+    - Added border-collapse to table in all themes.
+    - Added table row hover and updated footer in Epe theme.
   - 1.0.45: Updated card-header border-bottom width for Epe theme
   - 1.0.44: 
     - Updated card-header border bottom and logo with in Epe theme.
