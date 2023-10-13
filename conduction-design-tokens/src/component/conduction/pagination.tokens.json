@@ -11,7 +11,7 @@
       "item": {
         "gap": { "value": "{conduction.size.2xs}" },
         "color": { "value": "{conduction.color.black.0}" },
-        "background-color": { "value": "{conduction.color.white.100}" },
+        "background-color": { "value": "{conduction.color.white.98}" },
         "padding-inline-start": { "value": "{conduction.size.xs}" },
         "padding-inline-end": { "value": "{conduction.size.xs}" },
         "padding-block-start": { "value": "{conduction.size.xs}" },
@@ -63,7 +63,7 @@
       "page": {
         "hover": {
           "color": { "value": "{conduction.color.primary}" },
-          "background-color": { "value": "{conduction.color.white.100}" },
+          "background-color": { "value": "{conduction.color.white.98}" },
           "text-decoration": { "value": "unset" },
           "text-decoration-thickness": { "value": "0px" },
           "border-width": {},
