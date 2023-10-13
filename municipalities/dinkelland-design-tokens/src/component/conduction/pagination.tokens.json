@@ -29,15 +29,15 @@
         "background-color": { "value": "{dinkelland.color.primary}" },
         "border-color": {},
         "border-radius": {},
-        "border-width": {},
+        "border-width": { "value": "0px" },
         "padding-inline-start": { "value": "{dinkelland.size.xs}" },
         "padding-inline-end": { "value": "{dinkelland.size.xs}" },
         "padding-block-start": { "value": "0px" },
         "padding-block-end": { "value": "0px" },
         "disabled": {
-          "color": { "value": "{dinkelland.color.white.100}" },
-          "background-color": { "value": "{dinkelland.color.lightgrey.96}" },
-          "border-width": {},
+          "color": { "value": "{dinkelland.color.lightgrey.96}" },
+          "background-color": { "value": "transparent" },
+          "border-width": { "value": "0px" },
           "border-style": {},
           "border-color": {},
           "border-radius": {}
@@ -45,7 +45,7 @@
         "hover": {
           "color": { "value": "{dinkelland.color.white.100}" },
           "background-color": { "value": "{dinkelland.color.primary-hover}" },
-          "border-width": {},
+          "border-width": { "value": "0px" },
           "border-style": {},
           "border-color": {},
           "border-radius": {}
