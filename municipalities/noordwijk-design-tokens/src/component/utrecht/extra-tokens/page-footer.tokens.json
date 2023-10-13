@@ -5,7 +5,8 @@
       "logo": {
         "max-width": { "value": "150px" }
       },
-      "background-position": {}
+      "background-size": { "value": "auto" },
+      "background-position": { "value": "center right -35px" }
     }
   }
 }
