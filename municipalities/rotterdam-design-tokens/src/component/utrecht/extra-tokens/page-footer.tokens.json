@@ -6,6 +6,7 @@
         "max-height": { "value": "48px" },
         "max-width": { "value": "240px" }
       },
+      "background-size": {},
       "background-position": {}
     }
   }
