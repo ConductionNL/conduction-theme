@@ -1,6 +1,7 @@
 {
   "utrecht": {
     "table": {
+      "border-collapse": { "value": "collapse" },
       "background-color": { "value": "{conduction.color.white.100}" },
       "header": {
         "border-block-end-color": { "value": "{conduction.color.grey.82}" },

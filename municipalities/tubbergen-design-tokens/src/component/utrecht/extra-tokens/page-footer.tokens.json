@@ -6,6 +6,7 @@
         "max-height": { "value": "100px" },
         "max-width": { "value": "220px" }
       },
+      "background-size": { "value": "cover" },
       "background-position": {}
     }
   }
