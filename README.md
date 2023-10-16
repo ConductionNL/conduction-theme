@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.49: Updated Table-row hover color in Noordwijk theme.
   - 1.0.48: Updated Page-Footer tokens in all themes.
   - 1.0.47: Updated Pagination tokens in all themes.
   - 1.0.46: 
