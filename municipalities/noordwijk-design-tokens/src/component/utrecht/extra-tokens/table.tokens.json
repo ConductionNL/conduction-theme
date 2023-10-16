@@ -2,7 +2,7 @@
   "utrecht": {
     "table": {
       "border-collapse": { "value": "collapse" },
-      "background-color": {"value": "{noordwijk.color.white.100}"},
+      "background-color": { "value": "{noordwijk.color.white.100}" },
       "header": {
         "border-block-end-color": {},
         "border-block-end-width": {},
@@ -10,8 +10,8 @@
       },
       "row": {
         "hover": {
-          "background-color": { "value": "{noordwijk.color.white.98}" },
-          "color": {}
+          "background-color": { "value": "{noordwijk.color.light-blue.58}" },
+          "color": { "value": "{noordwijk.color.white.98}" }
         }
       },
       "body": {
