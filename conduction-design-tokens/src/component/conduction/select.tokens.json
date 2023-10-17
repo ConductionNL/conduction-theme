@@ -13,10 +13,19 @@
       "list-option": {
         "font-family": { "value": "{conduction.typography.sans-serif.font-family}" },
         "background-color": {},
+        "color": {},
         "hover": {
           "font-family": { "value": "{conduction.typography.sans-serif.font-family}" },
-          "color": {},
-          "background-color": {}
+          "background-color": {},
+          "color": {}
+        },
+        "selected": {
+          "background-color": {},
+          "color": {}
+        },
+        "focus": {
+          "background-color": {},
+          "color": {}
         }
       },
       "placeholder": {
