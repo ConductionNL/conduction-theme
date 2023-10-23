@@ -7,7 +7,10 @@
         "max-width": { "value": "100px" }
       },
       "background-size": {},
-      "background-position": {}
+      "background-position": {},
+      "mobile": {
+        "background-position": {}
+      }
     }
   }
 }

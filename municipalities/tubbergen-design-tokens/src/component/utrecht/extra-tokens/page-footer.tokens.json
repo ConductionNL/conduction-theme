@@ -7,7 +7,10 @@
         "max-width": { "value": "220px" }
       },
       "background-size": { "value": "cover" },
-      "background-position": {}
+      "background-position": {},
+      "mobile": {
+        "background-position": { "value": "bottom" }
+      }
     }
   }
 }
