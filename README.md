@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.51: Added mobile tokens to footer-background-image in all themes.
   - 1.0.50: Updated select tokens in all themes.
   - 1.0.49: Updated Table-row hover color in Noordwijk theme.
   - 1.0.48: Updated Page-Footer tokens in all themes.

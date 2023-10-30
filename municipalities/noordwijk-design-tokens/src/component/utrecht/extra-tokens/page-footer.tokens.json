@@ -6,7 +6,10 @@
         "max-width": { "value": "150px" }
       },
       "background-size": { "value": "auto" },
-      "background-position": { "value": "center right -35px" }
+      "background-position": { "value": "center right -35px" },
+      "mobile": {
+        "background-position": {"value": "bottom right -35px"}
+      }
     }
   }
 }
