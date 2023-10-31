@@ -1,8 +1,10 @@
 {
   "conduction": {
     "logo": {
-      "inline-size": { "value": "150px" },
-      "block-size": { "value": "36px" },
+      "inline-size-md": { "value": "150px" },
+      "block-size-md": { "value": "36px" },
+      "inline-size-lg": { "value": "220px" },
+      "block-size-lg": { "value": "100px" },
       "background-image": {
         "value": "url('https://www.tubbergen.nl/sites/all/themes/tubbergen/logo.svg')"
       }

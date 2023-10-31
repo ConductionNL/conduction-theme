@@ -1,8 +1,10 @@
 {
   "conduction": {
     "logo": {
-      "inline-size": { "value": "150px" },
-      "block-size": { "value": "54px" },
+      "inline-size-md": { "value": "150px" },
+      "block-size-md": { "value": "54px" },
+      "inline-size-lg": { "value": "300px" },
+      "block-size-lg": { "value": "109px" },
       "background-image": {
         "value": "url('https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png')"
       }

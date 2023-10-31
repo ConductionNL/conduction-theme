@@ -1,8 +1,10 @@
 {
   "conduction": {
     "logo": {
-      "inline-size": { "value": "130px" },
-      "block-size": { "value": "75px" },
+      "inline-size-md": { "value": "130px" },
+      "block-size-md": { "value": "75px" },
+      "inline-size-lg": { "value": "150px" },
+      "block-size-lg": { "value": "87px" },
       "background-image": {
         "value": "url('https://werkenbijnoaberkracht.nl/assets/img/base/logo.png')"
       }
