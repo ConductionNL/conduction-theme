@@ -1,0 +1,11 @@
+{
+  "conduction": {
+    "logo": {
+      "inline-size": { "value": "150px" },
+      "block-size": { "value": "30px" },
+      "background-image": {
+        "value": "url('https://www.dinkelland.nl/sites/all/themes/dinkelland/logo.svg')"
+      }
+    }
+  }
+}
