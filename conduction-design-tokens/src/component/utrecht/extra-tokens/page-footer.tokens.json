@@ -23,11 +23,11 @@
         "text-decoration": { "value": "none" },
         "text-decoration-color": { "value": "unset" },
         "text-decoration-thickness": { "value": "{conduction.size.4xs}" },
-        "text-underline-offset": { "value": "0.25em" },
+        "text-underline-offset": { "value": "{conduction.size.3xs}" },
         "hover": {
-          "color": {"value": "{conduction.color.black.30}"},
+          "color": { "value": "{conduction.color.black.30}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": 1 }
+          "text-decoration-thickness": { "value": "{conduction.size.4xs}" }
         }
       }
     }
