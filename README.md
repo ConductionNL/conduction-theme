@@ -6,16 +6,18 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.52:
+    - Updated table tokens for Noordwijk theme.
   - 1.0.51: Added mobile tokens to footer-background-image in all themes.
   - 1.0.50: Updated select tokens in all themes.
   - 1.0.49: Updated Table-row hover color in Noordwijk theme.
   - 1.0.48: Updated Page-Footer tokens in all themes.
   - 1.0.47: Updated Pagination tokens in all themes.
-  - 1.0.46: 
+  - 1.0.46:
     - Added border-collapse to table in all themes.
     - Added table row hover and updated footer in Epe theme.
   - 1.0.45: Updated card-header border-bottom width for Epe theme
-  - 1.0.44: 
+  - 1.0.44:
     - Updated card-header border bottom and logo with in Epe theme.
     - Updated font-sizes in Noaberkracht theme.
     - Added table row hover color in Noordwijk theme.
