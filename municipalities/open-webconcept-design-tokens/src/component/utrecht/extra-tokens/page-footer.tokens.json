@@ -10,6 +10,25 @@
       "background-position": {},
       "mobile": {
         "background-position": {}
+      },
+      "icon": {
+        "color": {}
+      },
+      "heading": {
+        "color": {},
+        "font-family": {}
+      },
+      "link": {
+        "color": {},
+        "text-decoration": { "value": "none" },
+        "text-decoration-color": { "value": "unset" },
+        "text-decoration-thickness": { "value": 0 },
+        "text-underline-offset": { "value": "{open-webconcept.size.3xs}" },
+        "hover": {
+          "color": { "value": "{open-webconcept.color.primary}" },
+          "text-decoration": { "value": "none" },
+          "text-decoration-thickness": { "value": 0 }
+        }
       }
     }
   }
