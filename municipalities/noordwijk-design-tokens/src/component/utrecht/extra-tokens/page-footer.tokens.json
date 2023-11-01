@@ -18,13 +18,13 @@
         "font-family": { "value": "{noordwijk.typography.roboto.font-family}" }
       },
       "link": {
-        "color": {},
+        "color": { "value": "{noordwijk.color.black.0}" },
         "text-decoration": { "value": "none" },
-        "text-decoration-color": { "value": "unset" },
+        "text-decoration-color": {},
         "text-decoration-thickness": { "value": 0 },
         "text-underline-offset": { "value": "0.25em" },
         "hover": {
-          "color": { "value": "{noordwijk.color.primary-hover}" },
+          "color": { "value": "{noordwijk.color.black.0}" },
           "text-decoration": { "value": "underline" },
           "text-decoration-thickness": { "value": 1 }
         }
