@@ -1,12 +1,16 @@
 {
   "conduction": {
     "logo": {
-      "inline-size-md": { "value": "150px" },
-      "block-size-md": { "value": "36px" },
-      "inline-size-lg": { "value": "220px" },
-      "block-size-lg": { "value": "100px" },
-      "background-image": {
+      "inline-size-header": { "value": "150px" },
+      "block-size-header": { "value": "36px" },
+      "inline-size-footer": { "value": "220px" },
+      "block-size-footer": { "value": "100px" },
+
+      "background-image-header": {
         "value": "url('https://www.tubbergen.nl/sites/all/themes/tubbergen/logo.svg')"
+      },
+      "background-image-footer": {
+        "value": ""
       }
     }
   }

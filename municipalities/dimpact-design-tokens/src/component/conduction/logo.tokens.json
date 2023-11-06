@@ -1,11 +1,15 @@
 {
   "conduction": {
     "logo": {
-      "inline-size-md": { "value": "150px" },
-      "block-size-md": { "value": "44px" },
-      "inline-size-lg": { "value": "" },
-      "block-size-lg": { "value": "" },
-      "background-image": {
+      "inline-size-header": { "value": "150px" },
+      "block-size-header": { "value": "44px" },
+      "inline-size-footer": { "value": "150px" },
+      "block-size-footer": { "value": "44px" },
+
+      "background-image-header": {
+        "value": "url('https://www.dimpact.nl/sites/all/themes/custom/dimpact/logo.png')"
+      },
+      "background-image-footer": {
         "value": "url('https://www.dimpact.nl/sites/all/themes/custom/dimpact/logo.png')"
       }
     }
