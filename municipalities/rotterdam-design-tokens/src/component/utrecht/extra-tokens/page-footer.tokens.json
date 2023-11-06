@@ -7,7 +7,29 @@
         "max-width": { "value": "240px" }
       },
       "background-size": {},
-      "background-position": {}
+      "background-position": {},
+      "mobile": {
+        "background-position": {}
+      },
+      "icon": {
+        "color": {}
+      },
+      "heading": {
+        "color": {},
+        "font-family": {}
+      },
+      "link": {
+        "color": {},
+        "text-decoration": { "value": "underline" },
+        "text-decoration-color": { "value": "unset" },
+        "text-decoration-thickness": { "value": 1 },
+        "text-underline-offset": {},
+        "hover": {
+          "color": {},
+          "text-decoration": { "value": "underline" },
+          "text-decoration-thickness": { "value": 1 }
+        }
+      }
     }
   }
 }

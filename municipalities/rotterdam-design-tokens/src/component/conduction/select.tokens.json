@@ -13,10 +13,19 @@
       "list-option": {
         "font-family": { "value": "var(--utrecht-document-font-family)" },
         "background-color": { "value": "var(--utrecht-form-select-background-color)" },
+        "color": {},
         "hover": {
           "font-family": { "value": "var(--utrecht-document-font-family)" },
-          "color": { "value": "var(--utrecht-form-select-background-color)" },
-          "background-color": { "value": "var(--rotterdam-color-green-tint-01)" }
+          "background-color": { "value": "var(--rotterdam-color-green-tint-01)" },
+          "color": { "value": "var(--utrecht-form-select-background-color)" }
+        },
+        "selected": {
+          "background-color": { "value": "var(--rotterdam-color-green-tint-01)" },
+          "color": { "value": "var(--rotterdam-color-base-white)" }
+        },
+        "focus": {
+          "background-color": { "value": "var(--utrecht-form-select-background-color)" },
+          "color": { "value": "var(--rotterdam-color-base-black)" }
         }
       },
       "placeholder": {
