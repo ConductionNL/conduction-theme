@@ -1,0 +1,17 @@
+{
+  "conduction": {
+    "logo": {
+      "header": {
+        "inline-size": { "value": "150px" },
+        "block-size": { "value": "44px" },
+        "background-image": { "value": "url('https://www.dimpact.nl/sites/all/themes/custom/dimpact/logo.png')" }
+      },
+
+      "footer": {
+        "inline-size": { "value": "150px" },
+        "block-size": { "value": "44px" },
+        "background-image": { "value": "url('https://www.dimpact.nl/sites/all/themes/custom/dimpact/logo.png')" }
+      }
+    }
+  }
+}
