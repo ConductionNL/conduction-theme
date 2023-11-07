@@ -1,16 +1,16 @@
 {
   "conduction": {
     "logo": {
-      "inline-size-header": { "value": "130px" },
-      "block-size-header": { "value": "75px" },
-      "inline-size-footer": { "value": "150px" },
-      "block-size-footer": { "value": "87px" },
-
-      "background-image-header": {
-        "value": "url('https://werkenbijnoaberkracht.nl/assets/img/base/logo.png')"
+      "header": {
+        "inline-size": { "value": "130px" },
+        "block-size": { "value": "75px" },
+        "background-image": { "value": "url('https://werkenbijnoaberkracht.nl/assets/img/base/logo.png')" }
       },
-      "background-image-footer": {
-        "value": "url('https://werkenbijnoaberkracht.nl/assets/img/base/logo.png')"
+
+      "footer": {
+        "inline-size": { "value": "150px" },
+        "block-size": { "value": "87px" },
+        "background-image": { "value": "url('https://werkenbijnoaberkracht.nl/assets/img/base/logo.png')" }
       }
     }
   }

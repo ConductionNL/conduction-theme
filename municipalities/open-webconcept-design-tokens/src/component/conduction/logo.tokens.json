@@ -1,16 +1,20 @@
 {
   "conduction": {
     "logo": {
-      "inline-size-header": { "value": "150px" },
-      "block-size-header": { "value": "54px" },
-      "inline-size-footer": { "value": "300px" },
-      "block-size-footer": { "value": "109px" },
-
-      "background-image-header": {
-        "value": "url('https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png')"
+      "header": {
+        "inline-size": { "value": "150px" },
+        "block-size": { "value": "54px" },
+        "background-image": {
+          "value": "url('https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png')"
+        }
       },
-      "background-image-footer": {
-        "value": "url('https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png')"
+
+      "footer": {
+        "inline-size": { "value": "300px" },
+        "block-size": { "value": "109px" },
+        "background-image": {
+          "value": "url('https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png')"
+        }
       }
     }
   }
