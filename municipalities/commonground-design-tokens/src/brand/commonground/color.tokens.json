@@ -20,6 +20,9 @@
         "100": {
           "value": "#ffffff",
           "comment": "Base/White"
+        },
+        "96": {
+          "value": "f5f5f5"
         }
       },
       "black": {
