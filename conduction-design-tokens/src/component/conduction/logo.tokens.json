@@ -1,0 +1,21 @@
+{
+  "conduction": {
+    "logo": {
+      "header": {
+        "inline-size": { "value": "220px" },
+        "block-size": { "value": "40px" },
+        "background-image": {
+          "value": "url('https://conduction.nl/wp-content/uploads/2021/07/cropped-conductionlogo-1.png')"
+        }
+      },
+
+      "footer": {
+        "inline-size": { "value": "220px" },
+        "block-size": { "value": "40px" },
+        "background-image": {
+          "value": "url('https://conduction.nl/wp-content/uploads/2021/07/cropped-conductionlogo-1.png')"
+        }
+      }
+    }
+  }
+}

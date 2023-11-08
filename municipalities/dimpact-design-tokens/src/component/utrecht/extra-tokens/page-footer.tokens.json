@@ -10,6 +10,25 @@
       "background-position": {},
       "mobile": {
         "background-position": {}
+      },
+      "icon": {
+        "color": {}
+      },
+      "heading": {
+        "color": {},
+        "font-family": {}
+      },
+      "link": {
+        "color": { "value": "{dimpact.color.white.100}" },
+        "text-decoration": { "value": "underline" },
+        "text-decoration-color": { "value": "unset" },
+        "text-decoration-thickness": { "value": "{dimpact.size.4xs}" },
+        "text-underline-offset": { "value": "{dimpact.size.3xs}" },
+        "hover": {
+          "color": { "value": "{dimpact.color.primary-hover}" },
+          "text-decoration": { "value": "underline" },
+          "text-decoration-thickness": { "value": "{dimpact.size.4xs}" }
+        }
       }
     }
   }
