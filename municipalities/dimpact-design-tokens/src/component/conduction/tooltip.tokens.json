@@ -1,0 +1,18 @@
+{
+  "conduction": {
+    "tooltip": {
+      "background-color": { "value": "{dimpact.color.black.0}" },
+      "color": { "value": "{dimpact.color.white.100}" },
+      "padding-block-start": { "value": "{dimpact.size.xs}" },
+      "padding-block-end": { "value": "{dimpact.size.xs}" },
+      "padding-inline-start": { "value": "{dimpact.size.sm}" },
+      "padding-inline-end": { "value": "{dimpact.size.sm}" },
+      "border-width": { "value": "0px" },
+      "border-style": { "value": "unset" },
+      "border-color": { "value": "unset" },
+      "border-radius": { "value": "0px" },
+      "opacity": { "value": "1" },
+      "z-index": { "value": "9999" }
+    }
+  }
+}

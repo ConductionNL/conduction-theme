@@ -35,6 +35,9 @@
         }
       },
       "black": {
+        "0": {
+          "value": "#000000"
+        },
         "0-22t": {
           "value": "#00000038",
           "comment": "Black with 22% transparency"

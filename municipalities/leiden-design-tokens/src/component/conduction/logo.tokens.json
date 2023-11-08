@@ -8,7 +8,6 @@
           "value": "url('https://gemeente.leiden.nl/typo3conf/ext/leiden_template/Resources/Public/Images/logo_leiden.svg')"
         }
       },
-
       "footer": {
         "inline-size": { "value": "120px" },
         "block-size": { "value": "100px" },
