@@ -1,11 +1,11 @@
 {
   "version": "1.0.0-alpha.1",
   "author": "Community for NL Design System",
-  "description": "NL Design System design tokens for Dimpact",
-  "website": "https://www.dimpact.nl/",
+  "description": "NL Design System design tokens for CommonGround",
+  "website": "https://commonground.nl/",
   "keywords": ["nl-design-system", "conduction"],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/dimpact-design-tokens",
+  "name": "@nl-design-system-unstable/commonground-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"
