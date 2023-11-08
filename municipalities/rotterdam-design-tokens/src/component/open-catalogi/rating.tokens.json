@@ -1,0 +1,12 @@
+{
+  "open-catalogi": {
+    "rating": {
+      "rating-bar": {
+        "color": { "value": "var(--rotterdam-color-green-tint-01)" },
+        "background-color": {}
+      },
+      "font-size": { "value": "var(--utrecht-document-font-size)" },
+      "font-family": { "value": "var(--utrecht-document-font-family)" }
+    }
+  }
+}
