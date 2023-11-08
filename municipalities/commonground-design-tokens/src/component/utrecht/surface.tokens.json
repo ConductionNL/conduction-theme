@@ -1,0 +1,8 @@
+{
+  "utrecht": {
+    "surface": {
+      "background-color": { "value": "{commonground.color.white.96}" },
+      "color": {}
+    }
+  }
+}
