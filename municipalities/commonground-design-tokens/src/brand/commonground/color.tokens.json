@@ -15,7 +15,6 @@
       "info": {},
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
-
       "white": {
         "100": {
           "value": "#ffffff",
@@ -33,7 +32,14 @@
       },
       "grey": {
         "29": {
-          "value": "#4a4a4a"
+          "value": "#4a4a4a",
+          "comment": "Base/Grey"
+        }
+      },
+      "blue": {
+        "26": {
+          "value": "#2e4057",
+          "comment": "Base/Blue"
         }
       }
     }

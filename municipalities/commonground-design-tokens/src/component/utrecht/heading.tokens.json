@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{commonground.color.blue.26}" },
+      "font-family": { "value": "{commonground.typography.rijksoverheid-sans.font-family}" },
+      "font-size": { "value": "{commonground.font-size.2xl}" },
+      "font-weight": { "value": "{commonground.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{commonground.size.xl}" },
+      "margin-block-start": { "value": "{commonground.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{commonground.typography.rijksoverheid-sans.font-family}" },
+      "font-size": { "value": "{commonground.font-size.xl}" },
+      "font-weight": { "value": "{commonground.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{commonground.size.xl}" },
+      "margin-block-start": { "value": "{commonground.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{commonground.typography.rijksoverheid-sans.font-family}" },
+      "font-size": { "value": "{commonground.font-size.lg}" },
+      "font-weight": { "value": "{commonground.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{commonground.size.lg}" },
+      "margin-block-start": { "value": "{commonground.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{commonground.typography.rijksoverheid-sans.font-family}" },
+      "font-size": { "value": "{commonground.font-size.md}" },
+      "font-weight": { "value": "{commonground.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{commonground.size.md}" },
+      "margin-block-start": { "value": "{commonground.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{commonground.typography.rijksoverheid-sans.font-family}" },
+      "font-size": { "value": "{commonground.font-size.md}" },
+      "font-weight": { "value": "{commonground.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{commonground.size.lg}" },
+      "margin-block-start": { "value": "{commonground.size.md}" }
+    }
+  }
+}

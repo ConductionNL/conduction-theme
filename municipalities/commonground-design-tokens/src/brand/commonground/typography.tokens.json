@@ -1,7 +1,7 @@
 {
   "commonground": {
     "typography": {
-      "aldritch": {
+      "rijksoverheid-sans": {
         "font-family": {
           "value": "\"Rijksoverheid Sans\", Monospace, \"Noto Sans\", Arial, sans-serif"
         }
