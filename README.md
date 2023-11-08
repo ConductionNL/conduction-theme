@@ -6,6 +6,9 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.54:
+    - Added ToolTip tokens to all themes.
+    - Added OpenCatalogi Rating tokens to all themes.
   - 1.0.53: Added Conduction Logo tokens.
   - 1.0.52:
     - Updated table tokens for Noordwijk theme.
