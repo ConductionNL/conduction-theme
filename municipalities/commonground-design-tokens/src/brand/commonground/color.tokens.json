@@ -1,8 +1,8 @@
 {
   "commonground": {
     "color": {
-      "primary": {},
-      "primary-hover": {},
+      "primary": { "value": "#ffbc2c" },
+      "primary-hover": { "value": "#ffae00" },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
       "alert-error-background": { "value": "#f8d7da" },
@@ -29,6 +29,11 @@
         "0": {
           "value": "#000000",
           "comment": "Base/Black"
+        }
+      },
+      "grey": {
+        "29": {
+          "value": "#4a4a4a"
         }
       }
     }
