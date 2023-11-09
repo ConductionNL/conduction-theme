@@ -19,9 +19,6 @@
         "100": {
           "value": "#ffffff",
           "comment": "Base/White"
-        },
-        "96": {
-          "value": "f5f5f5"
         }
       },
       "black": {
@@ -34,6 +31,18 @@
         "29": {
           "value": "#4a4a4a",
           "comment": "Base/Grey"
+        }
+      },
+      "lightgrey": {
+        "96": {
+          "value": "#f5f5f5",
+          "comment": "Base/LightGrey"
+        },
+        "98": {
+          "value": "#fafafa"
+        },
+        "89": {
+          "value": "#e4e4e4"
         }
       },
       "blue": {
