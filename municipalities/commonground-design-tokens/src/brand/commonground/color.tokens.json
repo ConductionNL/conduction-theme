@@ -25,12 +25,19 @@
         "0": {
           "value": "#000000",
           "comment": "Base/Black"
+        },
+        "0-55t": {
+          "value": "#0000008c",
+          "comment": "Black with 55% transparency"
         }
       },
       "grey": {
         "29": {
           "value": "#4a4a4a",
           "comment": "Base/Grey"
+        },
+        "58": {
+          "value": "#949494"
         }
       },
       "lightgrey": {
