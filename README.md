@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.55: Added CommongGround theme.
   - 1.0.54:
     - Added ToolTip tokens to all themes.
     - Added OpenCatalogi Rating tokens to all themes.
