@@ -1,0 +1,67 @@
+{
+  "conduction": {
+    "primary": {
+      "top-nav": {
+        "color": { "value": "{commonground.color.black.0}" },
+        "background-color": { "value": "{commonground.color.primary}" },
+        "hover": {
+          "color": { "value": "{commonground.color.black.0}" },
+          "background-color": { "value": "{commonground.color.yellow.64}" },
+          "box-shadow": {}
+        },
+        "current": {
+          "color": { "value": "{commonground.color.black.0}" },
+          "background-color": { "value": "{commonground.color.primary}" },
+          "box-shadow": { "value": "inset 0px 0px 0px 2px {commonground.color.black.0}" },
+          "mobile": {
+            "box-shadow": { "value": "" }
+          }
+        },
+        "dropdown": {
+          "color": { "value": "{commonground.color.black.0}" },
+          "background-color": { "value": "{commonground.color.primary}" },
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "hover": {
+            "color": { "value": "{commonground.color.black.0}" },
+            "background-color": { "value": "{commonground.color.yellow.64}" },
+            "box-shadow": {}
+          }
+        },
+        "item": {
+          "padding": { "value": "18px" },
+          "border-radius": { "value": "{commonground.size.2xs}" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    },
+    "secondary": {
+      "top-nav": {
+        "color": { "value": "{commonground.color.black.0}" },
+        "background-color": { "value": "transparent" },
+        "hover": {
+          "color": { "value": "{commonground.color.black.0}" },
+          "background-color": { "value": "{commonground.color.yellow.64}" }
+        },
+        "current": {
+          "color": { "value": "{commonground.color.white.100}" },
+          "background-color": { "value": "{commonground.color.primary}" },
+          "box-shadow": { "value": "" }
+        },
+        "font-size": { "value": "{commonground.font-size.md}" },
+        "font-weight": { "value": "400" },
+        "item": {
+          "padding": { "value": "18px" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    }
+  }
+}

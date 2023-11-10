@@ -1,0 +1,92 @@
+{
+  "commonground": {
+    "color": {
+      "primary": { "value": "{commonground.color.yellow.59}" },
+      "primary-hover": { "value": "#ffae00" },
+      "error": { "value": "#dc3545" },
+      "alert-error": { "value": "#721c24" },
+      "alert-error-background": { "value": "#f8d7da" },
+      "warning": { "value": "#ffc107" },
+      "alert-warning": { "value": "#856404" },
+      "alert-warning-background": { "value": "#fff3cd" },
+      "succes": { "value": "#28a745" },
+      "alert-succes": { "value": "#155724" },
+      "alert-succes-background": { "value": "#d4edda" },
+      "info": {},
+      "alert-info": { "value": "#004085" },
+      "alert-info-background": { "value": "#cce5ff" },
+      "white": {
+        "100": {
+          "value": "#ffffff",
+          "comment": "Base/White"
+        }
+      },
+      "black": {
+        "0": {
+          "value": "#000000",
+          "comment": "Base/Black"
+        },
+        "0-6t": {
+          "value": "#0000000f",
+          "comment": "Black with 6% transparency"
+        },
+        "0-11t": {
+          "value": "#0000001c",
+          "comment": "Black with 11% transparency"
+        },
+        "0-55t": {
+          "value": "#0000008c",
+          "comment": "Black with 55% transparency"
+        }
+      },
+      "yellow": {
+        "59": {
+          "value": "#ffbc2c",
+          "comment": "Base/Yellow"
+        },
+        "64": {
+          "value": "#ffc446"
+        }
+      },
+      "grey": {
+        "29": {
+          "value": "#4a4a4a",
+          "comment": "Base/Grey"
+        },
+        "58": {
+          "value": "#949494"
+        },
+        "65": {
+          "value": "#a5a5a5"
+        },
+        "82": {
+          "value": "#d1d1d1"
+        },
+        "97": {
+          "value": "#f7f7f7"
+        }
+      },
+      "lightgrey": {
+        "96": {
+          "value": "#f5f5f5",
+          "comment": "Base/LightGrey"
+        },
+        "98": {
+          "value": "#fafafa"
+        },
+        "89": {
+          "value": "#e4e4e4"
+        }
+      },
+      "blue": {
+        "26": {
+          "value": "#2e4057",
+          "comment": "Base/Blue"
+        },
+        "29": {
+          "value": "#334761"
+        }
+      }
+    }
+  }
+}

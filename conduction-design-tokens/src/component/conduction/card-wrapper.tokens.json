@@ -9,6 +9,7 @@
       "border-bottom-style": {},
       "border-bottom-width": {},
       "border-radius": { "value": "{conduction.size.md}" },
+      "box-shadow": {},
       "color": { "value": "{conduction.color.black.0}" },
       "hover": {
         "background-color": {},

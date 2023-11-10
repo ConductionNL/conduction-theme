@@ -5,7 +5,7 @@
   "website": "https://www.dimpact.nl/",
   "keywords": ["nl-design-system", "conduction"],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/open-webconcept-design-tokens",
+  "name": "@nl-design-system-unstable/dimpact-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

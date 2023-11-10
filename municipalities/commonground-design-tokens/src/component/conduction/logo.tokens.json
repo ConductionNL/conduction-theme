@@ -1,0 +1,20 @@
+{
+  "conduction": {
+    "logo": {
+      "header": {
+        "inline-size": { "value": "47px" },
+        "block-size": { "value": "47px" },
+        "background-image": {
+          "value": "url('https://commonground.nl/file/embed/ca48ca97-b475-4318-bb7b-14cb552770c9/cg_small.png')"
+        }
+      },
+      "footer": {
+        "inline-size": { "value": "75px" },
+        "block-size": { "value": "75px" },
+        "background-image": {
+          "value": "url('https://commonground.nl/file/embed/ca48ca97-b475-4318-bb7b-14cb552770c9/cg_small.png')"
+        }
+      }
+    }
+  }
+}
