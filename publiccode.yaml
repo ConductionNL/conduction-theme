@@ -1,0 +1,49 @@
+categories:
+- it-development
+description:
+  en:
+    apiDocumentation: ''
+    awards: []
+    documentation: ''
+    features: []
+    genericName: Conduction's design tokens theme
+    localisedName: ''
+    longDescription: ''
+    screenshots: []
+    shortDescription: ''
+    videos: []
+developmentStatus: development
+landingURL: ''
+legal:
+  authorsFile: ''
+  license: ''
+  mainCopyrightOwner: ''
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts: []
+  contractors: []
+  type: none
+name: conduction-theme
+nl:
+  vng:
+    commonground: []
+    gemma: []
+organisation:
+  description: At Conduction, we are driven by a vision that sees the digitization
+    of the world as an extraordinary opportunity. It's a chance to transform our world.
+  logo: https://avatars.githubusercontent.com/u/46676163?v=4
+  name: ConductionNL
+  url: ConductionNL
+platforms:
+- web
+publiccodeYmlVersion: '0.2'
+releaseDate: '2023-11-10'
+roadmap: ''
+softwareType: standalone/web
+softwareVersion: ''
+url: https://github.com/ConductionNL/conduction-theme
+usedBy: []
