@@ -1,7 +1,7 @@
 {
   "commonground": {
     "color": {
-      "primary": { "value": "#ffbc2c" },
+      "primary": { "value": "{commonground.color.yellow.59}" },
       "primary-hover": { "value": "#ffae00" },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
@@ -26,6 +26,10 @@
           "value": "#000000",
           "comment": "Base/Black"
         },
+        "0-6t": {
+          "value": "#0000000f",
+          "comment": "Black with 6% transparency"
+        },
         "0-11t": {
           "value": "#0000001c",
           "comment": "Black with 11% transparency"
@@ -33,6 +37,15 @@
         "0-55t": {
           "value": "#0000008c",
           "comment": "Black with 55% transparency"
+        }
+      },
+      "yellow": {
+        "59": {
+          "value": "#ffbc2c",
+          "comment": "Base/Yellow"
+        },
+        "64": {
+          "value": "#ffc446"
         }
       },
       "grey": {

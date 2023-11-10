@@ -30,7 +30,8 @@
           }
         },
         "item": {
-          "padding": { "value": "18px" }
+          "padding": { "value": "18px" },
+          "border-radius": {}
         },
         "padding-inline-end": { "value": "16px" },
         "padding-inline-start": { "value": "16px" },
