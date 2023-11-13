@@ -8,7 +8,6 @@
           "value": "url('https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png')"
         }
       },
-
       "footer": {
         "inline-size": { "value": "300px" },
         "block-size": { "value": "109px" },

@@ -9,6 +9,7 @@
       "border-bottom-style": {},
       "border-bottom-width": {},
       "border-radius": { "value": "6px" },
+      "box-shadow": {},
       "color": { "value": "{dimpact.color.primary}" },
       "hover": {
         "background-color": {},

@@ -50,6 +50,9 @@
         }
       },
       "black": {
+        "0": {
+          "value": "#000000"
+        },
         "9": {
           "value": "#0d1921",
           "comment": "Base/Black"

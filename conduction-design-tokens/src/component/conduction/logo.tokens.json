@@ -8,12 +8,11 @@
           "value": "url('https://conduction.nl/wp-content/uploads/2021/07/cropped-conductionlogo-1.png')"
         }
       },
-
       "footer": {
         "inline-size": { "value": "220px" },
         "block-size": { "value": "40px" },
         "background-image": {
-          "value": "url('https://conduction.nl/wp-content/uploads/2021/07/cropped-conductionlogo-1.png')"
+          "value": "url('https://raw.githubusercontent.com/OpenCatalogi/web-app/df1e0533081d780c05b1d0b57ab327d97adcbdc6/pwa/src/assets/svgs/LogoConduction.svg')"
         }
       }
     }

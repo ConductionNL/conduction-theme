@@ -9,6 +9,7 @@
       "border-bottom-style": { "value": "solid" },
       "border-bottom-width": { "value": "4px" },
       "border-radius": { "value": "0px" },
+      "box-shadow": {},
       "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
       "hover": {
         "background-color": {},
