@@ -1,0 +1,52 @@
+{
+  "conduction": {
+    "input-checkbox": {
+      "color": { "value": "{tubbergen.color.white.100}" },
+      "border-width": { "value": "{tubbergen.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{tubbergen.color.grey.46}" },
+      "border-radius": { "value": "3px" },
+      "box-shadow": {},
+      "hover": {
+        "color": { "value": "{tubbergen.color.white.100}" },
+        "border-width": { "value": "{tubbergen.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{tubbergen.color.grey.31}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {}
+      },
+      "checked": {
+        "color": { "value": "{tubbergen.color.primary}" },
+        "border-width": { "value": "{tubbergen.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{tubbergen.color.primary}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {},
+        "hover": {
+          "color": { "value": "{tubbergen.color.primary-hover}" },
+          "border-width": { "value": "{tubbergen.size.4xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{tubbergen.color.primary-hover}" },
+          "border-radius": { "value": "3px" },
+          "box-shadow": {}
+        }
+      },
+      "disabled": {
+        "color": { "value": "{tubbergen.color.grey.82}" },
+        "border-width": { "value": "{tubbergen.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{tubbergen.color.grey.82}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {},
+        "hover": {
+          "color": { "value": "{tubbergen.color.grey.82}" },
+          "border-width": { "value": "{tubbergen.size.4xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{tubbergen.color.grey.82}" },
+          "border-radius": { "value": "3px" },
+          "box-shadow": {}
+        }
+      }
+    }
+  }
+}
