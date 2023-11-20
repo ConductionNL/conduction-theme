@@ -1,0 +1,52 @@
+{
+  "conduction": {
+    "input-checkbox": {
+      "color": { "value": "{commonground.color.white.100}" },
+      "border-width": { "value": "{commonground.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{commonground.color.grey.46}" },
+      "border-radius": { "value": "3px" },
+      "box-shadow": {},
+      "hover": {
+        "color": { "value": "{commonground.color.white.100}" },
+        "border-width": { "value": "{commonground.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{commonground.color.grey.31}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {}
+      },
+      "checked": {
+        "color": { "value": "{commonground.color.primary}" },
+        "border-width": { "value": "{commonground.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{commonground.color.primary}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {},
+        "hover": {
+          "color": { "value": "{commonground.color.primary-hover}" },
+          "border-width": { "value": "{commonground.size.4xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{commonground.color.primary-hover}" },
+          "border-radius": { "value": "3px" },
+          "box-shadow": {}
+        }
+      },
+      "disabled": {
+        "color": { "value": "{commonground.color.grey.82}" },
+        "border-width": { "value": "{commonground.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{commonground.color.grey.82}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {},
+        "hover": {
+          "color": { "value": "{commonground.color.grey.82}" },
+          "border-width": { "value": "{commonground.size.4xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{commonground.color.grey.82}" },
+          "border-radius": { "value": "3px" },
+          "box-shadow": {}
+        }
+      }
+    }
+  }
+}
