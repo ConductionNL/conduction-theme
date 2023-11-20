@@ -1,0 +1,52 @@
+{
+  "conduction": {
+    "input-checkbox": {
+      "color": { "value": "{conduction.color.white.100}" },
+      "border-width": { "value": "{conduction.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{conduction.color.grey.46}" },
+      "border-radius": { "value": "3px" },
+      "box-shadow": {},
+      "hover": {
+        "color": { "value": "{conduction.color.white.100}" },
+        "border-width": { "value": "{conduction.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{conduction.color.grey.31}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {}
+      },
+      "checked": {
+        "color": { "value": "{conduction.color.primary}" },
+        "border-width": { "value": "{conduction.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{conduction.color.primary}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {},
+        "hover": {
+          "color": { "value": "{conduction.color.primary-hover}" },
+          "border-width": { "value": "{conduction.size.4xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{conduction.color.primary-hover}" },
+          "border-radius": { "value": "3px" },
+          "box-shadow": {}
+        }
+      },
+      "disabled": {
+        "color": { "value": "{conduction.color.grey.82}" },
+        "border-width": { "value": "{conduction.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{conduction.color.grey.82}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {},
+        "hover": {
+          "color": { "value": "{conduction.color.grey.82}" },
+          "border-width": { "value": "{conduction.size.4xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{conduction.color.grey.82}" },
+          "border-radius": { "value": "3px" },
+          "box-shadow": {}
+        }
+      }
+    }
+  }
+}
