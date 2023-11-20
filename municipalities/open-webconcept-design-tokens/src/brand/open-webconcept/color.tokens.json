@@ -64,6 +64,9 @@
         "29": {
           "value": "#4a4a4a"
         },
+        "31": {
+          "value": "#4f4f4f"
+        },
         "46": {
           "value": "#6c757d",
           "comment": "Base/Grey"
@@ -73,6 +76,9 @@
         },
         "73": {
           "value": "#bbbbbb"
+        },
+        "82": {
+          "value": "#d1d1d1"
         },
         "87": {
           "value": "#dcdcde"

@@ -1,0 +1,52 @@
+{
+  "conduction": {
+    "input-checkbox": {
+      "color": { "value": "{open-webconcept.color.white.100}" },
+      "border-width": { "value": "{open-webconcept.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{open-webconcept.color.grey.46}" },
+      "border-radius": { "value": "3px" },
+      "box-shadow": {},
+      "hover": {
+        "color": { "value": "{open-webconcept.color.white.100}" },
+        "border-width": { "value": "{open-webconcept.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{open-webconcept.color.grey.31}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {}
+      },
+      "checked": {
+        "color": { "value": "{open-webconcept.color.primary}" },
+        "border-width": { "value": "{open-webconcept.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{open-webconcept.color.primary}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {},
+        "hover": {
+          "color": { "value": "{open-webconcept.color.primary-hover}" },
+          "border-width": { "value": "{open-webconcept.size.4xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{open-webconcept.color.primary-hover}" },
+          "border-radius": { "value": "3px" },
+          "box-shadow": {}
+        }
+      },
+      "disabled": {
+        "color": { "value": "{open-webconcept.color.grey.82}" },
+        "border-width": { "value": "{open-webconcept.size.4xs}" },
+        "border-style": { "value": "solid" },
+        "border-color": { "value": "{open-webconcept.color.grey.82}" },
+        "border-radius": { "value": "3px" },
+        "box-shadow": {},
+        "hover": {
+          "color": { "value": "{open-webconcept.color.grey.82}" },
+          "border-width": { "value": "{open-webconcept.size.4xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{open-webconcept.color.grey.82}" },
+          "border-radius": { "value": "3px" },
+          "box-shadow": {}
+        }
+      }
+    }
+  }
+}
