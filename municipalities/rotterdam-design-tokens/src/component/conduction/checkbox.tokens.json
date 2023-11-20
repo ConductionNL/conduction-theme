@@ -46,6 +46,18 @@
           "border-radius": { "value": "0px" },
           "box-shadow": {}
         }
+      },
+      "focus": {
+        "outline-width": { "value": "1px" },
+        "outline-style": { "value": "solid" },
+        "outline-color": { "value": "var(--rotterdam-color-base-black)" },
+        "outline-offset": { "value": "2px" }
+      },
+      "label": {
+        "color": { "value": "var(--utrecht-document-color)" },
+        "font-size": { "value": "var(--utrecht-document-font-size)" },
+        "font-weight": {},
+        "font-family": { "value": "var(--utrecht-document-font-family)" }
       }
     }
   }
