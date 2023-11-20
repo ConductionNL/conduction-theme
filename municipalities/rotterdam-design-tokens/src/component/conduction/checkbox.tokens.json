@@ -22,6 +22,7 @@
         "border-color": { "value": "var(--rotterdam-color-base-green)" },
         "border-radius": { "value": "0px" },
         "box-shadow": {},
+        "checkmark-url": {},
         "hover": {
           "color": { "value": "var(--rotterdam-color-base-black)" },
           "border-width": { "value": "1px" },
@@ -57,7 +58,11 @@
         "color": { "value": "var(--utrecht-document-color)" },
         "font-size": { "value": "var(--utrecht-document-font-size)" },
         "font-weight": {},
-        "font-family": { "value": "var(--utrecht-document-font-family)" }
+        "font-family": { "value": "var(--utrecht-document-font-family)" },
+        "container": {
+          "padding": { "value": "3px" },
+          "margin": { "value": "3px" }
+        }
       }
     }
   }
