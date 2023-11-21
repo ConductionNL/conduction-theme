@@ -47,6 +47,9 @@
         },
         "83": {
           "value": "#c1cce6"
+        },
+        "93": {
+          "value": "#e0ebfa"
         }
       },
       "lightgrey": {
@@ -59,12 +62,18 @@
         }
       },
       "grey": {
+        "31": {
+          "value": "#4f4f4f"
+        },
         "34": {
           "value": "#575757",
           "comment": "Base/Grey"
         },
         "46": {
           "value": "#757575"
+        },
+        "82": {
+          "value": "#d1d1d1"
         },
         "90": {
           "value": "#e6e6e6"
