@@ -6,7 +6,9 @@ Conduction's design tokens theme
 
 - **Version 1**
 
-  - 1.0.56: Added DataBadge/Badge tokens to all themes.
+  - 1.0.56:
+    - Added Checkbox tokens to all themes.
+    - Added DataBadge/Badge tokens to all themes.
   - 1.0.55: Added CommongGround theme.
   - 1.0.54:
     - Added ToolTip tokens to all themes.

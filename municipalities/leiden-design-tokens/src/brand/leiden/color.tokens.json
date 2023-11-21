@@ -23,9 +23,18 @@
         "11": {
           "value": "#1d1d1b"
         },
+        "31": {
+          "value": "#4f4f4f"
+        },
         "33": {
           "value": "#5f594a",
           "comment": "Base/Grey"
+        },
+        "46": {
+          "value": "#767676"
+        },
+        "82": {
+          "value": "#d1d1d1"
         }
       },
       "lightgrey": {
