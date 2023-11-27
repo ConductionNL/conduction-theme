@@ -3,7 +3,7 @@
     "download-card": {
       "title": {
         "color": { "value": "{epe.color.black.19}" },
-        "font-size": { "value": "{epe.font-size.md}" },
+        "font-size": { "value": "{epe.font-size.lg}" },
         "font-weight": { "value": "{epe.typography.font-weight.bold}" },
         "font-family": { "value": "{epe.typography.source-sans.font-family}" },
         "margin-inline-end": { "value": "{epe.size.sm}" }
