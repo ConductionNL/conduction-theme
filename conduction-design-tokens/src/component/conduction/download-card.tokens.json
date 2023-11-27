@@ -1,0 +1,22 @@
+{
+  "conduction": {
+    "download-card": {
+      "title": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-size": { "value": "{conduction.font-size.md}" },
+        "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
+        "font-family": { "value": "{conduction.typography.aldritch.font-family}" },
+        "margin-inline-end": { "value": "{conduction.size.sm}" }
+      },
+      "border-width": { "value": "{conduction.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{conduction.color.grey.82}" },
+      "border-radius": { "value": "{conduction.size.3xs}" },
+      "icon-gap": { "value": "{conduction.size.xs}" },
+      "padding-inline-end": { "value": "{conduction.size.md}" },
+      "padding-inline-start": { "value": "{conduction.size.md}" },
+      "padding-block-end": { "value": "{conduction.size.md}" },
+      "padding-block-start": { "value": "{conduction.size.md}" }
+    }
+  }
+}
