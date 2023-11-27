@@ -1,0 +1,22 @@
+{
+  "conduction": {
+    "download-card": {
+      "title": {
+        "color": { "value": "{dimpact.color.pink.62}" },
+        "font-size": { "value": "{dimpact.font-size.lg}" },
+        "font-weight": { "value": "{dimpact.typography.font-weight.bold}" },
+        "font-family": { "value": "{dimpact.typography.sans-serif.font-family}" },
+        "margin-inline-end": { "value": "{dimpact.size.sm}" }
+      },
+      "border-width": { "value": "{dimpact.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{dimpact.color.light-blue.53}" },
+      "border-radius": { "value": "6px" },
+      "icon-gap": { "value": "{dimpact.size.xs}" },
+      "padding-inline-end": { "value": "{dimpact.size.md}" },
+      "padding-inline-start": { "value": "{dimpact.size.md}" },
+      "padding-block-end": { "value": "{dimpact.size.md}" },
+      "padding-block-start": { "value": "{dimpact.size.md}" }
+    }
+  }
+}

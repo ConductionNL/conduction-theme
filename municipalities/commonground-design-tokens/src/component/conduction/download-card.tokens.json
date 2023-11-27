@@ -11,7 +11,7 @@
       "border-width": { "value": "{commonground.size.4xs}" },
       "border-style": { "value": "solid" },
       "border-color": { "value": "{commonground.color.grey.82}" },
-      "border-radius": { "value": "{commonground.size.3xs}" },
+      "border-radius": { "value": "6px" },
       "icon-gap": { "value": "{commonground.size.xs}" },
       "padding-inline-end": { "value": "{commonground.size.md}" },
       "padding-inline-start": { "value": "{commonground.size.md}" },
