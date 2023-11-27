@@ -1,0 +1,22 @@
+{
+  "conduction": {
+    "download-card": {
+      "title": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-size": { "value": "{commonground.font-size.lg}" },
+        "font-weight": { "value": "{commonground.typography.font-weight.bold}" },
+        "font-family": { "value": "{commonground.typography.rijksoverheid-sans.font-family}" },
+        "margin-inline-end": { "value": "{commonground.size.sm}" }
+      },
+      "border-width": { "value": "{commonground.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{commonground.color.grey.82}" },
+      "border-radius": { "value": "{commonground.size.3xs}" },
+      "icon-gap": { "value": "{commonground.size.xs}" },
+      "padding-inline-end": { "value": "{commonground.size.md}" },
+      "padding-inline-start": { "value": "{commonground.size.md}" },
+      "padding-block-end": { "value": "{commonground.size.md}" },
+      "padding-block-start": { "value": "{commonground.size.md}" }
+    }
+  }
+}
