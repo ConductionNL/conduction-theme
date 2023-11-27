@@ -1,6 +1,7 @@
 {
   "conduction": {
     "download-card": {
+      "background-color": {},
       "title": {
         "color": { "value": "{epe.color.black.19}" },
         "font-size": { "value": "{epe.font-size.lg}" },

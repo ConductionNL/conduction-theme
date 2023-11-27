@@ -1,6 +1,7 @@
 {
   "conduction": {
     "download-card": {
+      "background-color": {},
       "title": {
         "color": { "value": "{open-webconcept.color.black.27}" },
         "font-size": { "value": "{open-webconcept.font-size.lg}" },
@@ -20,4 +21,3 @@
     }
   }
 }
- 

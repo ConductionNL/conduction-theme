@@ -1,6 +1,7 @@
 {
   "conduction": {
     "download-card": {
+      "background-color": { "value": "transparent" },
       "title": {
         "color": { "value": "{utrecht.document.color}" },
         "font-size": { "value": "{xxllnc.font-size.lg}" },

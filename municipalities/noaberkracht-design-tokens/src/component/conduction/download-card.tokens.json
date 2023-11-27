@@ -1,6 +1,7 @@
 {
   "conduction": {
     "download-card": {
+      "background-color": {},
       "title": {
         "color": { "value": "{noaberkracht.color.blue.22}" },
         "font-size": { "value": "{noaberkracht.font-size.md}" },

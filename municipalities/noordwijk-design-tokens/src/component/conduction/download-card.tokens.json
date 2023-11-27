@@ -1,6 +1,7 @@
 {
   "conduction": {
     "download-card": {
+      "background-color": {},
       "title": {
         "color": { "value": "{noordwijk.color.primary}" },
         "font-size": { "value": "{noordwijk.font-size.lg}" },

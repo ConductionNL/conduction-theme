@@ -1,6 +1,7 @@
 {
   "conduction": {
     "download-card": {
+      "background-color": {},
       "title": {
         "color": { "value": "{dinkelland.color.black.13}" },
         "font-size": { "value": "{dinkelland.font-size.lg}" },

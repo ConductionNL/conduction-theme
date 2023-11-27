@@ -1,6 +1,7 @@
 {
   "conduction": {
     "download-card": {
+      "background-color": {},
       "title": {
         "color": { "value": "{dimpact.color.pink.62}" },
         "font-size": { "value": "{dimpact.font-size.lg}" },

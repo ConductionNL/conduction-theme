@@ -1,6 +1,7 @@
 {
   "conduction": {
     "download-card": {
+      "background-color": {},
       "title": {
         "color": { "value": "{tubbergen.color.black.13}" },
         "font-size": { "value": "{tubbergen.font-size.md}" },
