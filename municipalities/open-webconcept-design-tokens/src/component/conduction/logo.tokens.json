@@ -14,6 +14,13 @@
         "background-image": {
           "value": "url('https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png')"
         }
+      },
+      "navbar": {
+        "inline-size": { "value": "116px" },
+        "block-size": { "value": "45px" },
+        "background-image": {
+          "value": "url('https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png')"
+        }
       }
     }
   }

@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.57: Added navbar to logo tokens in all themes.
   - 1.0.56:
     - Added DownloadCard tokens to all themes.
     - Added Checkbox tokens to all themes.
