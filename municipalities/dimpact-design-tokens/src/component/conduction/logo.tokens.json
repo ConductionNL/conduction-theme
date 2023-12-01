@@ -10,6 +10,13 @@
         "inline-size": { "value": "150px" },
         "block-size": { "value": "44px" },
         "background-image": { "value": "url('https://www.dimpact.nl/sites/all/themes/custom/dimpact/logo.png')" }
+      },
+      "navbar": {
+        "inline-size": { "value": "100px" },
+        "block-size": { "value": "44px" },
+        "background-image": {
+          "value": "url('https://www.dimpact.nl/sites/all/themes/custom/dimpact/logo.png')"
+        }
       }
     }
   }

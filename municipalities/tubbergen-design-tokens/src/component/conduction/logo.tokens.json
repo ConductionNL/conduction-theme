@@ -4,12 +4,21 @@
       "header": {
         "inline-size": { "value": "150px" },
         "block-size": { "value": "36px" },
-        "background-image": { "value": "url('https://www.tubbergen.nl/sites/all/themes/tubbergen/logo.svg')" }
+        "background-image": {
+          "value": "url('https://www.tubbergen.nl/sites/all/themes/tubbergen/logo.svg')"
+        }
       },
       "footer": {
         "inline-size": { "value": "" },
         "block-size": { "value": "" },
         "background-image": { "value": "" }
+      },
+      "navbar": {
+        "inline-size": { "value": "150px" },
+        "block-size": { "value": "50px" },
+        "background-image": {
+          "value": "url('https://www.tubbergen.nl/sites/all/themes/tubbergen/logo.svg')"
+        }
       }
     }
   }
