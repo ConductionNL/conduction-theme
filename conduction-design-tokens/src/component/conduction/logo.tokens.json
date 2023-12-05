@@ -14,6 +14,13 @@
         "background-image": {
           "value": "url('https://raw.githubusercontent.com/OpenCatalogi/web-app/df1e0533081d780c05b1d0b57ab327d97adcbdc6/pwa/src/assets/svgs/LogoConduction.svg')"
         }
+      },
+      "navbar": {
+        "inline-size": { "value": "150px" },
+        "block-size": { "value": "40px" },
+        "background-image": {
+          "value": "url('https://raw.githubusercontent.com/OpenCatalogi/web-app/df1e0533081d780c05b1d0b57ab327d97adcbdc6/pwa/src/assets/svgs/LogoConduction.svg')"
+        }
       }
     }
   }

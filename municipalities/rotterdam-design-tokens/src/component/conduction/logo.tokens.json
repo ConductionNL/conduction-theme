@@ -4,12 +4,23 @@
       "header": {
         "inline-size": { "value": "220px" },
         "block-size": { "value": "44px" },
-        "background-image": { "value": "url('https://www.rotterdam.nl/images/logo-base.svg')" }
+        "background-image": {
+          "value": "url('https://www.rotterdam.nl/images/logo-base.svg')"
+        }
       },
       "footer": {
         "inline-size": { "value": "240px" },
         "block-size": { "value": "48px" },
-        "background-image": { "value": "url('https://www.rotterdam.nl/images/logo-base-white.svg')" }
+        "background-image": {
+          "value": "url('https://www.rotterdam.nl/images/logo-base-white.svg')"
+        }
+      },
+      "navbar": {
+        "inline-size": { "value": "175px" },
+        "block-size": { "value": "46px" },
+        "background-image": {
+          "value": "url('https://www.rotterdam.nl/images/logo-base.svg')"
+        }
       }
     }
   }
