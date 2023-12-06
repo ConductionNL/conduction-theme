@@ -96,6 +96,9 @@
         "92": {
           "value": "#eaeaea",
           "comment": "Base/Grey"
+        },
+        "97": {
+          "value": "#f7f7f7"
         }
       },
       "lightgrey": {
