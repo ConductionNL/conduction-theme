@@ -54,7 +54,7 @@
       "disabled": {
         "border-color": { "value": "{noordwijk.color.grey.82}" },
         "border-width": { "value": "{noordwijk.size.4xs}" },
-        "background-color": { "value": "{noordwijk.color.white.100}" },
+        "background-color": { "value": "{noordwijk.color.grey.97}" },
         "color": { "value": "{noordwijk.color.grey.82}" }
       },
       "invalid": {

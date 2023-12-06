@@ -54,7 +54,7 @@
       "disabled": {
         "border-color": { "value": "{leiden.color.grey.82}" },
         "border-width": { "value": "{leiden.size.4xs}" },
-        "background-color": { "value": "{leiden.color.white.100}" },
+        "background-color": { "value": "{leiden.color.grey.97}" },
         "color": { "value": "{leiden.color.grey.82}" }
       },
       "invalid": {

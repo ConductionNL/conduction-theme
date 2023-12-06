@@ -54,7 +54,7 @@
       "disabled": {
         "border-color": { "value": "{noaberkracht.color.grey.82}" },
         "border-width": { "value": "{noaberkracht.size.4xs}" },
-        "background-color": { "value": "{noaberkracht.color.white.100}" },
+        "background-color": { "value": "{noaberkracht.color.grey.97}" },
         "color": { "value": "{noaberkracht.color.grey.82}" }
       },
       "invalid": {

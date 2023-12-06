@@ -54,7 +54,7 @@
       "disabled": {
         "border-color": { "value": "{open-webconcept.color.grey.82}" },
         "border-width": { "value": "{open-webconcept.size.4xs}" },
-        "background-color": { "value": "{open-webconcept.color.white.100}" },
+        "background-color": { "value": "{open-webconcept.color.grey.97}" },
         "color": { "value": "{open-webconcept.color.grey.82}" }
       },
       "invalid": {

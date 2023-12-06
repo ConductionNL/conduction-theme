@@ -54,7 +54,7 @@
       "disabled": {
         "border-color": { "value": "{dinkelland.color.grey.82}" },
         "border-width": { "value": "{dinkelland.size.4xs}" },
-        "background-color": { "value": "{dinkelland.color.white.100}" },
+        "background-color": { "value": "{dinkelland.color.grey.97}" },
         "color": { "value": "{dinkelland.color.grey.82}" }
       },
       "invalid": {

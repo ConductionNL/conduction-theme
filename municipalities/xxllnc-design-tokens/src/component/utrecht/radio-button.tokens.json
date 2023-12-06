@@ -54,7 +54,7 @@
       "disabled": {
         "border-color": { "value": "{xxllnc.color.grey.82}" },
         "border-width": { "value": "{xxllnc.size.4xs}" },
-        "background-color": { "value": "{xxllnc.color.white.100}" },
+        "background-color": { "value": "{xxllnc.color.grey.97}" },
         "color": { "value": "{xxllnc.color.grey.82}" }
       },
       "invalid": {
