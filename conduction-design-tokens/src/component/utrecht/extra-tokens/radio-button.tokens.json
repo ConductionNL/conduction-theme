@@ -1,0 +1,8 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "min-block-size": { "value": "16px" },
+      "min-inline-size": { "value": "16px" }
+    }
+  }
+}
