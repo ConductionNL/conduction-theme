@@ -49,7 +49,7 @@
         "border-color": { "value": "var(--rotterdam-color-base-green)" },
         "border-width": { "value": "5px" },
         "background-color": { "value": "var(--rotterdam-color-base-white)" },
-        "color": { "value": "var(--rotterdam-color-base-green)" }
+        "color": { "value": "var(--rotterdam-color-base-white)" }
       },
       "disabled": {
         "border-color": { "value": "var(--rotterdam-color-gray-tint-08)" },
