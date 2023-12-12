@@ -1,0 +1,21 @@
+{
+  "conduction": {
+    "table-wrapper": {
+      "scroll-button": {
+        "background-color": { "value": "{opencatalogi.color.base.white}" },
+        "color": { "value": "{utrecht.document.color}" },
+        "padding-inline-start": { "value": "14px" },
+        "padding-inline-end": { "value": "14px" },
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "hover": {
+          "background-color": { "value": "{opencatalogi.color.base.white}" },
+          "color": { "value": "{opencatalogi.color.base.green}" }
+        }
+      }
+    }
+  }
+}
