@@ -14,7 +14,7 @@
         "value": "14px !important"
       },
       "font-weight": {
-        "value": "{opencatalogi.typography.weight-scale.bold.font-weight}"
+        "value": "{opencatalogi.typography.weight-scale.normal.font-weight}"
       },
       "line-height": {},
       "padding-block": {

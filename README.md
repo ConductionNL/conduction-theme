@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.61: Updated OpenCatalogi theme tokens.
   - 1.0.60:
     - Removed opacity token from tooltip tokens in all themes.
     - Added OpenCatalogi theme based on Rotterdam theme.
