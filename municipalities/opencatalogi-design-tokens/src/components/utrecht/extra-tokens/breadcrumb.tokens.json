@@ -9,11 +9,11 @@
       "link": {
         "disabled": {
           "background-color": {},
-          "color": { "value": "{opencatalogi.color.gray.tint-09)" }
+          "color": { "value": "{opencatalogi.color.gray.tint-09}" }
         },
         "hover": {
           "background-color": {},
-          "color": { "value": "{opencatalogi.color.green.tint-01)" }
+          "color": { "value": "{opencatalogi.color.green.tint-01}" }
         }
       }
     }
