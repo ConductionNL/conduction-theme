@@ -1,0 +1,11 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{opencatalogi.color.base.white}" },
+      "color": { "value": "{opencatalogi.color.gray.tint-11}" },
+      "font-family": { "value": "{opencatalogi.typography.sans-serif.font-family}" },
+      "font-size": { "value": "16px" },
+      "line-height": {}
+    }
+  }
+}

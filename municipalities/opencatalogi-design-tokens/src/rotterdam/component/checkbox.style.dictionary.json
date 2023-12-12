@@ -1,0 +1,12 @@
+{
+  "rotterdam": {
+    "checkbox": {
+      "color": { "value": "{opencatalogi.color.grey.0.value}" },
+      "border-width": { "value": "2px", "comment": "fix me new + dit component" },
+      "border-color": { "value": "opencatalogi.color.green.30.value", "comment": "fix me new" },
+      "active": {
+        "color": {}
+      }
+    }
+  }
+}

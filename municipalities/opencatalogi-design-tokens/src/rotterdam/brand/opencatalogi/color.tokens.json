@@ -11,15 +11,15 @@
           "comment": "Base/Black"
         },
         "green": {
-          "value": "{rotterdam.color.green.tint-01}",
+          "value": "{opencatalogi.color.green.tint-01}",
           "comment": "Base/Green"
         },
         "magenta": {
-          "value": "{rotterdam.color.magenta.tint-01}",
+          "value": "{opencatalogi.color.magenta.tint-01}",
           "comment": "Base/Magenta"
         },
         "gray": {
-          "value": "{rotterdam.color.gray.tint-01}",
+          "value": "{opencatalogi.color.gray.tint-01}",
           "comment": "Base/Gray"
         }
       },
