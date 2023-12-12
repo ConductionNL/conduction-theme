@@ -6,6 +6,9 @@ Conduction's design tokens theme
 
 - **Version 1**
 
+  - 1.0.60:
+    - Removed opacity token from tooltip tokens in all themes.
+    - Added OpenCatalogi theme based on Rotterdam theme.
   - 1.0.59: Updated radio-button tokens in Rotterdam theme.
   - 1.0.58: Added radio-button tokens in all themes.
   - 1.0.57: Added navbar to logo tokens in all themes.

@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "figure": {
+      "margin-block-end": {},
+      "margin-block-start": {},
+      "caption": {
+        "color": { "value": "{opencatalogi.color.gray.tint-02}" },
+        "font-size": { "value": "{opencatalogi.typography.scale.md.font-size}" },
+        "line-height": { "value": "28px" }
+      }
+    }
+  }
+}

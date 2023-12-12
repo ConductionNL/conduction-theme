@@ -1,0 +1,68 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "background-color": { "value": "{opencatalogi.color.base.white}" },
+      "border-color": { "value": "{opencatalogi.color.gray.tint-08}" },
+      "border-width": { "value": "1px" },
+      "size": {},
+      "margin-block-start": {},
+      "icon": {
+        "size": {}
+      },
+      "active": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "checked": {
+        "border-color": { "value": "{opencatalogi.color.base.green}" },
+        "border-width": { "value": "5px" },
+        "background-color": { "value": "{opencatalogi.color.base.white}" },
+        "color": { "value": "{opencatalogi.color.base.white}" },
+        "active": {
+          "border-color": { "value": "{opencatalogi.color.base.green}" },
+          "border-width": { "value": "1px" },
+          "background-color": { "value": "{opencatalogi.color.base.white}" },
+          "color": { "value": "{opencatalogi.color.base.white}" }
+        },
+        "hover": {
+          "border-color": { "value": "{opencatalogi.color.base.black}" },
+          "border-width": { "value": "5px" },
+          "background-color": { "value": "{opencatalogi.color.base.white}" },
+          "color": { "value": "{opencatalogi.color.base.white}" }
+        },
+        "focus": {
+          "border-color": { "value": "{opencatalogi.color.base.green}" },
+          "border-width": { "value": "1px" },
+          "background-color": { "value": "{opencatalogi.color.base.white}" },
+          "color": { "value": "{opencatalogi.color.base.white}" }
+        }
+      },
+      "hover": {
+        "border-color": { "value": "{opencatalogi.color.base.green}" },
+        "border-width": { "value": "2px" },
+        "background-color": { "value": "{opencatalogi.color.base.white}" },
+        "color": {}
+      },
+      "focus": {
+        "border-color": { "value": "{opencatalogi.color.base.green}" },
+        "border-width": { "value": "5px" },
+        "background-color": { "value": "{opencatalogi.color.base.white}" },
+        "color": { "value": "{opencatalogi.color.base.white}" }
+      },
+      "disabled": {
+        "border-color": { "value": "{opencatalogi.color.gray.tint-08}" },
+        "border-width": { "value": "1px" },
+        "background-color": { "value": "{opencatalogi.color.gray.tint-01}" },
+        "color": { "value": "{opencatalogi.color.gray.tint-08}" }
+      },
+      "invalid": {
+        "border-color": { "value": "#FE1818" },
+        "border-width": { "value": "1px" },
+        "background-color": { "value": "{opencatalogi.color.base.white}" },
+        "color": { "value": "#FE1818" }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "utrecht": {
+    "form-control": {
+      "background-color": { "value": "{opencatalogi.color.base.white}" },
+      "block-size": { "value": "46px", "comment": "48px - 2px border" },
+      "border-color": { "value": "{opencatalogi.color.gray.tint-08}" },
+      "border-radius": { "value": "0" },
+      "border-width": { "value": "1px" },
+      "color": { "value": "{opencatalogi.color.gray.tint-11}" },
+      "font-family": { "value": "{opencatalogi.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{opencatalogi.typography.scale.md}" },
+      "line-height": { "value": "24px" },
+      "min-block-size": {},
+      "padding-block-end": { "value": "12px" },
+      "padding-block-start": { "value": "12px" },
+      "padding-inline-end": { "value": "16px" },
+      "padding-inline-start": { "value": "16px" },
+      "placeholder": {
+        "color": { "value": "{opencatalogi.color.gray.tint-09}" }
+      },
+      "focus": {
+        "border-color": {}
+      },
+      "disabled": {
+        "background-color": { "value": "{opencatalogi.color.base.gray}" },
+        "color": { "value": "{opencatalogi.color.gray.tint-09}" }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "utrecht": {
+    "breadcrumb-nav": {
+      "background-color": {},
+      "padding-inline-start": {},
+      "padding-inline-end": {},
+      "padding-block-start": {},
+      "padding-block-end": {},
+      "link": {
+        "disabled": {
+          "background-color": {},
+          "color": { "value": "{opencatalogi.color.gray.tint-09}" }
+        },
+        "hover": {
+          "background-color": {},
+          "color": { "value": "{opencatalogi.color.green.tint-01}" }
+        }
+      }
+    }
+  }
+}
