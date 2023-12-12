@@ -1,0 +1,23 @@
+{
+  "conduction": {
+    "download-card": {
+      "background-color": {},
+      "title": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-size": { "value": "20px" },
+        "font-weight": { "value": "{opencatalogi.typography.weight-scale.bold.font-weight}" },
+        "font-family": { "value": "{opencatalogi.typography.sans-serif.font-family}" },
+        "margin-inline-end": { "value": "14px" }
+      },
+      "border-width": { "value": "1px" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{opencatalogi.color.gray.tint-04}" },
+      "border-radius": { "value": "0px" },
+      "icon-gap": { "value": "14px" },
+      "padding-inline-end": { "value": "18px" },
+      "padding-inline-start": { "value": "18px" },
+      "padding-block-end": { "value": "18px" },
+      "padding-block-start": { "value": "18px" }
+    }
+  }
+}
