@@ -1,49 +1,84 @@
-categories:
-- it-development
+publiccodeYmlVersion: '0.1'
+name: conduction-theme
+applicationSuite: null
+url: https://github.com/ConductionNL/conduction-theme
+landingURL: null
+isBasedOn: null
+softwareVersion: null
+logo: https://avatars.githubusercontent.com/u/106860777?v=4
+monochromeLogo: null
+platforms:
+  - web
+releaseDate: '2023-11-10'
+categories: 
+  - it-development
+developmentStatus: beta
+softwareType: softwareAddon
 description:
   en:
-    apiDocumentation: ''
-    awards: []
-    documentation: ''
-    features: []
+    localisedName: null
     genericName: Conduction's design tokens theme
-    localisedName: ''
-    longDescription: ''
+    shortDescription: conduction-theme
+    longDescription: Conduction's design tokens theme
+    documentation: null
+    apiDocumentation: null
+    features: []
     screenshots: []
-    shortDescription: ''
     videos: []
-developmentStatus: development
-landingURL: ''
-legal:
-  authorsFile: ''
-  license: ''
-  mainCopyrightOwner: ''
-  repoOwner: ''
+    awards: []
+  nl:
+    localisedName: null
+    genericName: Conduction's design tokens theme
+    shortDescription: conduction-theme
+    longDescription: Conduction's design tokens theme
+    documentation: null
+    apiDocumentation: null
+    features: []
+    screenshots: []
+    videos: []
+    awards: []
+intendedaudience: 
+  countries: 
+    - nl
+  unsupportedCountries: []
+  scope: []
+legal: 
+  license: EUPL-1.2-or-later
+  mainCopyrightOwner: legal/authorsFile
+  repoOwner: ConductionNL
+  authorsFile: null
+maintenance: 
+  type: internal
+  contractors: 
+    - name: Conduction
+      until: 2035-01-01
+      email: info\x64conduction.nl
+      website: https://www.conduction.nl
+  contacts:
+    - name: Ruben van der Linde
+      email: info\x64conduction.nl
+      phone: 085 303 6840
+      affiliation: Conduction
 localisation:
-  availableLanguages:
-  - en
-  localisationReady: false
-maintenance:
-  contacts: []
-  contractors: []
-  type: none
-name: conduction-theme
-nl:
-  vng:
-    commonground: []
-    gemma: []
-organisation:
-  description: At Conduction, we are driven by a vision that sees the digitization
-    of the world as an extraordinary opportunity. It's a chance to transform our world.
-  logo: https://avatars.githubusercontent.com/u/46676163?v=4
-  name: ConductionNL
-  url: ConductionNL
-platforms:
-- web
-publiccodeYmlVersion: '0.2'
-releaseDate: '2023-11-10'
-roadmap: ''
-softwareType: standalone/web
-softwareVersion: ''
-url: https://github.com/ConductionNL/conduction-theme
-usedBy: []
+  localisationReady: true
+  availableLanguages: 
+     - en
+     - nl
+dependsOn: null
+roadmap: null
+inputTypes: null
+outputTypes: null
+nl: 
+  countryExtensionVersion: null
+  commonground: 
+    intendedOrganisations: []
+    installationType: null
+    layerType: interface
+  gemma:
+    bedrijfsfuncties: []
+    bedrijfsservices: []
+    applicatiefunctie: null
+    model: null
+  upl: []
+downloadUrls:
+  - https://github.com/ConductionNL/conduction-theme/archive/refs/heads/main.zip
