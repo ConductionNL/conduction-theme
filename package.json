@@ -21,7 +21,8 @@
     "build:open-webconcept": "cd ./municipalities/open-webconcept-design-tokens && npm run build",
     "build:dimpact": "cd ./municipalities/dimpact-design-tokens && npm run build",
     "build:commonground": "cd ./municipalities/commonground-design-tokens && npm run build",
-    "build:opencatalogi": "cd ./municipalities/opencatalogi-design-tokens && npm run build"
+    "build:opencatalogi": "cd ./municipalities/opencatalogi-design-tokens && npm run build",
+    "build:zutphen": "cd ./municipalities/zutphen-design-tokens && npm run build"
   },
   "dependencies": { "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100" },
   "author": "",
