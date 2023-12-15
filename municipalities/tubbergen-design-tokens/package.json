@@ -1,9 +1,12 @@
 {
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.12",
   "author": "Community for NL Design System",
   "description": "NL Design System design tokens for Gemeente Tubbergen",
   "website": "https://gemeente.tubbergen.nl/",
-  "keywords": ["nl-design-system", "conduction"],
+  "keywords": [
+    "nl-design-system",
+    "conduction"
+  ],
   "license": "SEE LICENSE IN LICENSE.md",
   "name": "@nl-design-system-unstable/tubbergen-design-tokens",
   "private": false,

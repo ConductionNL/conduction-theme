@@ -1,9 +1,12 @@
 {
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.13",
   "author": "Community for NL Design System",
   "description": "NL Design System design tokens for Gemeente Noordwijk",
   "website": "https://noordwijk.nl/",
-  "keywords": ["nl-design-system", "conduction"],
+  "keywords": [
+    "nl-design-system",
+    "conduction"
+  ],
   "license": "SEE LICENSE IN LICENSE.md",
   "name": "@nl-design-system-unstable/noordwijk-design-tokens",
   "private": false,
