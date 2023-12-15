@@ -44,6 +44,15 @@
         "29": {
           "value": "#4a4a4a"
         }
+      },
+      "turquoise": {
+        "46": {
+          "value": "#549692",
+          "comment": "Base/Turquoise"
+        },
+        "48": {
+          "value": "#579e97"
+        }
       }
     }
   }
