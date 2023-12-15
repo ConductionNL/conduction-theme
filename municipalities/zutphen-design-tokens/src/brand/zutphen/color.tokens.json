@@ -31,13 +31,21 @@
           "comment": "Base/Black"
         }
       },
+      "lightblue": {
+        "31": {
+          "value": "#23527c"
+        }
+      },
       "blue": {
+        "25": {
+          "value": "#05307c"
+        },
         "31": {
           "value": "#063a96",
           "comment": "Base/Blue"
         },
-        "25": {
-          "value": "#05307c"
+        "42": {
+          "value": "#0a51cd"
         }
       },
       "grey": {
