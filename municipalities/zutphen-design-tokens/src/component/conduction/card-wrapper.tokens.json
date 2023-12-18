@@ -10,7 +10,7 @@
       "border-bottom-width": {},
       "border-radius": { "value": "0px" },
       "box-shadow": {},
-      "color": { "value": "{zutphen.color.black.0}" },
+      "color": { "value": "{zutphen.color.white.100}" },
       "hover": {
         "background-color": { "value": "{zutphen.color.turquoise.46}" },
         "border-bottom-color": {},
