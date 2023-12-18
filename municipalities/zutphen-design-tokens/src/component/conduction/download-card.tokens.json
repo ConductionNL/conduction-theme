@@ -1,0 +1,23 @@
+{
+  "conduction": {
+    "download-card": {
+      "background-color": { "value": "{zutphen.color.white.100}" },
+      "title": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-size": { "value": "{zutphen.font-size.md}" },
+        "font-weight": { "value": "{zutphen.typography.font-weight.bold}" },
+        "font-family": { "value": "{zutphen.typography.myriad-pro.font-family}" },
+        "margin-inline-end": { "value": "{zutphen.size.sm}" }
+      },
+      "border-width": { "value": "{zutphen.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{zutphen.color.grey.82}" },
+      "border-radius": { "value": "{zutphen.size.3xs}" },
+      "icon-gap": { "value": "{zutphen.size.xs}" },
+      "padding-inline-end": { "value": "{zutphen.size.md}" },
+      "padding-inline-start": { "value": "{zutphen.size.md}" },
+      "padding-block-end": { "value": "{zutphen.size.md}" },
+      "padding-block-start": { "value": "{zutphen.size.md}" }
+    }
+  }
+}

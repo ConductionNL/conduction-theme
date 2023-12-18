@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{zutphen.color.white.100}" },
+      "color": { "value": "{zutphen.color.black.0}" },
+      "font-family": { "value": "{zutphen.typography.asap.font-family}" },
+      "font-size": { "value": "{zutphen.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}

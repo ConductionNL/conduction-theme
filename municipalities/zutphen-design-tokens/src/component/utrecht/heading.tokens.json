@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{zutphen.color.primary}" },
+      "font-family": { "value": "{zutphen.typography.myriad-pro.font-family}" },
+      "font-size": { "value": "{zutphen.font-size.3xl}" },
+      "font-weight": { "value": "{zutphen.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{zutphen.size.2xl}" },
+      "margin-block-start": { "value": "{zutphen.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{zutphen.color.primary}" },
+      "font-family": { "value": "{zutphen.typography.myriad-pro.font-family}" },
+      "font-size": { "value": "{zutphen.font-size.2xl}" },
+      "font-weight": { "value": "{zutphen.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{zutphen.size.2xl}" },
+      "margin-block-start": { "value": "{zutphen.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{zutphen.color.primary}" },
+      "font-family": { "value": "{zutphen.typography.myriad-pro.font-family}" },
+      "font-size": { "value": "{zutphen.font-size.xl}" },
+      "font-weight": { "value": "{zutphen.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{zutphen.size.xl}" },
+      "margin-block-start": { "value": "{zutphen.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{zutphen.color.primary}" },
+      "font-family": { "value": "{zutphen.typography.myriad-pro.font-family}" },
+      "font-size": { "value": "{zutphen.font-size.lg}" },
+      "font-weight": { "value": "{zutphen.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{zutphen.size.lg}" },
+      "margin-block-start": { "value": "{zutphen.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{zutphen.color.primary}" },
+      "font-family": { "value": "{zutphen.typography.myriad-pro.font-family}" },
+      "font-size": { "value": "{zutphen.font-size.md}" },
+      "font-weight": { "value": "{zutphen.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{zutphen.size.lg}" },
+      "margin-block-start": { "value": "{zutphen.size.md}" }
+    }
+  }
+}
