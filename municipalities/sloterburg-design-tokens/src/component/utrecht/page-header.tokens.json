@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{sloterburg.color.white.100}" },
+      "color": { "value": "{sloterburg.color.primary}" },
+      "padding-block-start": { "value": "{sloterburg.size.sm}" },
+      "padding-block-end": { "value": "{sloterburg.size.sm}" }
+    }
+  }
+}
