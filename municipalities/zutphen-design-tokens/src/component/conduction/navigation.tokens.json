@@ -1,0 +1,67 @@
+{
+  "conduction": {
+    "primary": {
+      "top-nav": {
+        "color": { "value": "{zutphen.color.black.0}" },
+        "background-color": { "value": "{zutphen.color.white.100}" },
+        "hover": {
+          "color": { "value": "{zutphen.color.primary}" },
+          "background-color": { "value": "{zutphen.color.white.100}" },
+          "box-shadow": {}
+        },
+        "current": {
+          "color": { "value": "{zutphen.color.primary}" },
+          "background-color": { "value": "unset" },
+          "box-shadow": { "value": "inset 0 -4px {zutphen.color.primary}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 4px 0 {zutphen.color.primary}" }
+          }
+        },
+        "dropdown": {
+          "color": {},
+          "background-color": {},
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "hover": {
+            "color": {},
+            "background-color": {},
+            "box-shadow": {}
+          }
+        },
+        "item": {
+          "padding": { "value": "18px" },
+          "border-radius": {}
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    },
+    "secondary": {
+      "top-nav": {
+        "color": { "value": "{zutphen.color.black.0}" },
+        "background-color": { "value": "transparent" },
+        "hover": {
+          "color": { "value": "{zutphen.color.primary}" },
+          "background-color": { "value": "{zutphen.color.white.100}" }
+        },
+        "current": {
+          "color": { "value": "{zutphen.color.primary}" },
+          "background-color": { "value": "unset" },
+          "box-shadow": { "value": "inset 0 -4px {zutphen.color.primary}" }
+        },
+        "font-size": { "value": "{zutphen.font-size.md}" },
+        "font-weight": { "value": "400" },
+        "item": {
+          "padding": { "value": "18px" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    }
+  }
+}
