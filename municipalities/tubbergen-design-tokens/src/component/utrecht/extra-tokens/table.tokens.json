@@ -15,7 +15,9 @@
         }
       },
       "body": {
-        "border": { "value": "{tubbergen.size.4xs} solid {tubbergen.color.blue.94}" }
+        "border": { "value": "{tubbergen.size.4xs} solid {tubbergen.color.blue.94}" },
+        "border-block-end-color": {},
+        "border-block-end-width": {}
       },
       "caption": {
         "font-style": {}

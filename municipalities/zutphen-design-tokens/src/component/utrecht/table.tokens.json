@@ -19,7 +19,7 @@
       },
       "header": {
         "font-weight": { "value": "{zutphen.typography.font-weight.bold}" },
-        "background-color": {"value": "{zutphen.color.turquoise.46}"},
+        "background-color": { "value": "{zutphen.color.turquoise.46}" },
         "color": { "value": "{zutphen.color.white.100}" },
         "text-transform": { "value": "unset" },
         "border-block-end-color": {},
@@ -42,8 +42,8 @@
         }
       },
       "row": {
-        "border-block-end-color": { "value": "{zutphen.color.grey.82}" },
-        "border-block-end-width": { "value": "{zutphen.size.4xs}" },
+        "border-block-end-color": {},
+        "border-block-end-width": {},
         "padding-inline-end": {},
         "padding-inline-start": {},
         "alternate-odd": {
