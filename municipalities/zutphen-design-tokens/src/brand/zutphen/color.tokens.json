@@ -20,6 +20,9 @@
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "white": {
+        "96": {
+          "value": "#f4f4f4"
+        },
         "100": {
           "value": "#ffffff",
           "comment": "Base/White"
@@ -46,6 +49,9 @@
         },
         "42": {
           "value": "#0a51cd"
+        },
+        "46": {
+          "value": "#1967d2"
         }
       },
       "grey": {
@@ -67,6 +73,9 @@
         },
         "82": {
           "value": "#d1d1d1"
+        },
+        "84": {
+          "value": "#d6d6d6"
         },
         "90": {
           "value": "#e6e6e6"
