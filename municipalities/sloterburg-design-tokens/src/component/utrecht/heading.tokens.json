@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{sloterburg.color.primary}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{sloterburg.font-size.3xl}" },
+      "font-weight": { "value": "{sloterburg.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{sloterburg.size.2xl}" },
+      "margin-block-start": { "value": "{sloterburg.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{sloterburg.color.primary}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{sloterburg.font-size.2xl}" },
+      "font-weight": { "value": "{sloterburg.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{sloterburg.size.2xl}" },
+      "margin-block-start": { "value": "{sloterburg.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{sloterburg.color.darkgreen.23}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{sloterburg.font-size.xl}" },
+      "font-weight": { "value": "{sloterburg.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{sloterburg.size.xl}" },
+      "margin-block-start": { "value": "{sloterburg.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{sloterburg.color.darkgreen.23}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{sloterburg.font-size.lg}" },
+      "font-weight": { "value": "{sloterburg.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{sloterburg.size.lg}" },
+      "margin-block-start": { "value": "{sloterburg.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{sloterburg.color.darkgreen.23}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{sloterburg.font-size.md}" },
+      "font-weight": { "value": "{sloterburg.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{sloterburg.size.lg}" },
+      "margin-block-start": { "value": "{sloterburg.size.md}" }
+    }
+  }
+}

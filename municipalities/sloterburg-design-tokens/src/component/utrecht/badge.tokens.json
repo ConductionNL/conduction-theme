@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{sloterburg.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{sloterburg.color.white.100} " },
+      "font-size": { "value": "{sloterburg.font-size.sm}" },
+      "font-weight": { "value": "{sloterburg.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{sloterburg.size.xs}" },
+      "padding-inline": { "value": "{sloterburg.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}

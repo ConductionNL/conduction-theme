@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{sloterburg.size.3xs}" },
+        "2xs": { "value": "{sloterburg.size.2xs}" },
+        "xs": { "value": "{sloterburg.size.xs}" },
+        "sm": { "value": "{sloterburg.size.sm}" },
+        "md": { "value": "{sloterburg.size.md}" },
+        "lg": { "value": "{sloterburg.size.lg}" },
+        "xl": { "value": "{sloterburg.size.xl}" },
+        "2xl": { "value": "{sloterburg.size.2xl}" },
+        "3xl": { "value": "{sloterburg.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{sloterburg.size.3xs}" },
+        "2xs": { "value": "{sloterburg.size.2xs}" },
+        "xs": { "value": "{sloterburg.size.xs}" },
+        "sm": { "value": "{sloterburg.size.sm}" },
+        "md": { "value": "{sloterburg.size.md}" },
+        "lg": { "value": "{sloterburg.size.lg}" },
+        "xl": { "value": "{sloterburg.size.xl}" },
+        "2xl": { "value": "{sloterburg.size.2xl}" },
+        "3xl": { "value": "{sloterburg.size.3xl}" }
+      }
+    }
+  }
+}
