@@ -1,0 +1,27 @@
+{
+  "conduction": {
+    "logo": {
+      "header": {
+        "inline-size": { "value": "200px" },
+        "block-size": { "value": "80px" },
+        "background-image": {
+          "value": "url('https://cuatro.sim-cdn.nl/sloterburg/uploads/2023-02/logo-sloterburg.svg?cb=iYeQFDAp')"
+        }
+      },
+      "footer": {
+        "inline-size": { "value": "200px" },
+        "block-size": { "value": "80px" },
+        "background-image": {
+          "value": "url('https://cuatro.sim-cdn.nl/sloterburg/uploads/2023-02/logo-sloterburg.svg?cb=iYeQFDAp')"
+        }
+      },
+      "navbar": {
+        "inline-size": { "value": "137px" },
+        "block-size": { "value": "51px" },
+        "background-image": {
+          "value": "url('https://cuatro.sim-cdn.nl/sloterburg/uploads/2023-02/logo-sloterburg.svg?cb=iYeQFDAp')"
+        }
+      }
+    }
+  }
+}
