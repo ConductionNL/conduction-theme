@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{sloterburg.color.white.100}" },
+      "color": { "value": "{sloterburg.color.black.0}" },
+      "font-family": { "value": "{sloterburg.typography.pt-sans-narrow.font-family}" },
+      "font-size": { "value": "{sloterburg.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}
