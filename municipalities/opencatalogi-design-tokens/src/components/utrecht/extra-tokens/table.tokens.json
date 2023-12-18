@@ -1,0 +1,25 @@
+{
+  "utrecht": {
+    "table": {
+      "border-collapse": { "value": "collapse" },
+      "background-color": { "value": "{opencatalogi.color.base.white}" },
+      "header": {
+        "border-block-end-color": { "value": "{opencatalogi.color.gray.tint-11}" },
+        "border-block-end-width": { "value": "0.2rem" },
+        "font-family": {}
+      },
+      "row": {
+        "hover": {
+          "background-color": { "value": "{opencatalogi.color.gray.tint-01}" },
+          "color": {}
+        }
+      },
+      "body": {
+        "border": {}
+      },
+      "caption": {
+        "font-style": {}
+      }
+    }
+  }
+}

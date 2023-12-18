@@ -1,0 +1,23 @@
+{
+  "utrecht": {
+    "form-label": {
+      "color": { "value": "{opencatalogi.color.gray.tint-11}" },
+      "font-size": { "value": "{opencatalogi.typography.scale.md.font-size}" },
+      "font-weight": { "value": "{opencatalogi.typography.weight-scale.bold.font-weight}" },
+      "checkbox": {
+        "color": {},
+        "font-weight": { "value": "{opencatalogi.typography.weight-scale.normal.font-weight}" }
+      },
+      "checked": {
+        "font-weight": {}
+      },
+      "disabled": {
+        "color": {}
+      },
+      "radio": {
+        "color": {},
+        "font-weight": { "value": "{opencatalogi.typography.weight-scale.normal.font-weight}" }
+      }
+    }
+  }
+}

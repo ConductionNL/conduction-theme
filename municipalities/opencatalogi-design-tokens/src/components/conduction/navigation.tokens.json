@@ -1,0 +1,67 @@
+{
+  "conduction": {
+    "primary": {
+      "top-nav": {
+        "color": { "value": "{opencatalogi.color.gray.tint-11}" },
+        "background-color": { "value": "{opencatalogi.color.base.white}" },
+        "hover": {
+          "color": { "value": "{opencatalogi.color.green.tint-01}" },
+          "background-color": { "value": "{opencatalogi.color.base.white}" },
+          "box-shadow": {}
+        },
+        "current": {
+          "color": { "value": "{opencatalogi.color.gray.tint-11}" },
+          "background-color": { "value": "unset" },
+          "box-shadow": { "value": "inset 0 -4px  {opencatalogi.color.green.tint-01}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 4px 0 {opencatalogi.color.green.tint-01}" }
+          }
+        },
+        "dropdown": {
+          "color": { "value": "{opencatalogi.color.base.white}" },
+          "background-color": { "value": "{opencatalogi.color.green.tint-01}" },
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "hover": {
+            "color": { "value": "{opencatalogi.color.base.white}" },
+            "background-color": { "value": "{opencatalogi.color.base.black}" },
+            "box-shadow": {}
+          }
+        },
+        "item": {
+          "padding": { "value": "18px" },
+          "border-radius": {}
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    },
+    "secondary": {
+      "top-nav": {
+        "color": { "value": "{opencatalogi.color.gray.tint-11}" },
+        "background-color": { "value": "transparent" },
+        "hover": {
+          "color": { "value": "{opencatalogi.color.base.white}" },
+          "background-color": { "value": "{opencatalogi.color.green.tint-01}" }
+        },
+        "current": {
+          "color": { "value": "{opencatalogi.color.gray.tint-11}" },
+          "background-color": { "value": "unset" },
+          "box-shadow": { "value": "inset 0 -4px  {opencatalogi.color.green.tint-01}" }
+        },
+        "font-size": { "value": "16px" },
+        "font-weight": { "value": "400" },
+        "item": {
+          "padding": { "value": "18px" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    }
+  }
+}

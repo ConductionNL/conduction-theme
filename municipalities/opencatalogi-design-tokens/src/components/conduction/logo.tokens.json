@@ -1,0 +1,27 @@
+{
+  "conduction": {
+    "logo": {
+      "header": {
+        "inline-size": { "value": "46px" },
+        "block-size": { "value": "46px" },
+        "background-image": {
+          "value": "url('https://dev.opencatalogi.nl/static/logo_OpenCatalogi-8b1b0a001c3f37dae4d3f69b5964ec72.png')"
+        }
+      },
+      "footer": {
+        "inline-size": { "value": "46px" },
+        "block-size": { "value": "46px" },
+        "background-image": {
+          "value": "url('https://dev.opencatalogi.nl/static/logo_OpenCatalogi-8b1b0a001c3f37dae4d3f69b5964ec72.png')"
+        }
+      },
+      "navbar": {
+        "inline-size": { "value": "46px" },
+        "block-size": { "value": "46px" },
+        "background-image": {
+          "value": "url('https://dev.opencatalogi.nl/static/logo_OpenCatalogi-8b1b0a001c3f37dae4d3f69b5964ec72.png')"
+        }
+      }
+    }
+  }
+}
