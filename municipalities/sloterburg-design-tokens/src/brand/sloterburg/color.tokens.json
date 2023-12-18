@@ -89,6 +89,12 @@
           "value": "#357500e6",
           "comment": "Darkgreen with 90% transparency"
         }
+      },
+      "purple": {
+        "28": {
+          "value": "#6b246c",
+          "comment": "Base/Purple"
+        }
       }
     }
   }
