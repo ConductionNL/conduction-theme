@@ -37,7 +37,8 @@
           "comment": "Base/Blue"
         },
         "38-90t": {
-          "value": "#1b7da7e6"
+          "value": "#1b7da7e6",
+          "comment": "Blue with 90% transparency"
         }
       },
       "darkblue": {
@@ -71,6 +72,16 @@
         },
         "97": {
           "value": "#f7f7f7"
+        }
+      },
+      "darkgreen": {
+        "23": {
+          "value": "#357500",
+          "comment": "Base/Darkgreen"
+        },
+        "23-90t": {
+          "value": "#357500e6",
+          "comment": "Darkgreen with 90% transparency"
         }
       }
     }
