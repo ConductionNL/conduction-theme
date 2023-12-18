@@ -4,6 +4,10 @@ Conduction's design tokens theme
 
 ## Changelog
 
+- **Version 1.1 (breaking changes from 1.0.x)**
+
+  - 1.1.0: Removed old Conduction, Leiden and XXLLNC theme files.
+
 - **Version 1**
 
   - 1.0.62: 
