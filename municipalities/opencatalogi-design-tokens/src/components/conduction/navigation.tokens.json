@@ -27,6 +27,14 @@
             "color": { "value": "{opencatalogi.color.base.white}" },
             "background-color": { "value": "{opencatalogi.color.base.black}" },
             "box-shadow": {}
+          },
+          "current": {
+            "color": { "value": "{opencatalogi.color.base.white}" },
+            "background-color": { "value": "{opencatalogi.color.base.black}" },
+            "box-shadow": { "value": "inset 0 -4px  {opencatalogi.color.base.black}" },
+            "mobile": {
+              "box-shadow": { "value": "inset 4px 0 {opencatalogi.color.base.black}" }
+            }
           }
         },
         "item": {

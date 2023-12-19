@@ -27,6 +27,14 @@
             "color": {},
             "background-color": {},
             "box-shadow": {}
+          },
+          "current": {
+            "color": { "value": "{zutphen.color.primary}" },
+            "background-color": { "value": "unset" },
+            "box-shadow": { "value": "inset 0 -4px {zutphen.color.primary}" },
+            "mobile": {
+              "box-shadow": { "value": "inset 4px 0 {zutphen.color.primary}" }
+            }
           }
         },
         "item": {
