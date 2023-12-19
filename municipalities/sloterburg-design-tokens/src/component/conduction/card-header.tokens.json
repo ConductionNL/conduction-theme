@@ -1,0 +1,26 @@
+{
+  "conduction": {
+    "card-header": {
+      "background-color": {},
+      "border-bottom-width": { "value": "{sloterburg.size.2xs}" },
+      "border-bottom-style": { "value": "solid" },
+      "border-bottom-color": { "value": "{sloterburg.color.primary}" },
+      "color": { "value": "{utrecht.document.color}" },
+      "hover": {
+        "background-color": {},
+        "border-bottom-width": { "value": "{sloterburg.size.2xs}" },
+        "border-bottom-style": { "value": "solid" },
+        "border-bottom-color": { "value": "{sloterburg.color.primary}" }
+      },
+      "title": {
+        "color": { "value": "{sloterburg.color.primary}" }
+      },
+      "date": {
+        "color": { "value": "{sloterburg.color.grey.42}" },
+        "font-size": { "value": "{sloterburg.font-size.sm}" },
+        "font-weight": { "value": "{sloterburg.typography.font-weight.light}" },
+        "margin-block-end": { "value": "{sloterburg.size.xs}" }
+      }
+    }
+  }
+}
