@@ -40,6 +40,9 @@
           "value": "#1b7da7e6",
           "comment": "Blue with 90% transparency"
         },
+        "46": {
+          "value": "#1967d2"
+        },
         "99": {
           "value": "#fafcff"
         }
@@ -87,6 +90,9 @@
         }
       },
       "lightgrey": {
+        "76": {
+          "value": "#b8c2cc"
+        },
         "96": {
           "value": "#f5f5f5",
           "comment": "Base/LightGrey"
