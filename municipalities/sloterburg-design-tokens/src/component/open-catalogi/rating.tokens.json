@@ -1,0 +1,12 @@
+{
+  "open-catalogi": {
+    "rating": {
+      "rating-bar": {
+        "color": { "value": "{sloterburg.color.darkgreen.23}" },
+        "background-color": {}
+      },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "font-family": { "value": "{utrecht.document.font-family}" }
+    }
+  }
+}
