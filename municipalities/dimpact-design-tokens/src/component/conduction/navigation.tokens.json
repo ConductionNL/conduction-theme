@@ -27,6 +27,14 @@
             "color": {},
             "background-color": {},
             "box-shadow": {}
+          },
+          "current": {
+            "color": { "value": "{dimpact.color.white.100}" },
+            "background-color": { "value": "{dimpact.color.pink.62}" },
+            "box-shadow": { "value": "" },
+            "mobile": {
+              "box-shadow": { "value": "" }
+            }
           }
         },
         "item": {

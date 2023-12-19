@@ -29,9 +29,9 @@
         "size": {}
       },
       "disabled": {
-        "background-color": {},
-        "border-color": {},
-        "color": {}
+        "background-color": { "value": "{dinkelland.color.grey.82}" },
+        "border-color": { "value": "{dinkelland.color.grey.82}" },
+        "color": { "value": "{dinkelland.color.grey.50}" }
       },
       "focus": {
         "background-color": {},
@@ -61,11 +61,11 @@
           "border-color": {},
           "color": {}
         },
-        "disabled": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
-        },
+          "disabled": {
+        "background-color": { "value": "{dinkelland.color.grey.82}" },
+        "border-color": { "value": "{dinkelland.color.grey.82}" },
+        "color": { "value": "{dinkelland.color.grey.50}" }
+      },
         "hover": {
           "background-color": { "value": "{dinkelland.color.blue.91}" },
           "border-color": { "value": "{dinkelland.color.blue.91}" },
@@ -94,11 +94,11 @@
           "border-color": {},
           "color": {}
         },
-        "disabled": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
-        },
+          "disabled": {
+        "background-color": { "value": "{dinkelland.color.grey.82}" },
+        "border-color": { "value": "{dinkelland.color.grey.82}" },
+        "color": { "value": "{dinkelland.color.grey.50}" }
+      },
         "hover": {
           "background-color": { "value": "{dinkelland.color.white.100}" },
           "border-color": { "value": "{dinkelland.color.primary-hover}" },
@@ -126,11 +126,11 @@
           "border-color": {},
           "color": {}
         },
-        "disabled": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
-        },
+          "disabled": {
+        "background-color": { "value": "{dinkelland.color.grey.82}" },
+        "border-color": { "value": "{dinkelland.color.grey.82}" },
+        "color": { "value": "{dinkelland.color.grey.50}" }
+      },
         "hover": {
           "background-color": {},
           "border-color": {},

@@ -27,6 +27,14 @@
             "color": { "value": "{conduction.color.primary}" },
             "background-color": { "value": "{conduction.color.white.100}" },
             "box-shadow": {}
+          },
+          "current": {
+            "color": { "value": "{conduction.color.primary}" },
+            "background-color": { "value": "{conduction.color.white.100}" },
+            "box-shadow": { "value": "" },
+            "mobile": {
+              "box-shadow": { "value": "" }
+            }
           }
         },
         "item": {
