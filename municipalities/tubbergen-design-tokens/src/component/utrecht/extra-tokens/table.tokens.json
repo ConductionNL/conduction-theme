@@ -8,6 +8,16 @@
         "border-block-end-width": { "value": "{tubbergen.size.4xs}" },
         "font-family": { "value": "{tubbergen.typography.montserrat.font-family}" }
       },
+      "header-cell": {
+        "border-inline-end-width": {},
+        "border-inline-end-style": {},
+        "border-inline-end-color": {}
+      },
+      "cell": {
+        "border-inline-end-width": {},
+        "border-inline-end-style": {},
+        "border-inline-end-color": {}
+      },
       "row": {
         "hover": {
           "background-color": { "value": "{tubbergen.color.blue.94}" },
