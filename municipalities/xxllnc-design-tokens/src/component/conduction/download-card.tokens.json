@@ -13,7 +13,12 @@
       "border-style": { "value": "solid" },
       "border-color": { "value": "{xxllnc.color.grey.82}" },
       "border-radius": { "value": "{xxllnc.size.md}" },
-      "icon-gap": { "value": "{xxllnc.size.xs}" },
+      "icon": {
+        "gap": {
+          "value": "{xxllnc.size.xs}"
+        },
+        "color": {}
+      },
       "padding-inline-end": { "value": "{xxllnc.size.md}" },
       "padding-inline-start": { "value": "{xxllnc.size.md}" },
       "padding-block-end": { "value": "{xxllnc.size.md}" },

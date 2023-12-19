@@ -13,7 +13,12 @@
       "border-style": { "value": "solid" },
       "border-color": { "value": "{zutphen.color.grey.82}" },
       "border-radius": { "value": "{zutphen.size.3xs}" },
-      "icon-gap": { "value": "{zutphen.size.xs}" },
+      "icon": {
+        "gap": {
+          "value": "{zutphen.size.xs}"
+        },
+        "color": {}
+      },
       "padding-inline-end": { "value": "{zutphen.size.md}" },
       "padding-inline-start": { "value": "{zutphen.size.md}" },
       "padding-block-end": { "value": "{zutphen.size.md}" },

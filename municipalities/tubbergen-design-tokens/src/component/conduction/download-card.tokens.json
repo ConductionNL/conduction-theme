@@ -13,7 +13,12 @@
       "border-style": { "value": "solid" },
       "border-color": { "value": "{tubbergen.color.grey.82}" },
       "border-radius": { "value": "0px" },
-      "icon-gap": { "value": "{tubbergen.size.xs}" },
+      "icon": {
+        "gap": {
+          "value": "{tubbergen.size.xs}"
+        },
+        "color": {}
+      },
       "padding-inline-end": { "value": "{tubbergen.size.md}" },
       "padding-inline-start": { "value": "{tubbergen.size.md}" },
       "padding-block-end": { "value": "{tubbergen.size.md}" },

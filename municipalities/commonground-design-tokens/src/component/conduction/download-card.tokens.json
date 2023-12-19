@@ -13,7 +13,12 @@
       "border-style": { "value": "solid" },
       "border-color": { "value": "{commonground.color.grey.82}" },
       "border-radius": { "value": "6px" },
-      "icon-gap": { "value": "{commonground.size.xs}" },
+      "icon": {
+        "gap": {
+          "value": "{commonground.size.xs}"
+        },
+        "color": {}
+      },
       "padding-inline-end": { "value": "{commonground.size.md}" },
       "padding-inline-start": { "value": "{commonground.size.md}" },
       "padding-block-end": { "value": "{commonground.size.md}" },

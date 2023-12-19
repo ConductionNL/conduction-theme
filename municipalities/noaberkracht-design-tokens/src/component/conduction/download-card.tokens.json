@@ -13,7 +13,12 @@
       "border-style": { "value": "solid" },
       "border-color": { "value": "{noaberkracht.color.blue.22}" },
       "border-radius": { "value": "22px" },
-      "icon-gap": { "value": "{noaberkracht.size.xs}" },
+      "icon": {
+        "gap": {
+          "value": "{noaberkracht.size.xs}"
+        },
+        "color": {}
+      },
       "padding-inline-end": { "value": "{noaberkracht.size.md}" },
       "padding-inline-start": { "value": "{noaberkracht.size.md}" },
       "padding-block-end": { "value": "{noaberkracht.size.md}" },
