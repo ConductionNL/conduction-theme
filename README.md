@@ -7,6 +7,7 @@ Conduction's design tokens theme
 - **Version 1.1 (breaking changes from 1.0.x)**
 
   - 1.1.4:
+    - Added disabled Button tokens in all themes.
     - Updated Navigation tokens in all themes.
   - 1.1.2 / 1.1.3: Added Sloterburg theme.
   - 1.1.1: Added Zutphen theme.
