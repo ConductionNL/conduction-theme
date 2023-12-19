@@ -8,6 +8,16 @@
         "border-block-end-width": { "value": "{conduction.size.4xs}" },
         "font-family": {}
       },
+      "header-cell": {
+        "border-inline-end-width": {},
+        "border-inline-end-style": {},
+        "border-inline-end-color": {}
+      },
+      "cell": {
+        "border-inline-end-width": {},
+        "border-inline-end-style": {},
+        "border-inline-end-color": {}
+      },
       "row": {
         "hover": {
           "background-color": { "value": "{conduction.color.grey.97}" },

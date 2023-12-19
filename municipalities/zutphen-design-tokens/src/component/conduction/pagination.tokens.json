@@ -22,14 +22,21 @@
         "border-width": {},
         "border-style": {},
         "border-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {},
         "border-radius": { "value": "{zutphen.size.2xs}" }
       },
       "navigation-button": {
         "color": { "value": "{zutphen.color.blue.42}" },
         "background-color": { "value": "transparent" },
-        "border-color": {},
-        "border-radius": {},
         "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {},
+        "border-radius": {},
         "padding-inline-start": { "value": "{zutphen.size.xs}" },
         "padding-inline-end": { "value": "{zutphen.size.xs}" },
         "padding-block-start": { "value": "0px" },
@@ -40,6 +47,9 @@
           "border-width": {},
           "border-style": {},
           "border-color": {},
+          "border-bottom-width": {},
+          "border-bottom-style": {},
+          "border-bottom-color": {},
           "border-radius": {}
         },
         "hover": {
@@ -48,17 +58,23 @@
           "border-width": {},
           "border-style": {},
           "border-color": {},
+          "border-bottom-width": {},
+          "border-bottom-style": {},
+          "border-bottom-color": {},
           "border-radius": {}
         }
       },
       "current-page": {
-        "color": { "value": "{zutphen.color.blue.42}" },
+        "color": { "value": "{zutphen.color.lightblue.31}" },
         "background-color": { "value": "transparent" },
         "font-weight": { "value": "{zutphen.typography.font-weight.normal}" },
         "text-decoration": { "value": "unset" },
         "border-width": {},
         "border-style": {},
-        "border-color": {}
+        "border-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
       },
       "page": {
         "hover": {
@@ -68,7 +84,10 @@
           "text-decoration-thickness": { "value": "0px" },
           "border-width": {},
           "border-style": {},
-          "border-color": {}
+          "border-color": {},
+          "border-bottom-width": {},
+          "border-bottom-style": {},
+          "border-bottom-color": {}
         }
       }
     }

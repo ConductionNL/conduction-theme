@@ -13,6 +13,10 @@
       "color": { "value": "{noaberkracht.color.blue.22}" },
       "hover": {
         "background-color": {},
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
         "border-bottom-color": {},
         "border-bottom-style": {},
         "border-bottom-width": {}

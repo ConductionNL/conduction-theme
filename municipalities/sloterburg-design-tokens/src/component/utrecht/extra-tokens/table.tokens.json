@@ -1,0 +1,37 @@
+{
+  "utrecht": {
+    "table": {
+      "border-collapse": { "value": "collapse" },
+      "background-color": { "value": "{sloterburg.color.white.100}" },
+      "header": {
+        "border-block-end-color": { "value": "{sloterburg.color.grey.42}" },
+        "border-block-end-width": { "value": "{sloterburg.size.4xs}" },
+        "font-family": {}
+      },
+      "header-cell": {
+        "border-inline-end-width": { "value": "{sloterburg.size.4xs}" },
+        "border-inline-end-style": { "value": "solid" },
+        "border-inline-end-color": { "value": "{sloterburg.color.grey.42}" }
+      },
+      "cell": {
+        "border-inline-end-width": { "value": "{sloterburg.size.4xs}" },
+        "border-inline-end-style": { "value": "solid" },
+        "border-inline-end-color": { "value": "{sloterburg.color.grey.42}" }
+      },
+      "row": {
+        "hover": {
+          "background-color": { "value": "{sloterburg.color.grey.97}" },
+          "color": {}
+        }
+      },
+      "body": {
+        "border": {},
+        "border-block-end-color": {},
+        "border-block-end-width": {}
+      },
+      "caption": {
+        "font-style": {}
+      }
+    }
+  }
+}

@@ -13,6 +13,10 @@
       "color": { "value": "{open-webconcept.color.black.33}" },
       "hover": {
         "background-color": {},
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
         "border-bottom-color": {},
         "border-bottom-style": {},
         "border-bottom-width": {}

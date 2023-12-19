@@ -4,7 +4,7 @@
       "background-color": { "value": "{sloterburg.color.white.100}" },
       "line-height": {},
       "placeholder": {
-        "color": { "value": "{sloterburg.color.grey.50}" }
+        "color": { "value": "{sloterburg.color.grey.35}" }
       },
       "disabled": {
         "background-color": {}

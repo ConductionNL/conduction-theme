@@ -2,12 +2,12 @@
   "utrecht": {
     "form-input": {
       "border-bottom-width": {},
-      "border-color": { "value": "{sloterburg.color.grey.48}" },
-      "border-radius": { "value": "3px" },
+      "border-color": { "value": "{sloterburg.color.grey.56}" },
+      "border-radius": { "value": "{sloterburg.size.2xs}" },
       "border-width": { "value": "{sloterburg.size.4xs}" },
-      "color": { "value": "{sloterburg.color.grey.29}" },
-      "font-family": { "value": "{sloterburg.typography.pt-sans-narrow.font-family}" },
-      "font-size": { "value": "{sloterburg.font-size.md}" },
+      "color": { "value": "{sloterburg.color.grey.44}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
       "min-inline-height": {},
       "max-inline-size": {},
       "padding-block-end": { "value": "{sloterburg.size.xs}" },
