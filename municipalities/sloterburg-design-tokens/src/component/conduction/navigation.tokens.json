@@ -1,0 +1,75 @@
+{
+  "conduction": {
+    "primary": {
+      "top-nav": {
+        "color": { "value": "{sloterburg.color.primary}" },
+        "background-color": { "value": "{sloterburg.color.white.100}" },
+        "hover": {
+          "color": { "value": "{sloterburg.color.primary}" },
+          "background-color": { "value": "{sloterburg.color.white.100}" },
+          "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.darkgreen.23}" }
+        },
+        "current": {
+          "color": { "value": "{sloterburg.color.primary}" },
+          "background-color": { "value": "{sloterburg.color.white.100}" },
+          "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.darkgreen.23}" },
+          "mobile": {
+            "box-shadow": { "value": "inset 5px 0 {sloterburg.color.darkgreen.23}" }
+          }
+        },
+        "dropdown": {
+          "color": { "value": "{sloterburg.color.primary}" },
+          "background-color": { "value": "{sloterburg.color.white.100}" },
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "hover": {
+            "color": { "value": "{sloterburg.color.white.100}" },
+            "background-color": { "value": "{sloterburg.color.purple.28}" },
+            "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.purple.28}" }
+          },
+          "current": {
+            "color": { "value": "{sloterburg.color.white.100}" },
+            "background-color": { "value": "{sloterburg.color.purple.28}" },
+            "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.purple.28}" },
+            "mobile": {
+              "box-shadow": { "value": "inset 5px 0 {sloterburg.color.purple.28}" }
+            }
+          }
+        },
+        "item": {
+          "padding": { "value": "18px" },
+          "border-radius": {}
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    },
+    "secondary": {
+      "top-nav": {
+        "color": { "value": "{sloterburg.color.grey.29}" },
+        "background-color": { "value": "transparent" },
+        "hover": {
+          "color": { "value": "{sloterburg.color.primary}" },
+          "background-color": { "value": "{sloterburg.color.white.100}" }
+        },
+        "current": {
+          "color": { "value": "{sloterburg.color.primary}" },
+          "background-color": { "value": "{sloterburg.color.white.100}" },
+          "box-shadow": { "value": "" }
+        },
+        "font-size": { "value": "{sloterburg.font-size.md}" },
+        "font-weight": { "value": "400" },
+        "item": {
+          "padding": { "value": "18px" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    }
+  }
+}
