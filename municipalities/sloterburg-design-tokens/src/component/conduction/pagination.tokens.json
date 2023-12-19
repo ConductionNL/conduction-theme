@@ -36,6 +36,7 @@
         "border-bottom-width": { "value": "{sloterburg.size.3xs}" },
         "border-bottom-style": { "value": "solid" },
         "border-bottom-color": { "value": "{sloterburg.color.primary}" },
+        "border-radius": {},
         "padding-inline-start": { "value": "{sloterburg.size.xs}" },
         "padding-inline-end": { "value": "{sloterburg.size.xs}" },
         "padding-block-start": { "value": "0px" },

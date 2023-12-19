@@ -22,14 +22,21 @@
         "border-width": { "value": "1px" },
         "border-style": { "value": "solid" },
         "border-color": { "value": "var(--rotterdam-color-base-white)" },
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {},
         "border-radius": { "value": "0px" }
       },
       "navigation-button": {
         "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
         "background-color": { "value": "transparent" },
-        "border-color": {},
-        "border-radius": {},
         "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {},
+        "border-radius": {},
         "padding-inline-start": { "value": "8px" },
         "padding-inline-end": { "value": "8px" },
         "padding-block-start": { "value": "8px" },
@@ -48,6 +55,9 @@
           "border-width": {},
           "border-style": {},
           "border-color": {},
+          "border-bottom-width": {},
+          "border-bottom-style": {},
+          "border-bottom-color": {},
           "border-radius": {}
         }
       },
@@ -58,7 +68,10 @@
         "text-decoration": { "value": "unset" },
         "border-width": { "value": "1px" },
         "border-style": { "value": "solid" },
-        "border-color": { "value": "var(--rotterdam-color-green-tint-03)" }
+        "border-color": { "value": "var(--rotterdam-color-green-tint-03)" },
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
       },
       "page": {
         "hover": {
@@ -68,7 +81,10 @@
           "text-decoration-thickness": { "value": "0px" },
           "border-width": { "value": "1px" },
           "border-style": { "value": "solid" },
-          "border-color": { "value": "var(--rotterdam-color-green-tint-01)" }
+          "border-color": { "value": "var(--rotterdam-color-green-tint-01)" },
+          "border-bottom-width": {},
+          "border-bottom-style": {},
+          "border-bottom-color": {}
         }
       }
     }

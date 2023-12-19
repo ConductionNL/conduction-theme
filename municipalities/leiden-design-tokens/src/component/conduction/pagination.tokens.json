@@ -22,14 +22,21 @@
         "border-width": {},
         "border-style": {},
         "border-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {},
         "border-radius": { "value": "0px" }
       },
       "navigation-button": {
         "color": { "value": "{leiden.color.lightblue.37}" },
         "background-color": { "value": "{leiden.color.white.100}" },
-        "border-color": {},
-        "border-radius": {},
         "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {},
+        "border-radius": {},
         "padding-inline-start": { "value": "{leiden.size.xs}" },
         "padding-inline-end": { "value": "{leiden.size.xs}" },
         "padding-block-start": { "value": "0px" },
@@ -40,6 +47,9 @@
           "border-width": {},
           "border-style": {},
           "border-color": {},
+          "border-bottom-width": {},
+          "border-bottom-style": {},
+          "border-bottom-color": {},
           "border-radius": {}
         },
         "hover": {
@@ -48,6 +58,9 @@
           "border-width": {},
           "border-style": {},
           "border-color": {},
+          "border-bottom-width": {},
+          "border-bottom-style": {},
+          "border-bottom-color": {},
           "border-radius": {}
         }
       },
@@ -58,7 +71,10 @@
         "text-decoration": { "value": "underline" },
         "border-width": {},
         "border-style": {},
-        "border-color": {}
+        "border-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
       },
       "page": {
         "hover": {
@@ -68,7 +84,10 @@
           "text-decoration-thickness": { "value": "1px" },
           "border-width": {},
           "border-style": {},
-          "border-color": {}
+          "border-color": {},
+          "border-bottom-width": {},
+          "border-bottom-style": {},
+          "border-bottom-color": {}
         }
       }
     }
