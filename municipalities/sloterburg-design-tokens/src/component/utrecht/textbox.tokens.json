@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "form-input": {
+    "textbox": {
       "border-bottom-width": {},
       "border-color": { "value": "{sloterburg.color.grey.56}" },
       "border-radius": { "value": "{sloterburg.size.2xs}" },
