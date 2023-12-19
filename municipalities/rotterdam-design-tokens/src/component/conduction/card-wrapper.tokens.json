@@ -13,6 +13,10 @@
       "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
       "hover": {
         "background-color": {},
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
         "border-bottom-color": { "value": "var(--rotterdam-color-green-tint-01)" },
         "border-bottom-style": { "value": "solid" },
         "border-bottom-width": { "value": "4px" }
