@@ -52,7 +52,7 @@
         }
       },
       "current-page": {
-        "color": { "value": "{zutphen.color.blue.42}" },
+        "color": { "value": "{zutphen.color.lightblue.31}" },
         "background-color": { "value": "transparent" },
         "font-weight": { "value": "{zutphen.typography.font-weight.normal}" },
         "text-decoration": { "value": "unset" },

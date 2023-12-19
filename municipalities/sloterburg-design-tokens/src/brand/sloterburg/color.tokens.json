@@ -39,6 +39,9 @@
         "38-90t": {
           "value": "#1b7da7e6",
           "comment": "Blue with 90% transparency"
+        },
+        "99": {
+          "value": "#fafcff"
         }
       },
       "darkblue": {
