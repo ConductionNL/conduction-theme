@@ -7,7 +7,8 @@
         "hover": {
           "color": { "value": "{sloterburg.color.primary}" },
           "background-color": { "value": "{sloterburg.color.white.100}" },
-          "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.darkgreen.23}" }
+          "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.darkgreen.23}" },
+          "font-weight": {}
         },
         "current": {
           "color": { "value": "{sloterburg.color.primary}" },
@@ -15,7 +16,8 @@
           "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.darkgreen.23}" },
           "mobile": {
             "box-shadow": { "value": "inset 5px 0 {sloterburg.color.darkgreen.23}" }
-          }
+          },
+          "font-weight": {}
         },
         "dropdown": {
           "color": { "value": "{sloterburg.color.primary}" },
@@ -26,7 +28,8 @@
           "hover": {
             "color": { "value": "{sloterburg.color.white.100}" },
             "background-color": { "value": "{sloterburg.color.purple.28}" },
-            "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.purple.28}" }
+            "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.purple.28}" },
+            "font-weight": {}
           },
           "current": {
             "color": { "value": "{sloterburg.color.white.100}" },
@@ -34,7 +37,8 @@
             "box-shadow": { "value": "inset 0 -5px  {sloterburg.color.purple.28}" },
             "mobile": {
               "box-shadow": { "value": "inset 5px 0 {sloterburg.color.purple.28}" }
-            }
+            },
+            "font-weight": {}
           }
         },
         "item": {

@@ -7,7 +7,8 @@
         "hover": {
           "color": { "value": "{opencatalogi.color.green.tint-01}" },
           "background-color": { "value": "{opencatalogi.color.base.white}" },
-          "box-shadow": {}
+          "box-shadow": {},
+          "font-weight": {}
         },
         "current": {
           "color": { "value": "{opencatalogi.color.gray.tint-11}" },
@@ -15,7 +16,8 @@
           "box-shadow": { "value": "inset 0 -4px  {opencatalogi.color.green.tint-01}" },
           "mobile": {
             "box-shadow": { "value": "inset 4px 0 {opencatalogi.color.green.tint-01}" }
-          }
+          },
+          "font-weight": {}
         },
         "dropdown": {
           "color": { "value": "{opencatalogi.color.base.white}" },
@@ -26,7 +28,8 @@
           "hover": {
             "color": { "value": "{opencatalogi.color.base.white}" },
             "background-color": { "value": "{opencatalogi.color.base.black}" },
-            "box-shadow": {}
+            "box-shadow": {},
+            "font-weight": {}
           },
           "current": {
             "color": { "value": "{opencatalogi.color.base.white}" },
@@ -34,7 +37,8 @@
             "box-shadow": { "value": "inset 0 -4px  {opencatalogi.color.base.black}" },
             "mobile": {
               "box-shadow": { "value": "inset 4px 0 {opencatalogi.color.base.black}" }
-            }
+            },
+            "font-weight": {}
           }
         },
         "item": {

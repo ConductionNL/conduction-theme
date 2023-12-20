@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.5: Added Gouda theme.
   - 1.1.4:
     - Added disabled Button tokens in all themes.
     - Updated Navigation tokens in all themes.

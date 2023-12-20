@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{gouda.color.white.100}" },
+      "color": { "value": "{gouda.color.black.0}" },
+      "padding-block-start": { "value": "{gouda.size.sm}" },
+      "padding-block-end": { "value": "{gouda.size.sm}" }
+    }
+  }
+}
