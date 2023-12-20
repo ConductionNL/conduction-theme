@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{gouda.size.3xs}" },
+        "2xs": { "value": "{gouda.size.2xs}" },
+        "xs": { "value": "{gouda.size.xs}" },
+        "sm": { "value": "{gouda.size.sm}" },
+        "md": { "value": "{gouda.size.md}" },
+        "lg": { "value": "{gouda.size.lg}" },
+        "xl": { "value": "{gouda.size.xl}" },
+        "2xl": { "value": "{gouda.size.2xl}" },
+        "3xl": { "value": "{gouda.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{gouda.size.3xs}" },
+        "2xs": { "value": "{gouda.size.2xs}" },
+        "xs": { "value": "{gouda.size.xs}" },
+        "sm": { "value": "{gouda.size.sm}" },
+        "md": { "value": "{gouda.size.md}" },
+        "lg": { "value": "{gouda.size.lg}" },
+        "xl": { "value": "{gouda.size.xl}" },
+        "2xl": { "value": "{gouda.size.2xl}" },
+        "3xl": { "value": "{gouda.size.3xl}" }
+      }
+    }
+  }
+}
