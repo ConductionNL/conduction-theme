@@ -7,7 +7,8 @@
         "hover": {
           "color": { "value": "{noordwijk.color.blue.30}" },
           "background-color": { "value": "{noordwijk.color.white.100}" },
-          "box-shadow": { "value": "inset 0 -4px {noordwijk.color.light-blue.58}" }
+          "box-shadow": { "value": "inset 0 -4px {noordwijk.color.light-blue.58}" },
+          "font-weight": {}
         },
         "current": {
           "color": { "value": "{noordwijk.color.blue.30}" },
@@ -15,7 +16,8 @@
           "box-shadow": { "value": "inset 0 -4px {noordwijk.color.light-blue.58}" },
           "mobile": {
             "box-shadow": { "value": "inset 4px 0 {noordwijk.color.light-blue.58}" }
-          }
+          },
+          "font-weight": {}
         },
         "dropdown": {
           "color": { "value": "{noordwijk.color.black.15}" },
@@ -26,7 +28,8 @@
           "hover": {
             "color": { "value": "{noordwijk.color.black.15}" },
             "background-color": { "value": "{noordwijk.color.light-blue.96}" },
-            "box-shadow": { "value": "none" }
+            "box-shadow": { "value": "none" },
+            "font-weight": {}
           },
           "current": {
             "color": { "value": "{noordwijk.color.blue.30}" },
@@ -34,7 +37,8 @@
             "box-shadow": { "value": "inset 0 -4px {noordwijk.color.light-blue.58}" },
             "mobile": {
               "box-shadow": { "value": "inset 4px 0 {noordwijk.color.light-blue.58}" }
-            }
+            },
+            "font-weight": {}
           }
         },
         "item": {

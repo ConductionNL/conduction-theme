@@ -7,7 +7,8 @@
         "hover": {
           "color": { "value": "{open-webconcept.color.black.27}" },
           "background-color": { "value": "{open-webconcept.color.grey.93}" },
-          "box-shadow": {}
+          "box-shadow": {},
+          "font-weight": {}
         },
         "current": {
           "color": { "value": "{open-webconcept.color.black.27}" },
@@ -15,7 +16,8 @@
           "box-shadow": { "value": "inset 0 -4px {open-webconcept.color.primary}" },
           "mobile": {
             "box-shadow": { "value": "inset 4px 0 {open-webconcept.color.primary}" }
-          }
+          },
+          "font-weight": {}
         },
         "dropdown": {
           "color": {},
@@ -26,7 +28,8 @@
           "hover": {
             "color": {},
             "background-color": {},
-            "box-shadow": {}
+            "box-shadow": {},
+            "font-weight": {}
           },
           "current": {
             "color": { "value": "{open-webconcept.color.black.27}" },
@@ -34,7 +37,8 @@
             "box-shadow": { "value": "inset 0 -4px {open-webconcept.color.primary}" },
             "mobile": {
               "box-shadow": { "value": "inset 4px 0 {open-webconcept.color.primary}" }
-            }
+            },
+            "font-weight": {}
           }
         },
         "item": {

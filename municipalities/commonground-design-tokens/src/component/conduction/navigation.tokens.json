@@ -7,7 +7,8 @@
         "hover": {
           "color": { "value": "{commonground.color.black.0}" },
           "background-color": { "value": "{commonground.color.yellow.64}" },
-          "box-shadow": {}
+          "box-shadow": {},
+          "font-weight": {}
         },
         "current": {
           "color": { "value": "{commonground.color.black.0}" },
@@ -15,7 +16,8 @@
           "box-shadow": { "value": "inset 0px 0px 0px 2px {commonground.color.black.0}" },
           "mobile": {
             "box-shadow": { "value": "" }
-          }
+          },
+          "font-weight": {}
         },
         "dropdown": {
           "color": { "value": "{commonground.color.black.0}" },
@@ -26,7 +28,8 @@
           "hover": {
             "color": { "value": "{commonground.color.black.0}" },
             "background-color": { "value": "{commonground.color.yellow.64}" },
-            "box-shadow": {}
+            "box-shadow": {},
+            "font-weight": {}
           },
           "current": {
             "color": { "value": "{commonground.color.black.0}" },
@@ -34,7 +37,8 @@
             "box-shadow": { "value": "inset 0px 0px 0px 2px {commonground.color.black.0}" },
             "mobile": {
               "box-shadow": { "value": "" }
-            }
+            },
+            "font-weight": {}
           }
         },
         "item": {

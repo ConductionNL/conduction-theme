@@ -7,7 +7,8 @@
         "hover": {
           "color": { "value": "{dimpact.color.white.100}" },
           "background-color": { "value": "{dimpact.color.pink.62}" },
-          "box-shadow": {}
+          "box-shadow": {},
+          "font-weight": {}
         },
         "current": {
           "color": { "value": "{dimpact.color.white.100}" },
@@ -15,7 +16,8 @@
           "box-shadow": { "value": "" },
           "mobile": {
             "box-shadow": { "value": "" }
-          }
+          },
+          "font-weight": {}
         },
         "dropdown": {
           "color": {},
@@ -26,7 +28,8 @@
           "hover": {
             "color": {},
             "background-color": {},
-            "box-shadow": {}
+            "box-shadow": {},
+            "font-weight": {}
           },
           "current": {
             "color": { "value": "{dimpact.color.white.100}" },
@@ -34,7 +37,8 @@
             "box-shadow": { "value": "" },
             "mobile": {
               "box-shadow": { "value": "" }
-            }
+            },
+            "font-weight": {}
           }
         },
         "item": {
