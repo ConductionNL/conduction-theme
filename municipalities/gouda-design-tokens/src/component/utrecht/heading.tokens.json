@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {"value": "{gouda.color.black.20}"},
+      "font-family": { "value": "{gouda.typography.ubuntu.font-family}" },
+      "font-size": { "value": "{gouda.font-size.3xl}" },
+      "font-weight": { "value": "{gouda.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gouda.size.2xl}" },
+      "margin-block-start": { "value": "{gouda.size.md}" }
+    },
+    "heading-2": {
+      "color": {"value": "{gouda.color.black.20}"},
+      "font-family": { "value": "{gouda.typography.ubuntu.font-family}" },
+      "font-size": { "value": "{gouda.font-size.2xl}" },
+      "font-weight": { "value": "{gouda.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gouda.size.2xl}" },
+      "margin-block-start": { "value": "{gouda.size.md}" }
+    },
+    "heading-3": {
+      "color": {"value": "{gouda.color.black.20}"},
+      "font-family": { "value": "{gouda.typography.ubuntu.font-family}" },
+      "font-size": { "value": "{gouda.font-size.xl}" },
+      "font-weight": { "value": "{gouda.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gouda.size.xl}" },
+      "margin-block-start": { "value": "{gouda.size.md}" }
+    },
+    "heading-4": {
+      "color": {"value": "{gouda.color.black.20}"},
+      "font-family": { "value": "{gouda.typography.ubuntu.font-family}" },
+      "font-size": { "value": "{gouda.font-size.lg}" },
+      "font-weight": { "value": "{gouda.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gouda.size.lg}" },
+      "margin-block-start": { "value": "{gouda.size.md}" }
+    },
+    "heading-5": {
+      "color": {"value": "{gouda.color.black.20}"},
+      "font-family": { "value": "{gouda.typography.ubuntu.font-family}" },
+      "font-size": { "value": "{gouda.font-size.md}" },
+      "font-weight": { "value": "{gouda.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gouda.size.lg}" },
+      "margin-block-start": { "value": "{gouda.size.md}" }
+    }
+  }
+}
