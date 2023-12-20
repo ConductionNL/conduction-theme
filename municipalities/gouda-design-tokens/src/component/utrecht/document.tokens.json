@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "document": {
-      "background-color": { "value": "{gouda.color.white.100}" },
+      "background-color": { "value": "{gouda.color.lightgrey.96}" },
       "color": { "value": "{gouda.color.black.0}" },
       "font-family": { "value": "{gouda.typography.ubuntu.font-family}" },
       "font-size": { "value": "{gouda.font-size.md}" },
