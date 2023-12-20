@@ -1,0 +1,45 @@
+{
+  "gouda": {
+    "typography": {
+      "ubuntu": {
+        "font-family": {
+          "value": "\"Ubuntu\", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, \"Noto Sans\""
+        }
+      },
+      "sans-serif": {
+        "font-family": {
+          "value": "\"Noto Sans\", Arial, sans-serif"
+        }
+      },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
+      "font-weight": {
+        "bold": {
+          "value": "700"
+        },
+        "normal": {
+          "value": "400"
+        },
+        "light": {
+          "value": "100"
+        }
+      },
+      "scale": {
+        "4xs": { "value": "{gouda.font-size.4xs}" },
+        "3xs": { "value": "{gouda.font-size.3xs}" },
+        "2xs": { "value": "{gouda.font-size.2xs}" },
+        "xs": { "value": "{gouda.font-size.xs}" },
+        "sm": { "value": "{gouda.font-size.sm}" },
+        "md": { "value": "{gouda.font-size.md}" },
+        "lg": { "value": "{gouda.font-size.lg}" },
+        "xl": { "value": "{gouda.font-size.xl}" },
+        "2xl": { "value": "{gouda.font-size.2xl}" },
+        "3xl": { "value": "{gouda.font-size.3xl}" },
+        "4xl": { "value": "{gouda.font-size.4xl}" }
+      }
+    }
+  }
+}
