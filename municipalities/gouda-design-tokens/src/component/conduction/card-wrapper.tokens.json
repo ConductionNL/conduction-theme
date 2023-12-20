@@ -1,0 +1,30 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{gouda.color.white.100}" },
+      "border-color": {},
+      "border-style": {},
+      "border-width": {},
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": { "value": "0px" },
+      "box-shadow": { "value": "0 1px 1px 0 rgba(40,44,53,.08), 0 2px 2px 0 rgba(40,44,53,.05);" },
+      "color": { "value": "{gouda.color.black.0}" },
+      "hover": {
+        "background-color": { "value": "{gouda.color.yellow.59}" },
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {}
+      },
+      "padding-inline-end": { "value": "{gouda.size.md}" },
+      "padding-inline-start": { "value": "{gouda.size.md}" },
+      "padding-block-end": { "value": "{gouda.size.md}" },
+      "padding-block-start": { "value": "{gouda.size.md}" }
+    }
+  }
+}
