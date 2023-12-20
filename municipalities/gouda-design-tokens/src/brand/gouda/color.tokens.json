@@ -28,6 +28,12 @@
           "comment": "Base/Red"
         }
       },
+      "yellow": {
+        "59": {
+          "value": "#fcb731",
+          "comment": "Base/Yellow"
+        }
+      },
       "grey": {
         "29": {
           "value": "#4a4a4a"
