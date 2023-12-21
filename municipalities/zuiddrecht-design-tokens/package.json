@@ -1,14 +1,14 @@
 {
   "version": "1.0.0-alpha.1",
   "author": "Community for NL Design System",
-  "description": "NL Design System design tokens for OpenCatalogi",
-  "website": "https://opencatalogi.nl/",
+  "description": "NL Design System design tokens for Gemeente Zuiddrecht",
+  "website": "https://conduction.nl/",
   "keywords": [
     "nl-design-system",
     "conduction"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/opencatalogi-design-tokens",
+  "name": "@nl-design-system-unstable/zuiddrecht-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"
