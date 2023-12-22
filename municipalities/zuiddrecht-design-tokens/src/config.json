@@ -1,8 +1,8 @@
 {
-  "fullName": "Open Webconcept",
-  "name": "Open Webconcept",
-  "prefix": "open-webconcept",
-  "npm": "@nl-design-system-unstable/open-webconcept-design-tokens",
+  "fullName": "Zuiddrecht",
+  "name": "Zuiddrecht",
+  "prefix": "zuiddrecht",
+  "npm": "@nl-design-system-unstable/zuiddrecht-design-tokens",
   "stories": [
     "react-utrecht-alert--default",
     "react-utrecht-alert--warning",
