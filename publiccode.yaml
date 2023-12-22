@@ -17,9 +17,9 @@ softwareType: softwareAddon
 description:
   en:
     localisedName: null
-    genericName: Conduction's design tokens theme
-    shortDescription: conduction-theme
-    longDescription: Conduction's design tokens theme
+    genericName: null
+    shortDescription: "Conduction's design tokens theme"
+    longDescription: "Conduction's design tokens theme"
     documentation: null
     apiDocumentation: null
     features: []
@@ -28,9 +28,9 @@ description:
     awards: []
   nl:
     localisedName: null
-    genericName: Conduction's design tokens theme
-    shortDescription: conduction-theme
-    longDescription: Conduction's design tokens theme
+    genericName: null
+    shortDescription: "Conduction's design tokens theme"
+    longDescription: "Conduction's design tokens theme"
     documentation: null
     apiDocumentation: null
     features: []
