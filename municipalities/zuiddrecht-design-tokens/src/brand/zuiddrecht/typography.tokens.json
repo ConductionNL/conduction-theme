@@ -1,0 +1,34 @@
+{
+  "zuiddrecht": {
+    "typography": {
+      "sans-serif": {
+        "font-family": { "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", \"Arial\", sans-serif" }
+      },
+      "scale": {
+        "2xs": { "font-size": { "value": "0.5rem", "comment": "8px" } },
+        "xs": { "font-size": { "value": "0.75rem", "comment": "12px" } },
+        "sm": { "font-size": { "value": "0.875rem", "comment": "14px" } },
+        "md": { "font-size": { "value": "1rem", "comment": "16px" } },
+        "lg": { "font-size": { "value": "1.125rem", "comment": "18px" } },
+        "xl": { "font-size": { "value": "1.25rem", "comment": "20px" } },
+        "2xl": { "font-size": { "value": "1.375rem", "comment": "22px" } },
+        "3xl": { "font-size": { "value": "1.5rem", "comment": "24px" } },
+        "4xl": { "font-size": { "value": "2rem", "comment": "32px" } }
+      },
+      "weight-scale": {
+        "bold": { "font-weight": { "value": "700" } },
+        "normal": { "font-weight": { "value": "400" } }
+      },
+      "font-style": {
+        "normal": { "value": "normal" },
+        "inherit": { "value": "inherit" }
+      },
+      "line-height": {
+        "xs": { "value": "1" },
+        "sm": { "value": "1.25" },
+        "md": { "value": "1.5" },
+        "lg": { "value": "2" }
+      }
+    }
+  }
+}
