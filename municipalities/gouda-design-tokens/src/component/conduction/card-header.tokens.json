@@ -1,0 +1,26 @@
+{
+  "conduction": {
+    "card-header": {
+      "background-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "color": { "value": "{utrecht.document.color}" },
+      "hover": {
+        "background-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
+      },
+      "title": {
+        "color": { "value": "{gouda.color.black.20}" }
+      },
+      "date": {
+        "color": { "value": "{gouda.color.grey.44}" },
+        "font-size": { "value": "{gouda.font-size.sm}" },
+        "font-weight": { "value": "{gouda.typography.font-weight.light}" },
+        "margin-block-end": { "value": "{gouda.size.xs}" }
+      }
+    }
+  }
+}

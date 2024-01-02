@@ -1,0 +1,95 @@
+{
+  "conduction": {
+    "pagination": {
+      "container": {
+        "background-color": { "value": "unset" },
+        "padding-inline-start": { "value": "0px" },
+        "padding-inline-end": { "value": "0px" },
+        "padding-block-start": { "value": "0px" },
+        "padding-block-end": { "value": "0px" }
+      },
+      "item": {
+        "gap": { "value": "{sloterburg.size.2xs}" },
+        "color": { "value": "{sloterburg.color.primary}" },
+        "background-color": { "value": "{sloterburg.color.blue.99}" },
+        "padding-inline-start": { "value": "{sloterburg.size.xs}" },
+        "padding-inline-end": { "value": "{sloterburg.size.xs}" },
+        "padding-block-start": { "value": "{sloterburg.size.xs}" },
+        "padding-block-end": { "value": "{sloterburg.size.xs}" },
+        "font-size": { "value": "{utrecht.document.font-size}" },
+        "font-weight": { "value": "{sloterburg.typography.font-weight.normal}" },
+        "font-family": { "value": "{utrecht.document.font-family}" },
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "border-bottom-width": { "value": "{sloterburg.size.3xs}" },
+        "border-bottom-style": { "value": "solid" },
+        "border-bottom-color": { "value": "{sloterburg.color.primary}" },
+        "border-radius": { "value": "5px" }
+      },
+      "navigation-button": {
+        "color": { "value": "{sloterburg.color.primary}" },
+        "background-color": { "value": "{sloterburg.color.blue.99}" },
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "border-bottom-width": { "value": "{sloterburg.size.3xs}" },
+        "border-bottom-style": { "value": "solid" },
+        "border-bottom-color": { "value": "{sloterburg.color.primary}" },
+        "border-radius": {},
+        "padding-inline-start": { "value": "{sloterburg.size.xs}" },
+        "padding-inline-end": { "value": "{sloterburg.size.xs}" },
+        "padding-block-start": { "value": "0px" },
+        "padding-block-end": { "value": "0px" },
+        "disabled": {
+          "color": { "value": "{sloterburg.color.white.100}" },
+          "background-color": { "value": "{sloterburg.color.grey.82}" },
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "border-bottom-width": { "value": "{sloterburg.size.3xs}" },
+          "border-bottom-style": { "value": "solid" },
+          "border-bottom-color": { "value": "{sloterburg.color.grey.82}" },
+          "border-radius": {}
+        },
+        "hover": {
+          "color": { "value": "{sloterburg.color.primary}" },
+          "background-color": { "value": "{sloterburg.color.blue.99}" },
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "border-bottom-width": { "value": "{sloterburg.size.3xs}" },
+          "border-bottom-style": { "value": "solid" },
+          "border-bottom-color": { "value": "{sloterburg.color.primary}" },
+          "border-radius": {}
+        }
+      },
+      "current-page": {
+        "color": { "value": "{sloterburg.color.grey.42}" },
+        "background-color": { "value": "transparent" },
+        "font-weight": { "value": "{sloterburg.typography.font-weight.bold}" },
+        "text-decoration": { "value": "unset" },
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
+      },
+      "page": {
+        "hover": {
+          "color": { "value": "{sloterburg.color.primary}" },
+          "background-color": { "value": "{sloterburg.color.blue.99}" },
+          "text-decoration": { "value": "unset" },
+          "text-decoration-thickness": { "value": "0px" },
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "border-bottom-width": { "value": "{sloterburg.size.3xs}" },
+          "border-bottom-style": { "value": "solid" },
+          "border-bottom-color": { "value": "{sloterburg.color.primary}" }
+        }
+      }
+    }
+  }
+}

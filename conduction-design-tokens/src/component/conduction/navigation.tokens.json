@@ -7,7 +7,8 @@
         "hover": {
           "color": { "value": "{conduction.color.primary}" },
           "background-color": { "value": "{conduction.color.white.100}" },
-          "box-shadow": {}
+          "box-shadow": {},
+          "font-weight": {}
         },
         "current": {
           "color": { "value": "{conduction.color.primary}" },
@@ -15,7 +16,8 @@
           "box-shadow": { "value": "" },
           "mobile": {
             "box-shadow": { "value": "" }
-          }
+          },
+          "font-weight": {}
         },
         "dropdown": {
           "color": { "value": "{conduction.color.grey.29}" },
@@ -26,7 +28,17 @@
           "hover": {
             "color": { "value": "{conduction.color.primary}" },
             "background-color": { "value": "{conduction.color.white.100}" },
-            "box-shadow": {}
+            "box-shadow": {},
+            "font-weight": {}
+          },
+          "current": {
+            "color": { "value": "{conduction.color.primary}" },
+            "background-color": { "value": "{conduction.color.white.100}" },
+            "box-shadow": { "value": "" },
+            "mobile": {
+              "box-shadow": { "value": "" }
+            },
+            "font-weight": {}
           }
         },
         "item": {

@@ -13,7 +13,12 @@
       "border-style": { "value": "solid" },
       "border-color": { "value": "{open-webconcept.color.white.87}" },
       "border-radius": { "value": "0px" },
-      "icon-gap": { "value": "{open-webconcept.size.xs}" },
+      "icon": {
+        "gap": {
+          "value": "{open-webconcept.size.xs}"
+        },
+        "color": {}
+      },
       "padding-inline-end": { "value": "{open-webconcept.size.md}" },
       "padding-inline-start": { "value": "{open-webconcept.size.md}" },
       "padding-block-end": { "value": "{open-webconcept.size.md}" },

@@ -1,0 +1,21 @@
+{
+  "conduction": {
+    "table-wrapper": {
+      "scroll-button": {
+        "background-color": { "value": "{sloterburg.color.white.100}" },
+        "color": { "value": "{sloterburg.color.black.0}" },
+        "padding-inline-start": { "value": "{sloterburg.size.sm}" },
+        "padding-inline-end": { "value": "{sloterburg.size.sm}" },
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "hover": {
+          "background-color": { "value": "{sloterburg.color.white.100}" },
+          "color": { "value": "{sloterburg.color.primary}" }
+        }
+      }
+    }
+  }
+}

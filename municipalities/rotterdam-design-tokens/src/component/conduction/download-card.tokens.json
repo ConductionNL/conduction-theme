@@ -13,7 +13,12 @@
       "border-style": { "value": "solid" },
       "border-color": { "value": "var(--rotterdam-color-gray-tint-04)" },
       "border-radius": { "value": "0px" },
-      "icon-gap": { "value": "14px" },
+      "icon": {
+        "gap": {
+          "value": "14px"
+        },
+        "color": {}
+      },
       "padding-inline-end": { "value": "18px" },
       "padding-inline-start": { "value": "18px" },
       "padding-block-end": { "value": "18px" },

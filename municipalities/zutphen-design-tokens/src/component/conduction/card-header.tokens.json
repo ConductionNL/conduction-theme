@@ -1,0 +1,26 @@
+{
+  "conduction": {
+    "card-header": {
+      "background-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "color": { "value": "{zutphen.color.white.100}" },
+      "hover": {
+        "background-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
+      },
+      "title": {
+        "color": { "value": "{zutphen.color.white.100}" }
+      },
+      "date": {
+        "color": { "value": "{zutphen.color.white.100}" },
+        "font-size": { "value": "{zutphen.font-size.sm}" },
+        "font-weight": { "value": "{zutphen.typography.font-weight.light}" },
+        "margin-block-end": { "value": "{zutphen.size.xs}" }
+      }
+    }
+  }
+}

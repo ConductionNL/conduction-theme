@@ -8,6 +8,16 @@
         "border-block-end-width": { "value": "{tubbergen.size.4xs}" },
         "font-family": { "value": "{tubbergen.typography.montserrat.font-family}" }
       },
+      "header-cell": {
+        "border-inline-end-width": {},
+        "border-inline-end-style": {},
+        "border-inline-end-color": {}
+      },
+      "cell": {
+        "border-inline-end-width": {},
+        "border-inline-end-style": {},
+        "border-inline-end-color": {}
+      },
       "row": {
         "hover": {
           "background-color": { "value": "{tubbergen.color.blue.94}" },
@@ -15,7 +25,9 @@
         }
       },
       "body": {
-        "border": { "value": "{tubbergen.size.4xs} solid {tubbergen.color.blue.94}" }
+        "border": { "value": "{tubbergen.size.4xs} solid {tubbergen.color.blue.94}" },
+        "border-block-end-color": {},
+        "border-block-end-width": {}
       },
       "caption": {
         "font-style": {}

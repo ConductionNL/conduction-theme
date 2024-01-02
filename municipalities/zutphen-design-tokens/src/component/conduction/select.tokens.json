@@ -1,0 +1,39 @@
+{
+  "conduction": {
+    "input-select": {
+      "background-color": { "value": "{zutphen.color.white.100}" },
+      "border": { "value": "{zutphen.size.4xs} solid {zutphen.color.grey.84}" },
+      "border-focus": { "value": "{zutphen.size.4xs} solid {zutphen.color.primary}" },
+      "border-radius": { "value": "0px" },
+      "invalid-border-color": { "value": "{zutphen.color.error}" },
+      "padding-block-end": { "value": 0 },
+      "padding-block-start": { "value": 0 },
+      "hover": {},
+      "focus": {},
+      "list-option": {
+        "font-family": { "value": "{zutphen.typography.asap.font-family}" },
+        "background-color": { "value": "{zutphen.color.white.96}" },
+        "color": {},
+        "hover": {
+          "font-family": { "value": "{zutphen.typography.asap.font-family}" },
+          "background-color": { "value": "{zutphen.color.blue.46}" },
+          "color": { "value": "{zutphen.color.white.100}" }
+        },
+        "selected": {
+          "background-color": { "value": "{zutphen.color.blue.46}" },
+          "color": { "value": "{zutphen.color.white.100}" }
+        },
+        "focus": {
+          "background-color": { "value": "{zutphen.color.blue.46}" },
+          "color": { "value": "{zutphen.color.white.100}" }
+        }
+      },
+      "placeholder": {
+        "color": {
+          "value": "{utrecht.form-input.placeholder.color}"
+        },
+        "font-family": { "value": "{zutphen.typography.asap.font-family}" }
+      }
+    }
+  }
+}

@@ -13,6 +13,10 @@
       "color": { "value": "{utrecht.document.color}" },
       "hover": {
         "background-color": { "value": "{epe.color.yellow.90}" },
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
         "border-bottom-color": {},
         "border-bottom-style": {},
         "border-bottom-width": {}

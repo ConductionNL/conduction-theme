@@ -1,6 +1,8 @@
 {
   "utrecht": {
     "page-footer": {
+      "font-size": {},
+      "font-family": {},
       "min-height": {},
       "logo": {
         "max-height": { "value": "48px" },

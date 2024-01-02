@@ -1,0 +1,51 @@
+{
+  "zutphen": {
+    "typography": {
+      "myriad-pro": {
+        "font-family": {
+          "value": "\"Myriad-Pro\", \"Noto Sans\", Arial, sans-serif"
+        }
+      },
+      "asap": {
+        "font-family": {
+          "value": "Asap, \"Noto Sans\", Arial, sans-serif"
+        }
+      },
+      "sans-serif": {
+        "font-family": {
+          "value": "\"Noto Sans\", Arial, sans-serif"
+        }
+      },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
+      "font-weight": {
+        "bold": {
+          "value": "700"
+        },
+        "normal": {
+          "value": "400"
+        },
+        "light": {
+          "value": "100"
+        }
+      },
+      "scale": {
+        "4xs": { "value": "{zutphen.font-size.4xs}" },
+        "3xs": { "value": "{zutphen.font-size.3xs}" },
+        "2xs": { "value": "{zutphen.font-size.2xs}" },
+        "xs": { "value": "{zutphen.font-size.xs}" },
+        "sm": { "value": "{zutphen.font-size.sm}" },
+        "md": { "value": "{zutphen.font-size.md}" },
+        "lg": { "value": "{zutphen.font-size.lg}" },
+        "xl": { "value": "{zutphen.font-size.xl}" },
+        "2xl": { "value": "{zutphen.font-size.2xl}" },
+        "3xl": { "value": "{zutphen.font-size.3xl}" },
+        "4xl": { "value": "{zutphen.font-size.4xl}" },
+        "5xl": { "value": "{zutphen.font-size.5xl}" }
+      }
+    }
+  }
+}

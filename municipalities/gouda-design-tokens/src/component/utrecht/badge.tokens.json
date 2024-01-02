@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{gouda.color.primary} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{gouda.color.white.100} " },
+      "font-size": { "value": "{gouda.font-size.sm}" },
+      "font-weight": { "value": "{gouda.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{gouda.size.2xs}" },
+      "padding-inline": { "value": "{gouda.size.2xs}" },
+      "text-transform": {}
+    }
+  }
+}

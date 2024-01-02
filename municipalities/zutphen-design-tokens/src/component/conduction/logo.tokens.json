@@ -1,0 +1,27 @@
+{
+  "conduction": {
+    "logo": {
+      "header": {
+        "inline-size": { "value": "55px" },
+        "block-size": { "value": "50px" },
+        "background-image": {
+          "value": "url('https://zutphen.nl/themes/zutphen/logo.svg')"
+        }
+      },
+      "footer": {
+        "inline-size": { "value": "55px" },
+        "block-size": { "value": "50px" },
+        "background-image": {
+          "value": "url('https://zutphen.nl/themes/zutphen/logo.svg')"
+        }
+      },
+      "navbar": {
+        "inline-size": { "value": "52px" },
+        "block-size": { "value": "47px" },
+        "background-image": {
+          "value": "url('https://zutphen.nl/themes/zutphen/logo.svg')"
+        }
+      }
+    }
+  }
+}

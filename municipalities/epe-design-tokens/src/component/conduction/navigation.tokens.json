@@ -7,7 +7,8 @@
         "hover": {
           "color": { "value": "{epe.color.primary}" },
           "background-color": { "value": "{epe.color.white.100}" },
-          "box-shadow": {}
+          "box-shadow": {},
+          "font-weight": {}
         },
         "current": {
           "color": { "value": "{epe.color.primary}" },
@@ -15,7 +16,8 @@
           "box-shadow": { "value": "inset 0 -4px {epe.color.primary}" },
           "mobile": {
             "box-shadow": { "value": "inset 4px 0 {epe.color.primary}" }
-          }
+          },
+          "font-weight": {}
         },
         "dropdown": {
           "color": {},
@@ -26,7 +28,17 @@
           "hover": {
             "color": {},
             "background-color": {},
-            "box-shadow": {}
+            "box-shadow": {},
+            "font-weight": {}
+          },
+          "current": {
+            "color": { "value": "{epe.color.primary}" },
+            "background-color": { "value": "unset" },
+            "box-shadow": { "value": "inset 0 -4px {epe.color.primary}" },
+            "mobile": {
+              "box-shadow": { "value": "inset 4px 0 {epe.color.primary}" }
+            },
+            "font-weight": {}
           }
         },
         "item": {

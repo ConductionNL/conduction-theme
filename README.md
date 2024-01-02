@@ -4,9 +4,19 @@ Conduction's design tokens theme
 
 ## Changelog
 
+- **Version 1.1 (breaking changes from 1.0.x)**
+
+  - 1.1.5: Added Gouda theme.
+  - 1.1.4:
+    - Added disabled Button tokens in all themes.
+    - Updated Navigation tokens in all themes.
+  - 1.1.2 / 1.1.3: Added Sloterburg theme.
+  - 1.1.1: Added Zutphen theme.
+  - 1.1.0: Removed old Conduction, Leiden and XXLLNC theme files.
+
 - **Version 1**
 
-  - 1.0.62: 
+  - 1.0.62:
     - Updated themes to NL-Design repo.
     - Added publiccode.
   - 1.0.61: Updated OpenCatalogi theme tokens.

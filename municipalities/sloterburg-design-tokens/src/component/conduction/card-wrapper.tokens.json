@@ -1,0 +1,30 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "inherit" },
+      "color": { "value": "{sloterburg.color.grey.42}" },
+      "border-color": { "value": "transparent" },
+      "border-style": { "value": "solid" },
+      "border-width": { "value": "{sloterburg.size.4xs}" },
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": { "value": "0px" },
+      "box-shadow": {},
+      "hover": {
+        "background-color": {},
+        "color": { "value": "{sloterburg.color.primary}" },
+        "border-color": { "value": "{sloterburg.color.primary}" },
+        "border-style": { "value": "solid" },
+        "border-width": { "value": "{sloterburg.size.4xs}" },
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {}
+      },
+      "padding-inline-end": { "value": "{sloterburg.size.md}" },
+      "padding-inline-start": { "value": "{sloterburg.size.md}" },
+      "padding-block-end": { "value": "{sloterburg.size.md}" },
+      "padding-block-start": { "value": "{sloterburg.size.md}" }
+    }
+  }
+}
