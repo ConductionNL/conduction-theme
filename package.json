@@ -25,7 +25,8 @@
     "build:zutphen": "cd ./municipalities/zutphen-design-tokens && npm run build",
     "build:sloterburg": "cd ./municipalities/sloterburg-design-tokens && npm run build",
     "build:gouda": "cd ./municipalities/gouda-design-tokens && npm run build",
-    "build:zuiddrecht": "cd ./municipalities/zuiddrecht-design-tokens && npm run build"
+    "build:zuiddrecht": "cd ./municipalities/zuiddrecht-design-tokens && npm run build",
+    "build:utrecht": "cd ./municipalities/design-tokens && npm run build"
   },
   "dependencies": { "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100" },
   "author": "",
