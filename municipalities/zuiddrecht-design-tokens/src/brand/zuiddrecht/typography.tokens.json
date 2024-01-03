@@ -22,7 +22,8 @@
       },
       "weight-scale": {
         "bold": { "font-weight": { "value": "700" } },
-        "normal": { "font-weight": { "value": "400" } }
+        "normal": { "font-weight": { "value": "400" } },
+        "light": { "font-weight": { "value": "100" } }
       },
       "font-style": {
         "normal": { "value": "normal" },
