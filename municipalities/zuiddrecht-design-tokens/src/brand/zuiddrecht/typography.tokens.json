@@ -4,6 +4,11 @@
       "sans-serif": {
         "font-family": { "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", \"Arial\", sans-serif" }
       },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
       "scale": {
         "2xs": { "font-size": { "value": "0.5rem", "comment": "8px" } },
         "xs": { "font-size": { "value": "0.75rem", "comment": "12px" } },
