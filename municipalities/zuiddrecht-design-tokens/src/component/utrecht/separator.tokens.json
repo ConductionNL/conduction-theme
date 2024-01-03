@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "separator": {
+      "color": { "value": "{zuiddrecht.color.grey.90}" },
+      "block-size": { "value": "8px" },
+      "margin-block-end": { "value": "{zuiddrecht.space.block.md}" },
+      "margin-block-start": { "value": "{zuiddrecht.space.block.md}" }
+    }
+  }
+}
