@@ -1,0 +1,35 @@
+{
+  "utrecht": {
+    "link": {
+      "color": { "value": "{zuiddrecht.color.blue.35}" },
+      "text-decoration": { "value": "underline" },
+      "text-decoration-color": {},
+      "text-decoration-thickness": { "value": 0 },
+      "text-underline-offset": { "value": "3px" },
+      "active": {
+        "color": { "value": "{utrecht.link.color}" }
+      },
+      "focus": {
+        "color": { "value": "{zuiddrecht.color.blue.40}" },
+        "text-decoration": { "value": "none" },
+        "text-decoration-thickness": {}
+      },
+      "hover": {
+        "color": { "value": "{utrecht.link.focus.color}" },
+        "text-decoration": { "value": "underline" },
+        "text-decoration-thickness": { "value": "3px" }
+      },
+      "placeholder": {
+        "color": { "value": "{zuiddrecht.color.grey.40}" }
+      },
+      "visited": {
+        "color": { "value": "{utrecht.link.color}" }
+      },
+      "icon": {
+        "size": { "value": "1.2em" }
+      }
+    }
+  }
+}
+
+
