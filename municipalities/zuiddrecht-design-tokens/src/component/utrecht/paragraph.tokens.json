@@ -1,0 +1,25 @@
+{
+  "utrecht": {
+    "paragraph": {
+      "color": { "value": "{utrecht.document.color}" },
+      "font-family": { "value": "{zuiddrecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{zuiddrecht.typography.scale.md.font-size}" },
+      "font-weight": { "value": "{zuiddrecht.typography.weight-scale.normal.font-weight}" },
+      "line-height": { "value": "{zuiddrecht.typography.line-height.md}" },
+      "margin-block-start": { "value": "{zuiddrecht.space.block.md}" },
+      "margin-block-end": { "value": "0" },
+      "lead": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-size": { "value": "{zuiddrecht.typography.scale.lg.font-size}" },
+        "font-weight": { "value": "{zuiddrecht.typography.weight-scale.normal.font-weight}" },
+        "line-height": { "value": "{zuiddrecht.typography.line-height.md}" }
+      },
+      "small": {
+        "color": {},
+        "font-size": { "value": "{zuiddrecht.typography.scale.sm.font-size}" },
+        "font-weight": {},
+        "line-height": {}
+      }
+    }
+  }
+}
