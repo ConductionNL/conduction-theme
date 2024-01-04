@@ -5,7 +5,7 @@
         "value": "{zuiddrecht.color.red.40}"
       },
       "primary-hover": {
-        "value": "#2e5ed9"
+        "value": "{zuiddrecht.color.red.30}"
       },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
