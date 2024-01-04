@@ -2,11 +2,15 @@
   "utrecht": {
     "alert": {
       "background-color": { "value": "{zuiddrecht.color.blue.90}" },
+      "border-color": {},
+      "border-width": {},
       "color": { "value": "{zuiddrecht.color.black.0}" },
       "padding-block-end": { "value": "{utrecht.space.block.lg}" },
       "padding-block-start": { "value": "{utrecht.space.block.lg}" },
       "padding-inline-end": { "value": "{utrecht.space.block.lg}" },
       "padding-inline-start": { "value": "{utrecht.space.block.lg}" },
+      "margin-block-start": {},
+      "margin-block-end": {},
       "info": {
         "background-color": { "value": "{zuiddrecht.color.blue.90}" },
         "color": { "value": "{zuiddrecht.color.black.0}" },
@@ -32,11 +36,8 @@
         "border-width": {}
       },
       "icon": {
-        "color": { "value": "{zuiddrecht.color.blue.35}" },
         "gap": { "value": "{utrecht.space.column.md}" },
-        "info": {
-          "color": { "value": "{zuiddrecht.color.blue.35}" }
-        },
+        "color": { "value": "{zuiddrecht.color.blue.35}" },
         "error": {
           "color": { "value": "{zuiddrecht.color.red.40}" }
         },
