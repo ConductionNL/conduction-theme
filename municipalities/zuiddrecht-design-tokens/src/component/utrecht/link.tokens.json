@@ -10,7 +10,7 @@
         "color": { "value": "{utrecht.link.color}" }
       },
       "focus": {
-        "color": { "value": "{zuiddrecht.color.blue.40}" },
+        "color": { "value": "{zuiddrecht.color.blue.43}" },
         "text-decoration": { "value": "none" },
         "text-decoration-thickness": {}
       },

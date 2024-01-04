@@ -7,7 +7,7 @@
       "font-size": { "value": "{utrecht.document.font-size}" },
       "line-height": {},
       "margin-block-end": { "value": "0" },
-      "margin-block-start": { "value": "{zuiddrecht.space.block.md}" },
+      "margin-block-start": { "value": "{utrecht.space.block.md}" },
       "caption": {
         "font-size": { "value": "1.125em" },
         "font-weight": { "value": "{zuiddrecht.typography.weight-scale.bold.font-weight}" },

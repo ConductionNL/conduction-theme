@@ -14,16 +14,16 @@
       },
       "item": {
         "padding-block-start": {
-          "value": "{zuiddrecht.space.block.xs}"
+          "value": "{utrecht.space.block.xs}"
         },
         "padding-block-end": {
-          "value": "{zuiddrecht.space.block.xs}"
+          "value": "{utrecht.space.block.xs}"
         },
         "padding-inline-end": {
-          "value": "{zuiddrecht.space.inline.xs}"
+          "value": "{utrecht.space.inline.xs}"
         },
         "padding-inline-start": {
-          "value": "{zuiddrecht.space.inline.xs}"
+          "value": "{utrecht.space.inline.xs}"
         }
       },
       "separator": {
@@ -49,7 +49,7 @@
             "value": "{zuiddrecht.color.white.100}"
           },
           "color": {
-            "value": "{zuiddrecht.color.blue.40}"
+            "value": "{zuiddrecht.color.blue.43}"
           },
           "text-decoration": {
             "value": "underline"
@@ -57,7 +57,7 @@
         },
         "hover": {
           "color": {
-            "value": "{zuiddrecht.color.blue.40}"
+            "value": "{zuiddrecht.color.blue.43}"
           },
           "text-decoration": {
             "value": "underline"

@@ -3,10 +3,10 @@
     "alert": {
       "background-color": { "value": "{zuiddrecht.color.blue.90}" },
       "color": { "value": "{zuiddrecht.color.black.0}" },
-      "padding-block-end": { "value": "{zuiddrecht.space.block.lg}" },
-      "padding-block-start": { "value": "{zuiddrecht.space.block.lg}" },
-      "padding-inline-end": { "value": "{zuiddrecht.space.block.lg}" },
-      "padding-inline-start": { "value": "{zuiddrecht.space.block.lg}" },
+      "padding-block-end": { "value": "{utrecht.space.block.lg}" },
+      "padding-block-start": { "value": "{utrecht.space.block.lg}" },
+      "padding-inline-end": { "value": "{utrecht.space.block.lg}" },
+      "padding-inline-start": { "value": "{utrecht.space.block.lg}" },
       "info": {
         "background-color": { "value": "{zuiddrecht.color.blue.90}" },
         "color": { "value": "{zuiddrecht.color.black.0}" },
@@ -33,7 +33,7 @@
       },
       "icon": {
         "color": { "value": "{zuiddrecht.color.blue.35}" },
-        "gap": { "value": "{zuiddrecht.space.column.md}" },
+        "gap": { "value": "{utrecht.space.column.md}" },
         "info": {
           "color": { "value": "{zuiddrecht.color.blue.35}" }
         },

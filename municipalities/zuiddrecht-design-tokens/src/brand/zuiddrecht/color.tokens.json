@@ -2,7 +2,7 @@
   "zuiddrecht": {
     "color": {
       "primary": {
-        "value": "{zuiddrecht.color.blue.43}"
+        "value": "{zuiddrecht.color.red.40}"
       },
       "primary-hover": {
         "value": "#2e5ed9"
