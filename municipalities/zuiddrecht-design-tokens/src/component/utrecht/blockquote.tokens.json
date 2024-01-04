@@ -1,0 +1,25 @@
+{
+  "utrecht": {
+    "blockquote": {
+      "background-color": {},
+      "color": {},
+      "padding-inline-start": {},
+      "padding-inline-end": {},
+      "padding-block-start": {},
+      "padding-block-end": {},
+      "margin-inline-start": { "value": "1.6em" },
+      "margin-inline-end": { "value": "1.6em" },
+      "margin-block-start": { "value": "1.6em" },
+      "margin-block-end": { "value": "1.6em" },
+      "font-size": {},
+      "attribution": {
+        "color": {},
+        "font-size": { "value": "0.75rem" }
+      },
+      "content": {
+        "color": { "value": "{zuiddrecht.color.red.40}" },
+        "font-size": { "value": "1.125rem" }
+      }
+    }
+  }
+}
