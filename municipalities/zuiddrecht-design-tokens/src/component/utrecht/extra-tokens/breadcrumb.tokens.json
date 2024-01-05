@@ -9,12 +9,10 @@
       "padding-block-end": { "value": "12px" },
       "link": {
         "disabled": {
-          "background-color": {},
-          "color": { "value": "{zuiddrecht.color.grey.29}" }
+          "background-color": {}
         },
         "hover": {
-          "background-color": {},
-          "color": { "value": "{zuiddrecht.color.primary-hover}" }
+          "background-color": {}
         }
       }
     }
