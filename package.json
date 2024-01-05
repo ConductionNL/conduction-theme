@@ -1,6 +1,6 @@
 {
   "name": "@conduction/theme",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "Conduction's design tokens theme",
   "main": "index.js",
   "repository": {
@@ -8,6 +8,7 @@
     "url": "git+https://github.com/ConductionNL/conduction-theme.git"
   },
   "scripts": {
+    "prepare": "npm run build",
     "build": "npm-run-all build:**",
     "build:conduction": "cd ./conduction-design-tokens && npm run build",
     "build:leiden": "cd ./municipalities/leiden-design-tokens && npm run build",
@@ -24,7 +25,8 @@
     "build:opencatalogi": "cd ./municipalities/opencatalogi-design-tokens && npm run build",
     "build:zutphen": "cd ./municipalities/zutphen-design-tokens && npm run build",
     "build:sloterburg": "cd ./municipalities/sloterburg-design-tokens && npm run build",
-    "build:gouda": "cd ./municipalities/gouda-design-tokens && npm run build"
+    "build:gouda": "cd ./municipalities/gouda-design-tokens && npm run build",
+    "build:zuiddrecht": "cd ./municipalities/zuiddrecht-design-tokens && npm run build"
   },
   "dependencies": { "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100" },
   "author": "",

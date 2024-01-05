@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{zuiddrecht.color.primary}" },
+      "color": { "value": "{zuiddrecht.color.white.100}" },
+      "padding-block-start": { "value": "{zuiddrecht.size.sm}" },
+      "padding-block-end": { "value": "{zuiddrecht.size.sm}" }
+    }
+  }
+}

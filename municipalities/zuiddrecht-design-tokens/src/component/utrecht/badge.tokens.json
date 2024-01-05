@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{zuiddrecht.color.grey.30} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{zuiddrecht.color.white.100} " },
+      "font-size": { "value": "{zuiddrecht.typography.scale.sm.font-size}" },
+      "font-weight": { "value": "{zuiddrecht.typography.font-style.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{utrecht.space.block.xs}" },
+      "padding-inline": { "value": "{utrecht.space.inline.sm}" },
+      "text-transform": {}
+    }
+  }
+}
