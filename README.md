@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.10: Removed Zuiddrecht theme.
   - 1.1.9: Removed warnings in Zuiddrecht theme.
   - 1.1.6 / 1.1.7 / 1.1.8: Added Zuiddrecht theme.
   - 1.1.5: Added Gouda theme.

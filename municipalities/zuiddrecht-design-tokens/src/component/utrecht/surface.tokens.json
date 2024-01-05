@@ -1,8 +1,0 @@
-{
-  "utrecht": {
-    "surface": {
-      "background-color": { "value": "{zuiddrecht.color.grey.95}" },
-      "color": { "value": "{zuiddrecht.color.grey.10}" }
-    }
-  }
-}
