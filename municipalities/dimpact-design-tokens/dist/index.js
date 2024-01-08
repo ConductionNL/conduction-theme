@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Jan 2024 09:06:56 GMT
+ * Generated on Mon, 08 Jan 2024 09:05:12 GMT
  */
 
 export const dimpactColorPrimary = "#00377a";

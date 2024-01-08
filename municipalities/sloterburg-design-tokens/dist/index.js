@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Jan 2024 09:07:29 GMT
+ * Generated on Mon, 08 Jan 2024 09:05:41 GMT
  */
 
 export const sloterburgColorPrimary = "#1b7da7";

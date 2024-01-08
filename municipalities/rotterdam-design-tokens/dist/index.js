@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Jan 2024 09:06:40 GMT
+ * Generated on Mon, 08 Jan 2024 09:04:58 GMT
  */
 
 export const conductionCardHeaderColor = "var(--utrecht-document-color)";

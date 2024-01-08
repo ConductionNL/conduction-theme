@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Jan 2024 09:07:46 GMT
+ * Generated on Mon, 08 Jan 2024 09:05:56 GMT
  */
 
 export const zuiddrechtColorPrimary = "hsl(0 100% 40%)";

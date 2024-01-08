@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Jan 2024 09:05:46 GMT
+ * Generated on Mon, 08 Jan 2024 09:04:12 GMT
  */
 
 export const xxllncColorPrimary = "#000000ad"; // Primary with 68% transparency

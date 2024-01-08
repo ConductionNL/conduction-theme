@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Jan 2024 09:06:19 GMT
+ * Generated on Mon, 08 Jan 2024 09:04:40 GMT
  */
 
 export const noordwijkColorPrimary = "#2c2276";

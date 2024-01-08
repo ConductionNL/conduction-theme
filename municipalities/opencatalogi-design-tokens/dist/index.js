@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Jan 2024 09:07:13 GMT
+ * Generated on Mon, 08 Jan 2024 09:05:26 GMT
  */
 
 export const conductionCardHeaderColor = "#404B4F";

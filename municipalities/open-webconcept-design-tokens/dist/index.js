@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Jan 2024 09:06:48 GMT
+ * Generated on Mon, 08 Jan 2024 09:05:05 GMT
  */
 
 export const openWebconceptColorPrimary = "#1abc9c";
