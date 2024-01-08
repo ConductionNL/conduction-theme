@@ -1,0 +1,33 @@
+/**
+ * @license SEE LICENSE.md
+ * Copyright (c) 2021 NL Design System Community
+ * All rights reserved
+ */
+@import "./design-tokens.css";
+/**
+ * @license SEE LICENSE.md
+ * Copyright (c) 2021 NL Design System Community
+ * All rights reserved
+ */
+/* stylelint-disable no-duplicate-selectors */
+@media (min-width: 768px) {
+  .rotterdam-theme {
+    --utrecht-page-footer-padding-inline-start: 24px;
+    --utrecht-page-footer-padding-inline-end: 24px;
+    --utrecht-page-footer-block-end: 115px;
+    --utrecht-page-footer-block-start: 52px;
+  }
+}
+@media (max-width: 375px) {
+  .rotterdam-theme {
+    --utrecht-page-footer-padding-inline-start: 24px;
+    --utrecht-page-footer-padding-inline-end: 24px;
+    --utrecht-page-footer-block-end: 48px;
+  }
+}
+
+/* @import "./font"; */
+.rotterdam-theme .utrecht-button--subtle {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
