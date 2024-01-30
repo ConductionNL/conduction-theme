@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.14: Added prepublish to package.json.
   - 1.1.13:
     - Updated Sloterburg primary color.
     - Updated Conduction form-input placholder color.
