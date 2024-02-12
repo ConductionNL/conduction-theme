@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Feb 2024 13:03:18 GMT
+ * Generated on Mon, 12 Feb 2024 13:25:17 GMT
  */
 
 .open-webconcept-theme {
@@ -176,7 +176,7 @@
   --open-webconcept-color-black-13: #222222;
   --open-webconcept-color-black-0: #000000;
   --open-webconcept-color-white-100-70t: #ffffffb3; /* White with 70% transparency */
-  --open-webconcept-color-white-100-25t: ##ffffff40; /* White with 25% transparency */
+  --open-webconcept-color-white-100-25t: #ffffff40; /* White with 25% transparency */
   --open-webconcept-color-white-100: #ffffff; /* Base/White */
   --open-webconcept-color-white-87: #dcdcde;
   --open-webconcept-color-alert-info-background: #cce5ff;
