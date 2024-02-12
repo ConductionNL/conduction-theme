@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.18: Removed empty variables in all themes.
   - 1.1.16 / 1.1.17: Updated open-webconcept logo.
   - 1.1.14 / 1.1.15:
     - Added postinstall to package.json.

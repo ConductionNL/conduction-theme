@@ -9,9 +9,9 @@
         }
       },
       "footer": {
-        "inline-size": { "value": "" },
-        "block-size": { "value": "" },
-        "background-image": { "value": "" }
+        "inline-size": { "value": "null" },
+        "block-size": { "value": "null" },
+        "background-image": { "value": "null" }
       },
       "navbar": {
         "inline-size": { "value": "150px" },

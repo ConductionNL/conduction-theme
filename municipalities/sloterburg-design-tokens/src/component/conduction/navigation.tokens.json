@@ -62,7 +62,7 @@
         "current": {
           "color": { "value": "{sloterburg.color.primary}" },
           "background-color": { "value": "{sloterburg.color.white.100}" },
-          "box-shadow": { "value": "" }
+          "box-shadow": {}
         },
         "font-size": { "value": "{sloterburg.font-size.md}" },
         "font-weight": { "value": "400" },
