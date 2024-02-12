@@ -6,6 +6,13 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.16 / 1.1.17: Updated open-webconcept logo.
+  - 1.1.14 / 1.1.15:
+    - Added postinstall to package.json.
+  - 1.1.13:
+    - Updated Sloterburg primary color.
+    - Updated Conduction form-input placholder color.
+    - Removed dist folder from all themes.
   - 1.1.12: Added dist folder to all themes.
   - 1.1.11: ReAdded Zuiddrecht theme.
   - 1.1.10: Removed Zuiddrecht theme.

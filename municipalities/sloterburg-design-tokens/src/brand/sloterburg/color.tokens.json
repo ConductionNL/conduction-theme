@@ -2,10 +2,10 @@
   "sloterburg": {
     "color": {
       "primary": {
-        "value": "{sloterburg.color.blue.38}"
+        "value": "{sloterburg.color.blue.33}"
       },
       "primary-hover": {
-        "value": "{sloterburg.color.blue.38-90t}"
+        "value": "{sloterburg.color.blue.33-90t}"
       },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
@@ -32,6 +32,14 @@
         }
       },
       "blue": {
+        "33": {
+          "value": "#156d93",
+          "comment": "Base/Blue"
+        },
+        "33-90t": {
+          "value": "#156d93e6",
+          "comment": "Base/Blue"
+        },
         "38": {
           "value": "#1b7da7",
           "comment": "Base/Blue"
