@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "font-weight": {},
+      "font-size": { "value": "{dinkelland.font-size.xl}" },
+      "outline-style": {},
+      "border-radius": {},
+      "focus": {
+        "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
+      },
+      "inset-block-start": { "value": "73px" },
+      "inset-inline-start": { "value": "33px" }
+    }
+  }
+}
