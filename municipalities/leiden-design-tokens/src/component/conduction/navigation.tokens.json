@@ -62,7 +62,7 @@
         "current": {
           "color": { "value": "{leiden.color.white.100}" },
           "background-color": { "value": "unset" },
-          "box-shadow": { "value": "" }
+          "box-shadow": {}
         },
         "font-size": { "value": "{leiden.font-size.md}" },
         "font-weight": { "value": "400" },

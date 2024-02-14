@@ -4,7 +4,7 @@
       "background-color": { "value": "{noordwijk.color.white.100}" },
       "border": { "value": "{noordwijk.size.4xs} solid {noordwijk.color.grey.46}" },
       "border-focus": { "value": "unset" },
-      "border-radius": { "value": "{utrecht.form-input.border-radius}" },
+      "border-radius": {},
       "invalid-border-color": { "value": "{noordwijk.color.error}" },
       "padding-block-end": { "value": 0 },
       "padding-block-start": { "value": 0 },
