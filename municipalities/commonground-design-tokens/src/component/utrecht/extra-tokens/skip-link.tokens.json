@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "font-weight": {},
+      "font-size": {},
+      "outline-style": { "value": "none" },
+      "border-radius": {}
+    }
+  }
+}
