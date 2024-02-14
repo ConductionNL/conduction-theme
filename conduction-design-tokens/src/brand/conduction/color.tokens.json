@@ -69,6 +69,10 @@
           "value": "#000000",
           "comment": "Base/Black"
         },
+        "0-60t": {
+          "value": "#00000099",
+          "comment": "Black with 60% transparency"
+        },
         "30": {
           "value": "#4d4d4d"
         }
