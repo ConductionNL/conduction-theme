@@ -6,7 +6,7 @@
       "min-block-size": { "value": "20px" },
       "min-inline-size": { "value": "20px" },
       "padding-block-start": { "value": "15px" },
-      "padding-block-end": { "value": "14px" },
+      "padding-block-end": { "value": "{conduction.size.sm}" },
       "padding-inline-start": { "value": "23px" },
       "padding-inline-end": { "value": "23px" },
       "text-decoration": { "value": "none" },

@@ -4,9 +4,9 @@
       "background-color": { "value": "green" },
       "color": { "value": "purple" },
       "outline-color": { "value": "{commonground.color.black.0}" },
-      "outline-offset": { "value": "2px" },
+      "outline-offset": { "value": "{commonground.size.3xs}" },
       "outline-style": {},
-      "outline-width": { "value": "2px" },
+      "outline-width": { "value": "{commonground.size.3xs}" },
       "inverse": {
         "outline-color": { "value": "{commonground.color.black.0}" }
       }

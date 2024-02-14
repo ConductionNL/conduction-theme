@@ -2,9 +2,12 @@
   "utrecht": {
     "skip-link": {
       "font-weight": {},
-      "font-size": {},
+      "font-size": {
+        "value": "1rem",
+        "comment": "16px"
+      },
       "outline-style": { "value": "none" },
-      "border-radius": {},
+      "border-radius": { "value": "3px" },
       "focus": {
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
       }
