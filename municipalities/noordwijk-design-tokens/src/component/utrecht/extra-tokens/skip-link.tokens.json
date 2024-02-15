@@ -7,6 +7,7 @@
         "comment": "14.4px"
       },
       "outline-style": {},
+      "outline-color": {},
       "border-radius": { "value": "5px" },
       "focus": {
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }

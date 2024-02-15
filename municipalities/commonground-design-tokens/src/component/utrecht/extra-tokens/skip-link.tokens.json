@@ -4,6 +4,7 @@
       "font-weight": {},
       "font-size": {},
       "outline-style": { "value": "none" },
+      "outline-color": {},
       "border-radius": {},
       "focus": {
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
