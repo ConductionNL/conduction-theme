@@ -1,18 +1,54 @@
 {
   "zutphen": {
     "font-size": {
-      "4xs": { "value": "5px" },
-      "3xs": { "value": "8px" },
-      "2xs": { "value": "10px" },
-      "xs": { "value": "12px" },
-      "sm": { "value": "14px" },
-      "md": { "value": "16px" },
-      "lg": { "value": "18px" },
-      "xl": { "value": "24px" },
-      "2xl": { "value": "28px" },
-      "3xl": { "value": "36px" },
-      "4xl": { "value": "48px" },
-      "5xl": { "value": "63px" }
+      "4xs": {
+        "value": "0.313rem",
+        "comment": "5px"
+      },
+      "3xs": {
+        "value": "0.5rem",
+        "comment": "8px"
+      },
+      "2xs": {
+        "value": "0.625rem",
+        "comment": "10px"
+      },
+      "xs": {
+        "value": "0.75rem",
+        "comment": "12px"
+      },
+      "sm": {
+        "value": "0.875rem",
+        "comment": "14px"
+      },
+      "md": {
+        "value": "1rem",
+        "comment": "16px"
+      },
+      "lg": {
+        "value": "1.125rem",
+        "comment": "18px"
+      },
+      "xl": {
+        "value": "1.5rem",
+        "comment": "24px"
+      },
+      "2xl": {
+        "value": "1.75rem",
+        "comment": "28px"
+      },
+      "3xl": {
+        "value": "2.25rem",
+        "comment": "36px"
+      },
+      "4xl": {
+        "value": "3rem",
+        "comment": "48px"
+      },
+      "5xl": {
+        "value": "3.938rem",
+        "comment": "63px"
+      }
     }
   }
 }
