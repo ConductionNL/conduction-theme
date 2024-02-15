@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "background-color": { "value": "{opencatalogi.color.base.green}" },
+      "color": { "value": "{opencatalogi.color.base.white}" },
+      "min-block-size": { "value": "20px" },
+      "min-inline-size": { "value": "20px" },
+      "padding-block-start": { "value": "10px" },
+      "padding-block-end": { "value": "10px" },
+      "padding-inline-start": { "value": "20px" },
+      "padding-inline-end": { "value": "20px" },
+      "text-decoration": { "value": "underline" },
+      "z-index": { "value": "100000" }
+    }
+  }
+}
