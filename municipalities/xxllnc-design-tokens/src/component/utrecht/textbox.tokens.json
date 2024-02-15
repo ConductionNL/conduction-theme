@@ -7,8 +7,10 @@
       "border-width": { "value": "{xxllnc.size.4xs}" },
       "color": { "value": "{xxllnc.color.grey.43}" },
       "font-family": { "value": "{xxllnc.typography.sans-serif.font-family}" },
-      "font-size": { "value": "15px" },
-      "min-inline-height": {},
+      "font-size": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },      "min-inline-height": {},
       "max-inline-size": {},
       "padding-block-end": { "value": "{xxllnc.size.xs}" },
       "padding-block-start": { "value": "{xxllnc.size.xs}" },
