@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "font-weight": { "value": "{gouda.typography.font-weight.bold}" },
+      "font-size": { "value": "{gouda.font-size.md}" },
+      "outline-style": {},
+      "border-radius": {},
+      "focus": {
+        "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
+      },
+      "inset-block-start": { "value": "21px" },
+      "inset-inline-start": { "value": "18px" },
+      "box-shadow-width": { "value": "3.2px" }
+    }
+  }
+}

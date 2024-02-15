@@ -9,7 +9,8 @@
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
       },
       "inset-block-start": { "value": "108px" },
-      "inset-inline-start": { "value": "19px" }
+      "inset-inline-start": { "value": "19px" },
+      "box-shadow-width": {}
     }
   }
 }

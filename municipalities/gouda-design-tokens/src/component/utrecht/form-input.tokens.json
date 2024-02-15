@@ -7,7 +7,10 @@
       "border-width": { "value": "{gouda.size.4xs}" },
       "color": { "value": "{gouda.color.grey.46}" },
       "font-family": { "value": "{utrecht.document.font-family}" },
-      "font-size": { "value": "15px" },
+      "font-size": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },
       "min-inline-height": {},
       "max-inline-size": {},
       "padding-block-end": { "value": "{gouda.size.xs}" },
