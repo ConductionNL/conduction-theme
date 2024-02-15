@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "font-weight": { "value": "{leiden.typography.font-weight.bold}" },
+      "font-size": { "value": "{leiden.font-size.md}" },
+      "outline-style": {},
+      "border-radius": { "value": "5px" },
+      "focus": {
+        "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
+      },
+      "inset-block-start": { "value": "{leiden.size.lg}" },
+      "inset-inline-start": { "value": "{leiden.size.sm}" },
+      "box-shadow-width": {}
+    }
+  }
+}

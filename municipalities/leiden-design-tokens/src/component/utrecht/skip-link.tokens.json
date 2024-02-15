@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "background-color": { "value": "{leiden.color.primary}" },
+      "color": { "value": "{leiden.color.white.100}" },
+      "min-block-size": {},
+      "min-inline-size": {},
+      "padding-block-start": { "value": "10px" },
+      "padding-block-end": { "value": "10px" },
+      "padding-inline-start": { "value": "10px" },
+      "padding-inline-end": { "value": "10px" },
+      "text-decoration": { "value": "none" },
+      "z-index": { "value": "100000" }
+    }
+  }
+}
