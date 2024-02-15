@@ -61,6 +61,9 @@
         }
       },
       "grey": {
+        "27": {
+          "value": "#444444"
+        },
         "31": {
           "value": "#4f4f4f"
         },
@@ -72,6 +75,9 @@
         },
         "82": {
           "value": "#d1d1d1"
+        },
+        "87": {
+          "value": "#dddddd"
         },
         "97": {
           "value": "#f7f7f7"
@@ -96,6 +102,10 @@
         "0": {
           "value": "#000000",
           "comment": "Base/Black"
+        },
+        "0-60t": {
+          "value": "#00000099",
+          "comment": "Black with 60% transparency"
         }
       }
     }
