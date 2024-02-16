@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "focus": {
+      "background-color": {},
+      "color": {},
+      "outline-color": { "value": "{leiden.color.white.100}" },
+      "outline-offset": { "value": "3px" },
+      "outline-style": { "value": "dotted" },
+      "outline-width": { "value": "{leiden.size.3xs}" },
+      "inverse": {
+        "outline-color": {}
+      }
+    }
+  }
+}

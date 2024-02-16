@@ -2,12 +2,12 @@
   "leiden": {
     "color": {
       "primary": {
-        "value": "#d62410"
+        "value": "{leiden.color.red.45}"
       },
       "primary-hover": {
-        "value": "#b81f0e"
+        "value": "{leiden.color.red.39}"
       },
-      "error": { "value": "#d62410" },
+      "error": { "value": "{leiden.color.red.45}" },
       "alert-error": { "value": "#721c24" },
       "alert-error-background": { "value": "#f8d7da" },
       "warning": { "value": "#ffc107" },
@@ -19,6 +19,15 @@
       "info": { "value": "{leiden.color.primary}" },
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
+      "red": {
+        "39": {
+          "value": "#b81f0e"
+        },
+        "45": {
+          "value": "#d62410",
+          "comment": "Base/Red"
+        }
+      },
       "grey": {
         "11": {
           "value": "#1d1d1b"

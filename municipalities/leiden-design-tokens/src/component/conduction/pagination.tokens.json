@@ -16,7 +16,10 @@
         "padding-inline-end": { "value": "{leiden.size.xs}" },
         "padding-block-start": { "value": "{leiden.size.xs}" },
         "padding-block-end": { "value": "{leiden.size.xs}" },
-        "font-size": { "value": "15px" },
+        "font-size": {
+          "value": "0.938rem",
+          "comment": "15px"
+        },
         "font-weight": { "value": "{leiden.typography.font-weight.bold}" },
         "font-family": { "value": "{utrecht.document.font-family}" },
         "border-width": {},
@@ -81,7 +84,7 @@
           "color": { "value": "{leiden.color.lightblue.37}" },
           "background-color": { "value": "{leiden.color.white.100}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "1px" },
+          "text-decoration-thickness": { "value": "{leiden.size.4xs}" },
           "border-width": {},
           "border-style": {},
           "border-color": {},

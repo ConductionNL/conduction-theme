@@ -9,7 +9,8 @@
       "scale": {
         "6xl": {
           "font-size": {
-            "value": "64px"
+            "value": "4rem",
+            "comment": "64px"
           },
           "line-height": {
             "value": "72px"
@@ -17,7 +18,8 @@
         },
         "5xl": {
           "font-size": {
-            "value": "48px"
+            "value": "3rem",
+            "comment": "48px"
           },
           "line-height": {
             "value": "56px"
@@ -25,7 +27,8 @@
         },
         "4xl": {
           "font-size": {
-            "value": "40px"
+            "value": "2.5rem",
+            "comment": "40px"
           },
           "line-height": {
             "value": "48px"
@@ -33,7 +36,8 @@
         },
         "3xl": {
           "font-size": {
-            "value": "32px"
+            "value": "2rem",
+            "comment": "32px"
           },
           "line-height": {
             "value": "40px"
@@ -41,7 +45,8 @@
         },
         "2xl": {
           "font-size": {
-            "value": "28px"
+            "value": "1.75rem",
+            "comment": "28px"
           },
           "line-height": {
             "value": "36px"
@@ -49,7 +54,8 @@
         },
         "xl": {
           "font-size": {
-            "value": "24px"
+            "value": "1.5rem",
+            "comment": "24px"
           },
           "line-height": {
             "value": "32px"
@@ -57,7 +63,8 @@
         },
         "lg": {
           "font-size": {
-            "value": "20px"
+            "value": "1.25rem",
+            "comment": "20px"
           },
           "line-height": {
             "value": "28px"
@@ -65,7 +72,8 @@
         },
         "md": {
           "font-size": {
-            "value": "16px"
+            "value": "1rem",
+            "comment": "16px"
           },
           "line-height": {
             "value": "24px"
@@ -73,7 +81,8 @@
         },
         "sm": {
           "font-size": {
-            "value": "12px"
+            "value": "0.75rem",
+            "comment": "12px"
           },
           "line-height": {
             "value": "20px"

@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "background-color": { "value": "{dimpact.color.white.100}" },
+      "color": { "value": "{dimpact.color.pink.62}" },
+      "min-block-size": { "value": "20px" },
+      "min-inline-size": { "value": "20px" },
+      "padding-block-start": {},
+      "padding-block-end": {},
+      "padding-inline-start": {},
+      "padding-inline-end": {},
+      "text-decoration": { "value": "underline" },
+      "z-index": { "value": "100000" }
+    }
+  }
+}

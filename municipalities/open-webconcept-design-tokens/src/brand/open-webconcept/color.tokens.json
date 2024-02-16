@@ -96,6 +96,18 @@
         "97": {
           "value": "#f7f7f7"
         }
+      },
+      "blue": {
+        "50": {
+          "value": "#0000FF",
+          "comment": "Base/Blue"
+        }
+      },
+      "light-blue": {
+        "50": {
+          "value": "#007bff",
+          "comment": "Base/Light-Blue"
+        }
       }
     }
   }

@@ -1,17 +1,50 @@
 {
   "gouda": {
     "font-size": {
-      "4xs": { "value": "5px" },
-      "3xs": { "value": "8px" },
-      "2xs": { "value": "10px" },
-      "xs": { "value": "12px" },
-      "sm": { "value": "14px" },
-      "md": { "value": "16px" },
-      "lg": { "value": "18px" },
-      "xl": { "value": "22px" },
-      "2xl": { "value": "28px" },
-      "3xl": { "value": "35px" },
-      "4xl": { "value": "58px" }
+      "4xs": {
+        "value": "0.313rem",
+        "comment": "5px"
+      },
+      "3xs": {
+        "value": "0.5rem",
+        "comment": "8px"
+      },
+      "2xs": {
+        "value": "0.625rem",
+        "comment": "10px"
+      },
+      "xs": {
+        "value": "0.75rem",
+        "comment": "12px"
+      },
+      "sm": {
+        "value": "0.875rem",
+        "comment": "14px"
+      },
+      "md": {
+        "value": "1rem",
+        "comment": "16px"
+      },
+      "lg": {
+        "value": "1.125rem",
+        "comment": "18px"
+      },
+      "xl": {
+        "value": "1.375rem",
+        "comment": "22px"
+      },
+      "2xl": {
+        "value": "1.75rem",
+        "comment": "28px"
+      },
+      "3xl": {
+        "value": "2.188rem",
+        "comment": "35px"
+      },
+      "4xl": {
+        "value": "3.625rem",
+        "comment": "58px"
+      }
     }
   }
 }

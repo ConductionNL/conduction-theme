@@ -1,17 +1,50 @@
 {
   "open-webconcept": {
     "font-size": {
-      "4xs": { "value": "3px" },
-      "3xs": { "value": "5px" },
-      "2xs": { "value": "8px" },
-      "xs": { "value": "10px" },
-      "sm": { "value": "12px" },
-      "md": { "value": "14px" },
-      "lg": { "value": "18px" },
-      "xl": { "value": "21px" },
-      "2xl": { "value": "24px" },
-      "3xl": { "value": "36px" },
-      "4xl": { "value": "48px" }
+      "4xs": {
+        "value": "0.188rem",
+        "comment": "3px"
+      },
+      "3xs": {
+        "value": "0.313rem",
+        "comment": "5px"
+      },
+      "2xs": {
+        "value": "0.5rem",
+        "comment": "8px"
+      },
+      "xs": {
+        "value": "0.625rem",
+        "comment": "10px"
+      },
+      "sm": {
+        "value": "0.75rem",
+        "comment": "12px"
+      },
+      "md": {
+        "value": "0.875rem",
+        "comment": "14px"
+      },
+      "lg": {
+        "value": "1.125rem",
+        "comment": "18px"
+      },
+      "xl": {
+        "value": "1.313rem",
+        "comment": "21px"
+      },
+      "2xl": {
+        "value": "1.5rem",
+        "comment": "24px"
+      },
+      "3xl": {
+        "value": "2.25rem",
+        "comment": "36px"
+      },
+      "4xl": {
+        "value": "3rem",
+        "comment": "48px"
+      }
     }
   }
 }

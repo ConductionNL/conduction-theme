@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "background-color": { "value": "{noordwijk.color.blue.23}" },
+      "color": { "value": "{noordwijk.color.white.100}" },
+      "min-block-size": {},
+      "min-inline-size": {},
+      "padding-block-start": { "value": "20.16px" },
+      "padding-block-end": { "value": "20.16px" },
+      "padding-inline-start": { "value": "25.92px" },
+      "padding-inline-end": { "value": "25.92px" },
+      "text-decoration": { "value": "none" },
+      "z-index": { "value": "100000" }
+    }
+  }
+}

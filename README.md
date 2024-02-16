@@ -6,6 +6,10 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.22:
+    - Added skip-link tokens in all themes.
+    - Added focus tokens in all themes.
+    - Refactored all font-sizes from px to rem in all themes.
   - 1.1.21: Fixed minor css parse errors.
   - 1.1.20: Updated Open-Webconcept logo.
   - 1.1.19: Fixed hex color code in Open-Webconcept theme.
