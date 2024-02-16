@@ -4,7 +4,10 @@
       "background-color": { "value": "{opencatalogi.color.base.white}" },
       "color": { "value": "{opencatalogi.color.gray.tint-11}" },
       "font-family": { "value": "{opencatalogi.typography.sans-serif.font-family}" },
-      "font-size": { "value": "16px" },
+      "font-size": {
+        "value": "1rem",
+        "comment": "16px"
+      },
       "line-height": {}
     }
   }

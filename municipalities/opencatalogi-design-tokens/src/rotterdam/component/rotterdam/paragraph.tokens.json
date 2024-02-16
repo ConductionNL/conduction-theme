@@ -2,7 +2,10 @@
   "rotterdam": {
     "paragraph": {
       "small": {
-        "font-size": { "value": "12px" },
+        "font-size": {
+          "value": "0.75rem",
+          "comment": "12px"
+        },
         "line-height": { "value": "20px" }
       }
     }
