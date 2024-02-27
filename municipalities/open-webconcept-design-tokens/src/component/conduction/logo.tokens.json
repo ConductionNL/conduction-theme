@@ -16,8 +16,8 @@
         }
       },
       "navbar": {
-        "inline-size": { "value": "150px" },
-        "block-size": { "value": "48px" },
+        "inline-size": { "value": "161px" },
+        "block-size": { "value": "46px" },
         "background-image": {
           "value": "url('https://github.com/ConductionNL/conduction-theme/assets/43807324/e15ee773-f23e-429a-858e-fb677e8dd64e')"
         }

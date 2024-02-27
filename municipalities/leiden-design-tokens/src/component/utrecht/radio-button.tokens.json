@@ -4,7 +4,7 @@
       "background-color": { "value": "{leiden.color.white.100}" },
       "border-color": { "value": "{leiden.color.grey.46}" },
       "border-width": { "value": "{leiden.size.4xs}" },
-      "size": {},
+      "size": { "value": "16px" },
       "margin-block-start": {},
       "icon": {
         "size": { "value": "5px" }

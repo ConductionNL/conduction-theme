@@ -26,6 +26,9 @@
         "45": {
           "value": "#d62410",
           "comment": "Base/Red"
+        },
+        "95": {
+          "value": "#fde9e7"
         }
       },
       "grey": {

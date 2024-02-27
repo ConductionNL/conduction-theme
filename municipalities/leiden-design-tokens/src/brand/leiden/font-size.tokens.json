@@ -38,8 +38,8 @@
         "comment": "32px"
       },
       "3xl": {
-        "value": "3rem",
-        "comment": "48px"
+        "value": "2.8125rem",
+        "comment": "45px"
       },
       "4xl": {
         "value": "3.625rem",

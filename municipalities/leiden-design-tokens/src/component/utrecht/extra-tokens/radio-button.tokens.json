@@ -3,6 +3,7 @@
     "radio-button": {
       "min-block-size": { "value": "16px" },
       "min-inline-size": { "value": "16px" },
+      "margin-inline-end": { "value": "16px" },
       "checked-disabled": {
         "border-color": { "value": "{leiden.color.grey.82}" },
         "border-width": { "value": "{leiden.size.4xs}" },
