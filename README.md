@@ -6,10 +6,11 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.24: Updated logo in Dimpact theme.
   - 1.1.23:
-    - Added utrecht Calendar and Checkbox tokens to leiden-theme.
-    - Updated leiden-theme.
-    - Updated OpenWebconcept logo.
+    - Added utrecht Calendar and Checkbox tokens to Leiden theme.
+    - Updated Leiden theme.
+    - Updated logo in Open-Webconcept theme.
   - 1.1.22:
     - Added skip-link tokens in all themes.
     - Added focus tokens in all themes.
