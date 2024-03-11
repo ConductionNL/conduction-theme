@@ -23,15 +23,28 @@
         "30": {
           "value": "#901009"
         },
+        "42": {
+          "value": "#c60e13"
+        },
         "49": {
           "value": "#ea1017",
           "comment": "Base/Red"
+        },
+        "57-50t": {
+          "value": "#ed343a80",
+          "comment": "Red with 50% transparency"
         }
       },
       "yellow": {
         "59": {
           "value": "#fcb731",
           "comment": "Base/Yellow"
+        }
+      },
+      "blue": {
+        "50": {
+          "value": "#0000ff",
+          "comment": "Base/Blue"
         }
       },
       "grey": {

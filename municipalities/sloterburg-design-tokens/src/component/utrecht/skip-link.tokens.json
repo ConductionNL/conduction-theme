@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "background-color": { "value": "{sloterburg.color.white.100}" },
+      "color": { "value": "{sloterburg.color.black.0}" },
+      "min-block-size": { "value": "20px" },
+      "min-inline-size": { "value": "20px" },
+      "padding-block-start": { "value": "16px" },
+      "padding-block-end": { "value": "16px" },
+      "padding-inline-start": { "value": "16px" },
+      "padding-inline-end": { "value": "16px" },
+      "text-decoration": { "value": "none" },
+      "z-index": { "value": "100000" }
+    }
+  }
+}

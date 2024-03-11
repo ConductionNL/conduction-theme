@@ -7,7 +7,10 @@
       "border-width": { "value": "{noordwijk.size.4xs}" },
       "color": { "value": "{noordwijk.color.grey.29}" },
       "font-family": { "value": "{noordwijk.typography.roboto.font-family}" },
-      "font-size": { "value": "15px" },
+      "font-size": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },
       "min-inline-height": {},
       "max-inline-size": {},
       "padding-block-end": { "value": "{noordwijk.size.xs}" },

@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "focus": {
+      "background-color": {},
+      "color": {},
+      "outline-color": { "value": "{noordwijk.color.black.0}" },
+      "outline-offset": { "value": "{noordwijk.size.2xs}" },
+      "outline-style": {},
+      "outline-width": {},
+      "inverse": {
+        "outline-color": { "value": "{noordwijk.color.blue.23}" }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "font-weight": {},
+      "font-size": { "value": "{sloterburg.font-size.lg}" },
+      "outline-style": {},
+      "outline-color": {},
+      "border-radius": {},
+      "focus": {
+        "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
+      },
+      "inset-block-start": { "value": "86px" },
+      "inset-inline-start": {},
+      "box-shadow-width": {}
+    }
+  }
+}

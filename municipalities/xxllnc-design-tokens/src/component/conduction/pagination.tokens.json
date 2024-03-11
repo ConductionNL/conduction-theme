@@ -37,8 +37,8 @@
         "border-bottom-style": {},
         "border-bottom-color": {},
         "border-radius": {},
-        "padding-inline-start": { "value": "" },
-        "padding-inline-end": { "value": "" },
+        "padding-inline-start": {},
+        "padding-inline-end": {},
         "padding-block-start": { "value": "0px" },
         "padding-block-end": { "value": "0px" },
         "disabled": {

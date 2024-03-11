@@ -7,7 +7,7 @@
       "border-width": { "value": "{epe.size.4xs}" },
       "color": { "value": "{epe.color.black.0}" },
       "font-family": { "value": "{epe.typography.source-sans.font-family}" },
-      "font-size": { "value": "{epe.size.md}" },
+      "font-size": { "value": "{epe.font-size.md}" },
       "min-inline-height": {},
       "max-inline-size": {},
       "padding-block-end": { "value": "{epe.size.xs}" },

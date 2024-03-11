@@ -28,7 +28,7 @@
           "comment": "Base/White"
         },
         "100-25t": {
-          "value": "##ffffff40",
+          "value": "#ffffff40",
           "comment": "White with 25% transparency"
         },
         "100-70t": {
@@ -95,6 +95,18 @@
         },
         "97": {
           "value": "#f7f7f7"
+        }
+      },
+      "blue": {
+        "50": {
+          "value": "#0000FF",
+          "comment": "Base/Blue"
+        }
+      },
+      "light-blue": {
+        "50": {
+          "value": "#007bff",
+          "comment": "Base/Light-Blue"
         }
       }
     }

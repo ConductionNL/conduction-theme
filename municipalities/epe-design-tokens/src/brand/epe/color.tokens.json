@@ -29,6 +29,9 @@
         }
       },
       "yellow": {
+        "39": {
+          "value": "#b0c700"
+        },
         "42": {
           "value": "#d6a100",
           "comment": "Base/Yellow"

@@ -7,7 +7,7 @@
       "border-width": { "value": "0" },
       "color": { "value": "{opencatalogi.color.base.white}" },
       "font-family": { "value": "{opencatalogi.typography.sans-serif.font-family}" },
-      "font-size": { "value": "{opencatalogi.typography.scale.md}" },
+      "font-size": { "value": "{opencatalogi.typography.scale.md.font-size}" },
       "font-weight": { "value": "700" },
       "inline-size": {},
       "letter-spacing": {},

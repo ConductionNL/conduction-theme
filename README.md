@@ -6,7 +6,20 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
-  - 1.1.16 / 1.1.17: Updated open-webconcept logo.
+  - 1.1.24: Updated logo in Dimpact theme.
+  - 1.1.23:
+    - Added utrecht Calendar and Checkbox tokens to Leiden theme.
+    - Updated Leiden theme.
+    - Updated logo in Open-Webconcept theme.
+  - 1.1.22:
+    - Added skip-link tokens in all themes.
+    - Added focus tokens in all themes.
+    - Refactored all font-sizes from px to rem in all themes.
+  - 1.1.21: Fixed minor css parse errors.
+  - 1.1.20: Updated Open-Webconcept logo.
+  - 1.1.19: Fixed hex color code in Open-Webconcept theme.
+  - 1.1.18: Removed empty variables in all themes.
+  - 1.1.16 / 1.1.17: Updated Open-Webconcept logo.
   - 1.1.14 / 1.1.15:
     - Added postinstall to package.json.
   - 1.1.13:

@@ -7,7 +7,10 @@
       "border-width": { "value": "{tubbergen.size.4xs}" },
       "color": { "value": "{tubbergen.color.black.33}" },
       "font-family": { "value": "{tubbergen.typography.lato.font-family}" },
-      "font-size": { "value": "15px" },
+      "font-size": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },
       "min-inline-height": {},
       "max-inline-size": {},
       "padding-block-end": { "value": "{tubbergen.size.xs}" },

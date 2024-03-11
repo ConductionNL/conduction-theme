@@ -13,9 +13,9 @@
         "current": {
           "color": { "value": "{gouda.color.black.0}" },
           "background-color": { "value": "{gouda.color.white.100}" },
-          "box-shadow": { "value": "" },
+          "box-shadow": { "value": "unset" },
           "mobile": {
-            "box-shadow": { "value": "" }
+            "box-shadow": { "value": "unset" }
           },
           "font-weight": { "value": "{gouda.typography.font-weight.bold}" }
         },
@@ -34,9 +34,9 @@
           "current": {
             "color": { "value": "{gouda.color.black.0}" },
             "background-color": { "value": "{gouda.color.white.100}" },
-            "box-shadow": { "value": "" },
+            "box-shadow": { "value": "unset" },
             "mobile": {
-              "box-shadow": { "value": "" }
+              "box-shadow": { "value": "unset" }
             },
             "font-weight": { "value": "{gouda.typography.font-weight.bold}" }
           }
@@ -62,7 +62,7 @@
         "current": {
           "color": { "value": "{gouda.color.primary}" },
           "background-color": { "value": "{gouda.color.white.100}" },
-          "box-shadow": { "value": "" }
+          "box-shadow": { "value": "unset" }
         },
         "font-size": { "value": "{gouda.font-size.md}" },
         "font-weight": { "value": "400" },
