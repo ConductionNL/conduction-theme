@@ -27,7 +27,7 @@
         "inline-size": {},
         "color": { "value": "{roosendaal.color.white.100}" },
         "icon": {
-          "size": { "value": "{roosendaal.font-size.xs}" }
+          "size": { "value": "{roosendaal.font-size.sm}" }
         }
       }
     }
