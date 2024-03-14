@@ -16,6 +16,9 @@
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "green": {
+        "15": {
+          "value": "#014b2c"
+        },
         "19": {
           "value": "#006139"
         },

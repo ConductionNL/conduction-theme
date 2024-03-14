@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{roosendaal.color.green.15}" },
+      "font-family": { "value": "{roosendaal.typography.museosans.font-family}" },
+      "font-size": { "value": "{roosendaal.font-size.3xl}" },
+      "font-weight": { "value": "{roosendaal.typography.font-weight.bold}" },
+      "line-height": { "value": "1.56097" },
+      "margin-block-end": { "value": "{roosendaal.size.2xl}" },
+      "margin-block-start": { "value": "{roosendaal.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{roosendaal.color.green.15}" },
+      "font-family": { "value": "{roosendaal.typography.museosans.font-family}" },
+      "font-size": { "value": "{roosendaal.font-size.2xl}" },
+      "font-weight": { "value": "{roosendaal.typography.font-weight.bold}" },
+      "line-height": { "value": "1.58333" },
+      "margin-block-end": { "value": "{roosendaal.size.2xl}" },
+      "margin-block-start": { "value": "{roosendaal.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{roosendaal.color.green.15}" },
+      "font-family": { "value": "{roosendaal.typography.museosans.font-family}" },
+      "font-size": { "value": "{roosendaal.font-size.xl}" },
+      "font-weight": { "value": "{roosendaal.typography.font-weight.bold}" },
+      "line-height": { "value": "1.59375" },
+      "margin-block-end": { "value": "{roosendaal.size.xl}" },
+      "margin-block-start": { "value": "{roosendaal.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{roosendaal.color.green.15}" },
+      "font-family": { "value": "{roosendaal.typography.museosans.font-family}" },
+      "font-size": { "value": "{roosendaal.font-size.lg}" },
+      "font-weight": { "value": "{roosendaal.typography.font-weight.bold}" },
+      "line-height": { "value": "1.60714" },
+      "margin-block-end": { "value": "{roosendaal.size.lg}" },
+      "margin-block-start": { "value": "{roosendaal.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{roosendaal.color.green.15}" },
+      "font-family": { "value": "{roosendaal.typography.museosans.font-family}" },
+      "font-size": { "value": "{roosendaal.font-size.md}" },
+      "font-weight": { "value": "{roosendaal.typography.font-weight.bold}" },
+      "line-height": { "value": "1.64" },
+      "margin-block-end": { "value": "{roosendaal.size.lg}" },
+      "margin-block-start": { "value": "{roosendaal.size.md}" }
+    }
+  }
+}

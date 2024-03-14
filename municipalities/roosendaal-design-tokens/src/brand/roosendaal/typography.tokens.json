@@ -6,6 +6,11 @@
           "value": "\"Source Sans\", Arial, Helvetica, sans-serif"
         }
       },
+      "museosans": {
+        "font-family": {
+          "value": "\"MuseoSans\", Monospace, Arial, Helvetica, sans-serif"
+        }
+      },
       "monospace": {
         "font-family": {
           "value": "Monospace, \"Lucida Console\""
