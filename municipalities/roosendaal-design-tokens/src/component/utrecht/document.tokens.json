@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{roosendaal.color.white.100}" },
+      "color": { "value": "{roosendaal.color.black.3}" },
+      "font-family": { "value": "{roosendaal.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{roosendaal.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}
