@@ -1,0 +1,29 @@
+{
+  "conduction": {
+    "card-header": {
+      "background-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "color": { "value": "{utrecht.document.color}" },
+      "hover": {
+        "background-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
+      },
+      "title": {
+        "color": { "value": "{roosendaal.color.green.35}" },
+        "hover": {
+          "color": { "value": "{roosendaal.color.green.15}" }
+        }
+      },
+      "date": {
+        "color": { "value": "{roosendaal.color.black.3}" },
+        "font-size": { "value": "{roosendaal.font-size.sm}" },
+        "font-weight": { "value": "{roosendaal.typography.font-weight.light}" },
+        "margin-block-end": { "value": "{roosendaal.size.xs}" }
+      }
+    }
+  }
+}
