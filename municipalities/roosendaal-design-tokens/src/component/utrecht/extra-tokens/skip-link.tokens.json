@@ -10,7 +10,7 @@
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
       },
       "inset-block-start": { "value": "242px" },
-      "inset-inline-start": { "value": "18px" },
+      "inset-inline-start": { "value": "{roosendaal.size.md}" },
       "box-shadow-width": {},
       "border-width": { "value": "3px" },
       "border-style": { "value": "solid" },
