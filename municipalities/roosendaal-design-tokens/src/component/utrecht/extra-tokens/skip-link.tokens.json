@@ -1,0 +1,20 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "font-weight": {},
+      "font-size": { "value": "{roosendaal.font-size.lg}" },
+      "outline-style": {},
+      "outline-color": {},
+      "border-radius": {},
+      "focus": {
+        "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
+      },
+      "inset-block-start": { "value": "242px" },
+      "inset-inline-start": { "value": "18px" },
+      "box-shadow-width": {},
+      "border-width": { "value": "3px" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{roosendaal.color.red.52}" }
+    }
+  }
+}
