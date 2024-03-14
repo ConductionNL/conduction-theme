@@ -3,11 +3,11 @@
     "button": {
       "background-color": { "value": "{roosendaal.color.primary}" },
       "border-color": {},
-      "border-radius": { "value": "3px" },
+      "border-radius": { "value": "{roosendaal.size.2xs}" },
       "border-width": {},
       "color": { "value": "{roosendaal.color.white.100}" },
       "font-family": { "value": "{roosendaal.typography.sans-serif.font-family}" },
-      "font-size": { "value": "24px" },
+      "font-size": { "value": "{roosendaal.size.lg}" },
       "font-weight": { "value": "inherit" },
       "inline-size": {},
       "letter-spacing": {},
