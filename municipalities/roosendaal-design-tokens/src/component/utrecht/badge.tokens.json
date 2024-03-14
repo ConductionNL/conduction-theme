@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{roosendaal.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{roosendaal.color.white.100} " },
+      "font-size": { "value": "{roosendaal.font-size.sm}" },
+      "font-weight": { "value": "{roosendaal.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{roosendaal.size.xs}" },
+      "padding-inline": { "value": "{roosendaal.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}
