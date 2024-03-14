@@ -4,8 +4,8 @@
       "primary": { "value": "{roosendaal.color.green.33}" },
       "primary-hover": { "value": "{roosendaal.color.green.35}" },
       "error": { "value": "#dc3545" },
-      "alert-error": { "value": "#721c24" },
-      "alert-error-background": { "value": "#f8d7da" },
+      "alert-error": { "value": "{roosendaal.color.red.12}" },
+      "alert-error-background": { "value": "{roosendaal.color.red.94}" },
       "warning": { "value": "#ffc107" },
       "alert-warning": { "value": "#856404" },
       "alert-warning-background": { "value": "#fff3cd" },
@@ -22,6 +22,18 @@
         },
         "35": {
           "value": "#328160"
+        }
+      },
+      "red": {
+        "12": {
+          "value": "#34090a"
+        },
+        "52": {
+          "value": "#dc2e33",
+          "comment": "Base/Red"
+        },
+        "94": {
+          "value": "#fbe5e6"
         }
       },
       "grey": {
