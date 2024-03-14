@@ -11,12 +11,20 @@
           "value": "\"MuseoSans\", Monospace, Arial, Helvetica, sans-serif"
         }
       },
+      "museosansbolder": {
+        "font-family": {
+          "value": "\"MuseoSansBolder\", Monospace, Arial, Helvetica, sans-serif"
+        }
+      },
       "monospace": {
         "font-family": {
           "value": "Monospace, \"Lucida Console\""
         }
       },
       "font-weight": {
+        "bolder": {
+          "value": "900"
+        },
         "bold": {
           "value": "700"
         },

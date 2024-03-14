@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{roosendaal.color.green.19}" },
+      "background-image": { "value": "unset" },
+      "color": { "value": "{roosendaal.color.white.98}" },
+      "padding-inline-end": { "value": "{roosendaal.size.sm}" },
+      "padding-inline-start": { "value": "{roosendaal.size.sm}" },
+      "padding-block-end": { "value": "{roosendaal.size.2xl}" },
+      "padding-block-start": { "value": "{roosendaal.size.2xl}" }
+    }
+  }
+}
