@@ -1,12 +1,12 @@
-# Auteursrecht Gemeente Roosendaal
+# Auteursrecht Gemeente Noordwijk
 
-Copyright (c) 2023 Gemeente Roosendaal
+Copyright (c) 2023 Gemeente Noordwijk
 
 ## Logo en huisstijl
 
-Op het huisstijl en logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik door Gemeente Roosendaal.
+Op het huisstijl en logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik door Gemeente Noordwijk.
 
-Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van Gemeente Roosendaal gebruiken en je ontwerpt een eigen huisstijl.
+Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van Gemeente Noordwijk gebruiken en je ontwerpt een eigen huisstijl.
 
 ## Lettertype
 
@@ -14,4 +14,4 @@ Lettertypes die worden gebruikt voor de huisstijl zijn niet allemaal gratis en o
 
 ## Toestemming
 
-Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met Gemeente Roosendaal.
+Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met Gemeente Noordwijk.
