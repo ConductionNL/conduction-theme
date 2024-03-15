@@ -11,7 +11,10 @@
       },
       "inset-block-start": { "value": "21px" },
       "inset-inline-start": { "value": "18px" },
-      "box-shadow-width": { "value": "3.2px" }
+      "box-shadow-width": { "value": "3.2px" },
+      "border-width": {},
+      "border-style": {},
+      "border-color": {}
     }
   }
 }

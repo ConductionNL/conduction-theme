@@ -11,7 +11,10 @@
       },
       "inset-block-start": {},
       "inset-inline-start": {},
-      "box-shadow-width": {}
+      "box-shadow-width": {},
+      "border-width": {},
+      "border-style": {},
+      "border-color": {}
     }
   }
 }

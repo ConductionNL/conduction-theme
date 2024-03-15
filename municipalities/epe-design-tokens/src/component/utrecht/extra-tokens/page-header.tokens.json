@@ -4,7 +4,11 @@
       "logo": {
         "max-height": {},
         "max-width": { "value": "155px" }
-      }
+      },
+      "border-block-start": {},
+      "border-block-end": {},
+      "border-inline-start": {},
+      "border-inline-end": {}
     }
   }
 }

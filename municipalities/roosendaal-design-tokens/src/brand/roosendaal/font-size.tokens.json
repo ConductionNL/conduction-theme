@@ -1,0 +1,50 @@
+{
+  "roosendaal": {
+    "font-size": {
+      "4xs": {
+        "value": "0.313rem",
+        "comment": "5px"
+      },
+      "3xs": {
+        "value": "0.5rem",
+        "comment": "8px"
+      },
+      "2xs": {
+        "value": "0.75rem",
+        "comment": "12px"
+      },
+      "xs": {
+        "value": "0.875rem",
+        "comment": "14px"
+      },
+      "sm": {
+        "value": "1.125rem",
+        "comment": "18px"
+      },
+      "md": {
+        "value": "1.313rem",
+        "comment": "21px"
+      },
+      "lg": {
+        "value": "1.5rem",
+        "comment": "24px"
+      },
+      "xl": {
+        "value": "1.875rem",
+        "comment": "30px"
+      },
+      "2xl": {
+        "value": "2.494rem",
+        "comment": "39.9px"
+      },
+      "3xl": {
+        "value": "2.625rem",
+        "comment": "42px"
+      },
+      "4xl": {
+        "value": "3rem",
+        "comment": "48px"
+      }
+    }
+  }
+}

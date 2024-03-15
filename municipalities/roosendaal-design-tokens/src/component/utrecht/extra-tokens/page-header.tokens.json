@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "page-header": {
+      "logo": {
+        "max-height": {},
+        "max-width": { "value": "150px" }
+      },
+      "border-block-start": { "value": "10px solid {roosendaal.color.red.52}" },
+      "border-block-end": {},
+      "border-inline-start": { "value": "10px solid {roosendaal.color.red.52}" },
+      "border-inline-end": { "value": "10px solid {roosendaal.color.red.52}" }
+    }
+  }
+}
