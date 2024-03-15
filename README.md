@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.25: Added Roosendaal theme.
   - 1.1.24: Updated logo in Dimpact theme.
   - 1.1.23:
     - Added utrecht Calendar and Checkbox tokens to Leiden theme.
