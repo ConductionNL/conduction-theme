@@ -1,31 +1,42 @@
 {
   "utrecht": {
     "form-input": {
+      "background-color": { "value": "{roosendaal.color.white.100}" },
+      "border-block-end-width": {},
       "border-bottom-width": {},
       "border-color": { "value": "{roosendaal.color.green.33}" },
       "border-radius": { "value": "0px" },
       "border-width": { "value": "{roosendaal.size.4xs}" },
       "color": { "value": "{roosendaal.color.grey.29}" },
       "font-family": { "value": "{roosendaal.typography.sans-serif.font-family}" },
-      "font-size": {
-        "value": "0.938rem",
-        "comment": "15px"
-      },
-      "min-inline-height": {},
+      "font-size": { "value": "{roosendaal.font-size.md}" },
+      "line-height": { "value": "21px" },
       "max-inline-size": {},
-      "padding-block-end": { "value": "{roosendaal.size.xs}" },
-      "padding-block-start": { "value": "{roosendaal.size.xs}" },
-      "padding-inline-end": { "value": "{roosendaal.size.sm}" },
-      "padding-inline-start": { "value": "{roosendaal.size.sm}" },
+      "padding-block-end": { "value": "12px" },
+      "padding-block-start": { "value": "12px" },
+      "padding-inline-end": { "value": "{roosendaal.size.xl}" },
+      "padding-inline-start": { "value": "{roosendaal.size.xl}" },
+      "placeholder": {
+        "color": { "value": "{roosendaal.color.grey.46}" }
+      },
       "disabled": {
+        "background-color": {},
         "border-color": {},
         "color": {}
       },
+      "focus": {
+        "background-color": {},
+        "border-color": { "value": "{roosendaal.color.green.33}" },
+        "color": {}
+      },
       "invalid": {
+        "background-color": {},
         "border-color": {},
-        "border-width": {}
+        "border-width": {},
+        "color": {}
       },
       "read-only": {
+        "background-color": {},
         "border-color": {},
         "color": {}
       }

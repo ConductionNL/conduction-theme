@@ -6,8 +6,8 @@
       "border-focus": { "value": "unset" },
       "border-radius": { "value": "{utrecht.form-input.border-radius}" },
       "invalid-border-color": { "value": "{roosendaal.color.error}" },
-      "padding-block-end": { "value": 0 },
-      "padding-block-start": { "value": 0 },
+      "padding-block-end": { "value": "6px" },
+      "padding-block-start": { "value": "6px" },
       "hover": {},
       "focus": {},
       "list-option": {

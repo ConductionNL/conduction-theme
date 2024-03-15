@@ -3,7 +3,7 @@
     "button": {
       "background-color": { "value": "{roosendaal.color.primary}" },
       "border-color": {},
-      "border-radius": { "value": "{roosendaal.size.2xs}" },
+      "border-radius": { "value": "0px" },
       "border-width": {},
       "color": { "value": "{roosendaal.color.white.100}" },
       "font-family": { "value": "{roosendaal.typography.sans-serif.font-family}" },
