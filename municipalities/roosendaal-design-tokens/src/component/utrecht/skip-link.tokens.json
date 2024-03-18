@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "background-color": { "value": "{roosendaal.color.white.98}" },
+      "color": { "value": "{roosendaal.color.green.19}" },
+      "min-block-size": { "value": "20px" },
+      "min-inline-size": { "value": "20px" },
+      "padding-block-start": { "value": "7px" },
+      "padding-block-end": { "value": "7px" },
+      "padding-inline-start": { "value": "9px" },
+      "padding-inline-end": { "value": "9px" },
+      "text-decoration": { "value": "underline" },
+      "z-index": { "value": "100000" }
+    }
+  }
+}

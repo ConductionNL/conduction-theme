@@ -11,7 +11,10 @@
       },
       "inset-block-start": { "value": "{leiden.size.lg}" },
       "inset-inline-start": { "value": "{leiden.size.sm}" },
-      "box-shadow-width": {}
+      "box-shadow-width": {},
+      "border-width": {},
+      "border-style": {},
+      "border-color": {}
     }
   }
 }

@@ -1,0 +1,30 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{roosendaal.color.white.100}" },
+      "border-color": {},
+      "border-style": {},
+      "border-width": {},
+      "border-bottom-color": { "value": "{roosendaal.color.grey.95}" },
+      "border-bottom-style": { "value": "solid" },
+      "border-bottom-width": { "value": "3px" },
+      "border-radius": { "value": "0" },
+      "box-shadow": {},
+      "color": { "value": "{roosendaal.color.black.3}" },
+      "hover": {
+        "background-color": { "value": "{roosendaal.color.grey.89}" },
+        "color": { "value": "{roosendaal.color.black.0}" },
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
+        "border-bottom-color": { "value": "{roosendaal.color.grey.95}" },
+        "border-bottom-style": { "value": "solid" },
+        "border-bottom-width": { "value": "3px" }
+      },
+      "padding-inline-end": { "value": "{roosendaal.size.md}" },
+      "padding-inline-start": { "value": "{roosendaal.size.md}" },
+      "padding-block-end": { "value": "{roosendaal.size.md}" },
+      "padding-block-start": { "value": "{roosendaal.size.md}" }
+    }
+  }
+}
