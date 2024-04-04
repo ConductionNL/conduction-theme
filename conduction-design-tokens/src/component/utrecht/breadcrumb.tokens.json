@@ -16,10 +16,19 @@
         "color": { "value": "{conduction.color.primary}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{conduction.color.primary-hover}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{conduction.color.grey.29}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{conduction.color.grey.29}" }
         }
       },

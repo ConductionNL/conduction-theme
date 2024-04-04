@@ -16,10 +16,20 @@
         "color": { "value": "{commonground.color.primary}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
         },
+        "hover": {
+          "color": { "value": "{commonground.color.primary-hover}" },
+          "text-decoration": {}
+        },
+
         "current": {
           "background-color": {},
+          "color": { "value": "{commonground.color.grey.29}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{commonground.color.grey.29}" }
         }
       },

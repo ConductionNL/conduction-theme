@@ -21,8 +21,16 @@
           "background-color": {},
           "color": {}
         },
+        "hover": {
+          "color": { "value": "{leiden.color.black.9}" },
+          "text-decoration": {}
+        },
         "current": {
           "background-color": {},
+          "color": { "value": "{leiden.color.black.9}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{leiden.color.black.9}" }
         }
       },

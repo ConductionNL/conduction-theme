@@ -16,10 +16,18 @@
         "color": { "value": "{opencatalogi.color.green.tint-01}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{opencatalogi.color.green.tint-01}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{opencatalogi.color.gray.tint-09}" }
+        },
+        "disabled": {
           "color": { "value": "{opencatalogi.color.gray.tint-09}" }
         }
       },

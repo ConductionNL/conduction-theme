@@ -33,6 +33,12 @@
           "comment": "Base/LightBlue"
         }
       },
+      "beige": {
+        "38": {
+          "value": "#887439",
+          "comment": "Base/Beige"
+        }
+      },
       "lightgrey": {
         "96": {
           "value": "#f5f5f5",

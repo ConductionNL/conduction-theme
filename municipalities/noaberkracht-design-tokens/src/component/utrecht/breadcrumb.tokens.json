@@ -16,10 +16,19 @@
         "color": { "value": "{noaberkracht.color.yellow.47}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{noaberkracht.color.yellow.47}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{noaberkracht.color.blue.22}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{noaberkracht.color.blue.22}" }
         }
       },

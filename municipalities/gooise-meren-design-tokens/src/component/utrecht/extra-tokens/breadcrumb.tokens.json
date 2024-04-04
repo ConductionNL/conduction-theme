@@ -1,14 +1,14 @@
 {
   "utrecht": {
     "breadcrumb-nav": {
-      "background-color": { "value": "{zuiddrecht.color.white.100}" },
+      "background-color": { "value": "{gooise-meren.color.white.100}" },
       "border-radius": { "value": "3px" },
       "padding-inline-start": { "value": "0" },
       "padding-inline-end": { "value": "0" },
       "padding-block-start": { "value": "12px" },
       "padding-block-end": { "value": "12px" },
       "link": {
-        "font-weight": {},
+        "font-weight": { "value": "{gooise-meren.typography.font-weight.bold}" },
         "disabled": {
           "background-color": {}
         },

@@ -16,10 +16,19 @@
         "color": { "value": "{roosendaal.color.white.100}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{roosendaal.color.primary-hover}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{roosendaal.color.white.100}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{roosendaal.color.white.100}" }
         }
       },

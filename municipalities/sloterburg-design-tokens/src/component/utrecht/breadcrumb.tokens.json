@@ -3,7 +3,7 @@
     "breadcrumb-nav": {
       "block-size": {},
       "font-family": { "value": "{utrecht.document.font-family}" },
-      "font-size": {"value": "{sloterburg.font-size.xs}"},
+      "font-size": { "value": "{sloterburg.font-size.xs}" },
       "text-transform": {},
       "item": {
         "padding-block-start": {},
@@ -16,10 +16,19 @@
         "color": { "value": "{sloterburg.color.primary}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{sloterburg.color.primary-hover}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{sloterburg.color.grey.42}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{sloterburg.color.grey.42}" }
         }
       },

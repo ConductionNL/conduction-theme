@@ -6,6 +6,11 @@
           "value": "\"Rehn\", calibri, corbel, arial, sans-serif"
         }
       },
+      "rehn-bold": {
+        "font-family": {
+          "value": "\"Rehn Bold\", calibri, corbel, arial, sans-serif"
+        }
+      },
       "sans-serif": {
         "font-family": {
           "value": "calibri, corbel, arial, sans-serif"
