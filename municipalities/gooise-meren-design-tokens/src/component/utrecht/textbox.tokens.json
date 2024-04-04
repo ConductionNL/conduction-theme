@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "form-input": {
+    "textbox": {
       "border-bottom-width": {},
       "border-color": { "value": "{gooise-meren.color.beige.38}" },
       "border-radius": { "value": "6px" },
