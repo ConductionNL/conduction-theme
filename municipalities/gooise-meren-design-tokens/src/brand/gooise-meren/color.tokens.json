@@ -31,6 +31,9 @@
         }
       },
       "lightblue": {
+        "23": {
+          "value": "#09526a"
+        },
         "29": {
           "value": "#007e92",
           "comment": "Base/LightBlue"
