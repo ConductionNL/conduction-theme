@@ -3,12 +3,12 @@
     "typography": {
       "rehn": {
         "font-family": {
-          "value": "\"Rehn\", \"Noto Sans\", Arial, sans-serif"
+          "value": "\"Rehn\", calibri, corbel, arial, sans-serif"
         }
       },
       "sans-serif": {
         "font-family": {
-          "value": "\"Noto Sans\", Arial, sans-serif"
+          "value": "calibri, corbel, arial, sans-serif"
         }
       },
       "monospace": {
