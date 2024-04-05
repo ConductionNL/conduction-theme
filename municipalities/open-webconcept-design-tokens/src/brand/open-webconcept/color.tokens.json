@@ -102,6 +102,12 @@
           "comment": "Base/Blue"
         }
       },
+      "cyaan": {
+        "95": {
+          "value": "#e9fcf8",
+          "comment": "Base/Cyaan"
+        }
+      },
       "light-blue": {
         "50": {
           "value": "#007bff",
