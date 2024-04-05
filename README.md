@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.28: Added Gooise Meren theme.
   - 1.1.27: Updated logo in Zupthen theme.
   - 1.1.26: Updated logo in Roosendaal theme.
   - 1.1.25: Added Roosendaal theme.
