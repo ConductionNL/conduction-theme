@@ -9,6 +9,7 @@ Conduction's design tokens theme
   - 1.1.29:
     - Added Calender tokens to all themes.
     - Added Utrecht checkbox tokens to all themes.
+    - Added spotlicht-section tokens to all themes.
   - 1.1.28: Added Gooise Meren theme.
   - 1.1.27: Updated logo in Zupthen theme.
   - 1.1.26: Updated logo in Roosendaal theme.
