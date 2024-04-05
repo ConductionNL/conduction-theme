@@ -81,6 +81,9 @@
         "30": {
           "value": "#2c2276",
           "comment": "Base/Blue"
+        },
+        "95": {
+          "value": "#edebf9"
         }
       },
       "white": {
