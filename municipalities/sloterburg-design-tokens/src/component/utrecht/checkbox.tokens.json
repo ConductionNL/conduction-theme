@@ -1,0 +1,57 @@
+{
+  "utrecht": {
+    "checkbox": {
+      "background-color": {},
+      "border-color": {},
+      "border-radius": { "value": "3px" },
+      "border-width": { "value": "{sloterburg.size.4xs}" },
+      "color": { "value": "{sloterburg.color.white.100}" },
+      "size": { "value": "24px" },
+      "icon": {
+        "size": {}
+      },
+      "active": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "hover": {
+        "border-color": { "value": "{sloterburg.color.grey.31}" },
+        "border-width": { "value": "{sloterburg.size.4xs}" },
+        "background-color": {},
+        "color": { "value": "{sloterburg.color.white.100}" }
+      },
+      "focus": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "disabled": {
+        "border-color": { "value": "{sloterburg.color.grey.82}" },
+        "border-width": { "value": "{sloterburg.size.4xs}" },
+        "background-color": { "value": "{sloterburg.color.grey.82}" },
+        "color": { "value": "{sloterburg.color.grey.82}" }
+      },
+      "checked": {
+        "border-color": { "value": "{sloterburg.color.primary}" },
+        "border-width": { "value": "{sloterburg.size.4xs}" },
+        "background-color": { "value": "{sloterburg.color.primary}" },
+        "color": { "value": "{sloterburg.color.primary}" }
+      },
+      "indeterminate": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "invalid": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      }
+    }
+  }
+}
