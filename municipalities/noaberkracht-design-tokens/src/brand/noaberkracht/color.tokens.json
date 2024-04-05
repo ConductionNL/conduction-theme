@@ -58,6 +58,9 @@
         "47": {
           "value": "#f0b800",
           "comment": "Base/Yellow from Huisstijlhandboek, base color of website is #f0af00"
+        },
+        "95": {
+          "value": "#fff9e6"
         }
       },
       "grey": {
