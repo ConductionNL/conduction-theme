@@ -14,7 +14,11 @@
       "box-shadow-width": { "value": "3.2px" },
       "border-width": {},
       "border-style": {},
-      "border-color": {}
+      "border-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "width": {}
     }
   }
 }

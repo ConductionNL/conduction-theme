@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{gooise-meren.color.white.100}" },
+      "color": { "value": "{gooise-meren.color.black.0}" },
+      "font-family": { "value": "{gooise-meren.typography.rehn.font-family}" },
+      "font-size": { "value": "{gooise-meren.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}

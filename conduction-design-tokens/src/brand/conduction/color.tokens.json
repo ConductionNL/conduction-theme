@@ -2,10 +2,10 @@
   "conduction": {
     "color": {
       "primary": {
-        "value": "#4376fc"
+        "value": "{conduction.color.blue.63}"
       },
       "primary-hover": {
-        "value": "#2e5ed9"
+        "value": "{conduction.color.blue.52}"
       },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
@@ -19,6 +19,18 @@
       "info": { "value": "{conduction.color.primary}" },
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
+      "blue": {
+        "52": {
+          "value": "#2e5ed9"
+        },
+        "63": {
+          "value": "#4376fc",
+          "comment": "Base/Blue"
+        },
+        "95": {
+          "value": "#e6edff"
+        }
+      },
       "grey": {
         "27": {
           "value": "#444444"

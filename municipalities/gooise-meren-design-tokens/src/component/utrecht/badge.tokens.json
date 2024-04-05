@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{gooise-meren.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{gooise-meren.color.white.100} " },
+      "font-size": { "value": "{gooise-meren.font-size.sm}" },
+      "font-weight": { "value": "{gooise-meren.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{gooise-meren.size.xs}" },
+      "padding-inline": { "value": "{gooise-meren.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}
