@@ -1,0 +1,80 @@
+{
+  "utrecht": {
+    "calendar": {
+      "width": {},
+      "background-color": {},
+      "table": {
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "weeks-item": {
+          "width": { "value": "44px" },
+          "padding-block-start": { "value": "4px" },
+          "padding-block-end": { "value": "10px" },
+          "line-height": { "value": "24px" }
+        },
+        "days-item-day": {
+          "size": { "value": "44px" },
+          "color": { "value": "var(--rotterdam-color-base-black)" },
+          "border-width": { "value": "2px" },
+          "border-color": { "value": "transparent" },
+          "hover": {
+            "background-color": {},
+            "color": { "value": "var(--rotterdam-color-green-tint-01)" },
+            "border-color": { "value": "var(--rotterdam-color-base-black)" }
+          },
+          "focus": {
+            "background-color": {},
+            "color": {},
+            "border-color": { "value": "transparent" }
+          },
+          "active": {
+            "background-color": {},
+            "color": {},
+            "border-color": { "value": "transparent" }
+          },
+          "out-of-the-month": {
+            "background-color": {},
+            "color": { "value": "var(--rotterdam-color-grey-tint-04)" },
+            "border-color": { "value": "transparent" }
+          },
+          "is-today": {
+            "background-color": { "value": "#e6ffeb" },
+            "color": { "value": "var(--rotterdam-color-green-tint-01)" },
+            "border-color": { "value": "var(--rotterdam-color-green-tint-01)" },
+            "font-weight": { "value": "var(--rotterdam-typography-weight-scale-bold-font-weight)" }
+          },
+          "emphasis": {
+            "background-color": {},
+            "color": {},
+            "border-color": { "value": "transparent" },
+            "font-weight": {}
+          },
+          "selected": {
+            "background-color": { "value": "var(--rotterdam-color-base-magenta)" },
+            "color": { "value": "var(--rotterdam-color-base-white)" },
+            "border-color": {},
+            "font-weight": { "value": "var(--rotterdam-typography-weight-scale-bold-font-weight)" }
+          },
+          "disabled": {
+            "background-color": {},
+            "color": {},
+            "border-color": {}
+          }
+        }
+      },
+      "navigation": {
+        "background-color": {},
+        "color": { "value": "var(--rotterdam-color-green-tint-01)" },
+        "padding-block-start": { "value": "2px" },
+        "padding-block-end": { "value": "2px" },
+        "label": {
+          "min-inline-size": { "value": "200px" },
+          "color": { "value": "var(--rotterdam-color-base-black)" }
+        }
+      },
+      "icon": {
+        "size": { "value": "24px" }
+      }
+    }
+  }
+}
