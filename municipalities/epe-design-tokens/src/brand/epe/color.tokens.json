@@ -26,6 +26,9 @@
         "31": {
           "value": "#01699d",
           "comment": "Base/Light-Blue"
+        },
+        "95": {
+          "value": "#e6f6ff"
         }
       },
       "yellow": {
