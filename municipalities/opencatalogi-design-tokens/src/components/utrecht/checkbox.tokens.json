@@ -1,0 +1,57 @@
+{
+  "utrecht": {
+    "checkbox": {
+      "background-color": {},
+      "border-color": { "value": "{opencatalogi.color.gray.tint-08}" },
+      "border-radius": { "value": "0px" },
+      "border-width": { "value": "1px" },
+      "color": { "value": "{opencatalogi.color.base.white}" },
+      "size": { "value": "24px" },
+      "icon": {
+        "size": {}
+      },
+      "active": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "hover": {
+        "border-color": { "value": "{opencatalogi.color.base.green}" },
+        "border-width": { "value": "2px" },
+        "background-color": {},
+        "color": { "value": "{opencatalogi.color.base.white}" }
+      },
+      "focus": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "disabled": {
+        "border-color": { "value": "{opencatalogi.color.gray.tint-08}" },
+        "border-width": { "value": "1px" },
+        "background-color": { "value": "{opencatalogi.color.gray.tint-08}" },
+        "color": { "value": "{opencatalogi.color.gray.tint-08}" }
+      },
+      "checked": {
+        "border-color": { "value": "{opencatalogi.color.base.green}" },
+        "border-width": { "value": "1px" },
+        "background-color": { "value": "{opencatalogi.color.base.green}" },
+        "color": { "value": "{opencatalogi.color.base.green}" }
+      },
+      "indeterminate": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "invalid": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      }
+    }
+  }
+}
