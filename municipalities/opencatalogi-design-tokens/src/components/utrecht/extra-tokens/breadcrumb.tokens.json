@@ -7,13 +7,12 @@
       "padding-block-start": {},
       "padding-block-end": {},
       "link": {
+        "font-weight": {},
         "disabled": {
-          "background-color": {},
-          "color": { "value": "{opencatalogi.color.gray.tint-09}" }
+          "background-color": {}
         },
         "hover": {
-          "background-color": {},
-          "color": { "value": "{opencatalogi.color.green.tint-01}" }
+          "background-color": {}
         }
       }
     }

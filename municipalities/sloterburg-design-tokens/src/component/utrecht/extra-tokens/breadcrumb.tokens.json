@@ -8,13 +8,12 @@
       "padding-block-start": { "value": "12px" },
       "padding-block-end": { "value": "12px" },
       "link": {
+        "font-weight": {},
         "disabled": {
-          "background-color": {},
-          "color": { "value": "{sloterburg.color.grey.42}" }
+          "background-color": {}
         },
         "hover": {
-          "background-color": {},
-          "color": { "value": "{sloterburg.color.primary-hover}" }
+          "background-color": {}
         }
       }
     }

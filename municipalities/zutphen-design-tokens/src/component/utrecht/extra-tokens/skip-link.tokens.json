@@ -17,7 +17,11 @@
       "box-shadow-width": {},
       "border-width": {},
       "border-style": {},
-      "border-color": {}
+      "border-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "width": {}
     }
   }
 }

@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "min-block-size": { "value": "16px" },
+      "min-inline-size": { "value": "16px" },
+      "checked-disabled": {
+        "border-color": { "value": "{gooise-meren.color.grey.82}" },
+        "border-width": { "value": "{gooise-meren.size.4xs}" },
+        "background-color": { "value": "{gooise-meren.color.white.100}" },
+        "color": { "value": "{gooise-meren.color.grey.82}" }
+      }
+    }
+  }
+}

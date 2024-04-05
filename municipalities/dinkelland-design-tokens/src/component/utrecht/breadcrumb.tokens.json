@@ -16,10 +16,19 @@
         "color": { "value": "{dinkelland.color.white.100}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{dinkelland.color.white.100}" },
+          "text-decoration": { "value": "none" }
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{dinkelland.color.white.100}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{dinkelland.color.white.100}" }
         }
       },

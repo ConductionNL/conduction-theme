@@ -18,8 +18,16 @@
           "background-color": {},
           "color": {}
         },
+        "hover": {
+          "color": { "value": "{dimpact.color.primary-hover}" },
+          "text-decoration": {}
+        },
         "current": {
           "background-color": {},
+          "color": { "value": "{dimpact.color.grey.29}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{dimpact.color.grey.29}" }
         }
       },
