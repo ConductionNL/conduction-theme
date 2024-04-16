@@ -8,6 +8,7 @@
       "padding-block-start": { "value": "12px" },
       "padding-block-end": { "value": "12px" },
       "link": {
+        "font-weight": {},
         "disabled": {
           "background-color": {}
         },

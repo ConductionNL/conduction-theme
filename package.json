@@ -1,6 +1,6 @@
 {
   "name": "@conduction/theme",
-  "version": "1.1.25",
+  "version": "1.1.32",
   "description": "Conduction's design tokens theme",
   "main": "index.js",
   "repository": {
@@ -27,7 +27,8 @@
     "build:sloterburg": "cd ./municipalities/sloterburg-design-tokens && npm run build",
     "build:gouda": "cd ./municipalities/gouda-design-tokens && npm run build",
     "build:zuiddrecht": "cd ./municipalities/zuiddrecht-design-tokens && npm run build",
-    "build:roosendaal": "cd ./municipalities/roosendaal-design-tokens && npm run build"
+    "build:roosendaal": "cd ./municipalities/roosendaal-design-tokens && npm run build",
+    "build:gooise-meren": "cd ./municipalities/gooise-meren-design-tokens && npm run build"
   },
   "dependencies": {
     "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100",

@@ -16,10 +16,19 @@
         "color": { "value": "{xxllnc.color.black.14}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{xxllnc.color.black.14}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{xxllnc.color.black.14}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{xxllnc.color.black.14}" }
         }
       },

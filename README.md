@@ -6,6 +6,16 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.32: Updated logo's in various themes.
+  - 1.1.31: Updated Conduction logo.
+  - 1.1.30: Updated logo from url to data: in all themes.
+  - 1.1.29:
+    - Added Calender tokens to all themes.
+    - Added Utrecht checkbox tokens to all themes.
+    - Added spotlicht-section tokens to all themes.
+  - 1.1.28: Added Gooise Meren theme.
+  - 1.1.27: Updated logo in Zupthen theme.
+  - 1.1.26: Updated logo in Roosendaal theme.
   - 1.1.25: Added Roosendaal theme.
   - 1.1.24: Updated logo in Dimpact theme.
   - 1.1.23:

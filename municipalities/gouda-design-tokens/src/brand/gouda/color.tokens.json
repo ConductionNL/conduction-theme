@@ -33,6 +33,9 @@
         "57-50t": {
           "value": "#ed343a80",
           "comment": "Red with 50% transparency"
+        },
+        "95": {
+          "value": "#fde7e8"
         }
       },
       "yellow": {

@@ -7,13 +7,12 @@
       "padding-block-start": { "value": "15px" },
       "padding-block-end": { "value": "15px" },
       "link": {
+        "font-weight": {},
         "disabled": {
-          "background-color": {},
-          "color": { "value": "{tubbergen.color.white.100}" }
+          "background-color": {}
         },
         "hover": {
-          "background-color": {},
-          "color": { "value": "{tubbergen.color.white.100}" }
+          "background-color": {}
         }
       }
     }

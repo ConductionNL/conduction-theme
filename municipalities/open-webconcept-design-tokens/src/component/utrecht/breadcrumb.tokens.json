@@ -16,10 +16,18 @@
         "color": { "value": "{open-webconcept.color.grey.73}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{open-webconcept.color.grey.93}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{open-webconcept.color.white.100-70t}" }
+        },
+        "disabled": {
           "color": { "value": "{open-webconcept.color.white.100-70t}" }
         }
       },

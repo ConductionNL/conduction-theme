@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{gooise-meren.color.purple.19}" },
+      "font-family": { "value": "{gooise-meren.typography.rehn.font-family}" },
+      "font-size": { "value": "{gooise-meren.font-size.3xl}" },
+      "font-weight": { "value": "{gooise-meren.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gooise-meren.size.2xl}" },
+      "margin-block-start": { "value": "{gooise-meren.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{gooise-meren.color.purple.19}" },
+      "font-family": { "value": "{gooise-meren.typography.rehn.font-family}" },
+      "font-size": { "value": "{gooise-meren.font-size.2xl}" },
+      "font-weight": { "value": "{gooise-meren.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gooise-meren.size.2xl}" },
+      "margin-block-start": { "value": "{gooise-meren.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{gooise-meren.color.beige.38}" },
+      "font-family": { "value": "{gooise-meren.typography.rehn.font-family}" },
+      "font-size": { "value": "{gooise-meren.font-size.xl}" },
+      "font-weight": { "value": "{gooise-meren.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gooise-meren.size.xl}" },
+      "margin-block-start": { "value": "{gooise-meren.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{gooise-meren.color.beige.38}" },
+      "font-family": { "value": "{gooise-meren.typography.rehn.font-family}" },
+      "font-size": { "value": "{gooise-meren.font-size.lg}" },
+      "font-weight": { "value": "{gooise-meren.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gooise-meren.size.lg}" },
+      "margin-block-start": { "value": "{gooise-meren.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{gooise-meren.color.beige.38}" },
+      "font-family": { "value": "{gooise-meren.typography.rehn.font-family}" },
+      "font-size": { "value": "{gooise-meren.font-size.md}" },
+      "font-weight": { "value": "{gooise-meren.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{gooise-meren.size.lg}" },
+      "margin-block-start": { "value": "{gooise-meren.size.md}" }
+    }
+  }
+}

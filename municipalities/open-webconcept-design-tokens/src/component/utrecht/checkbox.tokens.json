@@ -1,0 +1,57 @@
+{
+  "utrecht": {
+    "checkbox": {
+      "background-color": {},
+      "border-color": {},
+      "border-radius": { "value": "3px" },
+      "border-width": { "value": "{open-webconcept.size.4xs}" },
+      "color": { "value": "{open-webconcept.color.white.100}" },
+      "size": { "value": "24px" },
+      "icon": {
+        "size": {}
+      },
+      "active": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "hover": {
+        "border-color": { "value": "{open-webconcept.color.grey.31}" },
+        "border-width": { "value": "{open-webconcept.size.4xs}" },
+        "background-color": {},
+        "color": { "value": "{open-webconcept.color.white.100}" }
+      },
+      "focus": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "disabled": {
+        "border-color": { "value": "{open-webconcept.color.grey.82}" },
+        "border-width": { "value": "{open-webconcept.size.4xs}" },
+        "background-color": { "value": "{open-webconcept.color.grey.82}" },
+        "color": { "value": "{open-webconcept.color.grey.82}" }
+      },
+      "checked": {
+        "border-color": { "value": "{open-webconcept.color.primary}" },
+        "border-width": { "value": "{open-webconcept.size.4xs}" },
+        "background-color": { "value": "{open-webconcept.color.primary}" },
+        "color": { "value": "{open-webconcept.color.primary}" }
+      },
+      "indeterminate": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "invalid": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      }
+    }
+  }
+}

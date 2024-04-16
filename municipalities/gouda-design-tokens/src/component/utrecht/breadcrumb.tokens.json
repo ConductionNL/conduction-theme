@@ -16,10 +16,19 @@
         "color": { "value": "{gouda.color.grey.44}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{gouda.color.grey.44}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{gouda.color.grey.44}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{gouda.color.grey.44}" }
         }
       },

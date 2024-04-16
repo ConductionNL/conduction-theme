@@ -16,10 +16,19 @@
         "color": { "value": "{tubbergen.color.white.100}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{tubbergen.color.white.100}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{tubbergen.color.white.100}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{tubbergen.color.white.100}" }
         }
       },

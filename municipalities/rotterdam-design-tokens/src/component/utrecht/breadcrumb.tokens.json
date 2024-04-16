@@ -16,10 +16,19 @@
         "color": { "value": "var(--rotterdam-color-green-tint-01)" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "var(--rotterdam-color-green-tint-01)" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "var(--rotterdam-color-gray-tint-09)" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "var(--rotterdam-color-gray-tint-09)" }
         }
       },

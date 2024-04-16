@@ -8,13 +8,12 @@
       "padding-block-start": { "value": "17px" },
       "padding-block-end": { "value": "17px" },
       "link": {
+        "font-weight": {},
         "disabled": {
-          "background-color": {},
-          "color": { "value": "{leiden.color.black.9}" }
+          "background-color": {}
         },
         "hover": {
-          "background-color": {},
-          "color": { "value": "{leiden.color.black.9}" }
+          "background-color": {}
         }
       }
     }

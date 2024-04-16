@@ -14,7 +14,11 @@
       "box-shadow-width": {},
       "border-width": { "value": "3px" },
       "border-style": { "value": "solid" },
-      "border-color": { "value": "{roosendaal.color.red.52}" }
+      "border-color": { "value": "{roosendaal.color.red.52}" },
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "width": {}
     }
   }
 }

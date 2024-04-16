@@ -16,10 +16,19 @@
         "color": { "value": "{zutphen.color.white.100}" },
         "focus": {
           "background-color": {},
-          "color": {}
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{zutphen.color.primary-hover}" },
+          "text-decoration": {}
         },
         "current": {
           "background-color": {},
+          "color": { "value": "{zutphen.color.white.100}" },
+          "font-weight": {}
+        },
+        "disabled": {
           "color": { "value": "{zutphen.color.white.100}" }
         }
       },
