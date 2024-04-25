@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.33: Added FormField, FormLabel, Data-list and Process-step tokens to Leiden theme.
   - 1.1.32: Updated logo's in various themes.
   - 1.1.31: Updated Conduction logo.
   - 1.1.30: Updated logo from url to data: in all themes.
