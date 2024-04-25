@@ -94,13 +94,13 @@
         "border-color": {},
         "background-color": { "value": "{leiden.color.alert-warning-background}" },
         "color": { "value": "{leiden.color.warning}" },
-        "border-width": { "value": "1px" }
+        "border-width": { "value": "{leiden.size.4xs}" }
       },
       "error": {
         "border-color": {},
         "background-color": { "value": "{leiden.color.alert-error-background}" },
         "color": { "value": "{leiden.color.error}" },
-        "border-width": { "value": "1px" }
+        "border-width": { "value": "{leiden.size.4xs}" }
       }
     }
   }

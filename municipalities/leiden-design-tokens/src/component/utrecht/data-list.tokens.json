@@ -20,7 +20,7 @@
           "padding-block-start": {}
         },
         "item-value": {
-          "margin-block-start": { "value": "16px" }
+          "margin-block-start": { "value": "8px" }
         }
       }
     }
