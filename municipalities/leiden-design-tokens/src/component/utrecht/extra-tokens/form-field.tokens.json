@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{leiden.color.succes}" },
+        "warning-color": { "value": "{leiden.color.warning}" },
+        "invalid-color": { "value": "{leiden.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}
