@@ -22,8 +22,8 @@
         "color": {}
       },
       "invalid": {
-        "border-color": {},
-        "border-width": {}
+        "border-color": { "value": "{conduction.color.error}" }, 
+        "border-width": { "value": "{conduction.size.4xs}" } 
       },
       "read-only": {
         "border-color": {},
