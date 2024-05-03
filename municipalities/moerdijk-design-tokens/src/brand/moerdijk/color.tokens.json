@@ -4,8 +4,8 @@
       "primary": { "value": "{moerdijk.color.green.13}" },
       "primary-hover": { "value": "{moerdijk.color.blue.19}" },
       "error": { "value": "#dc3545" },
-      "alert-error": { "value": "#721c24" },
-      "alert-error-background": { "value": "#f8d7da" },
+      "alert-error": { "value": "{moerdijk.color.red.34}" },
+      "alert-error-background": { "value": "{moerdijk.color.pink.93}" },
       "warning": { "value": "#ffc107" },
       "alert-warning": { "value": "#856404" },
       "alert-warning-background": { "value": "#fff3cd" },
@@ -14,17 +14,42 @@
       "alert-succes-background": { "value": "#d4edda" },
       "info": {},
       "alert-info": { "value": "#004085" },
-      "alert-info-background": { "value": "#cce5ff" },
+      "alert-info-background": { "value": "{moerdijk.color.blue.68}" },
       "green": {
         "13": {
           "value": "#00442b",
           "comment": "Base/Green"
+        },
+        "23": {
+          "value": "#1b5b4a"
         }
       },
       "blue": {
         "19": {
           "value": "#192D46",
           "comment": "Base/Blue"
+        },
+        "68": {
+          "value": "#83B0D9"
+        }
+      },
+      "red": {
+        "34": {
+          "value": "#802b3e",
+          "comment": "Bordeaux-Red"
+        },
+        "48": {
+          "value": "#c93f2e"
+        }
+      },
+      "pink": {
+        "93": {
+          "value": "#ffdde9"
+        }
+      },
+      "orange": {
+        "58": {
+          "value": "f29934"
         }
       },
       "grey": {
