@@ -72,6 +72,9 @@
           "value": "#808080",
           "comment": "Base/Grey"
         },
+        "80": {
+          "value": "#cccccc"
+        },
         "82": {
           "value": "#d1d1d1"
         },
