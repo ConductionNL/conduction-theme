@@ -1,8 +1,8 @@
 {
   "moerdijk": {
     "color": {
-      "primary": {},
-      "primary-hover": {},
+      "primary": { "value": "{moerdijk.color.green.13}" },
+      "primary-hover": { "value": "{moerdijk.color.blue.19}" },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
       "alert-error-background": { "value": "#f8d7da" },
@@ -15,7 +15,18 @@
       "info": {},
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
-
+      "green": {
+        "13": {
+          "value": "#00442b",
+          "comment": "Base/Green"
+        }
+      },
+      "blue": {
+        "19": {
+          "value": "#192D46",
+          "comment": "Base/Blue"
+        }
+      },
       "grey": {
         "27": {
           "value": "#444444"
