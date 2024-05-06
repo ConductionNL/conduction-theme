@@ -6,7 +6,7 @@
       "border-radius": {},
       "border-width": { "value": "{moerdijk.size.3xs}" },
       "color": { "value": "{moerdijk.color.white.100}" },
-      "font-family": { "value": "{moerdijk.typography.sans-serif.font-family}" },
+      "font-family": { "value": "{moerdijk.typography.inter.font-family}" },
       "font-size": { "value": "inherit" },
       "font-weight": { "value": "inherit" },
       "inline-size": {},

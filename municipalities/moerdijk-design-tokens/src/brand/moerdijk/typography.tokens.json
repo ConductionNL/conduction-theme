@@ -3,7 +3,7 @@
     "typography": {
       "inter": {
         "font-family": {
-          "value": "\"Inter\", \"Noto Sans\", Arial, sans-serif"
+          "value": "\"Inter\", Monospace, \"Noto Sans\", Arial, sans-serif"
         }
       },
       "inter-semi-bold": {
