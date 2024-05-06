@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{moerdijk.color.white.100}" },
+      "color": { "value": "{moerdijk.color.blue.24}" },
+      "padding-block-start": { "value": "{moerdijk.size.sm}" },
+      "padding-block-end": { "value": "{moerdijk.size.sm}" }
+    }
+  }
+}
