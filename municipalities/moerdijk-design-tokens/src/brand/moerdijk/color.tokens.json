@@ -26,11 +26,14 @@
       },
       "blue": {
         "19": {
-          "value": "#192D46",
+          "value": "#192d46",
           "comment": "Base/Blue"
         },
+        "24": {
+          "value": "#183863"
+        },
         "68": {
-          "value": "#83B0D9"
+          "value": "#83b0d9"
         }
       },
       "red": {
