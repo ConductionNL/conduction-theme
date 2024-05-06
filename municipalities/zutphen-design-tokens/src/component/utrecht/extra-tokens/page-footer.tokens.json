@@ -29,7 +29,8 @@
         "hover": {
           "color": { "value": "{zutphen.color.turquoise.63}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "{zutphen.size.4xs}" }
+          "text-decoration-thickness": { "value": "{zutphen.size.4xs}" },
+          "font-weight": {}
         }
       }
     }

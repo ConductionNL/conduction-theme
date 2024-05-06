@@ -30,7 +30,8 @@
         "hover": {
           "color": { "value": "{roosendaal.color.green.82}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "2.4px" }
+          "text-decoration-thickness": { "value": "2.4px" },
+          "font-weight": {}
         }
       }
     }
