@@ -19,6 +19,7 @@
         "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
         "font-size": { "value": "16px" },
         "font-weight": { "value": "400" },
+        "font-style": {},
         "margin-block-end": { "value": "8px" }
       }
     }

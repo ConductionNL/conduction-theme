@@ -19,6 +19,7 @@
         "color": { "value": "{open-webconcept.color.black.60}" },
         "font-size": { "value": "{open-webconcept.font-size.sm}" },
         "font-weight": { "value": "{open-webconcept.typography.font-weight.light}" },
+        "font-style": {},
         "margin-block-end": { "value": "{open-webconcept.size.xs}" }
       }
     }

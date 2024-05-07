@@ -19,6 +19,7 @@
         "color": { "value": "{gouda.color.grey.44}" },
         "font-size": { "value": "{gouda.font-size.sm}" },
         "font-weight": { "value": "{gouda.typography.font-weight.light}" },
+        "font-style": {},
         "margin-block-end": { "value": "{gouda.size.xs}" }
       }
     }
