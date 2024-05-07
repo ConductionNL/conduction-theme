@@ -45,7 +45,8 @@
         "hover": {
           "background-color": {},
           "color": {},
-          "text-decoration": {}
+          "text-decoration": {},
+          "font-weight": {}
         },
         "list": {
           "padding-inline-start": { "value": "0px" },

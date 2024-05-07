@@ -4,6 +4,11 @@
       "top-nav": {
         "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
         "background-color": { "value": "var(--rotterdam-color-base-white)" },
+        "list": {
+          "border-color": {},
+          "border-style": {},
+          "border-width": {}
+        },
         "hover": {
           "color": { "value": "var(--rotterdam-color-green-tint-01)" },
           "background-color": { "value": "var(--rotterdam-color-base-white)" },
@@ -43,7 +48,11 @@
         },
         "item": {
           "padding": { "value": "18px" },
-          "border-radius": {}
+          "border-radius": {},
+          "border-color": {},
+          "border-style": {},
+          "border-width": {},
+          "transition": {}
         },
         "padding-inline-end": { "value": "16px" },
         "padding-inline-start": { "value": "16px" },
