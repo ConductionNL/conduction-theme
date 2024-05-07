@@ -9,6 +9,7 @@
       "border-bottom-style": {},
       "border-bottom-width": {},
       "border-radius": { "value": "5px" },
+      "transition": {},
       "box-shadow": {},
       "color": { "value": "{noordwijk.color.black.0}" },
       "hover": {
@@ -19,7 +20,9 @@
         "border-width": {},
         "border-bottom-color": {},
         "border-bottom-style": {},
-        "border-bottom-width": {}
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {}
       },
       "padding-inline-end": { "value": "{noordwijk.size.md}" },
       "padding-inline-start": { "value": "{noordwijk.size.md}" },

@@ -9,6 +9,7 @@
       "border-bottom-style": {},
       "border-bottom-width": {},
       "border-radius": { "value": "6px" },
+      "transition": {},
       "box-shadow": {},
       "color": { "value": "{dimpact.color.primary}" },
       "hover": {
@@ -19,7 +20,9 @@
         "border-width": {},
         "border-bottom-color": {},
         "border-bottom-style": {},
-        "border-bottom-width": {}
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {}
       },
       "padding-inline-end": { "value": "{dimpact.size.md}" },
       "padding-inline-start": { "value": "{dimpact.size.md}" },

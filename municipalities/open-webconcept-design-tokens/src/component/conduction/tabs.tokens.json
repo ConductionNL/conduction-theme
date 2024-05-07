@@ -47,7 +47,8 @@
         "hover": {
           "background-color": {},
           "color": { "value": "{open-webconcept.color.black.27}" },
-          "text-decoration": {}
+          "text-decoration": {},
+          "font-weight": {}
         },
         "list": {
           "padding-inline-start": { "value": "0px" },

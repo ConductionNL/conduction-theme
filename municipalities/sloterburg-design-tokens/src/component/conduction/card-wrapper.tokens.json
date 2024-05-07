@@ -10,6 +10,7 @@
       "border-bottom-style": {},
       "border-bottom-width": {},
       "border-radius": { "value": "0px" },
+      "transition": {},
       "box-shadow": {},
       "hover": {
         "background-color": {},
@@ -19,7 +20,9 @@
         "border-width": { "value": "{sloterburg.size.4xs}" },
         "border-bottom-color": {},
         "border-bottom-style": {},
-        "border-bottom-width": {}
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {}
       },
       "padding-inline-end": { "value": "{sloterburg.size.md}" },
       "padding-inline-start": { "value": "{sloterburg.size.md}" },

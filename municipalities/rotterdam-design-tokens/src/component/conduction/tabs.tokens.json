@@ -47,7 +47,8 @@
         "hover": {
           "background-color": { "value": "transparent" },
           "color": { "value": "var(--rotterdam-color-green-tint-01)" },
-          "text-decoration": {}
+          "text-decoration": {},
+          "font-weight": {}
         },
         "list": {
           "padding-inline-start": { "value": "0px" },

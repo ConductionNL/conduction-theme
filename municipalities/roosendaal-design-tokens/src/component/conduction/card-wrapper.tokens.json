@@ -9,6 +9,7 @@
       "border-bottom-style": { "value": "solid" },
       "border-bottom-width": { "value": "3px" },
       "border-radius": { "value": "0" },
+      "transition": {},
       "box-shadow": {},
       "color": { "value": "{roosendaal.color.black.3}" },
       "hover": {
@@ -19,7 +20,9 @@
         "border-width": {},
         "border-bottom-color": { "value": "{roosendaal.color.grey.95}" },
         "border-bottom-style": { "value": "solid" },
-        "border-bottom-width": { "value": "3px" }
+        "border-bottom-width": { "value": "3px" },
+        "border-radius": {},
+        "box-shadow": {}
       },
       "padding-inline-end": { "value": "{roosendaal.size.md}" },
       "padding-inline-start": { "value": "{roosendaal.size.md}" },

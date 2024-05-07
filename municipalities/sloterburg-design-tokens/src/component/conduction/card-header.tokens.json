@@ -19,6 +19,7 @@
         "color": { "value": "{sloterburg.color.grey.46}" },
         "font-size": { "value": "{sloterburg.font-size.sm}" },
         "font-weight": { "value": "{sloterburg.typography.font-weight.light}" },
+        "font-style": {},
         "margin-block-end": { "value": "{sloterburg.size.xs}" }
       }
     }

@@ -4,6 +4,11 @@
       "top-nav": {
         "color": { "value": "{epe.color.black.19}" },
         "background-color": { "value": "{epe.color.white.100}" },
+        "list": {
+          "border-color": {},
+          "border-style": {},
+          "border-width": {}
+        },
         "hover": {
           "color": { "value": "{epe.color.primary}" },
           "background-color": { "value": "{epe.color.white.100}" },
@@ -43,7 +48,11 @@
         },
         "item": {
           "padding": { "value": "18px" },
-          "border-radius": {}
+          "border-radius": {},
+          "border-color": {},
+          "border-style": {},
+          "border-width": {},
+          "transition": {}
         },
         "padding-inline-end": { "value": "16px" },
         "padding-inline-start": { "value": "16px" },

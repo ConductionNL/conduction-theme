@@ -19,6 +19,7 @@
         "color": { "value": "{leiden.color.black.9}" },
         "font-size": { "value": "{leiden.font-size.sm}" },
         "font-weight": { "value": "{leiden.typography.font-weight.light}" },
+        "font-style": {},
         "margin-block-end": { "value": "{leiden.size.xs}" }
       }
     }

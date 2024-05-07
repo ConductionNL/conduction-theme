@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{moerdijk.color.white.100}" },
+      "color": { "value": "{moerdijk.color.blue.19}" },
+      "font-family": { "value": "{moerdijk.typography.inter.font-family}" },
+      "font-size": { "value": "{moerdijk.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}

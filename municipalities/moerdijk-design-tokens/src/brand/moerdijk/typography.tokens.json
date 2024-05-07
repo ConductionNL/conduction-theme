@@ -1,0 +1,55 @@
+{
+  "moerdijk": {
+    "typography": {
+      "inter": {
+        "font-family": {
+          "value": "\"Inter\", \"Noto Sans\", Arial, sans-serif"
+        }
+      },
+      "inter-semi-bold": {
+        "font-family": {
+          "value": "\"Inter SemiBold\", \"Noto Sans\", Arial, sans-serif"
+        }
+      },
+      "inter-bold": {
+        "font-family": {
+          "value": "\"Inter Bold\", \"Noto Sans\", Arial, sans-serif"
+        }
+      },
+      "sans-serif": {
+        "font-family": {
+          "value": "\"Noto Sans\", Arial, sans-serif"
+        }
+      },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
+      "font-weight": {
+        "bold": {
+          "value": "700"
+        },
+        "normal": {
+          "value": "400"
+        },
+        "light": {
+          "value": "100"
+        }
+      },
+      "scale": {
+        "4xs": { "value": "{moerdijk.font-size.4xs}" },
+        "3xs": { "value": "{moerdijk.font-size.3xs}" },
+        "2xs": { "value": "{moerdijk.font-size.2xs}" },
+        "xs": { "value": "{moerdijk.font-size.xs}" },
+        "sm": { "value": "{moerdijk.font-size.sm}" },
+        "md": { "value": "{moerdijk.font-size.md}" },
+        "lg": { "value": "{moerdijk.font-size.lg}" },
+        "xl": { "value": "{moerdijk.font-size.xl}" },
+        "2xl": { "value": "{moerdijk.font-size.2xl}" },
+        "3xl": { "value": "{moerdijk.font-size.3xl}" },
+        "4xl": { "value": "{moerdijk.font-size.4xl}" }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "conduction": {
+    "table-wrapper": {
+      "scroll-button": {
+        "background-color": { "value": "{moerdijk.color.primary}" },
+        "color": { "value": "{moerdijk.color.white.100}" },
+        "padding-inline-start": { "value": "{moerdijk.size.sm}" },
+        "padding-inline-end": { "value": "{moerdijk.size.sm}" },
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "hover": {
+          "background-color": { "value": "{moerdijk.color.primary-hover}" },
+          "color": { "value": "{moerdijk.color.white.100}" }
+        }
+      }
+    }
+  }
+}

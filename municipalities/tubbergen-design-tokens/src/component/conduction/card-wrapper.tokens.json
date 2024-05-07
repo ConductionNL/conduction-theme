@@ -9,6 +9,7 @@
       "border-bottom-style": {},
       "border-bottom-width": {},
       "border-radius": { "value": "0px" },
+      "transition": {},
       "box-shadow": {},
       "color": { "value": "{utrecht.document.color}" },
       "hover": {
@@ -19,7 +20,9 @@
         "border-width": {},
         "border-bottom-color": {},
         "border-bottom-style": {},
-        "border-bottom-width": {}
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {}
       },
       "padding-inline-end": { "value": "{tubbergen.size.xl}" },
       "padding-inline-start": { "value": "{tubbergen.size.xl}" },

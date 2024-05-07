@@ -29,7 +29,8 @@
         "hover": {
           "color": { "value": "{sloterburg.color.white.100}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "{sloterburg.size.4xs}" }
+          "text-decoration-thickness": { "value": "{sloterburg.size.4xs}" },
+          "font-weight": {}
         }
       }
     }
