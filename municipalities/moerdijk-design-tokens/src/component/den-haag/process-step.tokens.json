@@ -79,10 +79,10 @@
         "color": { "value": "{moerdijk.color.alert-info}" }
       },
       "not-checked": {
-        "border-color": {},
+        "border-color": { "value": "{moerdijk.color.blue.19}" },
         "background-color": { "value": "{moerdijk.color.white.100}" },
         "border-width": { "value": "3px" },
-        "color": { "value": "{moerdijk.color.black.0}" }
+        "color": { "value": "{moerdijk.color.blue.19}" }
       },
       "checked": {
         "border-color": {},
