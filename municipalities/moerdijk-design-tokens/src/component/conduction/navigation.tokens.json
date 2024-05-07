@@ -17,7 +17,7 @@
         },
         "current": {
           "color": { "value": "{moerdijk.color.white.100}" },
-          "background-color": { "value": "{moerdijk.color.primary}" },
+          "background-color": { "value": "{moerdijk.color.primary-hover}" },
           "box-shadow": {},
           "mobile": {
             "box-shadow": { "value": "unset" }
@@ -38,7 +38,7 @@
           },
           "current": {
             "color": { "value": "{moerdijk.color.white.100}" },
-            "background-color": { "value": "{moerdijk.color.primary}" },
+            "background-color": { "value": "{moerdijk.color.primary-hover}" },
             "box-shadow": { "value": "unset" },
             "mobile": {
               "box-shadow": { "value": "unset" }
