@@ -7,7 +7,7 @@
         "color": { "value": "{conduction.color.grey.46}" }
       },
       "disabled": {
-        "background-color": {}
+        "background-color": { "value": "{conduction.color.grey.90}" }
       },
       "focus": {
         "background-color": { "value": "{conduction.color.white.100}" },
@@ -19,7 +19,7 @@
         "color": {}
       },
       "read-only": {
-        "background-color": {}
+        "background-color": { "value": "{conduction.color.grey.95}" }
       }
     }
   }

@@ -6,7 +6,7 @@
       "line-height": {},
       "step-heading": {
         "color": { "value": "{utrecht.document.color}" },
-        "font-family": { "value": "{conduction.typography.sans-serif.font-family}" },
+        "font-family": { "value": "{utrecht.heading-1.font-family}" },
         "font-size": { "value": "{conduction.font-size.lg}" },
         "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
         "current": {

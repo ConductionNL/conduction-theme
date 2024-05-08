@@ -21,8 +21,8 @@
         "color": {}
       },
       "invalid": {
-        "border-color": {},
-        "border-width": {}
+        "border-color": { "value": "{dinkelland.color.error}" }, 
+        "border-width": { "value": "{dinkelland.size.4xs}" } 
       },
       "read-only": {
         "border-color": {},

@@ -1,0 +1,17 @@
+{
+  "utrecht": {
+    "form-field": {
+      "margin-block-start": { "value": "13px" },
+      "margin-block-end": { "value": "{zuiddrecht.size.2xs}" },
+      "max-inline-size": {},
+      "invalid": {
+        "border-inline-start-color": { "value": "{zuiddrecht.color.error}" },
+        "border-inline-start-width": { "value": "3px" },
+        "padding-inline-start": { "value": "12px" }
+      },
+      "label": {
+        "margin-block-end": {}
+      }
+    }
+  }
+}

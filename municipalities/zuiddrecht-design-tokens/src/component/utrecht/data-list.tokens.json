@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "data-list": {
+      "margin-block-end": { "value": "16px" },
+      "margin-block-start": { "value": "16px" },
+      "item-key": {
+        "color": {},
+        "font-size": {},
+        "font-weight": { "value": "{zuiddrecht.typography.weight-scale.bold.font-weight}" },
+        "line-height": {}
+      },
+      "item-value": {
+        "font-size": {},
+        "line-height": {}
+      },
+      "rows": {
+        "item": {
+          "margin-block-start": { "value": "16px" },
+          "padding-block-end": {},
+          "padding-block-start": {}
+        },
+        "item-value": {
+          "margin-block-start": { "value": "8px" }
+        }
+      }
+    }
+  }
+}

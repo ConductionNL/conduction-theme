@@ -15,16 +15,16 @@
       "padding-inline-end": { "value": "{epe.size.sm}" },
       "padding-inline-start": { "value": "{epe.size.sm}" },
       "disabled": {
-        "border-color": {},
-        "color": {}
+        "border-color": { "value": "{epe.color.grey.82}" },
+        "color": { "value": "{epe.color.grey.50}" }
       },
       "invalid": {
-        "border-color": {},
-        "border-width": {}
+        "border-color": { "value": "{epe.color.error}" },
+        "border-width": { "value": "{epe.size.4xs}" }
       },
       "read-only": {
-        "border-color": {},
-        "color": {}
+        "border-color": { "value": "{epe.color.grey.34}" },
+        "color": { "value": "{epe.color.grey.34}" }
       }
     }
   }
