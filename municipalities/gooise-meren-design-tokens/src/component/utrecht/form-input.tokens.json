@@ -22,8 +22,8 @@
         "color": {}
       },
       "invalid": {
-        "border-color": {},
-        "border-width": {}
+        "border-color": { "value": "{gooise-meren.color.error}" },
+        "border-width": { "value": "{gooise-meren.size.4xs}" }
       },
       "read-only": {
         "border-color": {},
