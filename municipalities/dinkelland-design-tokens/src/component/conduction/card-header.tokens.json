@@ -19,6 +19,7 @@
         "color": { "value": "{dinkelland.color.black.0}" },
         "font-size": { "value": "{dinkelland.font-size.sm}" },
         "font-weight": { "value": "{dinkelland.typography.font-weight.light}" },
+        "font-style": {},
         "margin-block-end": { "value": "{dinkelland.size.xs}" }
       }
     }

@@ -29,7 +29,8 @@
         "hover": {
           "color": { "value": "{commonground.color.blue.26}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "{commonground.size.4xs}" }
+          "text-decoration-thickness": { "value": "{commonground.size.4xs}" },
+          "font-weight": {}
         }
       }
     }

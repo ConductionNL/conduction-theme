@@ -22,6 +22,7 @@
         "color": { "value": "{roosendaal.color.black.3}" },
         "font-size": { "value": "{roosendaal.font-size.sm}" },
         "font-weight": { "value": "{roosendaal.typography.font-weight.light}" },
+        "font-style": {},
         "margin-block-end": { "value": "{roosendaal.size.xs}" }
       }
     }

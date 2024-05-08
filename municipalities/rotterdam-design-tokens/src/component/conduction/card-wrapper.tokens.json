@@ -9,6 +9,7 @@
       "border-bottom-style": { "value": "solid" },
       "border-bottom-width": { "value": "4px" },
       "border-radius": { "value": "0px" },
+      "transition": {},
       "box-shadow": {},
       "color": { "value": "var(--rotterdam-color-gray-tint-11)" },
       "hover": {
@@ -19,7 +20,9 @@
         "border-width": {},
         "border-bottom-color": { "value": "var(--rotterdam-color-green-tint-01)" },
         "border-bottom-style": { "value": "solid" },
-        "border-bottom-width": { "value": "4px" }
+        "border-bottom-width": { "value": "4px" },
+        "border-radius": {},
+        "box-shadow": {}
       },
       "padding-inline-end": { "value": "16px" },
       "padding-inline-start": { "value": "16px" },

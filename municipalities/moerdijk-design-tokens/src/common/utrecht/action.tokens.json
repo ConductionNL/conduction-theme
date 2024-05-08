@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "action": {
+      "inert": { "cursor": { "value": "default" } },
+      "activate": { "cursor": { "value": "pointer" } },
+      "submit": { "cursor": { "value": "pointer" } },
+      "navigate": { "cursor": { "value": "pointer" } },
+      "disabled": { "cursor": { "value": "not-allowed" } },
+      "busy": { "cursor": { "value": "wait" } }
+    }
+  }
+}

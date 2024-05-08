@@ -47,7 +47,8 @@
         "hover": {
           "background-color": { "value": "{tubbergen.color.blue.96}" },
           "color": { "value": "{tubbergen.color.primary}" },
-          "text-decoration": { "value": "underline" }
+          "text-decoration": { "value": "underline" },
+          "font-weight": {}
         },
         "list": {
           "padding-inline-start": {},

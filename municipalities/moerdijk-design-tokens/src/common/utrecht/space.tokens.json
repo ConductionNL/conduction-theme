@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{moerdijk.size.3xs}" },
+        "2xs": { "value": "{moerdijk.size.2xs}" },
+        "xs": { "value": "{moerdijk.size.xs}" },
+        "sm": { "value": "{moerdijk.size.sm}" },
+        "md": { "value": "{moerdijk.size.md}" },
+        "lg": { "value": "{moerdijk.size.lg}" },
+        "xl": { "value": "{moerdijk.size.xl}" },
+        "2xl": { "value": "{moerdijk.size.2xl}" },
+        "3xl": { "value": "{moerdijk.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{moerdijk.size.3xs}" },
+        "2xs": { "value": "{moerdijk.size.2xs}" },
+        "xs": { "value": "{moerdijk.size.xs}" },
+        "sm": { "value": "{moerdijk.size.sm}" },
+        "md": { "value": "{moerdijk.size.md}" },
+        "lg": { "value": "{moerdijk.size.lg}" },
+        "xl": { "value": "{moerdijk.size.xl}" },
+        "2xl": { "value": "{moerdijk.size.2xl}" },
+        "3xl": { "value": "{moerdijk.size.3xl}" }
+      }
+    }
+  }
+}

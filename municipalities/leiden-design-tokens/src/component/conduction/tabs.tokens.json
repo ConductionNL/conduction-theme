@@ -47,7 +47,8 @@
         "hover": {
           "background-color": { "value": "{leiden.color.lightgrey.98}" },
           "color": {},
-          "text-decoration": {}
+          "text-decoration": {},
+          "font-weight": {}
         },
         "list": {
           "padding-inline-start": { "value": "0px" },
