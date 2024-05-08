@@ -18,15 +18,15 @@
       "padding-inline-end": { "value": "{conduction.size.sm}" },
       "padding-inline-start": { "value": "{conduction.size.sm}" },
       "disabled": {
-        "border-color": {},
+        "border-color": { "value": "{conduction.color.grey.87}" },
         "color": {}
       },
       "invalid": {
-        "border-color": { "value": "{conduction.color.error}" }, 
-        "border-width": { "value": "{conduction.size.4xs}" } 
+        "border-color": { "value": "{conduction.color.error}" },
+        "border-width": { "value": "{conduction.size.4xs}" }
       },
       "read-only": {
-        "border-color": {},
+        "border-color": { "value": "{conduction.color.grey.48}" },
         "color": {}
       }
     }
