@@ -1,8 +1,8 @@
 {
-  "fullName": "Gemeente Gouda",
-  "name": "Gouda",
-  "prefix": "gouda",
-  "npm": "@nl-design-system-unstable/gouda-design-tokens",
+  "fullName": "Gemeente Hof van Twente",
+  "name": "Hof van Twente",
+  "prefix": "hof-van-twente",
+  "npm": "@nl-design-system-unstable/hof-van-twente-design-tokens",
   "stories": [
     "react-utrecht-alert--default",
     "react-utrecht-alert--warning",

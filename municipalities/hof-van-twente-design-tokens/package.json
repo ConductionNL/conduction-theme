@@ -1,21 +1,21 @@
 {
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.01",
   "author": "Community for NL Design System",
-  "description": "NL Design System design tokens for Hof van Twente",
+  "description": "NL Design System design tokens for Gemeente Hof van Twente",
   "website": "https://www.hofvantwente.nl/",
   "keywords": [
     "nl-design-system",
     "conduction"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@conduction/theme",
+  "name": "@nl-design-system-unstable/hof-van-twente-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ConductionNL/conduction-theme.git"
+    "type": "git+ssh",
+    "url": "git@github.com:nl-design-system/themes.git"
   },
   "scripts": {
     "clean": "rimraf -rf dist/",
