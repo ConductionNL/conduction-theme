@@ -23,6 +23,9 @@
         "31": { 
             "value": "#1e807a",
             "comment": "Base/Turquoise"
+        },
+        "75": { 
+            "value": "#a6dbd5"
         }
       },
       "grey": {
