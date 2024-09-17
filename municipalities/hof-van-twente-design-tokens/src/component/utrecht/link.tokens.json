@@ -1,0 +1,33 @@
+{
+  "utrecht": {
+    "link": {
+      "color": { "value": "{hof-van-twente.color.primary}" },
+      "text-decoration": { "value": "underline" },
+      "text-decoration-color": {},
+      "text-decoration-thickness": {},
+      "text-underline-offset": {},
+      "active": {
+        "color": {}
+      },
+      "focus": {
+        "color": {},
+        "text-decoration": {},
+        "text-decoration-thickness": {}
+      },
+      "hover": {
+        "color": {},
+        "text-decoration": {},
+        "text-decoration-thickness": {}
+      },
+      "placeholder": {
+        "color": {}
+      },
+      "visited": {
+        "color": { "value": "{hof-van-twente.color.primary}" }
+      },
+      "icon": {
+        "size": { "value": "{hof-van-twente.size.sm}" }
+      }
+    }
+  }
+}
