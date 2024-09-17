@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{hof-van-twente.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{hof-van-twente.color.white.100} " },
+      "font-size": { "value": "{hof-van-twente.font-size.sm}" },
+      "font-weight": { "value": "{hof-van-twente.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{hof-van-twente.size.xs}" },
+      "padding-inline": { "value": "{hof-van-twente.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}
