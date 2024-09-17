@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{hof-van-twente.color.white.98}" },
+      "color": { "value": "{hof-van-twente.color.black.0}" },
+      "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+      "font-size": { "value": "{hof-van-twente.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}
