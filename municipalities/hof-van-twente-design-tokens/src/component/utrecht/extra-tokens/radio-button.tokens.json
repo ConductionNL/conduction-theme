@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "min-block-size": { "value": "16px" },
+      "min-inline-size": { "value": "16px" },
+      "checked-disabled": {
+        "border-color": { "value": "{hof-van-twente.color.grey.82}" },
+        "border-width": { "value": "{hof-van-twente.size.4xs}" },
+        "background-color": { "value": "{hof-van-twente.color.white.100}" },
+        "color": { "value": "{hof-van-twente.color.grey.82}" }
+      }
+    }
+  }
+}
