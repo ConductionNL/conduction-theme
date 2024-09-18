@@ -16,7 +16,7 @@
       },
       "hover": {
         "color": {},
-        "text-decoration": {},
+        "text-decoration": { "value": "none" },
         "text-decoration-thickness": {}
       },
       "placeholder": {
