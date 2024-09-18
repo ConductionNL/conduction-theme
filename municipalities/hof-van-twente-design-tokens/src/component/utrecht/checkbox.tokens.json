@@ -17,10 +17,10 @@
         "color": {}
       },
       "hover": {
-        "border-color": { "value": "{hof-van-twente.color.grey.31}" },
-        "border-width": { "value": "{hof-van-twente.size.4xs}" },
+        "border-color": {},
+        "border-width": {},
         "background-color": {},
-        "color": { "value": "{hof-van-twente.color.white.100}" }
+        "color": {}
       },
       "focus": {
         "border-color": {},
