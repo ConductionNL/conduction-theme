@@ -95,7 +95,7 @@
           "color": {}
         },
         "disabled": {
-          "background-color": {},
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
           "border-color": {},
           "color": {}
         },
