@@ -51,6 +51,9 @@
         "82": {
           "value": "#d1d1d1"
         },
+        "84": {
+          "value": "#d3d7d7"
+        },
         "87": {
           "value": "#dddddd"
         },
@@ -71,6 +74,9 @@
         }
       },
       "white": {
+        "94": {
+          "value": "#edf1f2"
+        },
         "98": {
           "value": "#fafafa"
         },
