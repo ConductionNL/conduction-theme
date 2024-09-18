@@ -20,7 +20,7 @@
           "hover": {
             "background-color": {},
             "color": { "value": "{hof-van-twente.color.primary}" },
-            "border-color": { "value": "{hof-van-twente.color.black.0}" }
+            "border-color": { "value": "{hof-van-twente.color.primary}" }
           },
           "focus": {
             "background-color": {},
