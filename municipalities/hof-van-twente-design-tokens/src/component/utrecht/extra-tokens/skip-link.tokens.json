@@ -1,24 +1,25 @@
 {
   "utrecht": {
     "skip-link": {
-      "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-      "font-size": { "value": "{hof-van-twente.font-size.md}" },
-      "outline-style": { "value": "none" },
+      "font-weight": {},
+      "font-size": { "value": "1.125rem" },
+      "outline-width": {},
+      "outline-style": {},
       "outline-color": {},
       "border-radius": { "value": "3px" },
       "focus": {
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
       },
-      "inset-block-start": {},
-      "inset-inline-start": {},
-      "box-shadow-width": {},
-      "border-width": {},
-      "border-style": {},
-      "border-color": {},
+      "inset-block-start": { "value": "30px" },
+      "inset-inline-start": { "value": "1px" },
+      "box-shadow-width": { "value": "none" },
+      "border-width": { "value": "2px" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{hof-van-twente.color.black.0}" },
       "border-bottom-width": {},
       "border-bottom-style": {},
       "border-bottom-color": {},
-      "width": {}
+      "width": { "value": "300px" }
     }
   }
 }
