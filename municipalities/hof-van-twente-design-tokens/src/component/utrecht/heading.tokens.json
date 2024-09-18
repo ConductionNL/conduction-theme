@@ -5,7 +5,7 @@
       "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.3xl}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-      "line-height": {},
+      "line-height": { "value": "1.1em" },
       "margin-block-end": { "value": "{hof-van-twente.size.lg}" },
       "margin-block-start": {}
     },
@@ -14,7 +14,7 @@
       "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.2xl}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.normal}" },
-      "line-height": {},
+      "line-height": { "value": "1.1em" },
       "margin-block-end": { "value": "{hof-van-twente.size.lg}" },
       "margin-block-start": { "value": "{hof-van-twente.size.xl}" }
     },
@@ -23,7 +23,7 @@
       "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.xl}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-      "line-height": {},
+      "line-height": { "value": "1.1em" },
       "margin-block-end": { "value": "{hof-van-twente.size.xl}" },
       "margin-block-start": { "value": "{hof-van-twente.size.md}" }
     },
@@ -32,7 +32,7 @@
       "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.lg}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-      "line-height": {},
+      "line-height": { "value": "1.1em" },
       "margin-block-end": { "value": "{hof-van-twente.size.lg}" },
       "margin-block-start": { "value": "{hof-van-twente.size.md}" }
     },
@@ -41,7 +41,7 @@
       "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.md}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.light}" },
-      "line-height": {},
+      "line-height": { "value": "1.1em" },
       "margin-block-end": { "value": "{hof-van-twente.size.lg}" },
       "margin-block-start": { "value": "{hof-van-twente.size.md}" }
     }

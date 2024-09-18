@@ -5,7 +5,7 @@
       "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.md}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.normal}" },
-      "line-height": { "value": "1.428571429em" },
+      "line-height": {},
       "margin-block-start": { "value": 0 },
       "margin-block-end": { "value": "0.625rem" },
       "lead": {
