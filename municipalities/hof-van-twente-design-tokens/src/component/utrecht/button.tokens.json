@@ -1,0 +1,152 @@
+{
+  "utrecht": {
+    "button": {
+      "background-color": { "value": "{hof-van-twente.color.turquoise.75}" },
+      "border-color": { "value": "{hof-van-twente.color.turquoise.75}" },
+      "border-radius": { "value": "{hof-van-twente.size.2xs}" },
+      "border-width": { "value": "{hof-van-twente.size.3xs}" },
+      "color": { "value": "{hof-van-twente.color.black.13}" },
+      "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+      "font-size": { "value": "{hof-van-twente.font-size.md}" },
+      "font-weight": { "value": "bold" },
+      "inline-size": {},
+      "letter-spacing": {},
+      "line-height": {},
+      "min-block-size": {},
+      "min-inline-size": {},
+      "padding-block-start": { "value": "{hof-van-twente.size.sm}" },
+      "padding-block-end": { "value": "{hof-van-twente.size.sm}" },
+      "padding-inline-start": { "value": "{hof-van-twente.size.sm}" },
+      "padding-inline-end": { "value": "{hof-van-twente.size.sm}" },
+      "text-transform": { "value": "uppercase" },
+      "active": {
+        "background-color": {},
+        "border-color": {},
+        "color": {}
+      },
+      "icon": {
+        "gap": { "value": "{hof-van-twente.size.sm}" },
+        "size": {}
+      },
+      "disabled": {
+        "background-color": { "value": "{hof-van-twente.color.grey.82}" },
+        "border-color": { "value": "{hof-van-twente.color.grey.82}" },
+        "color": { "value": "{hof-van-twente.color.grey.50}" }
+      },
+      "focus": {
+        "background-color": {},
+        "border-color": {},
+        "color": {},
+        "scale": {}
+      },
+      "hover": {
+        "background-color": {},
+        "border-color": {},
+        "color": {},
+        "scale": {}
+      },
+      "pressed": {
+        "background-color": {},
+        "border-color": {},
+        "color": {}
+      },
+      "primary-action": {
+        "background-color": {},
+        "border-color": {},
+        "border-width": {},
+        "color": {},
+        "font-weight": {},
+        "active": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "disabled": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "hover": {
+          "background-color": {},
+          "border-color": {},
+          "color": {},
+          "scale": {}
+        },
+        "focus": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "pressed": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        }
+      },
+      "secondary-action": {
+        "background-color": { "value": "{hof-van-twente.color.white.100}" },
+        "border-color": { "value": "{hof-van-twente.color.turquoise.75}" },
+        "border-width": {},
+        "color": {},
+        "font-weight": {},
+        "active": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "disabled": {
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
+          "border-color": {},
+          "color": {}
+        },
+        "hover": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "focus": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "pressed": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        }
+      },
+      "subtle": {
+        "background-color": {},
+        "border-color": {},
+        "border-width": {},
+        "color": {},
+        "font-weight": {},
+        "active": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "disabled": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "hover": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "focus": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "pressed": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        }
+      }
+    }
+  }
+}

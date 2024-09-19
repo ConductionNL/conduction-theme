@@ -29,7 +29,8 @@
     "build:zuiddrecht": "cd ./municipalities/zuiddrecht-design-tokens && npm run build",
     "build:roosendaal": "cd ./municipalities/roosendaal-design-tokens && npm run build",
     "build:gooise-meren": "cd ./municipalities/gooise-meren-design-tokens && npm run build",
-    "build:moerdijk": "cd ./municipalities/moerdijk-design-tokens && npm run build"
+    "build:moerdijk": "cd ./municipalities/moerdijk-design-tokens && npm run build",
+    "build:hof-van-twente": "cd ./municipalities/hof-van-twente-design-tokens && npm run build"
   },
   "dependencies": {
     "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100",

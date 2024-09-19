@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{hof-van-twente.color.primary}" },
+      "background-image": { "value": "unset" },
+      "color": { "value": "{hof-van-twente.color.white.100}" },
+      "padding-inline-end": { "value": "{hof-van-twente.size.sm}" },
+      "padding-inline-start": { "value": "{hof-van-twente.size.sm}" },
+      "padding-block-end": { "value": "{hof-van-twente.size.2xl}" },
+      "padding-block-start": { "value": "{hof-van-twente.size.2xl}" }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{hof-van-twente.color.succes}" },
+        "warning-color": { "value": "{hof-van-twente.color.warning}" },
+        "invalid-color": { "value": "{hof-van-twente.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}

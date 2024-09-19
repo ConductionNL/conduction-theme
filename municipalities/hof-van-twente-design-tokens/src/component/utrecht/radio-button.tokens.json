@@ -1,0 +1,68 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "background-color": { "value": "{hof-van-twente.color.white.100}" },
+      "border-color": { "value": "{hof-van-twente.color.grey.46}" },
+      "border-width": { "value": "{hof-van-twente.size.4xs}" },
+      "size": {},
+      "margin-block-start": {},
+      "icon": {
+        "size": { "value": "5px" }
+      },
+      "active": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "checked": {
+        "border-color": { "value": "{hof-van-twente.color.primary}" },
+        "border-width": { "value": "{hof-van-twente.size.4xs}" },
+        "background-color": { "value": "{hof-van-twente.color.white.100}" },
+        "color": { "value": "{hof-van-twente.color.primary}" },
+        "active": {
+          "border-color": { "value": "{hof-van-twente.color.primary}" },
+          "border-width": { "value": "{hof-van-twente.size.4xs}" },
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
+          "color": { "value": "{hof-van-twente.color.primary}" }
+        },
+        "hover": {
+          "border-color": { "value": "{hof-van-twente.color.primary-hover}" },
+          "border-width": { "value": "{hof-van-twente.size.4xs}" },
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
+          "color": { "value": "{hof-van-twente.color.primary-hover}" }
+        },
+        "focus": {
+          "border-color": { "value": "{hof-van-twente.color.primary}" },
+          "border-width": { "value": "{hof-van-twente.size.4xs}" },
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
+          "color": { "value": "{hof-van-twente.color.primary}" }
+        }
+      },
+      "hover": {
+        "border-color": { "value": "{hof-van-twente.color.grey.31}" },
+        "border-width": { "value": "{hof-van-twente.size.4xs}" },
+        "background-color": { "value": "{hof-van-twente.color.white.100}" },
+        "color": {}
+      },
+      "focus": {
+        "border-color": { "value": "{hof-van-twente.color.primary}" },
+        "border-width": { "value": "{hof-van-twente.size.4xs}" },
+        "background-color": { "value": "{hof-van-twente.color.white.100}" },
+        "color": { "value": "{hof-van-twente.color.primary}" }
+      },
+      "disabled": {
+        "border-color": { "value": "{hof-van-twente.color.grey.82}" },
+        "border-width": { "value": "{hof-van-twente.size.4xs}" },
+        "background-color": { "value": "{hof-van-twente.color.grey.97}" },
+        "color": { "value": "{hof-van-twente.color.grey.82}" }
+      },
+      "invalid": {
+        "border-color": { "value": "{hof-van-twente.color.error}" },
+        "border-width": { "value": "{hof-van-twente.size.4xs}" },
+        "background-color": { "value": "{hof-van-twente.color.white.100}" },
+        "color": { "value": "{hof-van-twente.color.error}" }
+      }
+    }
+  }
+}
