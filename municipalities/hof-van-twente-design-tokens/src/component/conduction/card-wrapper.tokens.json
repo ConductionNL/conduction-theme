@@ -1,0 +1,33 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{hof-van-twente.color.white.100}" },
+      "border-color": {},
+      "border-style": {},
+      "border-width": {},
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": { "value": "{hof-van-twente.size.md}" },
+      "transition": {},
+      "box-shadow": {},
+      "color": { "value": "{hof-van-twente.color.black.0}" },
+      "hover": {
+        "background-color": {},
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {}
+      },
+      "padding-inline-end": { "value": "{hof-van-twente.size.md}" },
+      "padding-inline-start": { "value": "{hof-van-twente.size.md}" },
+      "padding-block-end": { "value": "{hof-van-twente.size.md}" },
+      "padding-block-start": { "value": "{hof-van-twente.size.md}" }
+    }
+  }
+}
