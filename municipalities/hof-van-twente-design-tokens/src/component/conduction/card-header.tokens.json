@@ -13,7 +13,7 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{hof-van-twente.color.black.0}" }
+        "color": { "value": "{hof-van-twente.color.primary}" }
       },
       "date": {
         "color": { "value": "{hof-van-twente.color.black.0}" },
