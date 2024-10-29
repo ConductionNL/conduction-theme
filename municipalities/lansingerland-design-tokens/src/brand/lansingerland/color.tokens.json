@@ -56,6 +56,18 @@
           "comment": "Green with 50% transparency"
         }
       },
+      "pink": {
+        "30": {
+          "value": "#9b002e"
+        },
+        "33": {
+          "value": "#a80032"
+        },
+        "40": {
+          "value": "#ce003d",
+          "comment": "Base/Pink"
+        }
+      },
       "grey": {
         "27": {
           "value": "#444444"
