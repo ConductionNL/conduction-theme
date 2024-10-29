@@ -68,6 +68,11 @@
           "comment": "Base/Pink"
         }
       },
+      "blue": {
+        "46": {
+          "value": "#0c9ede"
+        }
+      },
       "grey": {
         "27": {
           "value": "#444444"

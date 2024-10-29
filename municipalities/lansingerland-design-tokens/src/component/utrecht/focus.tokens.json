@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "focus": {
+      "background-color": {},
+      "color": {},
+      "outline-color": { "value": "{lansingerland.color.blue.46}" },
+      "outline-offset": {},
+      "outline-style": { "value": "solid" },
+      "outline-width": { "value": "2px" },
+      "inverse": {
+        "outline-color": {}
+      }
+    }
+  }
+}
