@@ -1,0 +1,23 @@
+{
+  "utrecht": {
+    "form-label": {
+      "color": { "value": "{utrecht.document.color}" },
+      "font-weight": {},
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "checkbox": {
+        "color": { "value": "{lansingerland.color.grey.26}" },
+        "font-weight": {}
+      },
+      "checked": {
+        "font-weight": {}
+      },
+      "disabled": {
+        "color": {}
+      },
+      "radio": {
+        "color": { "value": "{lansingerland.color.grey.26}" },
+        "font-weight": {}
+      }
+    }
+  }
+}
