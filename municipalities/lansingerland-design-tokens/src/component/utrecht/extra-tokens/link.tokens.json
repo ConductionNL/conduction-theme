@@ -3,7 +3,7 @@
     "link": {
       "hover": {
         "font-weight": {},
-        "text-decoration-color": {}
+        "text-decoration-color": { "value": "{lansingerland.color.green.18}" }
       }
     }
   }
