@@ -1,0 +1,46 @@
+{
+  "utrecht": {
+    "alert": {
+      "background-color": { "value": "{lansingerland.color.alert-info-background}" },
+      "border-color": {},
+      "border-width": {},
+      "color": { "value": "{lansingerland.color.alert-info}" },
+      "padding-block-start": { "value": "{lansingerland.size.lg}" },
+      "padding-block-end": { "value": "{lansingerland.size.lg}" },
+      "padding-inline-start": { "value": "{lansingerland.size.lg}" },
+      "padding-inline-end": { "value": "{lansingerland.size.lg}" },
+      "margin-block-start": {},
+      "margin-block-end": {},
+      "warning": {
+        "background-color": { "value": "{lansingerland.color.alert-warning-background}" },
+        "color": { "value": "{lansingerland.color.alert-warning}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "error": {
+        "background-color": { "value": "{lansingerland.color.alert-error-background}" },
+        "color": { "value": "{lansingerland.color.alert-error}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "ok": {
+        "background-color": { "value": "{lansingerland.color.alert-succes-background}" },
+        "color": { "value": "{lansingerland.color.alert-succes}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "icon": {
+        "color": { "value": "{lansingerland.color.alert-info}" },
+        "error": {
+          "color": { "value": "{lansingerland.color.alert-error}" }
+        },
+        "warning": {
+          "color": { "value": "{lansingerland.color.alert-warning}" }
+        },
+        "ok": {
+          "color": { "value": "{lansingerland.color.alert-succes}" }
+        }
+      }
+    }
+  }
+}
