@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{lansingerland.size.3xs}" },
+        "2xs": { "value": "{lansingerland.size.2xs}" },
+        "xs": { "value": "{lansingerland.size.xs}" },
+        "sm": { "value": "{lansingerland.size.sm}" },
+        "md": { "value": "{lansingerland.size.md}" },
+        "lg": { "value": "{lansingerland.size.lg}" },
+        "xl": { "value": "{lansingerland.size.xl}" },
+        "2xl": { "value": "{lansingerland.size.2xl}" },
+        "3xl": { "value": "{lansingerland.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{lansingerland.size.3xs}" },
+        "2xs": { "value": "{lansingerland.size.2xs}" },
+        "xs": { "value": "{lansingerland.size.xs}" },
+        "sm": { "value": "{lansingerland.size.sm}" },
+        "md": { "value": "{lansingerland.size.md}" },
+        "lg": { "value": "{lansingerland.size.lg}" },
+        "xl": { "value": "{lansingerland.size.xl}" },
+        "2xl": { "value": "{lansingerland.size.2xl}" },
+        "3xl": { "value": "{lansingerland.size.3xl}" }
+      }
+    }
+  }
+}
