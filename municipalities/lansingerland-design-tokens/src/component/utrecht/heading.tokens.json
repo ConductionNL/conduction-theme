@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{lansingerland.typography.roboto.font-family}" },
+      "font-size": { "value": "{lansingerland.font-size.3xl}" },
+      "font-weight": { "value": "{lansingerland.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{lansingerland.size.2xl}" },
+      "margin-block-start": { "value": "{lansingerland.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{lansingerland.typography.roboto.font-family}" },
+      "font-size": { "value": "{lansingerland.font-size.2xl}" },
+      "font-weight": { "value": "{lansingerland.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{lansingerland.size.2xl}" },
+      "margin-block-start": { "value": "{lansingerland.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{lansingerland.typography.roboto.font-family}" },
+      "font-size": { "value": "{lansingerland.font-size.xl}" },
+      "font-weight": { "value": "{lansingerland.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{lansingerland.size.xl}" },
+      "margin-block-start": { "value": "{lansingerland.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{lansingerland.typography.roboto.font-family}" },
+      "font-size": { "value": "{lansingerland.font-size.lg}" },
+      "font-weight": { "value": "{lansingerland.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{lansingerland.size.lg}" },
+      "margin-block-start": { "value": "{lansingerland.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{lansingerland.typography.roboto.font-family}" },
+      "font-size": { "value": "{lansingerland.font-size.md}" },
+      "font-weight": { "value": "{lansingerland.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{lansingerland.size.lg}" },
+      "margin-block-start": { "value": "{lansingerland.size.md}" }
+    }
+  }
+}
