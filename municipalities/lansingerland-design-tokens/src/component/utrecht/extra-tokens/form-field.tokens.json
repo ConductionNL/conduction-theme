@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{lansingerland.color.succes}" },
+        "warning-color": { "value": "{lansingerland.color.warning}" },
+        "invalid-color": { "value": "{lansingerland.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}
