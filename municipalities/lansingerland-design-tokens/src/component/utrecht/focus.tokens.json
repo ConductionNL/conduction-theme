@@ -8,7 +8,7 @@
       "outline-style": { "value": "solid" },
       "outline-width": { "value": "2px" },
       "inverse": {
-        "outline-color": {}
+        "outline-color": { "value": "{lansingerland.color.green.39-50t}" }
       }
     }
   }

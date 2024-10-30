@@ -47,12 +47,19 @@
         "18": {
           "value": "#08541a"
         },
+        "21": {
+          "value": "#0a5f1d"
+        },
         "28": {
           "value": "#0d8228",
           "comment": "Base/Green"
         },
         "28-50t": {
           "value": "#0d822880",
+          "comment": "Base/Green with 50% transparency"
+        },
+        "39-50t": {
+          "value": "#31954880",
           "comment": "Green with 50% transparency"
         }
       },
