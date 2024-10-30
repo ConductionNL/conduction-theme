@@ -116,6 +116,9 @@
         }
       },
       "lightgrey": {
+        "83": {
+          "value": "#ced4da"
+        },
         "84": {
           "value": "#d6d6d6"
         },
