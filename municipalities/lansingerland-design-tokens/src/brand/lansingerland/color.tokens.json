@@ -52,6 +52,14 @@
         }
       },
       "blue": {
+        "18-08t": {
+          "value": "#282c3514",
+          "comment": "Blue with 8% transparency"
+        },
+        "18-05t": {
+          "value": "#282c350d",
+          "comment": "Blue with 5% transparency"
+        },
         "46": {
           "value": "#0c9ede"
         }

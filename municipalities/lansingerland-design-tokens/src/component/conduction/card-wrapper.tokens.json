@@ -1,0 +1,37 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{lansingerland.color.white.100}" },
+      "border-color": {},
+      "border-style": {},
+      "border-width": {},
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": { "value": "0" },
+      "transition": {},
+      "box-shadow": {
+        "value": "0 1px 1px 0 {lansingerland.color.blue.18-08t},0 2px 2px 0 {lansingerland.color.blue.18-05t}"
+      },
+      "color": { "value": "{lansingerland.color.grey.26}" },
+      "hover": {
+        "background-color": {},
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {
+          "value": "0 1px 1px 0 {lansingerland.color.blue.18-08t},0 2px 2px 0 {lansingerland.color.blue.18-05t}"
+        }
+      },
+      "padding-inline-end": { "value": "{lansingerland.size.lg}" },
+      "padding-inline-start": { "value": "{lansingerland.size.lg}" },
+      "padding-block-end": { "value": "{lansingerland.size.lg}" },
+      "padding-block-start": { "value": "{lansingerland.size.lg}" }
+    }
+  }
+}
