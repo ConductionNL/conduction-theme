@@ -7,42 +7,18 @@
       "primary-hover": {
         "value": "{lansingerland.color.green.18}"
       },
-      "error": {
-        "value": "#dc3545"
-      },
-      "alert-error": {
-        "value": "#721c24"
-      },
-      "alert-error-background": {
-        "value": "#f8d7da"
-      },
-      "warning": {
-        "value": "#ffc107"
-      },
-      "alert-warning": {
-        "value": "#856404"
-      },
-      "alert-warning-background": {
-        "value": "#fff3cd"
-      },
-      "succes": {
-        "value": "#28a745"
-      },
-      "alert-succes": {
-        "value": "#155724"
-      },
-      "alert-succes-background": {
-        "value": "#d4edda"
-      },
-      "info": {
-        "value": "#4376fc"
-      },
-      "alert-info": {
-        "value": "#004085"
-      },
-      "alert-info-background": {
-        "value": "#cce5ff"
-      },
+      "error": { "value": "#dc3545" },
+      "alert-error": { "value": "#721c24" },
+      "alert-error-background": { "value": "#f8d7da" },
+      "warning": { "value": "#ffc107" },
+      "alert-warning": { "value": "#856404" },
+      "alert-warning-background": { "value": "#fff3cd" },
+      "succes": { "value": "#28a745" },
+      "alert-succes": { "value": "#155724" },
+      "alert-succes-background": { "value": "#d4edda" },
+      "info": { "value": "" },
+      "alert-info": { "value": "#004085" },
+      "alert-info-background": { "value": "#cce5ff" },
       "green": {
         "18": {
           "value": "#08541a"
