@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "form-input": {
+    "textbox": {
       "border-bottom-width": {},
       "border-color": { "value": "{lansingerland.color.grey.58}" },
       "border-radius": { "value": "0" },
