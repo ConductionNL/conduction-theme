@@ -37,6 +37,9 @@
         "39-50t": {
           "value": "#31954880",
           "comment": "Green with 50% transparency"
+        },
+        "68": {
+          "value": "#6bf08a"
         }
       },
       "pink": {

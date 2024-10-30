@@ -4,8 +4,6 @@
       "border-collapse": { "value": "collapse" },
       "background-color": { "value": "transparent" },
       "header": {
-        "border-block-end-color": { "value": "{lansingerland.color.grey.58}" },
-        "border-block-end-width": { "value": "{lansingerland.size.4xs}" },
         "font-family": {}
       },
       "header-cell": {
