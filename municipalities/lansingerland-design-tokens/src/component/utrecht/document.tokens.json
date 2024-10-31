@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{lansingerland.color.white.98}" },
+      "color": { "value": "{lansingerland.color.black.0}" },
+      "font-family": { "value": "{lansingerland.typography.roboto.font-family}" },
+      "font-size": { "value": "{lansingerland.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}

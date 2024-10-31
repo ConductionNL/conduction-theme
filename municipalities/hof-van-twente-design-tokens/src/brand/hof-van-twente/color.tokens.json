@@ -20,15 +20,18 @@
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "turquoise": {
-        "31": { 
-            "value": "#1e807a",
-            "comment": "Base/Turquoise"
+        "25": {
+          "value": "#007d77"
         },
-        "48": { 
-            "value": "#44b3a8"
+        "31": {
+          "value": "#1e807a",
+          "comment": "Base/Turquoise"
         },
-        "75": { 
-            "value": "#a6dbd5"
+        "48": {
+          "value": "#44b3a8"
+        },
+        "75": {
+          "value": "#a6dbd5"
         }
       },
       "grey": {

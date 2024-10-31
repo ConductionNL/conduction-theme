@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "page-header": {
+      "logo": {
+        "max-height": {},
+        "max-width": {}
+      },
+      "border-block-start": {},
+      "border-block-end": {},
+      "border-inline-start": {},
+      "border-inline-end": {}
+    }
+  }
+}

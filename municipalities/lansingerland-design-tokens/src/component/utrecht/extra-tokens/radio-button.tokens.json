@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "min-block-size": { "value": "16px" },
+      "min-inline-size": { "value": "16px" },
+      "checked-disabled": {
+        "border-color": { "value": "{lansingerland.color.grey.82}" },
+        "border-width": { "value": "{lansingerland.size.4xs}" },
+        "background-color": { "value": "{lansingerland.color.white.100}" },
+        "color": { "value": "{lansingerland.color.grey.82}" }
+      }
+    }
+  }
+}

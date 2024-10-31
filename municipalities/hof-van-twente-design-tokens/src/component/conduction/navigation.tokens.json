@@ -2,27 +2,32 @@
   "conduction": {
     "primary": {
       "top-nav": {
-        "color": { "value": "{hof-van-twente.color.grey.21}" },
+        "color": { "value": "{hof-van-twente.color.black.0}" },
         "background-color": { "value": "{hof-van-twente.color.white.100}" },
         "list": {
           "border-color": {},
           "border-style": {},
-          "border-width": {}
+          "border-width": {},
+          "gap": { "value": "15px" }
         },
         "hover": {
-          "color": {},
-          "background-color": {},
-          "box-shadow": {},
+          "color": { "value": "{hof-van-twente.color.turquoise.25}" },
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
+          "box-shadow": { "value": "inset 0 -2px  {hof-van-twente.color.turquoise.25}" },
           "font-weight": {}
         },
         "current": {
-          "color": { "value": "{hof-van-twente.color.white.100}" },
-          "background-color": { "value": "{hof-van-twente.color.primary}" },
-          "box-shadow": { "value": "unset" },
+          "color": { "value": "{hof-van-twente.color.turquoise.25}" },
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
+          "box-shadow": { "value": "inset 0 -2px  {hof-van-twente.color.turquoise.25}" },
+          "font-weight": { "value": "{hof-van-twente.typography.font-weight.normal}" },
           "mobile": {
-            "box-shadow": { "value": "unset" }
+            "box-shadow": { "value": "none" }
           },
-          "font-weight": {}
+          "hover": {
+            "font-weight": { "value": "{hof-van-twente.typography.font-weight.normal}" },
+            "box-shadow": { "value": "inset 0 -2px  {hof-van-twente.color.turquoise.25}" }
+          }
         },
         "dropdown": {
           "color": { "value": "{hof-van-twente.color.grey.21}" },
@@ -33,15 +38,15 @@
           "hover": {
             "color": {},
             "background-color": {},
-            "box-shadow": {},
+            "box-shadow": { "value": "none" },
             "font-weight": {}
           },
           "current": {
             "color": { "value": "{hof-van-twente.color.primary}" },
             "background-color": { "value": "{hof-van-twente.color.white.100}" },
-            "box-shadow": { "value": "unset" },
+            "box-shadow": { "value": "none" },
             "mobile": {
-              "box-shadow": { "value": "unset" }
+              "box-shadow": { "value": "none" }
             },
             "font-weight": {}
           }
