@@ -6,10 +6,15 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.38:
+    - Added Lansingerland theme.
+    - Updated navigation tokens in Hof van Twente theme.
+    - Updated navigation tokens in Gouda theme.
+    - Updated link tokens in all themes.
   - 1.1.37: Updated font-sizes in Roosendaal theme.
   - 1.1.36: Added Hof van Twente theme.
   - 1.1.35: Added FormField, FormLabel, Data-list and Process-step tokens to all other themes.
-  - 1.1.34: 
+  - 1.1.34:
     - Added Moerdijk theme.
     - Added FormField, FormLabel, Data-list and Process-steps to conduction theme.
   - 1.1.33: Added FormField, FormLabel, Data-list and Process-step tokens to Leiden theme.

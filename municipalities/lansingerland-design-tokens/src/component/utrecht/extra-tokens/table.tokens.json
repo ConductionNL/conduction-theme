@@ -18,7 +18,7 @@
       },
       "row": {
         "hover": {
-          "background-color": { "value": "{lansingerland.color.green.39-50t}" },
+          "background-color": { "value": "" },
           "color": {}
         }
       },
