@@ -30,6 +30,7 @@
           "border-width": {},
           "border-style": {},
           "border-color": {},
+          "font-weight": { "value": "{gouda.typography.font-weight.normal}" },
           "hover": {
             "color": { "value": "{gouda.color.white.100}" },
             "background-color": { "value": "{gouda.color.primary}" },
