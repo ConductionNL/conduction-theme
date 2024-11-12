@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{conduction.typography.aldritch.font-family}" },
+      "font-size": { "value": "{conduction.font-size.3xl}" },
+      "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{conduction.size.2xl}" },
+      "margin-block-start": { "value": "{conduction.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{conduction.typography.aldritch.font-family}" },
+      "font-size": { "value": "{conduction.font-size.2xl}" },
+      "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{conduction.size.2xl}" },
+      "margin-block-start": { "value": "{conduction.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{conduction.typography.aldritch.font-family}" },
+      "font-size": { "value": "{conduction.font-size.xl}" },
+      "font-weight": { "value": "{conduction.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{conduction.size.xl}" },
+      "margin-block-start": { "value": "{conduction.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{conduction.typography.aldritch.font-family}" },
+      "font-size": { "value": "{conduction.font-size.lg}" },
+      "font-weight": { "value": "{conduction.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{conduction.size.lg}" },
+      "margin-block-start": { "value": "{conduction.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{conduction.typography.aldritch.font-family}" },
+      "font-size": { "value": "{conduction.font-size.md}" },
+      "font-weight": { "value": "{conduction.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{conduction.size.lg}" },
+      "margin-block-start": { "value": "{conduction.size.md}" }
+    }
+  }
+}
