@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.39: Added v1 version of BCT theme.
   - 1.1.38:
     - Added Lansingerland theme.
     - Updated navigation tokens in Hof van Twente theme.
