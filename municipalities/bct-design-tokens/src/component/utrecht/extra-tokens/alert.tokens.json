@@ -2,7 +2,7 @@
   "utrecht": {
     "alert": {
       "icon": {
-        "gap": { "value": "{conduction.size.xs}" }
+        "gap": { "value": "{bct.size.xs}" }
       }
     }
   }

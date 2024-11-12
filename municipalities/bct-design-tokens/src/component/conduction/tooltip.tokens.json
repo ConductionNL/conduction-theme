@@ -1,12 +1,12 @@
 {
   "conduction": {
     "tooltip": {
-      "background-color": { "value": "{conduction.color.black.0}" },
-      "color": { "value": "{conduction.color.white.100}" },
-      "padding-block-start": { "value": "{conduction.size.xs}" },
-      "padding-block-end": { "value": "{conduction.size.xs}" },
-      "padding-inline-start": { "value": "{conduction.size.sm}" },
-      "padding-inline-end": { "value": "{conduction.size.sm}" },
+      "background-color": { "value": "{bct.color.black.0}" },
+      "color": { "value": "{bct.color.white.100}" },
+      "padding-block-start": { "value": "{bct.size.xs}" },
+      "padding-block-end": { "value": "{bct.size.xs}" },
+      "padding-inline-start": { "value": "{bct.size.sm}" },
+      "padding-inline-end": { "value": "{bct.size.sm}" },
       "border-width": { "value": "0px" },
       "border-style": { "value": "unset" },
       "border-color": { "value": "unset" },

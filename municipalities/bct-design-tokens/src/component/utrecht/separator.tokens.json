@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "separator": {
-      "color": { "value": "{conduction.color.grey.82}" },
-      "block-size": { "value": "{conduction.size.4xs}" },
+      "color": { "value": "{bct.color.grey.82}" },
+      "block-size": { "value": "{bct.size.4xs}" },
       "margin-block-end": { "value": "0px" },
       "margin-block-start": { "value": "0px" }
     }

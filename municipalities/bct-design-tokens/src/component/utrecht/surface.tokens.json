@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "surface": {
-      "background-color": { "value": "{conduction.color.white.98}" },
+      "background-color": { "value": "{bct.color.white.98}" },
       "color": {}
     }
   }

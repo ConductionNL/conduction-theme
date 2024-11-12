@@ -1,11 +1,11 @@
 {
-  "conduction": {
+  "bct": {
     "color": {
       "primary": {
-        "value": "{conduction.color.blue.63}"
+        "value": "{bct.color.blue.63}"
       },
       "primary-hover": {
-        "value": "{conduction.color.blue.52}"
+        "value": "{bct.color.blue.52}"
       },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
@@ -16,7 +16,7 @@
       "succes": { "value": "#28a745" },
       "alert-succes": { "value": "#155724" },
       "alert-succes-background": { "value": "#d4edda" },
-      "info": { "value": "{conduction.color.primary}" },
+      "info": { "value": "{bct.color.primary}" },
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "blue": {

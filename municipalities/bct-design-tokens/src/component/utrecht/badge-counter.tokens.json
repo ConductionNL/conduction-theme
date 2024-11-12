@@ -1,13 +1,13 @@
 {
   "utrecht": {
     "badge-counter": {
-      "background-color": { "value": "{conduction.color.primary}" },
+      "background-color": { "value": "{bct.color.primary}" },
       "border-radius": { "value": "50%" },
-      "color": { "value": "{conduction.color.white.100}" },
+      "color": { "value": "{bct.color.white.100}" },
       "font-size": { "value": "{utrecht.document.font-size}" },
-      "font-weight": { "value": "{conduction.typography.font-weight.normal}" },
-      "padding-block": { "value": "{conduction.size.2xs}" },
-      "padding-inline": { "value": "{conduction.size.2xs}" }
+      "font-weight": { "value": "{bct.typography.font-weight.normal}" },
+      "padding-block": { "value": "{bct.size.2xs}" },
+      "padding-inline": { "value": "{bct.size.2xs}" }
     }
   }
 }

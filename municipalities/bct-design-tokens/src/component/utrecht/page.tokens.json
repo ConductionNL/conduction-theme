@@ -3,8 +3,8 @@
     "page": {
       "background-color": {},
       "color": {},
-      "margin-inline-start": { "value": "{conduction.size.lg}" },
-      "margin-inline-end": { "value": "{conduction.size.lg}" },
+      "margin-inline-start": { "value": "{bct.size.lg}" },
+      "margin-inline-end": { "value": "{bct.size.lg}" },
       "max-inline-size": { "value": "1140px" }
     }
   }

@@ -3,8 +3,8 @@
     "blockquote": {
       "background-color": {},
       "color": {},
-      "margin-inline-start": { "value": "{conduction.size.xl}" },
-      "margin-inline-end": { "value": "{conduction.size.xl}" },
+      "margin-inline-start": { "value": "{bct.size.xl}" },
+      "margin-inline-end": { "value": "{bct.size.xl}" },
       "margin-inline-block-start": {},
       "margin-inline-block-end": {},
       "font-size": {},
@@ -19,8 +19,8 @@
         "font-size": {}
       },
       "content": {
-        "color": { "value": "{conduction.color.black.0}" },
-        "font-size": { "value": "{conduction.font-size.md}" }
+        "color": { "value": "{bct.color.black.0}" },
+        "font-size": { "value": "{bct.font-size.md}" }
       }
     }
   }

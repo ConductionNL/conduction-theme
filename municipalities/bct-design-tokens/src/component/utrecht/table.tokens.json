@@ -7,7 +7,7 @@
       "font-size": { "value": "{utrecht.document.font-size}" },
       "line-height": {},
       "margin-block-end": { "value": 0 },
-      "margin-block-start": { "value": "{conduction.size.md}" },
+      "margin-block-start": { "value": "{bct.size.md}" },
       "caption": {
         "font-weight": {},
         "font-family": {},
@@ -18,7 +18,7 @@
         "margin-block-end": {}
       },
       "header": {
-        "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
+        "font-weight": { "value": "{bct.typography.font-weight.bold}" },
         "background-color": {},
         "color": { "value": "{utrecht.document.color}" },
         "text-transform": { "value": "unset" },
@@ -27,23 +27,23 @@
       },
       "header-cell": {
         "font-size": { "value": "{utrecht.document.font-size}" },
-        "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
+        "font-weight": { "value": "{bct.typography.font-weight.bold}" },
         "color": { "value": "{utrecht.document.color}" },
         "text-transform": { "value": "unset" }
       },
       "cell": {
         "line-height": {},
-        "padding-block-end": { "value": "{conduction.size.md}" },
-        "padding-block-start": { "value": "{conduction.size.md}" },
-        "padding-inline-end": { "value": "{conduction.size.md}" },
-        "padding-inline-start": { "value": "{conduction.size.md}" },
+        "padding-block-end": { "value": "{bct.size.md}" },
+        "padding-block-start": { "value": "{bct.size.md}" },
+        "padding-inline-end": { "value": "{bct.size.md}" },
+        "padding-inline-start": { "value": "{bct.size.md}" },
         "icon": {
           "size": {}
         }
       },
       "row": {
-        "border-block-end-color": { "value": "{conduction.color.grey.82}" },
-        "border-block-end-width": { "value": "{conduction.size.4xs}" },
+        "border-block-end-color": { "value": "{bct.color.grey.82}" },
+        "border-block-end-width": { "value": "{bct.size.4xs}" },
         "padding-inline-end": {},
         "padding-inline-start": {},
         "alternate-odd": {

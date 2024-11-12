@@ -24,12 +24,12 @@
         "color": {},
         "text-decoration": { "value": "none" },
         "text-decoration-color": { "value": "unset" },
-        "text-decoration-thickness": { "value": "{conduction.size.4xs}" },
-        "text-underline-offset": { "value": "{conduction.size.3xs}" },
+        "text-decoration-thickness": { "value": "{bct.size.4xs}" },
+        "text-underline-offset": { "value": "{bct.size.3xs}" },
         "hover": {
-          "color": { "value": "{conduction.color.black.30}" },
+          "color": { "value": "{bct.color.black.30}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "{conduction.size.4xs}" },
+          "text-decoration-thickness": { "value": "{bct.size.4xs}" },
           "font-weight": {}
         }
       }

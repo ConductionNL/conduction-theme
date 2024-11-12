@@ -13,30 +13,30 @@
       },
       "link": {
         "background-color": {},
-        "color": { "value": "{conduction.color.primary}" },
+        "color": { "value": "{bct.color.primary}" },
         "focus": {
           "background-color": {},
           "color": {},
           "text-decoration": {}
         },
         "hover": {
-          "color": { "value": "{conduction.color.primary-hover}" },
+          "color": { "value": "{bct.color.primary-hover}" },
           "text-decoration": {}
         },
         "current": {
           "background-color": {},
-          "color": { "value": "{conduction.color.grey.29}" },
+          "color": { "value": "{bct.color.grey.29}" },
           "font-weight": {}
         },
         "disabled": {
-          "color": { "value": "{conduction.color.grey.29}" }
+          "color": { "value": "{bct.color.grey.29}" }
         }
       },
       "separator": {
         "inline-size": {},
-        "color": { "value": "{conduction.color.black.0}" },
+        "color": { "value": "{bct.color.black.0}" },
         "icon": {
-          "size": { "value": "{conduction.font-size.sm}" }
+          "size": { "value": "{bct.font-size.sm}" }
         }
       }
     }

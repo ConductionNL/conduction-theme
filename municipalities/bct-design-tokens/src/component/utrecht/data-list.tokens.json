@@ -6,7 +6,7 @@
       "item-key": {
         "color": {},
         "font-size": {},
-        "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
+        "font-weight": { "value": "{bct.typography.font-weight.bold}" },
         "line-height": {}
       },
       "item-value": {

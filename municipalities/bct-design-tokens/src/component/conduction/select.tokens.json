@@ -1,21 +1,21 @@
 {
   "conduction": {
     "input-select": {
-      "background-color": { "value": "{conduction.color.white.100}" },
-      "border": { "value": "{conduction.size.4xs} solid {conduction.color.grey.48}" },
+      "background-color": { "value": "{bct.color.white.100}" },
+      "border": { "value": "{bct.size.4xs} solid {bct.color.grey.48}" },
       "border-focus": { "value": "unset" },
       "border-radius": { "value": "{utrecht.form-input.border-radius}" },
-      "invalid-border-color": { "value": "{conduction.color.error}" },
+      "invalid-border-color": { "value": "{bct.color.error}" },
       "padding-block-end": { "value": 0 },
       "padding-block-start": { "value": 0 },
       "hover": {},
       "focus": {},
       "list-option": {
-        "font-family": { "value": "{conduction.typography.sans-serif.font-family}" },
+        "font-family": { "value": "{bct.typography.sans-serif.font-family}" },
         "background-color": {},
         "color": {},
         "hover": {
-          "font-family": { "value": "{conduction.typography.sans-serif.font-family}" },
+          "font-family": { "value": "{bct.typography.sans-serif.font-family}" },
           "background-color": {},
           "color": {}
         },
@@ -32,7 +32,7 @@
         "color": {
           "value": "{utrecht.form-input.placeholder.color}"
         },
-        "font-family": { "value": "{conduction.typography.sans-serif.font-family}" }
+        "font-family": { "value": "{bct.typography.sans-serif.font-family}" }
       }
     }
   }

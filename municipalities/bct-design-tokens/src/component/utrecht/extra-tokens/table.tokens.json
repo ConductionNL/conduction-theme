@@ -2,10 +2,10 @@
   "utrecht": {
     "table": {
       "border-collapse": { "value": "collapse" },
-      "background-color": { "value": "{conduction.color.white.100}" },
+      "background-color": { "value": "{bct.color.white.100}" },
       "header": {
-        "border-block-end-color": { "value": "{conduction.color.grey.82}" },
-        "border-block-end-width": { "value": "{conduction.size.4xs}" },
+        "border-block-end-color": { "value": "{bct.color.grey.82}" },
+        "border-block-end-width": { "value": "{bct.size.4xs}" },
         "font-family": {}
       },
       "header-cell": {
@@ -20,7 +20,7 @@
       },
       "row": {
         "hover": {
-          "background-color": { "value": "{conduction.color.grey.97}" },
+          "background-color": { "value": "{bct.color.grey.97}" },
           "color": {}
         }
       },

@@ -13,14 +13,14 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{conduction.color.black.0}" }
+        "color": { "value": "{bct.color.black.0}" }
       },
       "date": {
-        "color": { "value": "{conduction.color.black.0}" },
-        "font-size": { "value": "{conduction.font-size.sm}" },
-        "font-weight": { "value": "{conduction.typography.font-weight.light}" },
+        "color": { "value": "{bct.color.black.0}" },
+        "font-size": { "value": "{bct.font-size.sm}" },
+        "font-weight": { "value": "{bct.typography.font-weight.light}" },
         "font-style": {},
-        "margin-block-end": { "value": "{conduction.size.xs}" }
+        "margin-block-end": { "value": "{bct.size.xs}" }
       }
     }
   }

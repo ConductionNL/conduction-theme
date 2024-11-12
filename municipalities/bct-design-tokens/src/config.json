@@ -1,8 +1,8 @@
 {
-  "fullName": "Conduction",
-  "name": "Conduction",
-  "prefix": "conduction",
-  "npm": "@conduction/theme",
+  "fullName": "BCT",
+  "name": "BCT",
+  "prefix": "bct",
+  "npm": "@bct/theme",
   "stories": [
     "react-utrecht-alert--default",
     "react-utrecht-alert--warning",

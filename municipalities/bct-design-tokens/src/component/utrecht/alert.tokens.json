@@ -1,44 +1,44 @@
 {
   "utrecht": {
     "alert": {
-      "background-color": { "value": "{conduction.color.alert-info-background}" },
+      "background-color": { "value": "{bct.color.alert-info-background}" },
       "border-color": {},
       "border-width": {},
-      "color": { "value": "{conduction.color.alert-info}" },
-      "padding-block-start": { "value": "{conduction.size.lg}" },
-      "padding-block-end": { "value": "{conduction.size.lg}" },
-      "padding-inline-start": { "value": "{conduction.size.lg}" },
-      "padding-inline-end": { "value": "{conduction.size.lg}" },
+      "color": { "value": "{bct.color.alert-info}" },
+      "padding-block-start": { "value": "{bct.size.lg}" },
+      "padding-block-end": { "value": "{bct.size.lg}" },
+      "padding-inline-start": { "value": "{bct.size.lg}" },
+      "padding-inline-end": { "value": "{bct.size.lg}" },
       "margin-block-start": {},
       "margin-block-end": {},
       "warning": {
-        "background-color": { "value": "{conduction.color.alert-warning-background}" },
-        "color": { "value": "{conduction.color.alert-warning}" },
+        "background-color": { "value": "{bct.color.alert-warning-background}" },
+        "color": { "value": "{bct.color.alert-warning}" },
         "border-color": {},
         "border-width": {}
       },
       "error": {
-        "background-color": { "value": "{conduction.color.alert-error-background}" },
-        "color": { "value": "{conduction.color.alert-error}" },
+        "background-color": { "value": "{bct.color.alert-error-background}" },
+        "color": { "value": "{bct.color.alert-error}" },
         "border-color": {},
         "border-width": {}
       },
       "ok": {
-        "background-color": { "value": "{conduction.color.alert-succes-background}" },
-        "color": { "value": "{conduction.color.alert-succes}" },
+        "background-color": { "value": "{bct.color.alert-succes-background}" },
+        "color": { "value": "{bct.color.alert-succes}" },
         "border-color": {},
         "border-width": {}
       },
       "icon": {
-        "color": { "value": "{conduction.color.alert-info}" },
+        "color": { "value": "{bct.color.alert-info}" },
         "error": {
-          "color": { "value": "{conduction.color.alert-error}" }
+          "color": { "value": "{bct.color.alert-error}" }
         },
         "warning": {
-          "color": { "value": "{conduction.color.alert-warning}" }
+          "color": { "value": "{bct.color.alert-warning}" }
         },
         "ok": {
-          "color": { "value": "{conduction.color.alert-succes}" }
+          "color": { "value": "{bct.color.alert-succes}" }
         }
       }
     }

@@ -8,7 +8,7 @@
       "outline-style": {},
       "outline-width": { "value": "2.5px" },
       "inverse": {
-        "outline-color": { "value": "{conduction.color.black.0-60t}" }
+        "outline-color": { "value": "{bct.color.black.0-60t}" }
       }
     }
   }

@@ -1,10 +1,10 @@
 {
   "utrecht": {
     "page-header": {
-      "background-color": { "value": "{conduction.color.primary}" },
-      "color": { "value": "{conduction.color.white.100}" },
-      "padding-block-start": { "value": "{conduction.size.sm}" },
-      "padding-block-end": { "value": "{conduction.size.sm}" }
+      "background-color": { "value": "{bct.color.primary}" },
+      "color": { "value": "{bct.color.white.100}" },
+      "padding-block-start": { "value": "{bct.size.sm}" },
+      "padding-block-end": { "value": "{bct.size.sm}" }
     }
   }
 }

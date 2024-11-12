@@ -2,7 +2,7 @@
   "open-catalogi": {
     "rating": {
       "rating-bar": {
-        "color": { "value": "{conduction.color.primary}" },
+        "color": { "value": "{bct.color.primary}" },
         "background-color": {}
       },
       "font-size": { "value": "{utrecht.document.font-size}" },
