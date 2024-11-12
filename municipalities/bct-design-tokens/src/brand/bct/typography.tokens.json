@@ -1,14 +1,14 @@
 {
   "bct": {
     "typography": {
-      "aldritch": {
+      "roboto": {
         "font-family": {
-          "value": "\"Aldritch\", \"Noto Sans\", Arial, sans-serif"
+          "value": "\"Roboto\", Monospace, Arial, sans-serif"
         }
       },
-      "sans-serif": {
+      "roboto-slab": {
         "font-family": {
-          "value": "\"Noto Sans\", Arial, sans-serif"
+          "value": "\"Roboto Slab\", Monospace, Arial, sans-serif"
         }
       },
       "monospace": {

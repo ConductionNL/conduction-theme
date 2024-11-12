@@ -3,7 +3,7 @@
     "document": {
       "background-color": { "value": "{bct.color.white.98}" },
       "color": { "value": "{bct.color.black.0}" },
-      "font-family": { "value": "{bct.typography.sans-serif.font-family}" },
+      "font-family": { "value": "{bct.typography.roboto.font-family}" },
       "font-size": { "value": "{bct.font-size.md}" },
       "font-weight": {},
       "line-height": {}

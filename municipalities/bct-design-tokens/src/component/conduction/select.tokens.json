@@ -11,11 +11,11 @@
       "hover": {},
       "focus": {},
       "list-option": {
-        "font-family": { "value": "{bct.typography.sans-serif.font-family}" },
+        "font-family": { "value": "{bct.typography.roboto.font-family}" },
         "background-color": {},
         "color": {},
         "hover": {
-          "font-family": { "value": "{bct.typography.sans-serif.font-family}" },
+          "font-family": { "value": "{bct.typography.roboto.font-family}" },
           "background-color": {},
           "color": {}
         },
@@ -32,7 +32,7 @@
         "color": {
           "value": "{utrecht.form-input.placeholder.color}"
         },
-        "font-family": { "value": "{bct.typography.sans-serif.font-family}" }
+        "font-family": { "value": "{bct.typography.roboto.font-family}" }
       }
     }
   }

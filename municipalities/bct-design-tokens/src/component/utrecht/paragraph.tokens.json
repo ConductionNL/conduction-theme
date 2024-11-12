@@ -2,7 +2,7 @@
   "utrecht": {
     "paragraph": {
       "color": { "value": "{utrecht.document.color}" },
-      "font-family": { "value": "{bct.typography.sans-serif.font-family}" },
+      "font-family": { "value": "{bct.typography.roboto.font-family}" },
       "font-size": { "value": "{bct.font-size.md}" },
       "font-weight": { "value": "{bct.typography.font-weight.normal}" },
       "line-height": { "value": "1.5em" },

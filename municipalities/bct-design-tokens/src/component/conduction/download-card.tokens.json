@@ -6,7 +6,7 @@
         "color": { "value": "{utrecht.document.color}" },
         "font-size": { "value": "{bct.font-size.md}" },
         "font-weight": { "value": "{bct.typography.font-weight.bold}" },
-        "font-family": { "value": "{bct.typography.aldritch.font-family}" },
+        "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
         "margin-inline-end": { "value": "{bct.size.sm}" }
       },
       "border-width": { "value": "{bct.size.4xs}" },

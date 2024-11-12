@@ -2,7 +2,7 @@
   "utrecht": {
     "heading-1": {
       "color": {},
-      "font-family": { "value": "{bct.typography.aldritch.font-family}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
       "font-size": { "value": "{bct.font-size.3xl}" },
       "font-weight": { "value": "{bct.typography.font-weight.bold}" },
       "line-height": {},
@@ -11,7 +11,7 @@
     },
     "heading-2": {
       "color": {},
-      "font-family": { "value": "{bct.typography.aldritch.font-family}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
       "font-size": { "value": "{bct.font-size.2xl}" },
       "font-weight": { "value": "{bct.typography.font-weight.bold}" },
       "line-height": {},
@@ -20,7 +20,7 @@
     },
     "heading-3": {
       "color": {},
-      "font-family": { "value": "{bct.typography.aldritch.font-family}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
       "font-size": { "value": "{bct.font-size.xl}" },
       "font-weight": { "value": "{bct.typography.font-weight.normal}" },
       "line-height": {},
@@ -29,7 +29,7 @@
     },
     "heading-4": {
       "color": {},
-      "font-family": { "value": "{bct.typography.aldritch.font-family}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
       "font-size": { "value": "{bct.font-size.lg}" },
       "font-weight": { "value": "{bct.typography.font-weight.normal}" },
       "line-height": {},
@@ -38,7 +38,7 @@
     },
     "heading-5": {
       "color": {},
-      "font-family": { "value": "{bct.typography.aldritch.font-family}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
       "font-size": { "value": "{bct.font-size.md}" },
       "font-weight": { "value": "{bct.typography.font-weight.light}" },
       "line-height": {},
