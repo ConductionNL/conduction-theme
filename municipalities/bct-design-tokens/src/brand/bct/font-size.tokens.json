@@ -14,12 +14,12 @@
         "comment": "10px"
       },
       "xs": {
-        "value": "0.75rem",
-        "comment": "12px"
+       "value": "0.875rem",
+        "comment": "14px"
       },
       "sm": {
-        "value": "0.875rem",
-        "comment": "14px"
+        "value": "1rem",
+        "comment": "16px"
       },
       "md": {
         "value": "1.125rem",
@@ -38,12 +38,12 @@
         "comment": "32px"
       },
       "3xl": {
-        "value": "3rem",
-        "comment": "48px"
+        "value": "2.75rem",
+        "comment": "44px"
       },
       "4xl": {
-        "value": "3.625rem",
-        "comment": "58px"
+        "value": "3rem",
+        "comment": "48px"
       }
     }
   }

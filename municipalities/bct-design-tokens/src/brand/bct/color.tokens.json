@@ -31,6 +31,18 @@
           "value": "#e6edff"
         }
       },
+      "pink": {
+        "39": {
+          "value": "#c50084",
+          "comment": "Base/Pink"
+        },
+        "44": {
+          "value": "#a9398b"
+        },
+        "83": {
+          "value": "#e5c4dc"
+        }
+      },
       "grey": {
         "20": {
           "value": "#333333"
