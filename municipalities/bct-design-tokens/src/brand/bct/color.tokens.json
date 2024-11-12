@@ -31,6 +31,18 @@
           "value": "#e6edff"
         }
       },
+      "light-blue": {
+        "40": {
+          "value": "#00b0ca",
+          "comment": "Base/LightBlue"
+        }
+      },
+      "light-green": {
+        "41": {
+          "value": "#7ab41e",
+          "comment": "Base/LightGreen"
+        }
+      },
       "pink": {
         "39": {
           "value": "#c50084",

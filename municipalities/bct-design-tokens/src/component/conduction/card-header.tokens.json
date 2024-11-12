@@ -13,10 +13,10 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{bct.color.black.0}" }
+        "color": { "value": "{bct.color.pink.45}" }
       },
       "date": {
-        "color": { "value": "{bct.color.black.0}" },
+        "color": { "value": "{utrecht.document.color}" },
         "font-size": { "value": "{bct.font-size.sm}" },
         "font-weight": { "value": "{bct.typography.font-weight.light}" },
         "font-style": {},

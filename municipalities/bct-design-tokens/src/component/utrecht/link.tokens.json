@@ -1,11 +1,11 @@
 {
   "utrecht": {
     "link": {
-      "color": { "value": "{bct.color.primary}" },
-      "text-decoration": { "value": "none" },
+      "color": { "value": "{bct.color.grey.32}" },
+      "text-decoration": { "value": "underline" },
       "text-decoration-color": { "value": "unset" },
-      "text-decoration-thickness": { "value": 0 },
-      "text-underline-offset": { "value": "{bct.size.3xs}" },
+      "text-decoration-thickness": { "value": "{bct.size.4xs}" },
+      "text-underline-offset": { "value": "{bct.size.4xs}" },
       "active": {
         "color": {}
       },
@@ -15,15 +15,15 @@
         "text-decoration-thickness": {}
       },
       "hover": {
-        "color": { "value": "{bct.color.primary-hover}" },
-        "text-decoration": { "value": "underline" },
+        "color": { "value": "{bct.color.grey.32}" },
+        "text-decoration": { "value": "dotted" },
         "text-decoration-thickness": { "value": "{bct.size.4xs}" }
       },
       "placeholder": {
         "color": {}
       },
       "visited": {
-        "color": { "value": "{bct.color.primary}" }
+        "color": { "value": "{bct.color.grey.32}" }
       },
       "icon": {
         "size": { "value": "{bct.size.md}" }

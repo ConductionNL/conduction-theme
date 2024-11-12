@@ -1,7 +1,7 @@
 {
   "conduction": {
     "card-wrapper": {
-      "background-color": { "value": "{bct.color.white.100}" },
+      "background-color": { "value": "{bct.color.white.98}" },
       "border-color": {},
       "border-style": {},
       "border-width": {},
