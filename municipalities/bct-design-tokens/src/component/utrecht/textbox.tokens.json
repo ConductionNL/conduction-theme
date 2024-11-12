@@ -6,7 +6,7 @@
       "border-radius": { "value": "3px" },
       "border-width": { "value": "{bct.size.4xs}" },
       "color": { "value": "{bct.color.grey.29}" },
-      "font-family": { "value": "{bct.typography.sans-serif.font-family}" },
+      "font-family": { "value": "{bct.typography.roboto.font-family}" },
       "font-size": {
         "value": "0.938rem",
         "comment": "15px"
