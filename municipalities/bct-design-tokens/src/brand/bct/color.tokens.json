@@ -32,6 +32,9 @@
         }
       },
       "grey": {
+        "20": {
+          "value": "#333333"
+        },
         "27": {
           "value": "#444444"
         },
@@ -83,6 +86,10 @@
         "100": {
           "value": "#ffffff",
           "comment": "Base/White"
+        },
+        "100-80t": {
+          "value": "#ffffffcc",
+          "comment": "White with 80% transparency"
         }
       },
       "black": {
