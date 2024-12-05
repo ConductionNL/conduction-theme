@@ -1,0 +1,8 @@
+{
+  "tilburg": {
+    "footer": {
+      "background-color": { "value": "var(--rotterdam-color-base-green)" },
+      "color": { "value": "var(--rotterdam-color-base-white)" }
+    }
+  }
+}

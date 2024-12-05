@@ -11,6 +11,7 @@
         "border-bottom-width": {},
         "border-bottom-style": {},
         "border-bottom-color": {},
+        "button-bottom": { "value": "0px" },
         "bottom": { "value": "-4px" },
         "padding-block-start": { "value": "6px" },
         "padding-block-end": { "value": "6px" },
@@ -41,7 +42,8 @@
           "hover": {
             "background-color": {},
             "color": {},
-            "text-decoration": {}
+            "text-decoration": {},
+            "font-weight": { "value": "var(--rotterdam-typography-weight-scale-bold-font-weight)" }
           }
         },
         "hover": {
@@ -51,7 +53,9 @@
           "font-weight": {}
         },
         "list": {
-          "padding-inline-start": { "value": "0px" },
+          "padding-inline-start": { "value": "2px" },
+          "padding-inline-end": { "value": "2px" },
+          "margin-inline-end": { "value": "unset" },
           "margin-block-end": { "value": "0px" },
           "border-bottom-width": { "value": "0.3rem" },
           "border-bottom-style": { "value": "solid" },
