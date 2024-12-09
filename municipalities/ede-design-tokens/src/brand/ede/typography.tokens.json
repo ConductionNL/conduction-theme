@@ -1,14 +1,14 @@
 {
   "ede": {
     "typography": {
-      "aldritch": {
+      "arial": {
         "font-family": {
-          "value": "\"Aldritch\", \"Noto Sans\", Arial, sans-serif"
+          "value": "Arial, sans-serif"
         }
       },
       "sans-serif": {
         "font-family": {
-          "value": "\"Noto Sans\", Arial, sans-serif"
+          "value": "Arial, sans-serif"
         }
       },
       "monospace": {
