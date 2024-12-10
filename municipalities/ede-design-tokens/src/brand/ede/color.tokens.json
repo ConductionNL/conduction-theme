@@ -52,6 +52,9 @@
         "31": {
           "value": "#4f4f4f"
         },
+        "33": {
+          "value": "#545454"
+        },
         "46": {
           "value": "#767676"
         },
@@ -85,6 +88,9 @@
         }
       },
       "lightgrey": {
+        "90": {
+          "value": "#e6e6e6"
+        },
         "94": {
           "value": "#f0f0f0",
           "comment": "Base/LightGrey"
