@@ -8,10 +8,10 @@
       "border-bottom-color": {},
       "border-bottom-style": {},
       "border-bottom-width": {},
-      "border-radius": { "value": "{ede.size.md}" },
+      "border-radius": { "value": "0" },
       "transition": {},
       "box-shadow": {},
-      "color": { "value": "{ede.color.black.0}" },
+      "color": { "value": "{ede.color.black.20}" },
       "hover": {
         "background-color": {},
         "color": {},
