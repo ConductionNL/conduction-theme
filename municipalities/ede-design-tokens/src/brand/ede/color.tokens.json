@@ -20,6 +20,9 @@
       "alert-info": { "value": "{ede.color.red.49}" },
       "alert-info-background": { "value": "{ede.color.red.96}" },
       "blue": {
+        "32": {
+          "value": "#29417a"
+        },
         "38": {
           "value": "#304e91"
         },
