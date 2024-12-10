@@ -6,7 +6,7 @@
       "border-radius": { "value": "3px" },
       "border-width": { "value": "{ede.size.3xs}" },
       "color": { "value": "{ede.color.grey.29}" },
-      "font-family": { "value": "{ede.typography.sans-serif.font-family}" },
+      "font-family": { "value": "{ede.typography.arial.font-family}" },
       "font-size": {
         "value": "0.938rem",
         "comment": "15px"

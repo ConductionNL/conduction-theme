@@ -6,7 +6,7 @@
       "border-radius": { "value": "0" },
       "border-width": { "value": "{ede.size.3xs}" },
       "color": { "value": "{ede.color.white.100}" },
-      "font-family": { "value": "{ede.typography.sans-serif.font-family}" },
+      "font-family": { "value": "{ede.typography.arial.font-family}" },
       "font-size": { "value": "inherit" },
       "font-weight": { "value": "inherit" },
       "inline-size": {},
