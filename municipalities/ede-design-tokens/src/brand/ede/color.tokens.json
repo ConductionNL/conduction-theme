@@ -105,6 +105,9 @@
           "value": "#00000099",
           "comment": "Black with 60% transparency"
         },
+        "6": {
+          "value": "#101010"
+        },
         "20": {
           "value": "#333333"
         },
