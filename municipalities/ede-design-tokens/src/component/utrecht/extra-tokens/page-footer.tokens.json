@@ -1,0 +1,38 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "font-size": {},
+      "font-family": {},
+      "min-height": {},
+      "logo": {
+        "max-height": { "value": "0" },
+        "max-width": { "value": "0" }
+      },
+      "background-size": {},
+      "background-position": {},
+      "mobile": {
+        "background-position": {}
+      },
+      "icon": {
+        "color": {}
+      },
+      "heading": {
+        "color": {},
+        "font-family": {}
+      },
+      "link": {
+        "color": {},
+        "text-decoration": { "value": "underline" },
+        "text-decoration-color": {},
+        "text-decoration-thickness": {},
+        "text-underline-offset": { "value": "{ede.size.4xs}" },
+        "hover": {
+          "color": { "value": "{ede.color.lightgrey.90}" },
+          "text-decoration": { "value": "underline" },
+          "text-decoration-thickness": {},
+          "font-weight": {}
+        }
+      }
+    }
+  }
+}
