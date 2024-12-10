@@ -3,8 +3,8 @@
     "page-header": {
       "background-color": { "value": "{ede.color.white.100}" },
       "color": { "value": "{ede.color.primary}" },
-      "padding-block-start": { "value": "{ede.size.md}" },
-      "padding-block-end": { "value": "{ede.size.md}" }
+      "padding-block-start": { "value": "{ede.size.xs}" },
+      "padding-block-end": { "value": "{ede.size.xs}" }
     }
   }
 }
