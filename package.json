@@ -33,7 +33,8 @@
     "build:hof-van-twente": "cd ./municipalities/hof-van-twente-design-tokens && npm run build",
     "build:lansingerland": "cd ./municipalities/lansingerland-design-tokens && npm run build",
     "build:bct": "cd ./municipalities/bct-design-tokens && npm run build",
-    "build:ede": "cd ./municipalities/ede-design-tokens && npm run build"
+    "build:ede": "cd ./municipalities/ede-design-tokens && npm run build",
+    "build:migrato": "cd ./municipalities/migrato-design-tokens && npm run build"
   },
   "dependencies": {
     "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100",
