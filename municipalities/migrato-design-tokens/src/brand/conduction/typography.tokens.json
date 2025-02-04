@@ -1,0 +1,45 @@
+{
+  "migrato": {
+    "typography": {
+      "eau-sans": {
+        "font-family": {
+          "value": "\"Eau Sans\", Arial, sans-serif"
+        }
+      },
+      "sans-serif": {
+        "font-family": {
+          "value": "sans-serif"
+        }
+      },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
+      "font-weight": {
+        "bold": {
+          "value": "700"
+        },
+        "normal": {
+          "value": "400"
+        },
+        "light": {
+          "value": "100"
+        }
+      },
+      "scale": {
+        "4xs": { "value": "{migrato.font-size.4xs}" },
+        "3xs": { "value": "{migrato.font-size.3xs}" },
+        "2xs": { "value": "{migrato.font-size.2xs}" },
+        "xs": { "value": "{migrato.font-size.xs}" },
+        "sm": { "value": "{migrato.font-size.sm}" },
+        "md": { "value": "{migrato.font-size.md}" },
+        "lg": { "value": "{migrato.font-size.lg}" },
+        "xl": { "value": "{migrato.font-size.xl}" },
+        "2xl": { "value": "{migrato.font-size.2xl}" },
+        "3xl": { "value": "{migrato.font-size.3xl}" },
+        "4xl": { "value": "{migrato.font-size.4xl}" }
+      }
+    }
+  }
+}
