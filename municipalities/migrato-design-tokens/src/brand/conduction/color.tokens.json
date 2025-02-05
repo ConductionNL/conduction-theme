@@ -44,6 +44,12 @@
           "comment": "Button-hover"
         }
       },
+      "orange": {
+        "52": {
+          "value": "#F18719",
+          "comment": "Base/Orange"
+        }
+      },
       "grey": {
         "27": {
           "value": "#444444"
