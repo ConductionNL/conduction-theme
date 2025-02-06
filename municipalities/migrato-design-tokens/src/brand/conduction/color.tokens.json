@@ -8,17 +8,17 @@
         "value": "{migrato.color.green.34}"
       },
       "error": { "value": "#dc3545" },
-      "alert-error": { "value": "#721c24" },
-      "alert-error-background": { "value": "#f8d7da" },
+      "alert-error": { "value": "#c02b0a" },
+      "alert-error-background": { "value": "#fff9f9" },
       "warning": { "value": "#ffc107" },
-      "alert-warning": { "value": "#856404" },
-      "alert-warning-background": { "value": "#fff3cd" },
+      "alert-warning": { "value": "#d37300" },
+      "alert-warning-background": { "value": "#ffffec" },
       "succes": { "value": "#28a745" },
-      "alert-succes": { "value": "#155724" },
-      "alert-succes-background": { "value": "#d4edda" },
+      "alert-succes": { "value": "#63660a" },
+      "alert-succes-background": { "value": "#fffff9" },
       "info": { "value": "{migrato.color.primary}" },
-      "alert-info": { "value": "#004085" },
-      "alert-info-background": { "value": "#cce5ff" },
+      "alert-info": { "value": "#4e4f6b" },
+      "alert-info-background": { "value": "#fafaff" },
       "blue": {
         "52": {
           "value": "#2e5ed9"
