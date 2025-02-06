@@ -45,6 +45,9 @@
         }
       },
       "orange": {
+        "47": {
+          "value": "#ef8b00"
+        },
         "52": {
           "value": "#F18719",
           "comment": "Base/Orange"
