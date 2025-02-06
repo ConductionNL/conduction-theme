@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{migrato.color.white.100}" },
+      "color": { "value": "{migrato.color.black.0}" },
+      "padding-block-start": { "value": "{migrato.size.lg}" },
+      "padding-block-end": { "value": "{migrato.size.lg}" }
+    }
+  }
+}
