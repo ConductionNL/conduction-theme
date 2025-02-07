@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "link": {
+      "hover": {
+        "font-weight": { "value": "{moerdijk.typography.font-weight.bold}" },
+        "text-decoration-color": {}
+      }
+    }
+  }
+}

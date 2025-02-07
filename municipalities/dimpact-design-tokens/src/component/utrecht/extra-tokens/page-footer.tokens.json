@@ -29,7 +29,8 @@
         "hover": {
           "color": { "value": "{dimpact.color.primary-hover}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "{dimpact.size.4xs}" }
+          "text-decoration-thickness": { "value": "{dimpact.size.4xs}" },
+          "font-weight": {}
         }
       }
     }

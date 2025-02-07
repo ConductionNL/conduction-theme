@@ -1,0 +1,28 @@
+{
+  "conduction": {
+    "download-card": {
+      "background-color": {},
+      "title": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-size": { "value": "{hof-van-twente.font-size.md}" },
+        "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
+        "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+        "margin-inline-end": { "value": "{hof-van-twente.size.sm}" }
+      },
+      "border-width": { "value": "{hof-van-twente.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{hof-van-twente.color.grey.82}" },
+      "border-radius": { "value": "{hof-van-twente.size.3xs}" },
+      "icon": {
+        "gap": {
+          "value": "{hof-van-twente.size.xs}"
+        },
+        "color": {}
+      },
+      "padding-inline-end": { "value": "{hof-van-twente.size.md}" },
+      "padding-inline-start": { "value": "{hof-van-twente.size.md}" },
+      "padding-block-end": { "value": "{hof-van-twente.size.md}" },
+      "padding-block-start": { "value": "{hof-van-twente.size.md}" }
+    }
+  }
+}

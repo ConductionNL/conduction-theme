@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "badge-counter": {
+      "background-color": { "value": "{moerdijk.color.primary}" },
+      "border-radius": { "value": "50%" },
+      "color": { "value": "{moerdijk.color.white.100}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "font-weight": { "value": "{moerdijk.typography.font-weight.normal}" },
+      "padding-block": { "value": "{moerdijk.size.2xs}" },
+      "padding-inline": { "value": "{moerdijk.size.2xs}" }
+    }
+  }
+}

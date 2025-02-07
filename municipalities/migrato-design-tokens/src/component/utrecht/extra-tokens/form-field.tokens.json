@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{migrato.color.succes}" },
+        "warning-color": { "value": "{migrato.color.warning}" },
+        "invalid-color": { "value": "{migrato.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "focus": {
+      "background-color": {},
+      "color": {},
+      "outline-color": { "value": "{ede.color.black.6}" },
+      "outline-offset": { "value": "0" },
+      "outline-style": { "value": "solid" },
+      "outline-width": { "value": "2px" },
+      "inverse": {
+        "outline-color": { "value": "{ede.color.white.100}" }
+      }
+    }
+  }
+}

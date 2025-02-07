@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{ede.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{ede.color.white.100} " },
+      "font-size": { "value": "{ede.font-size.sm}" },
+      "font-weight": { "value": "{ede.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{ede.size.xs}" },
+      "padding-inline": { "value": "{ede.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}

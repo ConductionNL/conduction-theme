@@ -1,0 +1,107 @@
+{
+  "denhaag": {
+    "process-steps": {
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "step-heading": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-family": { "value": "{utrecht.heading-1.font-family}" },
+        "font-size": { "value": "{gouda.font-size.lg}" },
+        "font-weight": { "value": "{gouda.typography.font-weight.bold}" },
+        "current": {
+          "color": {}
+        },
+        "checked": {
+          "color": {}
+        },
+        "not-checked": {
+          "color": {}
+        },
+        "warning": {
+          "color": {}
+        }
+      },
+      "sub-step-marker": {
+        "border-color": {},
+        "current": {
+          "border-color": {}
+        },
+        "checked": {
+          "border-color": {}
+        },
+        "not-checked": {
+          "border-color": {}
+        },
+        "warning": {
+          "border-color": {}
+        }
+      },
+      "step-line": {
+        "stroke-width": {},
+        "color": {},
+        "checked": {
+          "color": {}
+        },
+        "warning": {
+          "color": {}
+        }
+      },
+      "step-metadata": {
+        "color": {},
+        "font-size": {}
+      },
+      "step-description": {
+        "color": {},
+        "font-size": {}
+      },
+      "sub-step": {},
+      "sub-step-heading": {
+        "color": {},
+        "font-family": {},
+        "font-size": {},
+        "font-weight": {}
+      },
+      "step-distance": { "value": "10px" }
+    },
+    "step-marker": {
+      "border-color": {},
+      "background-color": { "value": "{gouda.color.white.100}" },
+      "border-width": {},
+      "color": { "value": "{gouda.color.black.0}" },
+      "font-size": {},
+      "font-weight": {},
+      "size": { "value": "30px" },
+      "current": {
+        "border-color": {},
+        "background-color": { "value": "{gouda.color.alert-info-background}" },
+        "border-width": { "value": "5px" },
+        "color": { "value": "{gouda.color.alert-info}" }
+      },
+      "not-checked": {
+        "border-color": {},
+        "background-color": { "value": "{gouda.color.white.100}" },
+        "border-width": { "value": "3px" },
+        "color": { "value": "{gouda.color.black.0}" }
+      },
+      "checked": {
+        "border-color": {},
+        "background-color": { "value": "{gouda.color.alert-succes-background}" },
+        "border-width": { "value": "3px" },
+        "color": { "value": "{gouda.color.succes}" }
+      },
+      "warning": {
+        "border-color": {},
+        "background-color": { "value": "{gouda.color.alert-warning-background}" },
+        "color": { "value": "{gouda.color.warning}" },
+        "border-width": { "value": "{gouda.size.4xs}" }
+      },
+      "error": {
+        "border-color": {},
+        "background-color": { "value": "{gouda.color.alert-error-background}" },
+        "color": { "value": "{gouda.color.error}" },
+        "border-width": { "value": "{gouda.size.4xs}" }
+      }
+    }
+  }
+}

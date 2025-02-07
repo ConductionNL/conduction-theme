@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "separator": {
+      "color": { "value": "{hof-van-twente.color.turquoise.31}" },  
+      "block-size": { "value": "{hof-van-twente.size.4xs}" },
+      "margin-block-end": { "value": "0px" },
+      "margin-block-start": { "value": "0px" }
+    }
+  }
+}

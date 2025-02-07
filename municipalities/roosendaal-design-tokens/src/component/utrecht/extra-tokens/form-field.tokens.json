@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{roosendaal.color.succes}" },
+        "warning-color": { "value": "{roosendaal.color.warning}" },
+        "invalid-color": { "value": "{roosendaal.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}

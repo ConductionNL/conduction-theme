@@ -1,0 +1,34 @@
+{
+  "utrecht": {
+    "form-input": {
+      "border-bottom-width": {},
+      "border-color": { "value": "{hof-van-twente.color.grey.48}" },
+      "border-radius": { "value": "3px" },
+      "border-width": { "value": "{hof-van-twente.size.4xs}" },
+      "color": { "value": "{hof-van-twente.color.grey.29}" },
+      "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+      "font-size": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },
+      "min-inline-height": {},
+      "max-inline-size": {},
+      "padding-block-end": { "value": "{hof-van-twente.size.xs}" },
+      "padding-block-start": { "value": "{hof-van-twente.size.xs}" },
+      "padding-inline-end": { "value": "{hof-van-twente.size.sm}" },
+      "padding-inline-start": { "value": "{hof-van-twente.size.sm}" },
+      "disabled": {
+        "border-color": { "value": "{hof-van-twente.color.grey.87}" },
+        "color": {}
+      },
+      "invalid": {
+        "border-color": { "value": "{hof-van-twente.color.error}" },
+        "border-width": { "value": "{hof-van-twente.size.4xs}" }
+      },
+      "read-only": {
+        "border-color": { "value": "{hof-van-twente.color.grey.48}" },
+        "color": {}
+      }
+    }
+  }
+}

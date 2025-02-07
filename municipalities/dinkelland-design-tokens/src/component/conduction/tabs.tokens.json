@@ -47,7 +47,8 @@
         "hover": {
           "background-color": { "value": "{dinkelland.color.blue.96}" },
           "color": { "value": "{dinkelland.color.blue.36}" },
-          "text-decoration": { "value": "underline" }
+          "text-decoration": { "value": "underline" },
+          "font-weight": {}
         },
         "list": {
           "padding-inline-start": {},

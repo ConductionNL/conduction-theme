@@ -1,0 +1,33 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{bct.color.white.98}" },
+      "border-color": {},
+      "border-style": {},
+      "border-width": {},
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": { "value": "{bct.size.md}" },
+      "transition": {},
+      "box-shadow": {},
+      "color": { "value": "{bct.color.black.0}" },
+      "hover": {
+        "background-color": {},
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {}
+      },
+      "padding-inline-end": { "value": "{bct.size.md}" },
+      "padding-inline-start": { "value": "{bct.size.md}" },
+      "padding-block-end": { "value": "{bct.size.md}" },
+      "padding-block-start": { "value": "{bct.size.md}" }
+    }
+  }
+}

@@ -47,7 +47,8 @@
         "hover": {
           "background-color": {},
           "color": { "value": "{gouda.color.grey.29}" },
-          "text-decoration": {}
+          "text-decoration": {},
+          "font-weight": {}
         },
         "list": {
           "padding-inline-start": { "value": "0px" },

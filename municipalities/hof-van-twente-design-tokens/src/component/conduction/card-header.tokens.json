@@ -1,0 +1,27 @@
+{
+  "conduction": {
+    "card-header": {
+      "background-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "color": { "value": "{utrecht.document.color}" },
+      "hover": {
+        "background-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
+      },
+      "title": {
+        "color": { "value": "{hof-van-twente.color.primary}" }
+      },
+      "date": {
+        "color": { "value": "{hof-van-twente.color.black.0}" },
+        "font-size": { "value": "{hof-van-twente.font-size.sm}" },
+        "font-weight": { "value": "{hof-van-twente.typography.font-weight.light}" },
+        "font-style": {},
+        "margin-block-end": { "value": "{hof-van-twente.size.xs}" }
+      }
+    }
+  }
+}

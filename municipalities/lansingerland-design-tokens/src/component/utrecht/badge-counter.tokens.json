@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "badge-counter": {
+      "background-color": { "value": "{lansingerland.color.primary}" },
+      "border-radius": { "value": "50%" },
+      "color": { "value": "{lansingerland.color.white.100}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "font-weight": { "value": "{lansingerland.typography.font-weight.normal}" },
+      "padding-block": { "value": "{lansingerland.size.2xs}" },
+      "padding-inline": { "value": "{lansingerland.size.2xs}" }
+    }
+  }
+}

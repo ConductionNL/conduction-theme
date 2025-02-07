@@ -4,6 +4,11 @@
       "top-nav": {
         "color": { "value": "{gouda.color.black.0}" },
         "background-color": { "value": "{gouda.color.white.100}" },
+        "list": {
+          "border-color": {},
+          "border-style": {},
+          "border-width": {}
+        },
         "hover": {
           "color": { "value": "{gouda.color.black.0}" },
           "background-color": { "value": "{gouda.color.white.100}" },
@@ -25,6 +30,7 @@
           "border-width": {},
           "border-style": {},
           "border-color": {},
+          "font-weight": { "value": "{gouda.typography.font-weight.normal}" },
           "hover": {
             "color": { "value": "{gouda.color.white.100}" },
             "background-color": { "value": "{gouda.color.primary}" },
@@ -43,7 +49,11 @@
         },
         "item": {
           "padding": { "value": "18px" },
-          "border-radius": {}
+          "border-radius": {},
+          "border-color": {},
+          "border-style": {},
+          "border-width": {},
+          "transition": {}
         },
         "padding-inline-end": { "value": "16px" },
         "padding-inline-start": { "value": "16px" },

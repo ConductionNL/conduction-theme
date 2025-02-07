@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{dimpact.color.succes}" },
+        "warning-color": { "value": "{dimpact.color.warning}" },
+        "invalid-color": { "value": "{dimpact.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}

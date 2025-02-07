@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{migrato.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{migrato.color.white.100} " },
+      "font-size": { "value": "{migrato.font-size.sm}" },
+      "font-weight": { "value": "{migrato.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{migrato.size.xs}" },
+      "padding-inline": { "value": "{migrato.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}

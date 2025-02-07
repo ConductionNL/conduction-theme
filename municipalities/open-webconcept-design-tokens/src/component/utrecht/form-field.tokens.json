@@ -1,0 +1,17 @@
+{
+  "utrecht": {
+    "form-field": {
+      "margin-block-start": { "value": "13px" },
+      "margin-block-end": { "value": "{open-webconcept.size.2xs}" },
+      "max-inline-size": {},
+      "invalid": {
+        "border-inline-start-color": { "value": "{open-webconcept.color.error}" },
+        "border-inline-start-width": { "value": "3px" },
+        "padding-inline-start": { "value": "12px" }
+      },
+      "label": {
+        "margin-block-end": {}
+      }
+    }
+  }
+}

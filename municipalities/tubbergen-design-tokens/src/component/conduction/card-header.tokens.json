@@ -19,6 +19,7 @@
         "color": { "value": "{utrecht.document.color}" },
         "font-size": { "value": "{tubbergen.font-size.sm}" },
         "font-weight": { "value": "{tubbergen.typography.font-weight.light}" },
+        "font-style": {},
         "margin-block-end": { "value": "{tubbergen.size.xs}" }
       }
     }

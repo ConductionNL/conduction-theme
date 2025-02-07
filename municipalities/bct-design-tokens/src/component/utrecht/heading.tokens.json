@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{bct.color.grey.20}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
+      "font-size": { "value": "{bct.font-size.3xl}" },
+      "font-weight": { "value": "{bct.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{bct.size.2xl}" },
+      "margin-block-start": { "value": "{bct.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{bct.color.pink.45}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
+      "font-size": { "value": "{bct.font-size.2xl}" },
+      "font-weight": { "value": "{bct.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{bct.size.2xl}" },
+      "margin-block-start": { "value": "{bct.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{bct.color.grey.32}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
+      "font-size": { "value": "{bct.font-size.xl}" },
+      "font-weight": { "value": "{bct.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{bct.size.xl}" },
+      "margin-block-start": { "value": "{bct.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{bct.color.grey.32}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
+      "font-size": { "value": "{bct.font-size.xl}" },
+      "font-weight": { "value": "{bct.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{bct.size.lg}" },
+      "margin-block-start": { "value": "{bct.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{bct.color.grey.32}" },
+      "font-family": { "value": "{bct.typography.roboto-slab.font-family}" },
+      "font-size": { "value": "{bct.font-size.md}" },
+      "font-weight": { "value": "{bct.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{bct.size.lg}" },
+      "margin-block-start": { "value": "{bct.size.md}" }
+    }
+  }
+}

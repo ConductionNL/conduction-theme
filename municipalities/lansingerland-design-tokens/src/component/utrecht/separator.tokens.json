@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "separator": {
+      "color": { "value": "{lansingerland.color.lightgrey.83}" },
+      "block-size": { "value": "{lansingerland.size.4xs}" },
+      "margin-block-end": { "value": "0px" },
+      "margin-block-start": { "value": "0px" }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "@conduction/theme",
-  "version": "1.1.32",
+  "version": "1.1.42",
   "description": "Conduction's design tokens theme",
   "main": "index.js",
   "repository": {
@@ -28,10 +28,17 @@
     "build:gouda": "cd ./municipalities/gouda-design-tokens && npm run build",
     "build:zuiddrecht": "cd ./municipalities/zuiddrecht-design-tokens && npm run build",
     "build:roosendaal": "cd ./municipalities/roosendaal-design-tokens && npm run build",
-    "build:gooise-meren": "cd ./municipalities/gooise-meren-design-tokens && npm run build"
+    "build:gooise-meren": "cd ./municipalities/gooise-meren-design-tokens && npm run build",
+    "build:moerdijk": "cd ./municipalities/moerdijk-design-tokens && npm run build",
+    "build:hof-van-twente": "cd ./municipalities/hof-van-twente-design-tokens && npm run build",
+    "build:lansingerland": "cd ./municipalities/lansingerland-design-tokens && npm run build",
+    "build:bct": "cd ./municipalities/bct-design-tokens && npm run build",
+    "build:ede": "cd ./municipalities/ede-design-tokens && npm run build",
+    "build:migrato": "cd ./municipalities/migrato-design-tokens && npm run build"
   },
   "dependencies": {
     "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100",
+    "npm-run-all": "^4.1.5",
     "sass": "^1.70.0",
     "style-dictionary": "^3.9.2"
   },

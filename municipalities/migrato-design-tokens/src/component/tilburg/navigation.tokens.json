@@ -1,0 +1,15 @@
+{
+  "tilburg": {
+    "navigation": {
+      "background-color": { "value": "var(--rotterdam-color-base-white)" },
+      "color": { "value": "#404B4F" },
+      "font-weight": { "value": "400" },
+      "hover": {
+        "background-color": { "value": "var(--rotterdam-color-base-white)" },
+        "color": { "value": "var(--rotterdam-color-base-green)" },
+        "font-weight": { "value": "400" },
+        "font-family": { "value": "var(--utrecht-document-font-family)" }
+      }
+    }
+  }
+}

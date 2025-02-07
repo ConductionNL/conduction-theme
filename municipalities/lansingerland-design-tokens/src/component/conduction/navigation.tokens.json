@@ -1,0 +1,104 @@
+{
+  "conduction": {
+    "primary": {
+      "top-nav": {
+        "container": {
+          "padding-inline-start": {},
+          "padding-inline-end": {},
+          "padding-block-start": { "value": "17px" },
+          "padding-block-end": { "value": "17px" }
+        },
+        "color": { "value": "{lansingerland.color.black.0}" },
+        "background-color": { "value": "{lansingerland.color.white.100}" },
+        "list": {
+          "border-color": {},
+          "border-style": {},
+          "border-width": {},
+          "gap": { "value": "15px" }
+        },
+        "hover": {
+          "color": { "value": "{lansingerland.color.black.0}" },
+          "background-color": { "value": "{lansingerland.color.white.100}" },
+          "box-shadow": { "value": "inset 0 -2px  {lansingerland.color.primary}" },
+          "font-weight": {}
+        },
+        "current": {
+          "color": { "value": "{lansingerland.color.black.0}" },
+          "background-color": { "value": "{lansingerland.color.white.100}" },
+          "box-shadow": { "value": "inset 0 -2px  {lansingerland.color.primary}" },
+          "font-weight": { "value": "{lansingerland.typography.font-weight.bold}" },
+          "mobile": {
+            "box-shadow": { "value": "none" }
+          },
+          "hover": {
+            "font-weight": { "value": "{lansingerland.typography.font-weight.bold}" },
+            "box-shadow": { "value": "inset 0 -2px  {lansingerland.color.primary}" }
+          }
+        },
+        "dropdown": {
+          "color": { "value": "{lansingerland.color.black.0}" },
+          "background-color": { "value": "{lansingerland.color.white.100}" },
+          "border-width": {},
+          "border-style": {},
+          "border-color": {},
+          "font-weight": { "value": "{lansingerland.typography.font-weight.normal}" },
+          "hover": {
+            "color": { "value": "{lansingerland.color.white.100}" },
+            "background-color": { "value": "{lansingerland.color.primary}" },
+            "box-shadow": {},
+            "font-weight": { "value": "{lansingerland.typography.font-weight.normal}" }
+          },
+          "current": {
+            "color": { "value": "{lansingerland.color.black.0}" },
+            "background-color": { "value": "{lansingerland.color.white.100}" },
+            "box-shadow": { "value": "none" },
+            "mobile": {
+              "box-shadow": { "value": "none" }
+            },
+            "font-weight": { "value": "{lansingerland.typography.font-weight.bold}" },
+            "hover": {
+              "font-weight": { "value": "{lansingerland.typography.font-weight.bold}" },
+              "box-shadow": { "value": "inset 0 -2px  {lansingerland.color.primary}" }
+            }
+          }
+        },
+        "item": {
+          "padding": { "value": "18px" },
+          "border-radius": {},
+          "border-color": {},
+          "border-style": {},
+          "border-width": {},
+          "transition": { "value": "all .3s ease" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    },
+    "secondary": {
+      "top-nav": {
+        "color": { "value": "{lansingerland.color.grey.29}" },
+        "background-color": { "value": "transparent" },
+        "hover": {
+          "color": { "value": "{lansingerland.color.black.0}" },
+          "background-color": { "value": "{lansingerland.color.white.100}" }
+        },
+        "current": {
+          "color": { "value": "{lansingerland.color.black.0}" },
+          "background-color": { "value": "{lansingerland.color.white.100}" },
+          "box-shadow": { "value": "unset" }
+        },
+        "font-size": { "value": "{lansingerland.font-size.md}" },
+        "font-weight": { "value": "400" },
+        "item": {
+          "padding": { "value": "18px" }
+        },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "padding-block-end": { "value": "16px" },
+        "padding-block-start": { "value": "16px" }
+      }
+    }
+  }
+}

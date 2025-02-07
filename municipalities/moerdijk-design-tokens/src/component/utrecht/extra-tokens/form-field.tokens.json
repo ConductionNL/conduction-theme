@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{moerdijk.color.succes}" },
+        "warning-color": { "value": "{moerdijk.color.warning}" },
+        "invalid-color": { "value": "{moerdijk.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}

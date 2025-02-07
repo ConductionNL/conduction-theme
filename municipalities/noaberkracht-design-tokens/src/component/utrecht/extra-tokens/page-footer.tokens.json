@@ -29,7 +29,8 @@
         "hover": {
           "color": {},
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "{noaberkracht.size.4xs}" }
+          "text-decoration-thickness": { "value": "{noaberkracht.size.4xs}" },
+          "font-weight": {}
         }
       }
     }

@@ -1,0 +1,17 @@
+{
+  "conduction": {
+    "tooltip": {
+      "background-color": { "value": "{hof-van-twente.color.black.0}" },
+      "color": { "value": "{hof-van-twente.color.white.100}" },
+      "padding-block-start": { "value": "{hof-van-twente.size.xs}" },
+      "padding-block-end": { "value": "{hof-van-twente.size.xs}" },
+      "padding-inline-start": { "value": "{hof-van-twente.size.sm}" },
+      "padding-inline-end": { "value": "{hof-van-twente.size.sm}" },
+      "border-width": { "value": "0px" },
+      "border-style": { "value": "unset" },
+      "border-color": { "value": "unset" },
+      "border-radius": { "value": "0px" },
+      "z-index": { "value": "9999" }
+    }
+  }
+}

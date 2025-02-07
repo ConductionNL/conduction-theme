@@ -1,0 +1,14 @@
+/* Place any @font-face definitions here */
+
+@font-face {
+  font-family: "Inter";
+  src: url("../src/font/inter-regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter SemiBold";
+  src: url("../src/font/inter-semibold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter Bold";
+  src: url("../src/font/inter-bold.woff2") format("woff2");
+}

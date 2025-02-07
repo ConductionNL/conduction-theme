@@ -1,0 +1,31 @@
+{
+  "utrecht": {
+    "ordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{hof-van-twente.size.sm}" },
+      "margin-block-end": { "value": "{hof-van-twente.size.sm}" },
+      "padding-inline-start": { "value": "2ch" },
+      "item": {
+        "margin-block-start": { "value": "{hof-van-twente.size.2xs}" },
+        "margin-block-end": { "value": "{hof-van-twente.size.2xs}" },
+        "padding-inline-start": { "value": "{hof-van-twente.size.xs}" }
+      }
+    },
+    "unordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{hof-van-twente.size.sm}" },
+      "margin-block-end": { "value": "{hof-van-twente.size.sm}" },
+      "padding-inline-start": { "value": "1ch" },
+      "item": {
+        "margin-block-start": { "value": "{hof-van-twente.size.2xs}" },
+        "margin-block-end": { "value": "{hof-van-twente.size.2xs}" },
+        "padding-inline-start": { "value": "{hof-van-twente.size.sm}" }
+      },
+      "marker": {
+        "color": { "value": "{hof-van-twente.color.primary}" }
+      }
+    }
+  }
+}
