@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "page-footer": {
-      "heading-color": { "value": "{migrato.color.primary}" },
+      "heading-color": { "value": "{migrato.color.green.46}" },
       "font-size": {},
       "font-family": {},
       "min-height": {},
