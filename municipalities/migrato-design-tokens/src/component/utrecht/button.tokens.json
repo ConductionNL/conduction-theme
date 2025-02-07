@@ -100,8 +100,8 @@
           "color": { "value": "{migrato.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{migrato.color.orange.47}" },
-          "border-color": { "value": "{migrato.color.orange.47}" },
+          "background-color": { "value": "{migrato.color.orange.47-90t}" },
+          "border-color": { "value": "{migrato.color.orange.47-90t}" },
           "color": { "value": "{migrato.color.white.100}" }
         },
         "focus": {
