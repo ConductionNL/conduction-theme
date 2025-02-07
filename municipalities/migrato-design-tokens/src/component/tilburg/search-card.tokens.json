@@ -1,0 +1,9 @@
+{
+  "tilburg": {
+    "search-card": {
+      "hover": {
+        "border-color": { "value": "var(--rotterdam-color-green-tint-01)" }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tilburg": {
+    "logo": {
+      "color": { "value": "var(--rotterdam-color-gray-tint-11)" }
+    }
+  }
+}

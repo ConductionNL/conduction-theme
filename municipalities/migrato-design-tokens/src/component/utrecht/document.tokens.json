@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{migrato.color.white.98}" },
+      "color": { "value": "{migrato.color.black.0}" },
+      "font-family": { "value": "{migrato.typography.eau-sans.font-family}" },
+      "font-size": { "value": "{migrato.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}

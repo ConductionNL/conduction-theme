@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{migrato.typography.eau-sans.font-family}" },
+      "font-size": { "value": "{migrato.font-size.3xl}" },
+      "font-weight": { "value": "{migrato.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{migrato.size.2xl}" },
+      "margin-block-start": { "value": "{migrato.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{migrato.typography.eau-sans.font-family}" },
+      "font-size": { "value": "{migrato.font-size.2xl}" },
+      "font-weight": { "value": "{migrato.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{migrato.size.2xl}" },
+      "margin-block-start": { "value": "{migrato.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{migrato.typography.eau-sans.font-family}" },
+      "font-size": { "value": "{migrato.font-size.lg}" },
+      "font-weight": { "value": "{migrato.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{migrato.size.xl}" },
+      "margin-block-start": { "value": "{migrato.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{migrato.typography.eau-sans.font-family}" },
+      "font-size": { "value": "{migrato.font-size.md}" },
+      "font-weight": { "value": "{migrato.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{migrato.size.lg}" },
+      "margin-block-start": { "value": "{migrato.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{migrato.typography.eau-sans.font-family}" },
+      "font-size": { "value": "{migrato.font-size.sm}" },
+      "font-weight": { "value": "{migrato.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{migrato.size.lg}" },
+      "margin-block-start": { "value": "{migrato.size.md}" }
+    }
+  }
+}
