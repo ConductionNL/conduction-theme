@@ -1,7 +1,7 @@
 {
   "tilburg": {
     "header": {
-      "background-color": { "value": "var(--rotterdam-color-base-white)" }
+      "background-color": { "value": "{migrato.color.white.100}" }
     }
   }
 }

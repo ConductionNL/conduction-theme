@@ -1,12 +1,12 @@
 {
   "tilburg": {
     "navigation": {
-      "background-color": { "value": "var(--rotterdam-color-base-white)" },
-      "color": { "value": "#404B4F" },
+      "background-color": { "value": "{migrato.color.white.100}" },
+      "color": { "value": "{migrato.color.grey.50}" },
       "font-weight": { "value": "400" },
       "hover": {
-        "background-color": { "value": "var(--rotterdam-color-base-white)" },
-        "color": { "value": "var(--rotterdam-color-base-green)" },
+        "background-color": { "value": "{migrato.color.white.100}" },
+        "color": { "value": "{migrato.color.grey.20}" },
         "font-weight": { "value": "400" },
         "font-family": { "value": "var(--utrecht-document-font-family)" }
       }

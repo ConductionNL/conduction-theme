@@ -1,7 +1,7 @@
 {
   "tilburg": {
     "logo": {
-      "color": { "value": "var(--rotterdam-color-gray-tint-11)" }
+      "color": { "value": "{migrato.color.black.0}" }
     }
   }
 }
