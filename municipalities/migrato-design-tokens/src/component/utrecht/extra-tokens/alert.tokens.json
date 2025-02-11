@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "alert": {
+      "border-radius": { "value": "{migrato.size.2xs}" },
+      "icon": {
+        "gap": { "value": "{migrato.size.xs}" }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tilburg": {
+    "header": {
+      "background-color": { "value": "var(--rotterdam-color-base-white)" }
+    }
+  }
+}

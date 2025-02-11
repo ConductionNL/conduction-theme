@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "min-block-size": { "value": "16px" },
+      "min-inline-size": { "value": "16px" },
+      "checked-disabled": {
+        "border-color": { "value": "{migrato.color.grey.82}" },
+        "border-width": { "value": "{migrato.size.4xs}" },
+        "background-color": { "value": "{migrato.color.white.100}" },
+        "color": { "value": "{migrato.color.grey.82}" }
+      }
+    }
+  }
+}
