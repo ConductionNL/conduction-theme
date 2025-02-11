@@ -2,7 +2,7 @@
   "tilburg": {
     "search-card": {
       "hover": {
-        "border-color": { "value": "var(--rotterdam-color-green-tint-01)" }
+        "border-color": { "value": "{migrato.color.primary}" }
       }
     }
   }
