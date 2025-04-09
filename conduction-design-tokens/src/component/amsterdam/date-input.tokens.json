@@ -1,5 +1,5 @@
 {
-  "amsterdam": {
+  "ams": {
     "date-input": {
       "background-color": { "value": "{utrecht.textbox.background-color}" },
       "box-shadow": { "value": "" },
