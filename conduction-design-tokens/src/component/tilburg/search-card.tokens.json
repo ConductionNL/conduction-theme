@@ -1,0 +1,9 @@
+{
+  "tilburg": {
+    "search-card": {
+      "hover": {
+        "border-color": { "value": "{conduction.color.primary}" }
+      }
+    }
+  }
+}
