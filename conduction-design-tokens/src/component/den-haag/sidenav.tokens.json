@@ -1,0 +1,31 @@
+{
+  "denhaag": {
+    "sidenav": {
+      "link": {
+        "padding-block-end": { "value": "{conduction.size.2xs}" },
+        "padding-block-start": { "value": "{conduction.size.2xs}" },
+        "active-font-weight": { "value": "{conduction.typography.font-weight.bold}" },
+        "active-color": { "value": "{conduction.color.primary}" },
+        "hover-color": { "value": "{conduction.color.primary}" },
+        "color": {},
+        "label-gap": {}
+      },
+      "item": {
+        "margin-inline-end": {},
+        "margin-inline-start": {},
+        "margin-block-end": {},
+        "margin-block-start": {},
+        "line-height": {},
+        "height": {},
+        "font-weight": { "value": "{conduction.typography.font-weight.normal}" },
+        "font-size": { "value": "{conduction.font-size.md}" },
+        "font-family": { "value": "{utrecht.document.font-family}" }
+      },
+      "mobile-display": {},
+      "min-width": {},
+      "flex-direction": { "value": "column" },
+      "display": { "value": "flex" },
+      "row-gap": { "value": "{conduction.size.2xs}" }
+    }
+  }
+}
