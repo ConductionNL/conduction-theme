@@ -17,8 +17,8 @@
       "alert-succes": { "value": "#155724" },
       "alert-succes-background": { "value": "#d4edda" },
       "info": { "value": "{oude-ijsselstreek.color.primary}" },
-      "alert-info": { "value": "#004085" },
-      "alert-info-background": { "value": "#cce5ff" },
+      "alert-info": { "value": "{oude-ijsselstreek.color.orange.15}" },
+      "alert-info-background": { "value": "{oude-ijsselstreek.color.orange.88}" },
       "dark-blue": {
         "16": {
           "value": "#0f1d43",
@@ -32,6 +32,18 @@
         },
         "93": {
           "value": "#e1e8fa"
+        }
+      },
+      "orange": {
+        "15": {
+          "value": "#451b07"
+        },
+        "61": {
+          "value": "#ec7e4b",
+          "comment": "Base/Orange"
+        },
+        "88": {
+          "value": "#f8d7c8"
         }
       },
       "grey": {
