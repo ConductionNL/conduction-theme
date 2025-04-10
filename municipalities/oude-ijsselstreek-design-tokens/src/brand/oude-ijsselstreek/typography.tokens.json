@@ -15,6 +15,9 @@
         "bold": {
           "value": "700"
         },
+        "semibold": {
+          "value": "500"
+        },
         "normal": {
           "value": "400"
         },

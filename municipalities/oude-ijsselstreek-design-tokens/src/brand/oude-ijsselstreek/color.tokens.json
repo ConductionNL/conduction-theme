@@ -29,6 +29,9 @@
         "34": {
           "value": "#006bad",
           "comment": "Base/Blue"
+        },
+        "93": {
+          "value": "#e1e8fa"
         }
       },
       "grey": {
