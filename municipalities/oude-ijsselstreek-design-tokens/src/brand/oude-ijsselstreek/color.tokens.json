@@ -53,6 +53,9 @@
         "26": {
           "value": "#018352",
           "comment": "Base/Green"
+        },
+        "32": {
+          "value": "#00a365"
         }
       },
       "grey": {
