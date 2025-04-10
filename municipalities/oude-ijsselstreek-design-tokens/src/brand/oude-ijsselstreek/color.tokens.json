@@ -46,6 +46,15 @@
           "value": "#f8d7c8"
         }
       },
+      "green": {
+        "16": {
+          "value": "#025130"
+        },
+        "26": {
+          "value": "#018352",
+          "comment": "Base/Green"
+        }
+      },
       "grey": {
         "27": {
           "value": "#444444"
