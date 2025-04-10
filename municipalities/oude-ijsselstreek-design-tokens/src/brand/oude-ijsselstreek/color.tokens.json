@@ -20,6 +20,9 @@
       "alert-info": { "value": "{oude-ijsselstreek.color.orange.15}" },
       "alert-info-background": { "value": "{oude-ijsselstreek.color.orange.88}" },
       "dark-blue": {
+        "9": {
+          "value": "#081026"
+        },
         "16": {
           "value": "#0f1d43",
           "comment": "Base/Dark Blue"

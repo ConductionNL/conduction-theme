@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{oude-ijsselstreek.color.dark-blue.9}" },
+      "font-family": { "value": "{oude-ijsselstreek.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{oude-ijsselstreek.font-size.3xl}" },
+      "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{oude-ijsselstreek.size.2xl}" },
+      "margin-block-start": { "value": "{oude-ijsselstreek.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{oude-ijsselstreek.color.dark-blue.9}" },
+      "font-family": { "value": "{oude-ijsselstreek.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{oude-ijsselstreek.font-size.2xl}" },
+      "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{oude-ijsselstreek.size.2xl}" },
+      "margin-block-start": { "value": "{oude-ijsselstreek.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{oude-ijsselstreek.color.dark-blue.9}" },
+      "font-family": { "value": "{oude-ijsselstreek.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{oude-ijsselstreek.font-size.xl}" },
+      "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{oude-ijsselstreek.size.xl}" },
+      "margin-block-start": { "value": "{oude-ijsselstreek.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{oude-ijsselstreek.color.dark-blue.9}" },
+      "font-family": { "value": "{oude-ijsselstreek.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{oude-ijsselstreek.font-size.lg}" },
+      "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{oude-ijsselstreek.size.lg}" },
+      "margin-block-start": { "value": "{oude-ijsselstreek.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{oude-ijsselstreek.color.dark-blue.9}" },
+      "font-family": { "value": "{oude-ijsselstreek.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{oude-ijsselstreek.font-size.md}" },
+      "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{oude-ijsselstreek.size.lg}" },
+      "margin-block-start": { "value": "{oude-ijsselstreek.size.md}" }
+    }
+  }
+}
