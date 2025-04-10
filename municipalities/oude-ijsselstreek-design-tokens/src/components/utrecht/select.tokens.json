@@ -1,0 +1,47 @@
+{
+  "utrecht": {
+    "select": {
+      "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+      "background-image": {
+        "value": "url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSI4IiB2aWV3Qm94PSIwIDAgMTQgOCIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI5Mjg5MyAwLjI5Mjg5M0MwLjY4MzQxNyAtMC4wOTc2MzExIDEuMzE2NTggLTAuMDk3NjMxMSAxLjcwNzExIDAuMjkyODkzTDcgNS41ODU3OUwxMi4yOTI5IDAuMjkyODkzQzEyLjY4MzQgLTAuMDk3NjMxMSAxMy4zMTY2IC0wLjA5NzYzMTEgMTMuNzA3MSAwLjI5Mjg5M0MxNC4wOTc2IDAuNjgzNDE3IDE0LjA5NzYgMS4zMTY1OCAxMy43MDcxIDEuNzA3MTFMNy43MDcxMSA3LjcwNzExQzcuMzE2NTggOC4wOTc2MyA2LjY4MzQyIDguMDk3NjMgNi4yOTI4OSA3LjcwNzExTDAuMjkyODkzIDEuNzA3MTFDLTAuMDk3NjMxMSAxLjMxNjU4IC0wLjA5NzYzMTEgMC42ODM0MTcgMC4yOTI4OTMgMC4yOTI4OTNaIiBmaWxsPSIjY2NjY2NjIi8+PC9zdmc+')"
+      },
+      "border-block-end-width": {},
+      "border-bottom-width": {},
+      "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+      "border-radius": { "value": "{oude-ijsselstreek.size.3xs}" },
+      "border-width": { "value": "{oude-ijsselstreek.size.4xs}" },
+      "color": {},
+      "font-family": {},
+      "font-size": {},
+      "font-weight": {},
+      "line-height": {},
+      "min-block-size": {},
+      "max-inline-size": {},
+      "padding-block-end": { "value": "{oude-ijsselstreek.size.3xs}" },
+      "padding-block-start": { "value": "{oude-ijsselstreek.size.3xs}" },
+      "padding-inline-end": { "value": "{oude-ijsselstreek.size.xs}" },
+      "padding-inline-start": { "value": "{oude-ijsselstreek.size.xs}" },
+      "disabled": {
+        "background-color": { "value": "{oude-ijsselstreek.color.grey.82}" },
+        "border-color": { "value": "{oude-ijsselstreek.color.grey.82}" },
+        "color": { "value": "{oude-ijsselstreek.color.grey.50}" }
+      },
+      "hover": {
+        "background-color": {},
+        "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+        "color": {}
+      },
+      "focus": {
+        "background-color": {},
+        "border-color": {},
+        "color": {}
+      },
+      "invalid": {
+        "background-color": {},
+        "border-block-end-width": {},
+        "border-color": { "value": "{oude-ijsselstreek.color.error}" },
+        "border-width": {}
+      }
+    }
+  }
+}

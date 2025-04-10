@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "select": {
+      "hover": {
+        "border-width": { "value": "{oude-ijsselstreek.size.3xs}" }
+      }
+    }
+  }
+}
