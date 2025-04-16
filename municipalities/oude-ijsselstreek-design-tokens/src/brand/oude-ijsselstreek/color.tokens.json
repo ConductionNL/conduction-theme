@@ -101,6 +101,9 @@
         }
       },
       "lightgrey": {
+        "93": {
+          "value": "#eceeef"
+        },
         "94": {
           "value": "#f2eeed"
         },

@@ -23,7 +23,7 @@
         },
         "font-family": { "value": "{oude-ijsselstreek.typography.sans-serif.font-family}" },
         "font-size": { "value": "{oude-ijsselstreek.font-size.xl}" },
-        "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.semibold}" },
+        "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.normal}" },
         "hover": {
           "background-color": { "value": "{oude-ijsselstreek.color.blue.93}" },
           "border-color": { "value": "{oude-ijsselstreek.color.primary}" },

@@ -3,7 +3,7 @@
     "typography": {
       "sans-serif": {
         "font-family": {
-          "value": "\"Gill Sans\", Arial, Helvetica, sans-serif"
+          "value": "\"Gill Sans\", monospace"
         }
       },
       "monospace": {
@@ -15,14 +15,11 @@
         "bold": {
           "value": "700"
         },
-        "semibold": {
+        "normal": {
           "value": "500"
         },
-        "normal": {
-          "value": "400"
-        },
         "light": {
-          "value": "100"
+          "value": "400"
         }
       },
       "scale": {

@@ -1,6 +1,11 @@
 {
   "ams": {
     "pagination": {
+      "background-color": {},
+      "padding-block-start": {},
+      "padding-block-end": {},
+      "padding-inline-start": {},
+      "padding-inline-end": {},
       "color": { "value": "{conduction.color.black.0}" },
       "gap": { "value": "{conduction.size.2xs}" },
       "font-size": { "value": "{utrecht.document.font-size}" },
@@ -23,30 +28,36 @@
         "padding-inline": { "value": "{conduction.size.xs}" },
         "padding-block-start": { "value": "{conduction.size.xs}" },
         "padding-block-end": { "value": "{conduction.size.xs}" },
+        "padding-block": { "value": "{conduction.size.xs}" },
         "text-decoration": {},
+        "text-decoration-thickness": {},
         "active": {
           "background-color": {},
           "border-color": {},
           "color": {},
-          "text-decoration": {}
+          "text-decoration": {},
+          "text-decoration-thickness": {}
         },
         "current": {
           "background-color": { "value": "{conduction.color.primary}" },
           "border-color": {},
           "color": { "value": "{conduction.color.white.100}" },
           "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
-          "text-decoration": { "value": "unset" }
+          "text-decoration": { "value": "unset" },
+          "text-decoration-thickness": {}
         },
         "focus": {
           "background-color": {},
           "color": {},
-          "text-decoration": {}
+          "text-decoration": {},
+          "text-decoration-thickness": {}
         },
         "hover": {
           "background-color": {},
           "border-color": {},
           "color": { "value": "{conduction.color.primary}" },
-          "text-decoration": {}
+          "text-decoration": {},
+          "text-decoration-thickness": {}
         }
       },
       "navigation-button": {
@@ -76,7 +87,8 @@
           "padding-block-start": { "value": "{conduction.size.xs}" },
           "padding-inline-end": { "value": "{conduction.size.xs}" },
           "padding-inline-start": { "value": "{conduction.size.xs}" },
-          "text-decoration": {}
+          "text-decoration": {},
+          "text-decoration-thickness": {}
         }
       },
       "description": {

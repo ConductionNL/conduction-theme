@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "skip-link": {
-      "font-weight": {},
+      "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.normal}" },
       "font-size": { "value": "24px" },
       "outline-style": {},
       "outline-color": {},
