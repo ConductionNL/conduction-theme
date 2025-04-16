@@ -1,0 +1,28 @@
+{
+  "conduction": {
+    "download-card": {
+      "background-color": {},
+      "title": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-size": { "value": "{oude-ijsselstreek.font-size.md}" },
+        "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.bold}" },
+        "font-family": { "value": "{oude-ijsselstreek.typography.sans-serif.font-family}" },
+        "margin-inline-end": { "value": "{oude-ijsselstreek.size.sm}" }
+      },
+      "border-width": { "value": "{oude-ijsselstreek.size.4xs}" },
+      "border-style": { "value": "solid" },
+      "border-color": { "value": "{oude-ijsselstreek.color.grey.82}" },
+      "border-radius": { "value": "{oude-ijsselstreek.size.3xs}" },
+      "icon": {
+        "gap": {
+          "value": "{oude-ijsselstreek.size.xs}"
+        },
+        "color": {}
+      },
+      "padding-inline-end": { "value": "{oude-ijsselstreek.size.md}" },
+      "padding-inline-start": { "value": "{oude-ijsselstreek.size.md}" },
+      "padding-block-end": { "value": "{oude-ijsselstreek.size.md}" },
+      "padding-block-start": { "value": "{oude-ijsselstreek.size.md}" }
+    }
+  }
+}
