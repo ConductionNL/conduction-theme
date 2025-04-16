@@ -1,0 +1,68 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+      "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+      "border-width": { "value": "{oude-ijsselstreek.size.4xs}" },
+      "size": {},
+      "margin-block-start": {},
+      "icon": {
+        "size": { "value": "5px" }
+      },
+      "active": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "checked": {
+        "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+        "border-width": { "value": "{oude-ijsselstreek.size.4xs}" },
+        "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+        "color": { "value": "{oude-ijsselstreek.color.primary}" },
+        "active": {
+          "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+          "border-width": { "value": "{oude-ijsselstreek.size.4xs}" },
+          "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+          "color": { "value": "{oude-ijsselstreek.color.primary}" }
+        },
+        "hover": {
+          "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+          "border-width": { "value": "{oude-ijsselstreek.size.3xs}" },
+          "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+          "color": { "value": "{oude-ijsselstreek.color.primary}" }
+        },
+        "focus": {
+          "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+          "border-width": { "value": "{oude-ijsselstreek.size.3xs}" },
+          "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+          "color": { "value": "{oude-ijsselstreek.color.primary}" }
+        }
+      },
+      "hover": {
+        "border-color": { "value": "{oude-ijsselstreek.color.grey.31}" },
+        "border-width": { "value": "{oude-ijsselstreek.size.3xs}" },
+        "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+        "color": {}
+      },
+      "focus": {
+        "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+        "border-width": { "value": "{oude-ijsselstreek.size.3xs}" },
+        "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+        "color": { "value": "{oude-ijsselstreek.color.primary}" }
+      },
+      "disabled": {
+        "border-color": { "value": "{oude-ijsselstreek.color.grey.82}" },
+        "border-width": { "value": "{oude-ijsselstreek.size.4xs}" },
+        "background-color": { "value": "{oude-ijsselstreek.color.grey.97}" },
+        "color": { "value": "{oude-ijsselstreek.color.grey.82}" }
+      },
+      "invalid": {
+        "border-color": { "value": "{oude-ijsselstreek.color.error}" },
+        "border-width": { "value": "{oude-ijsselstreek.size.4xs}" },
+        "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+        "color": { "value": "{oude-ijsselstreek.color.error}" }
+      }
+    }
+  }
+}

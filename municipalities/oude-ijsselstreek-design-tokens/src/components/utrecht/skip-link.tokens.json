@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "background-color": { "value": "{oude-ijsselstreek.color.white.98}" },
+      "color": { "value": "{oude-ijsselstreek.color.primary-hover}" },
+      "min-block-size": { "value": "20px" },
+      "min-inline-size": { "value": "20px" },
+      "padding-block-start": { "value": "{oude-ijsselstreek.size.2xs}" },
+      "padding-block-end": { "value": "{oude-ijsselstreek.size.2xs}" },
+      "padding-inline-start": { "value": "{oude-ijsselstreek.size.xs}" },
+      "padding-inline-end": { "value": "{oude-ijsselstreek.size.xs}" },
+      "text-decoration": { "value": "underline" },
+      "z-index": { "value": "100000" }
+    }
+  }
+}

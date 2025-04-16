@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.43: Added Oude IJsselstreek theme.
   - 1.1.42: Added Migrato theme.
   - 1.1.41: Added Ede theme.
   - 1.1.40: Added Tilburg tokens to Rotterdam theme.

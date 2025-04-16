@@ -1,0 +1,35 @@
+{
+  "tilburg": {
+    "search-card": {
+      "background-color": { "value": "{oude-ijsselstreek.color.lightgrey.94}" },
+      "border-color": { "value": "{oude-ijsselstreek.color.lightgrey.94}" },
+      "border-radius": { "value": "0px" },
+      "border-width": { "value": "1px" },
+      "border-style": { "value": "solid" },
+      "padding-inline-start": { "value": "{oude-ijsselstreek.size.sm}" },
+      "padding-inline-end": { "value": "{oude-ijsselstreek.size.sm}" },
+      "padding-block-start": { "value": "{oude-ijsselstreek.size.sm}" },
+      "padding-block-end": { "value": "{oude-ijsselstreek.size.sm}" },
+
+      "icon": {
+        "color": { "value": "{oude-ijsselstreek.color.blue.34}" }
+      },
+      "title": {
+        "color": { "value": "{oude-ijsselstreek.color.blue.34}" },
+        "font-weight": { "value": "bold" }
+      },
+      "hover": {
+        "background-color": { "value": "{oude-ijsselstreek.color.lightgrey.94}" },
+        "border-color": { "value": "{oude-ijsselstreek.color.lightgrey.94}" },
+        "box-shadow": { "value": "none" },
+        "title": {
+          "color": { "value": "{oude-ijsselstreek.color.primary}" },
+          "font-weight": { "value": "bold" }
+        },
+        "icon": {
+          "color": { "value": "{oude-ijsselstreek.color.primary}" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "separator": {
+      "color": { "value": "{oude-ijsselstreek.color.black.0}" },
+      "block-size": { "value": "{oude-ijsselstreek.size.4xs}" },
+      "margin-block-end": { "value": "0px" },
+      "margin-block-start": { "value": "0px" }
+    }
+  }
+}

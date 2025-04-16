@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{oude-ijsselstreek.color.primary}" },
+      "background-image": { "value": "unset" },
+      "color": { "value": "{oude-ijsselstreek.color.white.98}" },
+      "padding-inline-end": { "value": "{oude-ijsselstreek.size.sm}" },
+      "padding-inline-start": { "value": "{oude-ijsselstreek.size.sm}" },
+      "padding-block-end": { "value": "{oude-ijsselstreek.size.2xl}" },
+      "padding-block-start": { "value": "{oude-ijsselstreek.size.2xl}" }
+    }
+  }
+}
