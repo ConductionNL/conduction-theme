@@ -6,7 +6,7 @@
       "outline-color": {},
       "outline-offset": { "value": "2.5px" },
       "outline-style": {},
-      "outline-width": { "value": "hsl(157, 100%, 32%)" },
+      "outline-width": {},
       "inverse": {
         "outline-color": {}
       }
