@@ -6,7 +6,7 @@
       "font-family": { "value": "{oude-ijsselstreek.typography.sans-serif.font-family}" },
       "font-size": { "value": "{oude-ijsselstreek.font-size.md}" },
       "font-weight": {},
-      "line-height": {}
+      "line-height": { "value": "1.7" }
     }
   }
 }
