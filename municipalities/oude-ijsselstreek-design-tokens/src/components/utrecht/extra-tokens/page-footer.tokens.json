@@ -24,7 +24,7 @@
         "color": {},
         "text-decoration": { "value": "underline" },
         "text-decoration-color": {},
-        "text-decoration-thickness": { "value": "2.4px" },
+        "text-decoration-thickness": { "value": "1px" },
         "text-underline-offset": {},
         "text-decoration-skip-ink": { "value": "auto" },
         "hover": {
