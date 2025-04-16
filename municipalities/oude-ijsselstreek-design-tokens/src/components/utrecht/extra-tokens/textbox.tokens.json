@@ -1,6 +1,6 @@
 {
   "utrecht": {
-    "form-input": {
+    "textbox": {
       "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
       "line-height": {},
       "placeholder": {
