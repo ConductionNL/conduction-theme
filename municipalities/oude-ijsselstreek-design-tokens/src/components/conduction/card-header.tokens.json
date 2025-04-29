@@ -13,7 +13,7 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{oude-ijsselstreek.color.primary-hover}" },
+        "color": { "value": "{oude-ijsselstreek.color.primary}" },
         "text-decoration": { "value": "none" },
         "text-underline-offset": { "value": "5px" },
         "hover": {
