@@ -2,7 +2,7 @@
   "tilburg": {
     "search-card": {
       "background-color": { "value": "{dimpact.color.white.100}" },
-      "border-color": { "value": "#cacfd9" },
+      "border-color": { "value": "{dimpact.color.light-grey.82}" },
       "border-radius": { "value": "18px" },
       "border-width": { "value": "1px" },
       "border-style": { "value": "solid" },
