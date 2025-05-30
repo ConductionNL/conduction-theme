@@ -6,6 +6,9 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.46:
+    - Updated dimpact-theme.
+    - Added Tilburg footer and header tokens to Oude Ijsseltreek and Conduction theme
   - 1.1.45: Updated card header color in Oude IJsselstreek theme.
   - 1.1.44: Updated footer logo in Oude IJsselstreek theme.
   - 1.1.43: Added Oude IJsselstreek theme.

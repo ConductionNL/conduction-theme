@@ -1,0 +1,36 @@
+{
+  "utrecht": {
+    "accordion": {
+      "button": {
+        "border-radius": {},
+        "border-top-left-radius": {},
+        "border-top-right-radius": {},
+        "border-bottom-left-radius": {},
+        "border-bottom-right-radius": {},
+        "active": {
+          "border-bottom": {
+            "left-radius": {},
+            "right-radius": {},
+            "width": {},
+            "color": {},
+            "style": {}
+          }
+        }
+      },
+      "panel": {
+        "border-radius": {},
+        "border-top": {
+          "left-radius": {},
+          "right-radius": {},
+          "width": {},
+          "color": {},
+          "style": {}
+        },
+        "border-bottom-left-radius": {},
+        "border-bottom-right-radius": {},
+        "background-color": {},
+        "line-height": {}
+      }
+    }
+  }
+}
