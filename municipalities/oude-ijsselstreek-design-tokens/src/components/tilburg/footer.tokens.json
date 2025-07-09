@@ -9,7 +9,7 @@
           "text-decoration": { "value": "{utrecht.page-footer.link.hover.text-decoration}" }
         }
       },
-      "marker-color": { "value": "{utrecht.page-footer.color}" }
+      "icon-color": { "value": "{utrecht.page-footer.color}" }
     }
   }
 }
