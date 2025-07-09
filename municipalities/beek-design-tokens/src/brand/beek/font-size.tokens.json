@@ -1,0 +1,50 @@
+{
+  "beek": {
+    "font-size": {
+      "4xs": {
+        "value": "0.313rem",
+        "comment": "5px"
+      },
+      "3xs": {
+        "value": "0.5rem",
+        "comment": "8px"
+      },
+      "2xs": {
+        "value": "0.68rem",
+        "comment": "10.88px"
+      },
+      "xs": {
+        "value": "0.75rem",
+        "comment": "12px"
+      },
+      "sm": {
+        "value": "0.875rem",
+        "comment": "14px"
+      },
+      "md": {
+        "value": "1rem",
+        "comment": "16px"
+      },
+      "lg": {
+        "value": "1.1rem",
+        "comment": "17.6px"
+      },
+      "xl": {
+        "value": "1.5rem",
+        "comment": "24px"
+      },
+      "2xl": {
+        "value": "1.6rem",
+        "comment": "25.6px"
+      },
+      "3xl": {
+        "value": "2.25rem",
+        "comment": "36px"
+      },
+      "4xl": {
+        "value": "3rem",
+        "comment": "48px"
+      }
+    }
+  }
+}
