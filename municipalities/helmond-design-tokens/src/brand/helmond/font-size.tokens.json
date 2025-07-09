@@ -22,8 +22,8 @@
         "comment": "14px"
       },
       "md": {
-        "value": "1.125rem",
-        "comment": "18px"
+        "value": "1rem",
+        "comment": "16px"
       },
       "lg": {
         "value": "1.25rem",
