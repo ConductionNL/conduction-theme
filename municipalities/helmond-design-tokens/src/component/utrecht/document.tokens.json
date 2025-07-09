@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{helmond.color.white.96}" },
+      "color": { "value": "{helmond.color.black.0}" },
+      "font-family": { "value": "{helmond.typography.Arial.font-family}" },
+      "font-size": { "value": "{helmond.font-size.sm}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}
