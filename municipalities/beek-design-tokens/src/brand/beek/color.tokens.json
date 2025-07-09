@@ -1,0 +1,97 @@
+{
+  "beek": {
+    "color": {
+      "primary": {
+        "value": "{beek.color.purple.24}"
+      },
+      "primary-hover": {
+        "value": "{beek.color.purple.24}"
+      },
+      "error": { "value": "#dc3545" },
+      "alert-error": { "value": "#721c24" },
+      "alert-error-background": { "value": "#f8d7da" },
+      "warning": { "value": "#ffc107" },
+      "alert-warning": { "value": "#856404" },
+      "alert-warning-background": { "value": "#fff3cd" },
+      "succes": { "value": "#28a745" },
+      "alert-succes": { "value": "#155724" },
+      "alert-succes-background": { "value": "#d4edda" },
+      "info": { "value": "{beek.color.primary}" },
+      "alert-info": { "value": "#004085" },
+      "alert-info-background": { "value": "#cce5ff" },
+      "purple": {
+        "24": {
+          "value": "#641566",
+          "comment": "Base/Purple"
+        }
+      },
+      "grey": {
+        "27": {
+          "value": "#444444"
+        },
+        "29": {
+          "value": "#4a4a4a"
+        },
+        "31": {
+          "value": "#4f4f4f"
+        },
+        "46": {
+          "value": "#767676"
+        },
+        "48": {
+          "value": "#7a7a7a"
+        },
+        "50": {
+          "value": "#808080",
+          "comment": "Base/Grey"
+        },
+        "70": {
+          "value": "#b3b3b3"
+        },
+        "82": {
+          "value": "#d1d1d1"
+        },
+        "87": {
+          "value": "#dddddd"
+        },
+        "90": {
+          "value": "#e6e6e6"
+        },
+        "95": {
+          "value": "#f2f2f2"
+        },
+        "97": {
+          "value": "#f7f7f7"
+        }
+      },
+      "lightgrey": {
+        "96": {
+          "value": "#f5f5f5",
+          "comment": "Base/LightGrey"
+        }
+      },
+      "white": {
+        "98": {
+          "value": "#fafafa"
+        },
+        "100": {
+          "value": "#ffffff",
+          "comment": "Base/White"
+        }
+      },
+      "black": {
+        "0": {
+          "value": "#000000",
+          "comment": "Base/Black"
+        },
+        "0-60t": {
+          "value": "#00000099",
+          "comment": "Black with 60% transparency"
+        },
+        "30": {
+          "value": "#4d4d4d"
+        }
+      }
+    }
+  }
+}
