@@ -1,0 +1,21 @@
+{
+  "conduction": {
+    "table-wrapper": {
+      "scroll-button": {
+        "background-color": { "value": "{helmond.color.white.100}" },
+        "color": { "value": "{helmond.color.black.0}" },
+        "padding-inline-start": { "value": "{helmond.size.sm}" },
+        "padding-inline-end": { "value": "{helmond.size.sm}" },
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "hover": {
+          "background-color": { "value": "{helmond.color.white.100}" },
+          "color": { "value": "{helmond.color.primary}" }
+        }
+      }
+    }
+  }
+}
