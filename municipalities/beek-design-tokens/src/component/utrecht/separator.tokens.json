@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "separator": {
+      "color": { "value": "{beek.color.lightgrey.76}" },
+      "block-size": { "value": "{beek.size.4xs}" },
+      "margin-block-end": { "value": "0px" },
+      "margin-block-start": { "value": "0px" }
+    }
+  }
+}
