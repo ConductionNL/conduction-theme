@@ -5,7 +5,7 @@
       "font-family": { "value": "{helmond.typography.Arial.font-family}" },
       "font-size": { "value": "{helmond.font-size.2xl}" },
       "font-weight": { "value": "{helmond.typography.font-weight.normal}" },
-      "line-height": {},
+      "line-height": { "value": "1.1" },
       "margin-block-end": { "value": "{helmond.size.xs}" },
       "margin-block-start": { "value": "{helmond.size.md}" }
     },
@@ -14,7 +14,7 @@
       "font-family": { "value": "{helmond.typography.Arial.font-family}" },
       "font-size": { "value": "{helmond.font-size.xl}" },
       "font-weight": { "value": "{helmond.typography.font-weight.bold}" },
-      "line-height": {},
+      "line-height": { "value": "1.1" },
       "margin-block-end": { "value": "{helmond.size.xs}" },
       "margin-block-start": { "value": "{helmond.size.md}" }
     },
@@ -23,7 +23,7 @@
       "font-family": { "value": "{helmond.typography.Arial.font-family}" },
       "font-size": { "value": "{helmond.font-size.lg}" },
       "font-weight": { "value": "{helmond.typography.font-weight.bold}" },
-      "line-height": {},
+      "line-height": { "value": "1.1" },
       "margin-block-end": { "value": "{helmond.size.xs}" },
       "margin-block-start": { "value": "{helmond.size.md}" }
     },
@@ -32,7 +32,7 @@
       "font-family": { "value": "{helmond.typography.Arial.font-family}" },
       "font-size": { "value": "{helmond.font-size.md}" },
       "font-weight": { "value": "{helmond.typography.font-weight.normal}" },
-      "line-height": {},
+      "line-height": { "value": "1.1" },
       "margin-block-end": { "value": "{helmond.size.lg}" },
       "margin-block-start": { "value": "{helmond.size.md}" }
     },
@@ -41,7 +41,7 @@
       "font-family": { "value": "{helmond.typography.Arial.font-family}" },
       "font-size": { "value": "{helmond.font-size.sm}" },
       "font-weight": { "value": "{helmond.typography.font-weight.light}" },
-      "line-height": {},
+      "line-height": { "value": "1.1" },
       "margin-block-end": { "value": "{helmond.size.lg}" },
       "margin-block-start": { "value": "{helmond.size.md}" }
     }
