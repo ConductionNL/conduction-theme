@@ -1,0 +1,34 @@
+{
+  "utrecht": {
+    "form-input": {
+      "border-bottom-width": {},
+      "border-color": { "value": "{beek.color.grey.48}" },
+      "border-radius": { "value": ".25rem" },
+      "border-width": { "value": "{beek.size.4xs}" },
+      "color": { "value": "{beek.color.black.0}" },
+      "font-family": { "value": "{beek.typography.lato.font-family}" },
+      "font-size": {
+        "value": "1.125rem",
+        "comment": "18px"
+      },
+      "min-inline-height": {},
+      "max-inline-size": {},
+      "padding-block-end": { "value": "{beek.size.xs}" },
+      "padding-block-start": { "value": "{beek.size.xs}" },
+      "padding-inline-end": { "value": "{beek.size.md}" },
+      "padding-inline-start": { "value": "{beek.size.md}" },
+      "disabled": {
+        "border-color": { "value": "{beek.color.grey.87}" },
+        "color": {}
+      },
+      "invalid": {
+        "border-color": { "value": "{beek.color.error}" },
+        "border-width": { "value": "{beek.size.4xs}" }
+      },
+      "read-only": {
+        "border-color": { "value": "{beek.color.grey.48}" },
+        "color": {}
+      }
+    }
+  }
+}

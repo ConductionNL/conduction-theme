@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{beek.color.succes}" },
+        "warning-color": { "value": "{beek.color.warning}" },
+        "invalid-color": { "value": "{beek.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}
