@@ -26,8 +26,8 @@
         "comment": "16px"
       },
       "lg": {
-        "value": "1.25rem",
-        "comment": "20px"
+        "value": "1.125rem",
+        "comment": "18px"
       },
       "xl": {
         "value": "1.5rem",
