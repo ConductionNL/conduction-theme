@@ -11,7 +11,7 @@
       "font-weight": { "value": "inherit" },
       "inline-size": {},
       "letter-spacing": {},
-      "line-height": {},
+      "line-height": { "value": "1.3333333" },
       "min-block-size": {},
       "min-inline-size": {},
       "padding-block-start": { "value": "{helmond.size.2xs}" },
