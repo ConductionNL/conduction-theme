@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.49: Added Helmond theme
   - 1.1.48: Updated process-step tokens in Conduction theme.
   - 1.1.47: Updated tilburg footer icon color.
   - 1.1.46:
