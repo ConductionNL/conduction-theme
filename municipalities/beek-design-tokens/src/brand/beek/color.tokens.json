@@ -100,6 +100,11 @@
           "value": "#f7f7f7"
         }
       },
+      "blue": {
+        "80": {
+          "value": "#afc5ea"
+        }
+      },
       "lightgrey": {
         "76": {
           "value": "#b8c2cc"
