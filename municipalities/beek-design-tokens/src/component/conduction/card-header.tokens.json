@@ -13,11 +13,11 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{beek.color.grey.40}" },
+        "color": { "value": "{beek.color.primary}" },
         "text-decoration": { "value": "none" },
         "text-underline-offset": { "value": "5px" },
         "hover": {
-          "color": {},
+          "color": { "value": "{beek.color.primary}" },
           "text-decoration": {},
           "text-underline-offset": {}
         }
