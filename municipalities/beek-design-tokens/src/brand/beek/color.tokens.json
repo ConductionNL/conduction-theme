@@ -110,6 +110,9 @@
         }
       },
       "white": {
+        "94": {
+          "value": "#efefef"
+        },
         "98": {
           "value": "#fafafa"
         },
