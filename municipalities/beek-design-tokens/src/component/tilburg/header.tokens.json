@@ -1,0 +1,12 @@
+{
+  "tilburg": {
+    "header": {
+      "background-color": { "value": "{utrecht.page-header.background-color}" },
+      "logo": {
+        "text-color": {
+          "value": "{utrecht.page-header.color}"
+        }
+      }
+    }
+  }
+}
