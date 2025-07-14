@@ -9,7 +9,7 @@
       "border-bottom-style": {},
       "border-bottom-width": {},
       "border-radius": { "value": "4px" },
-      "transition": {},
+      "transition": { "value": "all 0.3s ease-in-out" },
       "box-shadow": {},
       "color": { "value": "{helmond.color.grey.33}" },
       "hover": {

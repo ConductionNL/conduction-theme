@@ -11,7 +11,7 @@
         },
         "hover": {
           "color": { "value": "{helmond.color.black.0}" },
-          "background-color": { "value": "{helmond.color.white.100}" },
+          "background-color": { "value": "{helmond.color.grey.93}" },
           "box-shadow": {},
           "font-weight": {}
         },
@@ -32,7 +32,7 @@
           "border-color": {},
           "hover": {
             "color": { "value": "{helmond.color.black.0}" },
-            "background-color": { "value": "{helmond.color.white.100}" },
+            "background-color": { "value": "{helmond.color.grey.93}" },
             "box-shadow": {},
             "font-weight": {}
           },
@@ -66,7 +66,7 @@
         "background-color": { "value": "transparent" },
         "hover": {
           "color": { "value": "{helmond.color.primary}" },
-          "background-color": { "value": "{helmond.color.white.100}" }
+          "background-color": { "value": "{helmond.color.grey.93}" }
         },
         "current": {
           "color": { "value": "{helmond.color.primary}" },
