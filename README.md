@@ -5,7 +5,7 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1.1 (breaking changes from 1.0.x)**
-
+  - 1.1.49: Added Beek theme.
   - 1.1.48: 
     - Updated process-step tokens in Conduction theme.
     - Added Helmond theme
