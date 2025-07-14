@@ -1,0 +1,36 @@
+{
+  "utrecht": {
+    "accordion": {
+      "button": {
+        "border-radius": {},
+        "border-top-left-radius": { "value": "{helmond.size.2xs}" },
+        "border-top-right-radius": { "value": "{helmond.size.2xs}" },
+        "border-bottom-left-radius": { "value": "{helmond.size.2xs}" },
+        "border-bottom-right-radius": { "value": "{helmond.size.2xs}" },
+        "active": {
+          "border-bottom": {
+            "left-radius": { "value": "0px" },
+            "right-radius": { "value": "0px" },
+            "width": { "value": "{helmond.size.4xs}" },
+            "color": { "value": "{helmond.color.grey.87}" },
+            "style": { "value": "solid" }
+          }
+        }
+      },
+      "panel": {
+        "border-radius": {},
+        "border-top": {
+          "left-radius": {},
+          "right-radius": {},
+          "width": {},
+          "color": {},
+          "style": {}
+        },
+        "border-bottom-left-radius": { "value": "{helmond.size.2xs}" },
+        "border-bottom-right-radius": { "value": "{helmond.size.2xs}" },
+        "background-color": { "value": "{helmond.color.white.100}" },
+        "line-height": { "value": "{helmond.size.md}" }
+      }
+    }
+  }
+}

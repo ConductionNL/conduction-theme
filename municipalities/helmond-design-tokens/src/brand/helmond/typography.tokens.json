@@ -1,0 +1,43 @@
+{
+  "helmond": {
+    "typography": {
+      "Arial": {
+        "font-family": {
+          "value": "Arial, sans-serif"
+        }
+      },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
+      "font-weight": {
+        "bold": {
+          "value": "700"
+        },
+        "semibold": {
+          "value": "500"
+        },
+        "normal": {
+          "value": "300"
+        },
+        "light": {
+          "value": "100"
+        }
+      },
+      "scale": {
+        "4xs": { "value": "{helmond.font-size.4xs}" },
+        "3xs": { "value": "{helmond.font-size.3xs}" },
+        "2xs": { "value": "{helmond.font-size.2xs}" },
+        "xs": { "value": "{helmond.font-size.xs}" },
+        "sm": { "value": "{helmond.font-size.sm}" },
+        "md": { "value": "{helmond.font-size.md}" },
+        "lg": { "value": "{helmond.font-size.lg}" },
+        "xl": { "value": "{helmond.font-size.xl}" },
+        "2xl": { "value": "{helmond.font-size.2xl}" },
+        "3xl": { "value": "{helmond.font-size.3xl}" },
+        "4xl": { "value": "{helmond.font-size.4xl}" }
+      }
+    }
+  }
+}
