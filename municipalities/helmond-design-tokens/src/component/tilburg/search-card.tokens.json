@@ -1,0 +1,36 @@
+{
+  "tilburg": {
+    "search-card": {
+      "background-color": { "value": "{helmond.color.white.100}" },
+      "border-color": { "value": "{helmond.color.white.100}" },
+      "border-radius": { "value": "4px" },
+      "border-width": { "value": "0px" },
+      "border-style": { "value": "solid" },
+      "padding-inline-start": { "value": "16px" },
+      "padding-inline-end": { "value": "16px" },
+      "padding-block-start": { "value": "30px" },
+      "padding-block-end": { "value": "10px" },
+      "transition": { "value": "all 0.3s ease-in-out" },
+
+      "icon": {
+        "color": { "value": "{helmond.color.black.0}" }
+      },
+      "title": {
+        "color": { "value": "{helmond.color.primary}" },
+        "font-weight": { "value": "bold" }
+      },
+      "hover": {
+        "background-color": { "value": "{helmond.color.lightgrey.96}" },
+        "border-color": { "value": "{helmond.color.white.100}" },
+        "box-shadow": { "value": "none" },
+        "title": {
+          "color": { "value": "{helmond.color.primary}" },
+          "font-weight": { "value": "bold" }
+        },
+        "icon": {
+          "color": { "value": "{helmond.color.black.0}" }
+        }
+      }
+    }
+  }
+}
