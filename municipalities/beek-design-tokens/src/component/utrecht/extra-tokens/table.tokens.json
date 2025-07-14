@@ -4,19 +4,19 @@
       "border-collapse": { "value": "collapse" },
       "background-color": { "value": "{beek.color.white.100}" },
       "header": {
-        "border-block-end-color": { "value": "{beek.color.grey.82}" },
+        "border-block-end-color": { "value": "{beek.color.grey.40}" },
         "border-block-end-width": { "value": "{beek.size.4xs}" },
         "font-family": {}
       },
       "header-cell": {
-        "border-inline-end-width": {},
-        "border-inline-end-style": {},
-        "border-inline-end-color": {}
+        "border-inline-end-width": { "value": "{beek.size.4xs}" },
+        "border-inline-end-style": { "value": "solid" },
+        "border-inline-end-color": { "value": "{beek.color.grey.40}" }
       },
       "cell": {
-        "border-inline-end-width": {},
-        "border-inline-end-style": {},
-        "border-inline-end-color": {}
+        "border-inline-end-width": { "value": "{beek.size.4xs}" },
+        "border-inline-end-style": { "value": "solid" },
+        "border-inline-end-color": { "value": "{beek.color.grey.40}" }
       },
       "row": {
         "hover": {
@@ -26,11 +26,11 @@
       },
       "body": {
         "border": {},
-        "border-block-end-color": {},
-        "border-block-end-width": {}
+        "border-block-end-color": { "value": "{beek.color.grey.40}" },
+        "border-block-end-width": { "value": "{beek.size.4xs}" }
       },
       "caption": {
-        "font-style": {}
+        "font-style": { "value": "italic" }
       }
     }
   }

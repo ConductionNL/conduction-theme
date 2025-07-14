@@ -4,8 +4,8 @@
       "color": { "value": "{beek.color.primary}" },
       "text-decoration": { "value": "underline" },
       "text-decoration-color": { "value": "unset" },
-      "text-decoration-thickness": { "value": "{beek.size.3xs}" },
-      "text-underline-offset": { "value": "{beek.size.3xs}" },
+      "text-decoration-thickness": { "value": "{beek.size.4xs}" },
+      "text-underline-offset": { "value": "auto" },
       "active": {
         "color": {}
       },
@@ -17,7 +17,7 @@
       "hover": {
         "color": { "value": "{beek.color.primary-hover}" },
         "text-decoration": { "value": "underline" },
-        "text-decoration-thickness": { "value": "{beek.size.3xs}" }
+        "text-decoration-thickness": { "value": "{beek.size.4xs}" }
       },
       "placeholder": {
         "color": {}

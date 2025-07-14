@@ -2,22 +2,22 @@
   "conduction": {
     "card-header": {
       "background-color": {},
-      "border-bottom-width": {},
-      "border-bottom-style": {},
-      "border-bottom-color": {},
+      "border-bottom-width": { "value": "{beek.size.2xs}" },
+      "border-bottom-style": { "value": "solid" },
+      "border-bottom-color": { "value": "{beek.color.primary}" },
       "color": { "value": "{beek.color.grey.40}" },
       "hover": {
         "background-color": {},
-        "border-bottom-width": {},
-        "border-bottom-style": {},
-        "border-bottom-color": {}
+        "border-bottom-width": { "value": "{beek.size.2xs}" },
+        "border-bottom-style": { "value": "solid" },
+        "border-bottom-color": { "value": "{beek.color.grey.40}" }
       },
       "title": {
         "color": { "value": "{beek.color.primary}" },
         "text-decoration": { "value": "none" },
         "text-underline-offset": { "value": "5px" },
         "hover": {
-          "color": { "value": "{beek.color.primary}" },
+          "color": { "value": "{beek.color.grey.40}" },
           "text-decoration": {},
           "text-underline-offset": {}
         }

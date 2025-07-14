@@ -12,14 +12,14 @@
       "font-family": { "value": "{utrecht.document.font-family}" },
       "line-height": {},
       "icon": {
-        "color": { "value": "{beek.color.white.100}" }
+        "color": { "value": "{beek.color.primary}" }
       },
       "button": {
-        "background-color": { "value": "{beek.color.white.98}" },
+        "background-color": {},
         "border-color": {},
-        "border-radius": { "value": "{beek.size.2xs}" },
+        "border-radius": {},
         "border-width": {},
-        "color": { "value": "{beek.color.black.0}" },
+        "color": { "value": "{beek.color.primary}" },
         "font-weight": { "value": "{beek.typography.font-weight.normal}" },
         "min-block-size": {},
         "min-inline-size": {},
@@ -29,26 +29,26 @@
         "padding-block-start": { "value": "{beek.size.xs}" },
         "padding-block-end": { "value": "{beek.size.xs}" },
         "padding-block": { "value": "{beek.size.xs}" },
-        "text-decoration": {},
-        "text-decoration-thickness": {},
+        "text-decoration": { "value": "underline" },
+        "text-decoration-thickness": { "value": "{beek.size.4xs}" },
         "active": {
           "background-color": {},
           "border-color": {},
-          "color": {},
-          "text-decoration": {},
+          "color": { "value": "{beek.color.grey.40}" },
+          "text-decoration": { "value": "unset" },
           "text-decoration-thickness": {}
         },
         "current": {
-          "background-color": { "value": "{beek.color.primary}" },
+          "background-color": { "value": "{beek.color.white.100}" },
           "border-color": {},
-          "color": { "value": "{beek.color.white.100}" },
-          "font-weight": { "value": "{beek.typography.font-weight.bold}" },
+          "color": { "value": "{beek.color.grey.40}" },
+          "font-weight": { "value": "{beek.typography.font-weight.normal}" },
           "text-decoration": { "value": "unset" },
           "text-decoration-thickness": {}
         },
         "focus": {
           "background-color": {},
-          "color": {},
+          "color": { "value": "{beek.color.primary}" },
           "text-decoration": {},
           "text-decoration-thickness": {}
         },
@@ -56,16 +56,16 @@
           "background-color": {},
           "border-color": {},
           "color": { "value": "{beek.color.primary}" },
-          "text-decoration": {},
+          "text-decoration": { "value": "unset" },
           "text-decoration-thickness": {}
         }
       },
       "navigation-button": {
-        "background-color": { "value": "{beek.color.primary}" },
+        "background-color": {},
         "border-color": {},
-        "border-radius": { "value": "{beek.size.2xs}" },
+        "border-radius": {},
         "border-width": {},
-        "color": { "value": "{beek.color.white.100}" },
+        "color": { "value": "{beek.color.primary}" },
         "font-weight": { "value": "{beek.typography.font-weight.normal}" },
         "min-block-size": {},
         "min-inline-size": {},
@@ -75,11 +75,11 @@
         "padding-inline-start": { "value": "{beek.size.xs}" },
         "text-decoration": {},
         "hover": {
-          "background-color": { "value": "{beek.color.primary-hover}" },
+          "background-color": {},
           "border-color": {},
-          "border-radius": { "value": "{beek.size.2xs}" },
+          "border-radius": {},
           "border-width": {},
-          "color": { "value": "{beek.color.white.100}" },
+          "color": { "value": "{beek.color.primary}" },
           "font-weight": { "value": "{beek.typography.font-weight.normal}" },
           "min-block-size": {},
           "min-inline-size": {},
@@ -96,8 +96,8 @@
         "font-weight": {}
       },
       "ellipses": {
-        "color": {},
-        "font-weight": {},
+        "color": { "value": "{beek.color.grey.40}" },
+        "font-weight": { "value": "{beek.typography.font-weight.normal}" },
         "padding-block-end": { "value": "{beek.size.xs}" },
         "padding-block-start": { "value": "{beek.size.xs}" },
         "padding-inline-end": { "value": "{beek.size.xs}" },

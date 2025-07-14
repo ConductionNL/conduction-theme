@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "table": {
-      "border-color": {},
-      "border-width": {},
+      "border-color": { "value": "{beek.color.grey.40}"},
+      "border-width": { "value": "{beek.size.4xs}" },
       "font-family": { "value": "{beek.typography.lato.font-family}" },
       "font-size": { "value": "{beek.font-size.md}" },
       "line-height": {},
@@ -11,7 +11,7 @@
       "caption": {
         "font-weight": {},
         "font-family": {},
-        "font-size": {},
+        "font-size": { "value": "17.92px" },
         "color": {},
         "line-height": {},
         "text-align": {},
@@ -22,8 +22,8 @@
         "background-color": {},
         "color": { "value": "{utrecht.document.color}" },
         "text-transform": { "value": "unset" },
-        "border-block-end-color": {},
-        "border-block-end-width": {}
+        "border-block-end-color": { "value": "{beek.color.grey.40}" },
+        "border-block-end-width": { "value": "{beek.size.4xs}" }
       },
       "header-cell": {
         "font-size": { "value": "{utrecht.document.font-size}" },
@@ -42,7 +42,7 @@
         }
       },
       "row": {
-        "border-block-end-color": { "value": "{beek.color.grey.82}" },
+        "border-block-end-color": { "value": "{beek.color.grey.40}" },
         "border-block-end-width": { "value": "{beek.size.4xs}" },
         "padding-inline-end": {},
         "padding-inline-start": {},

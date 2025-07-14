@@ -5,10 +5,10 @@
       "color": { "value": "{beek.color.black.0}" },
       "min-block-size": { "value": "20px" },
       "min-inline-size": { "value": "20px" },
-      "padding-block-start": { "value": "17.92px" },
-      "padding-block-end": { "value": "17.92px" },
-      "padding-inline-start": { "value": "17.92px" },
-      "padding-inline-end": { "value": "17.92px" },
+      "padding-block-start": { "value": "16px" },
+      "padding-block-end": { "value": "15px" },
+      "padding-inline-start": { "value": "16px" },
+      "padding-inline-end": { "value": "17px" },
       "text-decoration": { "value": "none" },
       "z-index": { "value": "100000" }
     }

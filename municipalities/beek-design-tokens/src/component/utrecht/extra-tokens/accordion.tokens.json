@@ -11,9 +11,9 @@
           "border-bottom": {
             "left-radius": {},
             "right-radius": {},
-            "width": {},
-            "color": {},
-            "style": {}
+            "width": { "value": "{beek.size.3xs}" },
+            "color": { "value": "{beek.color.lightgrey.95}" },
+            "style": { "value": "solid" }
           }
         }
       },
@@ -28,7 +28,7 @@
         },
         "border-bottom-left-radius": {},
         "border-bottom-right-radius": {},
-        "background-color": {},
+        "background-color": { "value": "{beek.color.white.100}" },
         "line-height": {}
       }
     }
