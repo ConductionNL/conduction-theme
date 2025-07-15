@@ -1,0 +1,31 @@
+{
+  "utrecht": {
+    "ordered-list": {
+      "font-size": { "value": "{beek.font-size.lg}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{beek.size.sm}" },
+      "margin-block-end": { "value": "{beek.size.sm}" },
+      "padding-inline-start": { "value": "{beek.size.xl}" },
+      "item": {
+        "margin-block-start": { "value": "{beek.size.2xs}" },
+        "margin-block-end": { "value": "{beek.size.2xs}" },
+        "padding-inline-start": { "value": "1ch" }
+      }
+    },
+    "unordered-list": {
+      "font-size": { "value": "{beek.font-size.lg}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{beek.size.md}" },
+      "margin-block-end": { "value": 0 },
+      "padding-inline-start": { "value": "2ch" },
+      "item": {
+        "margin-block-start": { "value": "{beek.size.xs}" },
+        "margin-block-end": { "value": "{beek.size.xs}" },
+        "padding-inline-start": { "value": "1ch" }
+      },
+      "marker": {
+        "color": { "value": "{beek.color.primary}" }
+      }
+    }
+  }
+}

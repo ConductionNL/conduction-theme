@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "badge-counter": {
+      "background-color": { "value": "{beek.color.primary}" },
+      "border-radius": { "value": "50%" },
+      "color": { "value": "{beek.color.white.100}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "font-weight": { "value": "{beek.typography.font-weight.normal}" },
+      "padding-block": { "value": "{beek.size.2xs}" },
+      "padding-inline": { "value": "{beek.size.2xs}" }
+    }
+  }
+}

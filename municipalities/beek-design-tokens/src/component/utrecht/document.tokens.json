@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{beek.color.white.98}" },
+      "color": { "value": "{beek.color.grey.40}" },
+      "font-family": { "value": "{beek.typography.lato.font-family}" },
+      "font-size": { "value": "{beek.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}

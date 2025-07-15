@@ -1,0 +1,35 @@
+{
+  "utrecht": {
+    "textbox": {
+      "border-bottom-width": {},
+      "border-color": { "value": "{beek.color.grey.48}" },
+      "border-radius": { "value": "3px" },
+      "border-width": { "value": "{beek.size.4xs}" },
+      "color": { "value": "{beek.color.grey.29}" },
+      "font-family": { "value": "{beek.typography.lato.font-family}" },
+      "font-size": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },
+      "font-weight": { "value": "{beek.typography.font-weight.normal}" },
+      "min-inline-height": {},
+      "max-inline-size": {},
+      "padding-block-end": { "value": "{beek.size.xs}" },
+      "padding-block-start": { "value": "{beek.size.xs}" },
+      "padding-inline-end": { "value": "15px" },
+      "padding-inline-start": { "value": "15px" },
+      "disabled": {
+        "border-color": { "value": "{beek.color.grey.87}" },
+        "color": {}
+      },
+      "invalid": {
+        "border-color": { "value": "{beek.color.error}" },
+        "border-width": { "value": "{beek.size.4xs}" }
+      },
+      "read-only": {
+        "border-color": { "value": "{beek.color.grey.48}" },
+        "color": {}
+      }
+    }
+  }
+}
