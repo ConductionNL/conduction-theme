@@ -3,7 +3,7 @@
     "primary": {
       "top-nav": {
         "color": { "value": "{beek.color.primary}" },
-        "background-color": { "value": "{beek.color.white.100}" },
+        "background-color": { "value": "{beek.color.lightgrey.96}" },
         "list": {
           "border-color": {},
           "border-style": {},
@@ -11,13 +11,13 @@
         },
         "hover": {
           "color": { "value": "{beek.color.primary}" },
-          "background-color": { "value": "{beek.color.white.100}" },
+          "background-color": { "value": "{beek.color.lightgrey.96}" },
           "box-shadow": {},
           "font-weight": {}
         },
         "current": {
           "color": { "value": "{beek.color.primary}" },
-          "background-color": { "value": "{beek.color.white.100}" },
+          "background-color": { "value": "{beek.color.lightgrey.96}" },
           "box-shadow": { "value": "0 5px 0 0 {beek.color.orange.49}" },
           "mobile": {
             "box-shadow": { "value": "0 5px 0 0 {beek.color.orange.49}" }
@@ -27,9 +27,9 @@
         "dropdown": {
           "color": { "value": "{beek.color.primary}" },
           "background-color": { "value": "{beek.color.white.100}" },
-          "border-width": {},
-          "border-style": {},
-          "border-color": {},
+          "border-width": { "value": "{beek.size.3xs}" },
+          "border-style": { "value": "solid" },
+          "border-color": { "value": "{beek.color.lightgrey.96}" },
           "hover": {
             "color": { "value": "{beek.color.primary}" },
             "background-color": { "value": "{beek.color.lightgrey.96}" },
@@ -44,6 +44,11 @@
               "box-shadow": { "value": "0 5px 0 0 {beek.color.orange.49}" }
             },
             "font-weight": {}
+          },
+          "item": {
+            "border-bottom-width": { "value": "{beek.size.4xs}" },
+            "border-bottom-style": { "value": "solid" },
+            "border-bottom-color": { "value": "{beek.color.lightgrey.96}" }
           }
         },
         "item": {

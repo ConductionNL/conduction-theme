@@ -25,7 +25,9 @@
         "border-bottom-width": {},
         "border-bottom-style": {},
         "border-bottom-color": {},
-        "border-radius": { "value": "" }
+        "border-radius": { "value": "" },
+        "text-decoration": { "value": "underline" },
+        "text-decoration-thickness": { "value": "1px" }
       },
       "navigation-button": {
         "color": { "value": "{beek.color.primary}" },
