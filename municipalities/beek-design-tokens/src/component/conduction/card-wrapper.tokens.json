@@ -1,0 +1,33 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{beek.color.white.100}" },
+      "border-color": { "value": "{beek.color.white.100}" },
+      "border-style": { "value": "solid" },
+      "border-width": { "value": "{beek.size.4xs}" },
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": { "value": "0px" },
+      "transition": {},
+      "box-shadow": {},
+      "color": { "value": "{beek.color.grey.40}" },
+      "hover": {
+        "background-color": {},
+        "color": { "value": "{beek.color.grey.40}" },
+        "border-color": { "value": "{beek.color.primary}" },
+        "border-style": { "value": "solid" },
+        "border-width": { "value": "{beek.size.4xs}" },
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {},
+        "border-radius": { "value": "0px" },
+        "box-shadow": {}
+      },
+      "padding-inline-end": { "value": "{beek.size.md}" },
+      "padding-inline-start": { "value": "{beek.size.md}" },
+      "padding-block-end": { "value": "{beek.size.md}" },
+      "padding-block-start": { "value": "{beek.size.md}" }
+    }
+  }
+}

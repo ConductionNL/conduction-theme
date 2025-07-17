@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{helmond.color.succes}" },
+        "warning-color": { "value": "{helmond.color.warning}" },
+        "invalid-color": { "value": "{helmond.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}

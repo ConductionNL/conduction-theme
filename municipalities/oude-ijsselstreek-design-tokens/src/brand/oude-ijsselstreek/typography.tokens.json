@@ -1,0 +1,40 @@
+{
+  "oude-ijsselstreek": {
+    "typography": {
+      "sans-serif": {
+        "font-family": {
+          "value": "\"Gill Sans\", monospace"
+        }
+      },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
+      "font-weight": {
+        "bold": {
+          "value": "700"
+        },
+        "normal": {
+          "value": "500"
+        },
+        "light": {
+          "value": "400"
+        }
+      },
+      "scale": {
+        "4xs": { "value": "{oude-ijsselstreek.font-size.4xs}" },
+        "3xs": { "value": "{oude-ijsselstreek.font-size.3xs}" },
+        "2xs": { "value": "{oude-ijsselstreek.font-size.2xs}" },
+        "xs": { "value": "{oude-ijsselstreek.font-size.xs}" },
+        "sm": { "value": "{oude-ijsselstreek.font-size.sm}" },
+        "md": { "value": "{oude-ijsselstreek.font-size.md}" },
+        "lg": { "value": "{oude-ijsselstreek.font-size.lg}" },
+        "xl": { "value": "{oude-ijsselstreek.font-size.xl}" },
+        "2xl": { "value": "{oude-ijsselstreek.font-size.2xl}" },
+        "3xl": { "value": "{oude-ijsselstreek.font-size.3xl}" },
+        "4xl": { "value": "{oude-ijsselstreek.font-size.4xl}" }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "conduction": {
+    "tooltip": {
+      "background-color": { "value": "{beek.color.black.0}" },
+      "color": { "value": "{beek.color.white.100}" },
+      "padding-block-start": { "value": "{beek.size.xs}" },
+      "padding-block-end": { "value": "{beek.size.xs}" },
+      "padding-inline-start": { "value": "{beek.size.sm}" },
+      "padding-inline-end": { "value": "{beek.size.sm}" },
+      "border-width": { "value": "0px" },
+      "border-style": { "value": "unset" },
+      "border-color": { "value": "unset" },
+      "border-radius": { "value": "0px" },
+      "z-index": { "value": "9999" }
+    }
+  }
+}

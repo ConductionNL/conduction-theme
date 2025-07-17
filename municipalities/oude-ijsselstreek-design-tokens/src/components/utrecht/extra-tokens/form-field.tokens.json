@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{oude-ijsselstreek.color.succes}" },
+        "warning-color": { "value": "{oude-ijsselstreek.color.warning}" },
+        "invalid-color": { "value": "{oude-ijsselstreek.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}

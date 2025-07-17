@@ -13,7 +13,14 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{conduction.color.black.0}" }
+        "color": { "value": "{conduction.color.black.0}" },
+        "text-decoration": { "value": "none" },
+        "text-underline-offset": { "value": "5px" },
+        "hover": {
+          "color": {},
+          "text-decoration": {},
+          "text-underline-offset": {}
+        }
       },
       "date": {
         "color": { "value": "{conduction.color.black.0}" },

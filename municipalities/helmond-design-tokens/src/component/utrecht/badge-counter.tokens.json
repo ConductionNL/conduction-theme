@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "badge-counter": {
+      "background-color": { "value": "{helmond.color.taupe.33}" },
+      "border-radius": { "value": "50%" },
+      "color": { "value": "{helmond.color.white.100}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "font-weight": { "value": "{helmond.typography.font-weight.normal}" },
+      "padding-block": { "value": "{helmond.size.2xs}" },
+      "padding-inline": { "value": "{helmond.size.2xs}" }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "icon": {
+      "color": { "value": "{beek.color.primary}" },
+      "size": { "value": "{beek.size.md}" },
+      "inset-block-start": {},
+      "baseline": {
+        "inset-block-start": {}
+      }
+    }
+  }
+}

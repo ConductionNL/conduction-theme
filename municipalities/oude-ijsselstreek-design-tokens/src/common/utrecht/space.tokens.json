@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{oude-ijsselstreek.size.3xs}" },
+        "2xs": { "value": "{oude-ijsselstreek.size.2xs}" },
+        "xs": { "value": "{oude-ijsselstreek.size.xs}" },
+        "sm": { "value": "{oude-ijsselstreek.size.sm}" },
+        "md": { "value": "{oude-ijsselstreek.size.md}" },
+        "lg": { "value": "{oude-ijsselstreek.size.lg}" },
+        "xl": { "value": "{oude-ijsselstreek.size.xl}" },
+        "2xl": { "value": "{oude-ijsselstreek.size.2xl}" },
+        "3xl": { "value": "{oude-ijsselstreek.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{oude-ijsselstreek.size.3xs}" },
+        "2xs": { "value": "{oude-ijsselstreek.size.2xs}" },
+        "xs": { "value": "{oude-ijsselstreek.size.xs}" },
+        "sm": { "value": "{oude-ijsselstreek.size.sm}" },
+        "md": { "value": "{oude-ijsselstreek.size.md}" },
+        "lg": { "value": "{oude-ijsselstreek.size.lg}" },
+        "xl": { "value": "{oude-ijsselstreek.size.xl}" },
+        "2xl": { "value": "{oude-ijsselstreek.size.2xl}" },
+        "3xl": { "value": "{oude-ijsselstreek.size.3xl}" }
+      }
+    }
+  }
+}

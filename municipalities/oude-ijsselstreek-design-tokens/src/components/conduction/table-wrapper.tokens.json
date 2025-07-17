@@ -1,0 +1,21 @@
+{
+  "conduction": {
+    "table-wrapper": {
+      "scroll-button": {
+        "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+        "color": { "value": "{oude-ijsselstreek.color.black.0}" },
+        "padding-inline-start": { "value": "{oude-ijsselstreek.size.sm}" },
+        "padding-inline-end": { "value": "{oude-ijsselstreek.size.sm}" },
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "hover": {
+          "background-color": { "value": "{oude-ijsselstreek.color.white.100}" },
+          "color": { "value": "{oude-ijsselstreek.color.primary}" }
+        }
+      }
+    }
+  }
+}

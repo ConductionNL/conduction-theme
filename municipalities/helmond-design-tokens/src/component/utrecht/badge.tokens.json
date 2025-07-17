@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{helmond.color.grey.47} " },
+      "border-radius": { "value": "10px" },
+      "color": { "value": "{helmond.color.white.100} " },
+      "font-size": { "value": "{helmond.font-size.xs}" },
+      "font-weight": { "value": "{helmond.typography.font-weight.bold}" },
+      "line-height": { "value": "1" },
+      "padding-block": { "value": "3px" },
+      "padding-inline": { "value": "7px" },
+      "text-transform": {}
+    }
+  }
+}

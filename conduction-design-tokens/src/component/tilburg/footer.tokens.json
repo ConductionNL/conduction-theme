@@ -1,0 +1,15 @@
+{
+  "tilburg": {
+    "footer": {
+      "background-color": { "value": "{utrecht.page-footer.background-color}" },
+      "color": { "value": "{utrecht.page-footer.color}" },
+      "link": {
+        "text-decoration": { "value": "{utrecht.page-footer.link.text-decoration}" },
+        "hover": {
+          "text-decoration": { "value": "{utrecht.page-footer.link.hover.text-decoration}" }
+        }
+      },
+      "icon-color": { "value": "{utrecht.page-footer.color}" }
+    }
+  }
+}

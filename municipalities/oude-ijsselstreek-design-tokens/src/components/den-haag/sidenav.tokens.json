@@ -1,0 +1,31 @@
+{
+  "denhaag": {
+    "sidenav": {
+      "link": {
+        "padding-block-end": { "value": "{oude-ijsselstreek.size.2xs}" },
+        "padding-block-start": { "value": "{oude-ijsselstreek.size.2xs}" },
+        "active-font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.bold}" },
+        "active-color": { "value": "{oude-ijsselstreek.color.primary}" },
+        "hover-color": { "value": "{oude-ijsselstreek.color.primary-hover}" },
+        "color": {},
+        "label-gap": {}
+      },
+      "item": {
+        "margin-inline-end": {},
+        "margin-inline-start": {},
+        "margin-block-end": {},
+        "margin-block-start": {},
+        "line-height": {},
+        "height": {},
+        "font-weight": { "value": "{oude-ijsselstreek.typography.font-weight.normal}" },
+        "font-size": { "value": "{oude-ijsselstreek.font-size.md}" },
+        "font-family": { "value": "{utrecht.document.font-family}" }
+      },
+      "mobile-display": {},
+      "min-width": {},
+      "flex-direction": { "value": "column" },
+      "display": { "value": "flex" },
+      "row-gap": { "value": "{oude-ijsselstreek.size.2xs}" }
+    }
+  }
+}

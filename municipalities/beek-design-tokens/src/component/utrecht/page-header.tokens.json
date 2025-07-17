@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{beek.color.white.100}" },
+      "color": { "value": "{beek.color.primary}" },
+      "padding-block-start": { "value": "{beek.size.xs}" },
+      "padding-block-end": { "value": "{beek.size.xs}" }
+    }
+  }
+}

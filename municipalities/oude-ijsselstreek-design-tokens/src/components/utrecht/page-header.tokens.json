@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{oude-ijsselstreek.color.lightgrey.94}" },
+      "color": { "value": "{oude-ijsselstreek.color.black.12}" },
+      "padding-block-start": { "value": "{oude-ijsselstreek.size.sm}" },
+      "padding-block-end": { "value": "{oude-ijsselstreek.size.sm}" }
+    }
+  }
+}

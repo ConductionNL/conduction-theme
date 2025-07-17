@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "background-color": { "value": "{helmond.color.grey.91}" },
+      "color": { "value": "{helmond.color.black.0}" },
+      "min-block-size": { "value": "20px" },
+      "min-inline-size": { "value": "20px" },
+      "padding-block-start": { "value": "0.8em" },
+      "padding-block-end": { "value": "0.8em" },
+      "padding-inline-start": { "value": "0.8em" },
+      "padding-inline-end": { "value": "0.8em" },
+      "text-decoration": { "value": "none" },
+      "z-index": { "value": "100000" }
+    }
+  }
+}

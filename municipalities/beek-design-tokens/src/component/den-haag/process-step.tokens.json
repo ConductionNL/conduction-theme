@@ -1,0 +1,190 @@
+{
+  "denhaag": {
+    "process-steps": {
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": { "value": "{beek.size.lg}" },
+      "step-header": {
+        "align-items": { "value": "center" }
+      },
+      "step": {
+        "collapse-icon": {
+          "size": { "value": "16px" },
+          "padding": { "value": "{beek.size.2xs}" }
+        },
+        "content": {
+          "margin": { "value": "12px" }
+        },
+        "padding": {
+          "block-end": { "value": "0" },
+          "block-start": { "value": "0" }
+        }
+      },
+      "step-meta": {
+        "font-size": { "value": "16px" },
+        "date": {
+          "font-size": { "value": "20px" }
+        }
+      },
+      "step-heading": {
+        "color": { "value": "{utrecht.document.color}" },
+        "font-family": { "value": "{utrecht.heading-1.font-family}" },
+        "font-size": { "value": "{beek.font-size.md}" },
+        "font-weight": { "value": "{beek.typography.font-weight.bold}" },
+        "line-height": { "value": "{utrecht.document.line-height}" },
+        "current": {
+          "color": { "value": "{beek.color.primary}" },
+          "font-size": { "value": "{utrecht.document.font-size}" },
+          "font-weight": { "value": "{beek.typography.font-weight.bold}" },
+          "line-height": { "value": "{utrecht.document.line-height}" }
+        },
+        "checked": {
+          "color": {},
+          "font-size": { "value": "{utrecht.document.font-size}" },
+          "font-weight": { "value": "{beek.typography.font-weight.bold}" },
+          "line-height": { "value": "{utrecht.document.line-height}" }
+        },
+        "not-checked": {
+          "color": {}
+        },
+        "warning": {
+          "color": { "value": "{beek.color.alert-warning}" }
+        },
+        "error": {
+          "color": { "value": "{beek.color.alert-error}" }
+        }
+      },
+      "step-content": {
+        "color": {}
+      },
+      "sub-step-marker": {
+        "border-color": {},
+        "current": {
+          "border-color": {}
+        },
+        "checked": {
+          "border-color": {}
+        },
+        "not-checked": {
+          "border-color": {}
+        },
+        "warning": {
+          "border-color": {}
+        }
+      },
+      "step-line": {
+        "stroke-width": {},
+        "color": {},
+        "checked": {
+          "color": {}
+        },
+        "warning": {
+          "color": {}
+        }
+      },
+      "step-metadata": {
+        "color": {},
+        "font-size": {}
+      },
+      "step-description": {
+        "color": {},
+        "font-size": {}
+      },
+      "sub-step": {},
+      "sub-step-heading": {
+        "color": {},
+        "font-family": {},
+        "font-size": {},
+        "font-weight": {}
+      },
+      "step-distance": { "value": "10px" }
+    },
+    "step-marker": {
+      "border-color": {},
+      "background-color": { "value": "{beek.color.white.100}" },
+      "border-width": { "value": "{beek.size.3xs}" },
+      "color": { "value": "{beek.color.black.0}" },
+      "font-family": { "value": "{utrecht.heading-1.font-family}" },
+      "font-size": { "value": "{beek.font-size.sm}" },
+      "font-weight": { "value": "400" },
+      "size": { "value": "{beek.size.xl}" },
+      "icon": {
+        "size": { "value": "20px" }
+      },
+      "nested": {
+        "size": { "value": "16px" },
+        "icon-size": { "value": "10px" }
+      },
+      "margin": { "value": "0" },
+      "padding": { "value": "12px" },
+      "connector": {
+        "outline-width": { "value": "{beek.size.4xs}" },
+        "not-checked": {
+          "outline-color": { "value": "{beek.color.grey.82}" }
+        },
+        "checked": {
+          "outline-color": { "value": "{beek.color.alert-succes}" }
+        },
+        "warning": {
+          "outline-color": { "value": "{beek.color.alert-warning-background}" }
+        },
+        "error": {
+          "outline-color": { "value": "{beek.color.alert-error}" }
+        },
+        "default": {
+          "outline-color": { "value": "{beek.color.grey.82}" }
+        }
+      },
+      "current": {
+        "border-color": { "value": "{beek.color.primary}" },
+        "background-color": { "value": "{beek.color.primary}" },
+        "border-width": { "value": "{beek.size.3xs}" },
+        "color": { "value": "{beek.color.white.100}" },
+        "nested": {
+          "color": { "value": "{beek.color.primary}" }
+        }
+      },
+      "not-checked": {
+        "border-color": { "value": "{beek.color.grey.82}" },
+        "background-color": { "value": "{beek.color.white.100}" },
+        "border-width": { "value": "{beek.size.3xs}" },
+        "color": { "value": "{beek.color.grey.82}" }
+      },
+      "checked": {
+        "border-color": { "value": "{beek.color.alert-succes-background}" },
+        "background-color": { "value": "{beek.color.alert-succes-background}" },
+        "border-width": { "value": "{beek.size.3xs}" },
+        "color": { "value": "{beek.color.alert-succes}" }
+      },
+      "warning": {
+        "border-color": { "value": "{beek.color.alert-warning-background}" },
+        "background-color": { "value": "{beek.color.alert-warning-background}" },
+        "color": { "value": "{beek.color.alert-warning}" },
+        "border-width": { "value": "{beek.size.3xs}" },
+        "nested": {
+          "background-color": {},
+          "border-color": { "value": "{beek.color.alert-warning-background}" }
+        }
+      },
+      "error": {
+        "border-color": { "value": "{beek.color.alert-error-background}" },
+        "background-color": { "value": "{beek.color.alert-error-background}" },
+        "color": { "value": "{beek.color.alert-error}" },
+        "border-width": { "value": "{beek.size.3xs}" }
+      },
+      "default": {
+        "background-color": { "value": "{beek.color.grey.82}" },
+        "border-color": { "value": "{beek.color.grey.82}" },
+        "color": { "value": "{beek.color.white.100}" },
+        "nested": {
+          "color": { "value": "{beek.color.white.100}" }
+        }
+      },
+      "disabled": {
+        "background-color": { "value": "{beek.color.grey.82}" },
+        "border-color": { "value": "{beek.color.grey.82}" },
+        "color": { "value": "{beek.color.white.100}" }
+      }
+    }
+  }
+}
