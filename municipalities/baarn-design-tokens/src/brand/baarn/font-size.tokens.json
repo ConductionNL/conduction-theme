@@ -1,0 +1,50 @@
+{
+  "baarn": {
+    "font-size": {
+      "4xs": {
+        "value": "0.313rem",
+        "comment": "5px"
+      },
+      "3xs": {
+        "value": "0.5rem",
+        "comment": "8px"
+      },
+      "2xs": {
+        "value": "0.625rem",
+        "comment": "10px"
+      },
+      "xs": {
+        "value": "0.75rem",
+        "comment": "12px"
+      },
+      "sm": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },
+      "md": {
+        "value": "1rem",
+        "comment": "16px"
+      },
+      "lg": {
+        "value": "1.125rem",
+        "comment": "18px"
+      },
+      "xl": {
+        "value": "1.25rem",
+        "comment": "20px"
+      },
+      "2xl": {
+        "value": "1.313rem",
+        "comment": "21px"
+      },
+      "3xl": {
+        "value": "1.875rem",
+        "comment": "30px"
+      },
+      "4xl": {
+        "value": "2.5rem",
+        "comment": "40px"
+      }
+    }
+  }
+}
