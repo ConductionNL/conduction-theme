@@ -2,10 +2,10 @@
   "baarn": {
     "color": {
       "primary": {
-        "value": "{baarn.color.blue.63}"
+        "value": "{baarn.color.blue.40}"
       },
       "primary-hover": {
-        "value": "{baarn.color.blue.52}"
+        "value": "{baarn.color.blue.35}"
       },
       "error": {
         "value": "#dc3545"
@@ -65,6 +65,9 @@
         },
         "52": {
           "value": "#2e5ed9"
+        },
+        "57": {
+          "value": "#3f84e5"
         },
         "63": {
           "value": "#4376fc"
@@ -138,7 +141,7 @@
           "value": "#4f4f4f"
         },
         "46": {
-          "value": "#767676"
+          "value": "#757575"
         },
         "48": {
           "value": "#7a7a7a"
