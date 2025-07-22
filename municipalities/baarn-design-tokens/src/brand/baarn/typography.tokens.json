@@ -1,11 +1,6 @@
 {
   "baarn": {
     "typography": {
-      "aldritch": {
-        "font-family": {
-          "value": "\"Fira Sans\", Tahoma, Verdana, sans-serif"
-        }
-      },
       "sans-serif": {
         "font-family": {
           "value": "\"Fira Sans\", Tahoma, Verdana, sans-serif"
@@ -19,6 +14,9 @@
       "font-weight": {
         "bold": {
           "value": "700"
+        },
+        "regular": {
+          "value": "500"
         },
         "normal": {
           "value": "400"
