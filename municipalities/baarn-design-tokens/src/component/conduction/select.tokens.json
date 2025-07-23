@@ -1,0 +1,39 @@
+{
+  "conduction": {
+    "input-select": {
+      "background-color": { "value": "{baarn.color.white.100}" },
+      "border": { "value": "{baarn.size.3xs} solid {baarn.color.black.0}" },
+      "border-focus": { "value": "unset" },
+      "border-radius": { "value": "0" },
+      "invalid-border-color": { "value": "{baarn.color.error}" },
+      "padding-block-end": { "value": "{baarn.size.3xs}" },
+      "padding-block-start": { "value": "{baarn.size.3xs}" },
+      "hover": {},
+      "focus": {},
+      "list-option": {
+        "font-family": { "value": "{baarn.typography.sans-serif.font-family}" },
+        "background-color": {},
+        "color": {},
+        "hover": {
+          "font-family": { "value": "{baarn.typography.sans-serif.font-family}" },
+          "background-color": {},
+          "color": {}
+        },
+        "selected": {
+          "background-color": {},
+          "color": {}
+        },
+        "focus": {
+          "background-color": {},
+          "color": {}
+        }
+      },
+      "placeholder": {
+        "color": {
+          "value": "{utrecht.form-input.placeholder.color}"
+        },
+        "font-family": { "value": "{baarn.typography.sans-serif.font-family}" }
+      }
+    }
+  }
+}
