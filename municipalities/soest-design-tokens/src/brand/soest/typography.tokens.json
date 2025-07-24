@@ -1,14 +1,9 @@
 {
-  "conduction": {
+  "soest": {
     "typography": {
-      "aldritch": {
-        "font-family": {
-          "value": "\"Aldritch\", \"Noto Sans\", Arial, sans-serif"
-        }
-      },
       "sans-serif": {
         "font-family": {
-          "value": "\"Noto Sans\", Arial, sans-serif"
+          "value": "\"Cabin\", Arial, sans-serif"
         }
       },
       "monospace": {
@@ -28,17 +23,17 @@
         }
       },
       "scale": {
-        "4xs": { "value": "{conduction.font-size.4xs}" },
-        "3xs": { "value": "{conduction.font-size.3xs}" },
-        "2xs": { "value": "{conduction.font-size.2xs}" },
-        "xs": { "value": "{conduction.font-size.xs}" },
-        "sm": { "value": "{conduction.font-size.sm}" },
-        "md": { "value": "{conduction.font-size.md}" },
-        "lg": { "value": "{conduction.font-size.lg}" },
-        "xl": { "value": "{conduction.font-size.xl}" },
-        "2xl": { "value": "{conduction.font-size.2xl}" },
-        "3xl": { "value": "{conduction.font-size.3xl}" },
-        "4xl": { "value": "{conduction.font-size.4xl}" }
+        "4xs": { "value": "{soest.font-size.4xs}" },
+        "3xs": { "value": "{soest.font-size.3xs}" },
+        "2xs": { "value": "{soest.font-size.2xs}" },
+        "xs": { "value": "{soest.font-size.xs}" },
+        "sm": { "value": "{soest.font-size.sm}" },
+        "md": { "value": "{soest.font-size.md}" },
+        "lg": { "value": "{soest.font-size.lg}" },
+        "xl": { "value": "{soest.font-size.xl}" },
+        "2xl": { "value": "{soest.font-size.2xl}" },
+        "3xl": { "value": "{soest.font-size.3xl}" },
+        "4xl": { "value": "{soest.font-size.4xl}" }
       }
     }
   }

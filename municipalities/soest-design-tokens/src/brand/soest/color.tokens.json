@@ -1,5 +1,5 @@
 {
-  "conduction": {
+  "soest": {
     "color": {
       "primary": {
         "value": "{soest.color.green.32}"
@@ -16,7 +16,7 @@
       "succes": { "value": "#28a745" },
       "alert-succes": { "value": "#155724" },
       "alert-succes-background": { "value": "#d4edda" },
-      "info": { "value": "{conduction.color.primary}" },
+      "info": { "value": "{soest.color.primary}" },
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "blue": {
