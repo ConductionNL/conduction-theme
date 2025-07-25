@@ -1,4 +1,4 @@
-# Auteursrecht Gemeente 
+# Auteursrecht Gemeente Baarn
 
 Copyright (c) 2023 Gemeente Baarn
 

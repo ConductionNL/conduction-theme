@@ -1,3 +1,3 @@
-# NL Design System design tokens Gemeente Beek
+# NL Design System design tokens Gemeente Baarn
 
-These tokens have been obtained by analysing the [website of Gemeente Beek](https://www.baarn.nl/).
+These tokens have been obtained by analysing the [website of Gemeente Baarn](https://www.baarn.nl/).

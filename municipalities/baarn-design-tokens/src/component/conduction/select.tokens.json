@@ -2,9 +2,9 @@
   "conduction": {
     "input-select": {
       "background-color": { "value": "{baarn.color.white.100}" },
-      "border": { "value": "{baarn.size.3xs} solid {baarn.color.black.0}" },
+      "border": { "value": "{baarn.size.3xs} solid {baarn.color.blue.27}" },
       "border-focus": { "value": "unset" },
-      "border-radius": { "value": "0" },
+      "border-radius": { "value": "{baarn.size.3xs}" },
       "invalid-border-color": { "value": "{baarn.color.error}" },
       "padding-block-end": { "value": "{baarn.size.3xs}" },
       "padding-block-start": { "value": "{baarn.size.3xs}" },
