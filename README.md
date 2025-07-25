@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
   - 1.1.50: Added Soest theme
+  - 1.1.50: Added Baarn theme.
   - 1.1.49: 
     - Updated Helmond theme
     - Added Beek theme.
