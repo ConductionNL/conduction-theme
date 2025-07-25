@@ -1,0 +1,46 @@
+{
+  "utrecht": {
+    "alert": {
+      "background-color": { "value": "{soest.color.alert-info-background}" },
+      "border-color": {},
+      "border-width": {},
+      "color": { "value": "{soest.color.alert-info}" },
+      "padding-block-start": { "value": "{soest.size.lg}" },
+      "padding-block-end": { "value": "{soest.size.lg}" },
+      "padding-inline-start": { "value": "{soest.size.lg}" },
+      "padding-inline-end": { "value": "{soest.size.lg}" },
+      "margin-block-start": {},
+      "margin-block-end": {},
+      "warning": {
+        "background-color": { "value": "{soest.color.alert-warning-background}" },
+        "color": { "value": "{soest.color.alert-warning}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "error": {
+        "background-color": { "value": "{soest.color.alert-error-background}" },
+        "color": { "value": "{soest.color.alert-error}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "ok": {
+        "background-color": { "value": "{soest.color.alert-succes-background}" },
+        "color": { "value": "{soest.color.alert-succes}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "icon": {
+        "color": { "value": "{soest.color.alert-info}" },
+        "error": {
+          "color": { "value": "{soest.color.alert-error}" }
+        },
+        "warning": {
+          "color": { "value": "{soest.color.alert-warning}" }
+        },
+        "ok": {
+          "color": { "value": "{soest.color.alert-succes}" }
+        }
+      }
+    }
+  }
+}
