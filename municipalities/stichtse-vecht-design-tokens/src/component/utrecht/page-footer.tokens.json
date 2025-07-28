@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{stichtse-vecht.color.blue.22}" },
+      "background-image": { "value": "unset" },
+      "color": { "value": "{stichtse-vecht.color.white.100}" },
+      "padding-inline-end": { "value": "{stichtse-vecht.size.sm}" },
+      "padding-inline-start": { "value": "{stichtse-vecht.size.sm}" },
+      "padding-block-end": { "value": "{stichtse-vecht.size.2xl}" },
+      "padding-block-start": { "value": "{stichtse-vecht.size.2xl}" }
+    }
+  }
+}
