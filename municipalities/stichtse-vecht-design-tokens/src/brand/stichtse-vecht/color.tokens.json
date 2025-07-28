@@ -8,8 +8,8 @@
         "value": "{stichtse-vecht.color.blue.52}"
       },
       "error": { "value": "#dc3545" },
-      "alert-error": { "value": "#721c24" },
-      "alert-error-background": { "value": "#f8d7da" },
+      "alert-error": { "value": "#d3272f" },
+      "alert-error-background": { "value": "#fceded" },
       "warning": { "value": "#ffc107" },
       "alert-warning": { "value": "#856404" },
       "alert-warning-background": { "value": "#fff3cd" },
