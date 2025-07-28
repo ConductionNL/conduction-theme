@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "document": {
-      "background-color": { "value": "{stichtse-vecht.color.grey.96}" },
+      "background-color": { "value": "{stichtse-vecht.color.lightgrey.95}" },
       "color": { "value": "{stichtse-vecht.color.black.0}" },
       "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
       "font-size": { "value": "{stichtse-vecht.font-size.md}" },
