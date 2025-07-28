@@ -1,5 +1,5 @@
 {
-  "conduction": {
+  "stichtse-vecht": {
     "typography": {
       "aldritch": {
         "font-family": {
@@ -28,17 +28,17 @@
         }
       },
       "scale": {
-        "4xs": { "value": "{conduction.font-size.4xs}" },
-        "3xs": { "value": "{conduction.font-size.3xs}" },
-        "2xs": { "value": "{conduction.font-size.2xs}" },
-        "xs": { "value": "{conduction.font-size.xs}" },
-        "sm": { "value": "{conduction.font-size.sm}" },
-        "md": { "value": "{conduction.font-size.md}" },
-        "lg": { "value": "{conduction.font-size.lg}" },
-        "xl": { "value": "{conduction.font-size.xl}" },
-        "2xl": { "value": "{conduction.font-size.2xl}" },
-        "3xl": { "value": "{conduction.font-size.3xl}" },
-        "4xl": { "value": "{conduction.font-size.4xl}" }
+        "4xs": { "value": "{stichtse-vecht.font-size.4xs}" },
+        "3xs": { "value": "{stichtse-vecht.font-size.3xs}" },
+        "2xs": { "value": "{stichtse-vecht.font-size.2xs}" },
+        "xs": { "value": "{stichtse-vecht.font-size.xs}" },
+        "sm": { "value": "{stichtse-vecht.font-size.sm}" },
+        "md": { "value": "{stichtse-vecht.font-size.md}" },
+        "lg": { "value": "{stichtse-vecht.font-size.lg}" },
+        "xl": { "value": "{stichtse-vecht.font-size.xl}" },
+        "2xl": { "value": "{stichtse-vecht.font-size.2xl}" },
+        "3xl": { "value": "{stichtse-vecht.font-size.3xl}" },
+        "4xl": { "value": "{stichtse-vecht.font-size.4xl}" }
       }
     }
   }
