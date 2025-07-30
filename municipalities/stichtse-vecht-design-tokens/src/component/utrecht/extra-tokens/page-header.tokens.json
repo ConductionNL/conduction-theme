@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "page-header": {
+      "logo": {
+        "max-height": {},
+        "max-width": { "value": "150px" }
+      },
+      "border-block-start": {},
+      "border-block-end": { "value": "2px solid {stichtse-vecht.color.grey.88}" },
+      "border-inline-start": {},
+      "border-inline-end": {},
+      "display": { "value": "block" }
+    }
+  }
+}

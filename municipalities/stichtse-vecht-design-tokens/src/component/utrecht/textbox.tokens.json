@@ -1,0 +1,34 @@
+{
+  "utrecht": {
+    "textbox": {
+      "border-bottom-width": {},
+      "border-color": { "value": "{stichtse-vecht.color.black.0}" },
+      "border-radius": {},
+      "border-width": { "value": "{stichtse-vecht.size.3xs}" },
+      "color": { "value": "{stichtse-vecht.color.black.0}" },
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": {
+        "value": "{stichtse-vecht.font-size.md}"
+      },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.normal}" },
+      "min-inline-height": {},
+      "max-inline-size": {},
+      "padding-block-end": { "value": "0.625rem" },
+      "padding-block-start": { "value": "0.625rem" },
+      "padding-inline-end": { "value": "0.75rem" },
+      "padding-inline-start": { "value": "2.75rem" },
+      "disabled": {
+        "border-color": { "value": "{stichtse-vecht.color.grey.87}" },
+        "color": {}
+      },
+      "invalid": {
+        "border-color": { "value": "{stichtse-vecht.color.error}" },
+        "border-width": { "value": "{stichtse-vecht.size.4xs}" }
+      },
+      "read-only": {
+        "border-color": { "value": "{stichtse-vecht.color.grey.48}" },
+        "color": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{stichtse-vecht.font-size.3xl}" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.2xl}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{stichtse-vecht.font-size.2xl}" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.2xl}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{stichtse-vecht.font-size.xl}" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.xl}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{stichtse-vecht.font-size.lg}" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.lg}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{stichtse-vecht.font-size.md}" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.lg}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    }
+  }
+}

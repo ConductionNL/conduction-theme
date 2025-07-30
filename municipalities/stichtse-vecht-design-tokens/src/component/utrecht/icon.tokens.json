@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "icon": {
+      "color": { "primary": { "value": "{stichtse-vecht.color.primary}" } },
+      "size": {},
+      "inset-block-start": {},
+      "baseline": {
+        "inset-block-start": {}
+      }
+    }
+  }
+}
