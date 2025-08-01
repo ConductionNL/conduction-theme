@@ -1,0 +1,11 @@
+{
+  "utrecht": {
+    "page": {
+      "background-color": { "value": "{soest.color.grey.93}" },
+      "color": {},
+      "margin-inline-start": { "value": "16px" },
+      "margin-inline-end": { "value": "16px" },
+      "max-inline-size": { "value": "1140px" }
+    }
+  }
+}
