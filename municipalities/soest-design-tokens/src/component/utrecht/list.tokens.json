@@ -7,8 +7,8 @@
       "margin-block-end": { "value": "{soest.size.sm}" },
       "padding-inline-start": { "value": "{soest.size.xl}" },
       "item": {
-        "margin-block-start": { "value": "{soest.size.2xs}" },
-        "margin-block-end": { "value": "{soest.size.2xs}" },
+        "margin-block-start": { "value": "16px" },
+        "margin-block-end": { "value": "16px" },
         "padding-inline-start": { "value": "1ch" }
       }
     },
@@ -19,8 +19,8 @@
       "margin-block-end": { "value": 0 },
       "padding-inline-start": { "value": "1.2em" },
       "item": {
-        "margin-block-start": { "value": "{soest.size.xs}" },
-        "margin-block-end": { "value": "{soest.size.xs}" },
+        "margin-block-start": { "value": "16px" },
+        "margin-block-end": { "value": "16px" },
         "padding-inline-start": { "value": "1ch" }
       },
       "marker": {
