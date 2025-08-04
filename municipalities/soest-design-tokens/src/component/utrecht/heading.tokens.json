@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{soest.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{soest.font-size.3xl}" },
+      "font-weight": { "value": "{soest.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{soest.size.2xl}" },
+      "margin-block-start": { "value": "{soest.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{soest.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{soest.font-size.2xl}" },
+      "font-weight": { "value": "{soest.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{soest.size.2xl}" },
+      "margin-block-start": { "value": "{soest.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{soest.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{soest.font-size.xl}" },
+      "font-weight": { "value": "{soest.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{soest.size.xl}" },
+      "margin-block-start": { "value": "{soest.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{soest.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{soest.font-size.lg}" },
+      "font-weight": { "value": "{soest.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{soest.size.lg}" },
+      "margin-block-start": { "value": "{soest.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{soest.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{soest.font-size.md}" },
+      "font-weight": { "value": "{soest.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{soest.size.lg}" },
+      "margin-block-start": { "value": "{soest.size.md}" }
+    }
+  }
+}
