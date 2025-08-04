@@ -33,10 +33,10 @@
       },
       "cell": {
         "line-height": {},
-        "padding-block-end": { "value": "{stichtse-vecht.size.md}" },
-        "padding-block-start": { "value": "{stichtse-vecht.size.md}" },
-        "padding-inline-end": { "value": "{stichtse-vecht.size.md}" },
-        "padding-inline-start": { "value": "{stichtse-vecht.size.md}" },
+        "padding-block-end": { "value": "{stichtse-vecht.size.xs}" },
+        "padding-block-start": { "value": "{stichtse-vecht.size.xs}" },
+        "padding-inline-end": { "value": "{stichtse-vecht.size.lg}" },
+        "padding-inline-start": { "value": "0" },
         "icon": {
           "size": {}
         }

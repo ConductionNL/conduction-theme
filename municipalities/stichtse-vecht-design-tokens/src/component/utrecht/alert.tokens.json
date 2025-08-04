@@ -1,9 +1,9 @@
 {
   "utrecht": {
     "alert": {
-      "background-color": { "value": "{stichtse-vecht.color.white.100}" },
-      "border-color": { "value": "{stichtse-vecht.color.white.100}" },
-      "border-width": { "value": "0" },
+      "background-color": { "value": "{stichtse-vecht.color.alert-info-background}" },
+      "border-color": { "value": "{stichtse-vecht.color.alert-info}" },
+      "border-width": { "value": "{stichtse-vecht.size.3xs}" },
       "color": { "value": "{stichtse-vecht.color.alert-info}" },
       "padding-block-start": { "value": "{stichtse-vecht.size.lg}" },
       "padding-block-end": { "value": "{stichtse-vecht.size.lg}" },
@@ -12,22 +12,22 @@
       "margin-block-start": { "value": "1rem" },
       "margin-block-end": {},
       "warning": {
-        "background-color": { "value": "{stichtse-vecht.color.white.100}" },
+        "background-color": { "value": "{stichtse-vecht.color.alert-warning-background}" },
         "color": { "value": "{stichtse-vecht.color.alert-warning}" },
-        "border-color": { "value": "{stichtse-vecht.color.white.100}" },
-        "border-width": { "value": "0" }
+        "border-color": { "value": "{stichtse-vecht.color.alert-warning}" },
+        "border-width": { "value": "{stichtse-vecht.size.3xs}" }
       },
       "error": {
-        "background-color": { "value": "{stichtse-vecht.color.white.100}" },
+        "background-color": { "value": "{stichtse-vecht.color.alert-error-background}" },
         "color": { "value": "{stichtse-vecht.color.alert-error}" },
-        "border-color": { "value": "{stichtse-vecht.color.white.100}" },
-        "border-width": { "value": "0" }
+        "border-color": { "value": "{stichtse-vecht.color.alert-error}" },
+        "border-width": { "value": "{stichtse-vecht.size.3xs}" }
       },
       "ok": {
-        "background-color": { "value": "{stichtse-vecht.color.white.100}" },
+        "background-color": { "value": "{stichtse-vecht.color.alert-succes-background}" },
         "color": { "value": "{stichtse-vecht.color.alert-succes}" },
-        "border-color": { "value": "{stichtse-vecht.color.white.100}" },
-        "border-width": { "value": "0" }
+        "border-color": { "value": "{stichtse-vecht.color.alert-succes}" },
+        "border-width": { "value": "{stichtse-vecht.size.3xs}" }
       },
       "icon": {
         "color": { "value": "{stichtse-vecht.color.alert-info}" },
