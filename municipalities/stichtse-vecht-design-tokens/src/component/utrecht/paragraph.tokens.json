@@ -3,7 +3,7 @@
     "paragraph": {
       "color": { "value": "{utrecht.document.color}" },
       "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
-      "font-size": { "value": "{stichtse-vecht.font-size.md}" },
+      "font-size": { "value": "{stichtse-vecht.font-size.lg}" },
       "font-weight": { "value": "{stichtse-vecht.typography.font-weight.normal}" },
       "line-height": { "value": "1.6" },
       "margin-block-start": { "value": 0 },
