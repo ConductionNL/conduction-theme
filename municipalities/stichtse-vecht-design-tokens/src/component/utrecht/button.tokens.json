@@ -7,7 +7,7 @@
       "border-width": { "value": "1px" },
       "color": { "value": "{stichtse-vecht.color.white.100}" },
       "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
-      "font-size": { "value": "inherit" },
+      "font-size": { "value": "{stichtse-vecht.font-size.md}" },
       "font-weight": { "value": "inherit" },
       "inline-size": {},
       "letter-spacing": {},
