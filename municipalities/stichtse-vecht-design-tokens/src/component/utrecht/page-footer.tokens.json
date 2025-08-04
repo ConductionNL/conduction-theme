@@ -2,7 +2,9 @@
   "utrecht": {
     "page-footer": {
       "background-color": { "value": "{stichtse-vecht.color.blue.22}" },
-      "background-image": { "value": "unset" },
+      "background-size": { "value": "90%" },
+      "background-position": { "value": "center 40%" },
+      "background-image": { "value": "url(\"data:image/svg+xml,%3Csvg viewBox='0 0 1455 1039' xmlns='http://www.w3.org/2000/svg' xml:space='preserve'%3E%3Cpath d='m367.174 701.949 72.913 280.974-214.546 55.677-72.913-280.977 214.546-55.674ZM1069.3 189.223l.07-.018c123.49 51.105 192.28-108.569 305.04-98.81l80.41 309.862c-112.76-9.758-181.55 149.916-305.06 98.743-136.85-56.636-206.464 145.582-343.23 89.283-.069.018-.241-.081-.241-.081l-.069.017-79.971-308.176.069-.018c4.472 1.72 8.84 3.322 13.173 4.789 128.267 38.778 197.357-150.49 329.809-95.591ZM806.068 588.056l72.914 280.977-214.547 55.68-72.913-280.982 214.546-55.675ZM214.547 113.609l72.913 280.979-214.547 55.674L0 169.283l214.547-55.674ZM652.351 0l72.914 280.979-213.458 55.391-72.913-280.979L652.351 0Z' style='fill-opacity:.2'/%3E%3C/svg%3E%0A\")" },
       "color": { "value": "{stichtse-vecht.color.white.100}" },
       "padding-inline-end": { "value": "{stichtse-vecht.size.sm}" },
       "padding-inline-start": { "value": "{stichtse-vecht.size.sm}" },
