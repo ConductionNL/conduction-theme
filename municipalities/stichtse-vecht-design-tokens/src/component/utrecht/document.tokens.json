@@ -6,7 +6,7 @@
       "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
       "font-size": { "value": "{stichtse-vecht.font-size.md}" },
       "font-weight": {},
-      "line-height": {}
+      "line-height": { "value": "1.6" }
     }
   }
 }
