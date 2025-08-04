@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "2.222em" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.2xl}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "1.666em" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.2xl}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "1.166em" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.xl}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "1.666em" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.lg}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "1.666em" },
+      "font-weight": { "value": "{stichtse-vecht.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{stichtse-vecht.size.lg}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" }
+    }
+  }
+}

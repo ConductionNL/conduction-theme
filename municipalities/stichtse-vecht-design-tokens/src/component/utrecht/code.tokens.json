@@ -1,0 +1,26 @@
+{
+  "utrecht": {
+    "code": {
+      "background-color": { "value": "{stichtse-vecht.color.lightgrey.96}" },
+      "color": { "value": "{stichtse-vecht.color.black.0}" },
+      "font-family": { "value": "{stichtse-vecht.typography.monospace.font-family}" },
+      "font-size": { "value": "inherit" },
+      "line-height": {}
+    },
+    "code-block": {
+      "background-color": { "value": "{stichtse-vecht.color.lightgrey.96}" },
+      "color": { "value": "{stichtse-vecht.color.black.0}" },
+      "font-family": { "value": "{stichtse-vecht.typography.monospace.font-family}" },
+      "font-size": { "value": "{stichtse-vecht.font-size.md}" },
+      "line-height": { "value": "{stichtse-vecht.size.lg}" },
+      "margin-block-start": { "value": "{stichtse-vecht.size.md}" },
+      "margin-block-end": { "value": "{stichtse-vecht.size.md}" },
+      "margin-inline-start": { "value": 0 },
+      "margin-inline-end": { "value": 0 },
+      "padding-block-start": { "value": "{stichtse-vecht.size.md}" },
+      "padding-block-end": { "value": "{stichtse-vecht.size.md}" },
+      "padding-inline-start": { "value": "{stichtse-vecht.size.md}" },
+      "padding-inline-end": { "value": "{stichtse-vecht.size.md}" }
+    }
+  }
+}
