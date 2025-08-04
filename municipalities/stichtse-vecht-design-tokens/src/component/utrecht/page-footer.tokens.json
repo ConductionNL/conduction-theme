@@ -8,8 +8,8 @@
       "color": { "value": "{stichtse-vecht.color.white.100}" },
       "padding-inline-end": { "value": "{stichtse-vecht.size.sm}" },
       "padding-inline-start": { "value": "{stichtse-vecht.size.sm}" },
-      "padding-block-end": { "value": "{stichtse-vecht.size.2xl}" },
-      "padding-block-start": { "value": "{stichtse-vecht.size.2xl}" }
+      "padding-block-end": { "value": "{stichtse-vecht.size.xl}" },
+      "padding-block-start": { "value": "{stichtse-vecht.size.xl}" }
     }
   }
 }
