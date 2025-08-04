@@ -5,6 +5,9 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1.1 (breaking changes from 1.0.x)**
+  - 1.1.52: 
+    - Added Soest theme
+    - Added Stichtse Vecht theme.
   - 1.1.51: Updated BCT logo.
   - 1.1.50: Added Baarn theme.
   - 1.1.49: 

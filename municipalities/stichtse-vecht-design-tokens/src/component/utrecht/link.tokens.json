@@ -1,0 +1,33 @@
+{
+  "utrecht": {
+    "link": {
+      "color": { "value": "{stichtse-vecht.color.blue.37}" },
+      "text-decoration": { "value": "underline" },
+      "text-decoration-color": { "value": "{stichtse-vecht.color.blue.37}" },
+      "text-decoration-thickness": { "value": "{stichtse-vecht.size.4xs}" },
+      "text-underline-offset": { "value": "{stichtse-vecht.size.4xs}" },
+      "active": {
+        "color": {}
+      },
+      "focus": {
+        "color": {},
+        "text-decoration": {},
+        "text-decoration-thickness": {}
+      },
+      "hover": {
+        "color": { "value": "{stichtse-vecht.color.blue.27}" },
+        "text-decoration": { "value": "underline" },
+        "text-decoration-thickness": { "value": "{stichtse-vecht.size.4xs}" }
+      },
+      "placeholder": {
+        "color": {}
+      },
+      "visited": {
+        "color": { "value": "{stichtse-vecht.color.blue.37}" }
+      },
+      "icon": {
+        "size": { "value": "{stichtse-vecht.size.md}" }
+      }
+    }
+  }
+}
