@@ -3,7 +3,7 @@
     "table": {
       "border-color": {},
       "border-width": {},
-      "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
+      "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
       "font-size": { "value": "{utrecht.document.font-size}" },
       "line-height": { "value": "1.563rem" },
       "margin-block-end": { "value": 0 },

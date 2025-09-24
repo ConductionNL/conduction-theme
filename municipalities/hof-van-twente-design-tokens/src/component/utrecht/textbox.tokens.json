@@ -6,7 +6,7 @@
       "border-radius": { "value": "0" },
       "border-width": { "value": "{hof-van-twente.size.4xs}" },
       "color": { "value": "{hof-van-twente.color.grey.29}" },
-      "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+      "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
       "font-size": {
         "value": "0.938rem",
         "comment": "15px"

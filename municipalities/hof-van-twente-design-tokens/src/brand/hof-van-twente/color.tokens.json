@@ -2,10 +2,10 @@
   "hof-van-twente": {
     "color": {
       "primary": {
-        "value": "{hof-van-twente.color.turquoise.31}"
+        "value": "{hof-van-twente.color.turquoise.25}"
       },
       "primary-hover": {
-        "value": "{hof-van-twente.color.turquoise.31}"
+        "value": "{hof-van-twente.color.turquoise.25}"
       },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
@@ -32,6 +32,17 @@
         },
         "75": {
           "value": "#a6dbd5"
+        },
+        "96": {
+          "value": "#f0f8f7"
+        }
+      },
+      "purple": {
+        "21": {
+          "value": "#20204c"
+        },
+        "28": {
+          "value": "#2b2b65"
         }
       },
       "grey": {
