@@ -2,7 +2,7 @@
   "utrecht": {
     "textbox": {
       "background-color": { "value": "{hof-van-twente.color.white.100}" },
-      "line-height": { "value": "1.25rem" },
+      "line-height": { "value": "1.5" },
       "placeholder": {
         "color": { "value": "{hof-van-twente.color.grey.46}" }
       },

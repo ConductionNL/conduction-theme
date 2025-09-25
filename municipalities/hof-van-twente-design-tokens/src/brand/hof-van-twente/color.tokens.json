@@ -5,7 +5,7 @@
         "value": "{hof-van-twente.color.turquoise.25}"
       },
       "primary-hover": {
-        "value": "{hof-van-twente.color.turquoise.25}"
+        "value": "{hof-van-twente.color.turquoise.17}"
       },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
@@ -20,6 +20,12 @@
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "turquoise": {
+        "10": {
+          "value": "#00312e"
+        },
+        "17": {
+          "value": "#005955"
+        },
         "25": {
           "value": "#007d77"
         },
@@ -32,6 +38,9 @@
         },
         "75": {
           "value": "#a6dbd5"
+        },
+        "94": {
+          "value": "#ebf6f6"
         },
         "96": {
           "value": "#f0f8f7"
@@ -67,6 +76,9 @@
         "50": {
           "value": "#808080",
           "comment": "Base/Grey"
+        },
+        "55": {
+          "value": "#8c8c8c"
         },
         "80": {
           "value": "#cccccc"
@@ -119,6 +131,9 @@
         },
         "13": {
           "value": "#222222"
+        },
+        "15": {
+          "value": "#212529"
         },
         "20": {
           "value": "#333333"

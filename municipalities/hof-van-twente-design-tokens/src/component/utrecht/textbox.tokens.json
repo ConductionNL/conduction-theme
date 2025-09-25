@@ -1,22 +1,19 @@
 {
   "utrecht": {
     "textbox": {
-      "border-bottom-width": {},
-      "border-color": { "value": "{hof-van-twente.color.grey.80}" },
-      "border-radius": { "value": "0" },
-      "border-width": { "value": "{hof-van-twente.size.4xs}" },
+      "border-bottom-width": { "value": "2px" },
+      "border-color": { "value": "{hof-van-twente.color.grey.55}" },
+      "border-radius": { "value": "7px" },
+      "border-width": { "value": "0" },
       "color": { "value": "{hof-van-twente.color.grey.29}" },
       "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
-      "font-size": {
-        "value": "0.938rem",
-        "comment": "15px"
-      },
+      "font-size": {},
       "min-inline-height": {},
       "max-inline-size": {},
-      "padding-block-end": { "value": "{hof-van-twente.size.xs}" },
-      "padding-block-start": { "value": "{hof-van-twente.size.xs}" },
-      "padding-inline-end": { "value": "{hof-van-twente.size.md}" },
-      "padding-inline-start": { "value": "{hof-van-twente.size.md}" },
+      "padding-block-end": { "value": "{hof-van-twente.size.sm}" },
+      "padding-block-start": { "value": "{hof-van-twente.size.sm}" },
+      "padding-inline-end": { "value": "12px" },
+      "padding-inline-start": { "value": "12px" },
       "disabled": {
         "border-color": { "value": "{hof-van-twente.color.grey.87}" },
         "color": {}

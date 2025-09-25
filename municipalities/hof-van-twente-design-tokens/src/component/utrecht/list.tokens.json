@@ -1,27 +1,27 @@
 {
   "utrecht": {
     "ordered-list": {
-      "font-size": { "value": "{utrecht.document.font-size}" },
-      "line-height": {},
-      "margin-block-start": { "value": "{hof-van-twente.size.sm}" },
-      "margin-block-end": { "value": "{hof-van-twente.size.sm}" },
-      "padding-inline-start": { "value": "2ch" },
+      "font-size": {},
+      "line-height": { "value": "1.7" },
+      "margin-block-start": { "value": "0" },
+      "margin-block-end": { "value": "0" },
+      "padding-inline-start": { "value": "40px" },
       "item": {
-        "margin-block-start": { "value": "{hof-van-twente.size.2xs}" },
-        "margin-block-end": { "value": "{hof-van-twente.size.2xs}" },
-        "padding-inline-start": { "value": "{hof-van-twente.size.xs}" }
+        "margin-block-start": { "value": "0" },
+        "margin-block-end": { "value": "0" },
+        "padding-inline-start": { "value": "0" }
       }
     },
     "unordered-list": {
-      "font-size": { "value": "{utrecht.document.font-size}" },
-      "line-height": {},
-      "margin-block-start": { "value": "{hof-van-twente.size.sm}" },
-      "margin-block-end": { "value": "{hof-van-twente.size.sm}" },
-      "padding-inline-start": { "value": "1ch" },
+      "font-size": {},
+      "line-height": { "value": "1.7" },
+      "margin-block-start": { "value": "0" },
+      "margin-block-end": { "value": "0" },
+      "padding-inline-start": { "value": "32px" },
       "item": {
-        "margin-block-start": { "value": "{hof-van-twente.size.2xs}" },
-        "margin-block-end": { "value": "{hof-van-twente.size.2xs}" },
-        "padding-inline-start": { "value": "{hof-van-twente.size.sm}" }
+        "margin-block-start": { "value": "0" },
+        "margin-block-end": { "value": "0" },
+        "padding-inline-start": { "value": "1ch" }
       },
       "marker": {
         "color": { "value": "{hof-van-twente.color.primary}" }

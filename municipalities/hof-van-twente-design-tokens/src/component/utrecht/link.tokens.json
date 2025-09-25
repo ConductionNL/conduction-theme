@@ -2,7 +2,7 @@
   "utrecht": {
     "link": {
       "color": { "value": "{hof-van-twente.color.primary}" },
-      "text-decoration": { "value": "none" },
+      "text-decoration": { "value": "underline" },
       "text-decoration-color": {},
       "text-decoration-thickness": {},
       "text-underline-offset": { "value": "0.25em" },
@@ -15,7 +15,7 @@
         "text-decoration-thickness": {}
       },
       "hover": {
-        "color": {},
+        "color": { "value": "{hof-van-twente.color.turquoise.10}" },
         "text-decoration": { "value": "underline" },
         "text-decoration-thickness": {}
       },

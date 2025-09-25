@@ -5,7 +5,7 @@
       "border-width": {},
       "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
       "font-size": { "value": "{utrecht.document.font-size}" },
-      "line-height": { "value": "1.563rem" },
+      "line-height": { "value": "1.4" },
       "margin-block-end": { "value": 0 },
       "margin-block-start": { "value": "{hof-van-twente.size.md}" },
       "caption": {
@@ -19,39 +19,39 @@
       },
       "header": {
         "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-        "background-color": { "value": "{hof-van-twente.color.white.94}" },
-        "color": { "value": "{utrecht.document.color}" },
+        "background-color": { "value": "{hof-van-twente.color.primary}" },
+        "color": { "value": "{hof-van-twente.color.white.100}" },
         "text-transform": { "value": "unset" },
-        "border-block-end-color": { "value": "{hof-van-twente.color.grey.84}" },
+        "border-block-end-color": { "value": "{hof-van-twente.color.primary}" },
         "border-block-end-width": { "value": "{hof-van-twente.size.4xs}" }
       },
       "header-cell": {
         "font-size": { "value": "{utrecht.document.font-size}" },
         "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-        "color": { "value": "{utrecht.document.color}" },
+        "color": {},
         "text-transform": { "value": "unset" }
       },
       "cell": {
         "line-height": {},
-        "padding-block-end": { "value": "0.313rem" },
-        "padding-block-start": { "value": "0.313rem" },
-        "padding-inline-end": { "value": "0.313rem" },
-        "padding-inline-start": { "value": "0.313rem" },
+        "padding-block-end": { "value": "0.4rem" },
+        "padding-block-start": { "value": "0.4rem" },
+        "padding-inline-end": { "value": "0.4rem" },
+        "padding-inline-start": { "value": "0.4rem" },
         "icon": {
           "size": {}
         }
       },
       "row": {
-        "border-block-end-color": { "value": "{hof-van-twente.color.grey.84}" },
+        "border-block-end-color": { "value": "{hof-van-twente.color.primary}" },
         "border-block-end-width": { "value": "{hof-van-twente.size.4xs}" },
         "padding-inline-end": {},
         "padding-inline-start": {},
         "alternate-odd": {
-          "background-color": {},
+          "background-color": { "value": "{hof-van-twente.color.turquoise.94}" },
           "color": {}
         },
         "alternate-even": {
-          "background-color": {},
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
           "color": {}
         }
       }
