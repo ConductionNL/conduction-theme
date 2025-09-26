@@ -5,6 +5,7 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1.1 (breaking changes from 1.0.x)**
+  - 1.1.53: Updated Hof van Twente theme to V2
   - 1.1.52: 
     - Added Soest theme
     - Added Stichtse Vecht theme.

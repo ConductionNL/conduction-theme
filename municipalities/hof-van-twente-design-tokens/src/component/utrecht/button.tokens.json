@@ -1,23 +1,23 @@
 {
   "utrecht": {
     "button": {
-      "background-color": { "value": "{hof-van-twente.color.turquoise.75}" },
-      "border-color": { "value": "{hof-van-twente.color.turquoise.75}" },
-      "border-radius": { "value": "{hof-van-twente.size.2xs}" },
+      "background-color": { "value": "{hof-van-twente.color.primary}" },
+      "border-color": { "value": "{hof-van-twente.color.primary}" },
+      "border-radius": { "value": "{hof-van-twente.size.4xl}" },
       "border-width": { "value": "{hof-van-twente.size.3xs}" },
-      "color": { "value": "{hof-van-twente.color.black.13}" },
-      "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+      "color": { "value": "{hof-van-twente.color.white.100}" },
+      "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.md}" },
       "font-weight": { "value": "bold" },
       "inline-size": {},
       "letter-spacing": {},
-      "line-height": {},
+      "line-height": { "value": "1.4" },
       "min-block-size": {},
       "min-inline-size": {},
-      "padding-block-start": { "value": "{hof-van-twente.size.sm}" },
-      "padding-block-end": { "value": "{hof-van-twente.size.sm}" },
-      "padding-inline-start": { "value": "{hof-van-twente.size.sm}" },
-      "padding-inline-end": { "value": "{hof-van-twente.size.sm}" },
+      "padding-block-start": { "value": "13px" },
+      "padding-block-end": { "value": "13px" },
+      "padding-inline-start": { "value": "{hof-van-twente.size.lg}" },
+      "padding-inline-end": { "value": "{hof-van-twente.size.lg}" },
       "text-transform": { "value": "uppercase" },
       "active": {
         "background-color": {},
@@ -34,20 +34,20 @@
         "color": { "value": "{hof-van-twente.color.grey.50}" }
       },
       "focus": {
-        "background-color": {},
-        "border-color": {},
+        "background-color": { "value": "{hof-van-twente.color.primary-hover}" },
+        "border-color": { "value": "{hof-van-twente.color.primary-hover}" },
         "color": {},
         "scale": {}
       },
       "hover": {
-        "background-color": {},
-        "border-color": {},
-        "color": {},
+        "background-color": { "value": "{hof-van-twente.color.primary-hover}" },
+        "border-color": { "value": "{hof-van-twente.color.primary-hover}" },
+        "color": { "value": "{hof-van-twente.color.white.100}" },
         "scale": {}
       },
       "pressed": {
-        "background-color": {},
-        "border-color": {},
+        "background-color": { "value": "{hof-van-twente.color.primary-hover}" },
+        "border-color": { "value": "{hof-van-twente.color.primary-hover}" },
         "color": {}
       },
       "primary-action": {
@@ -84,8 +84,8 @@
         }
       },
       "secondary-action": {
-        "background-color": { "value": "{hof-van-twente.color.white.100}" },
-        "border-color": { "value": "{hof-van-twente.color.turquoise.75}" },
+        "background-color": { "value": "{hof-van-twente.color.purple.28}" },
+        "border-color": { "value": "{hof-van-twente.color.purple.28}" },
         "border-width": {},
         "color": {},
         "font-weight": {},
@@ -95,23 +95,23 @@
           "color": {}
         },
         "disabled": {
-          "background-color": { "value": "{hof-van-twente.color.white.100}" },
-          "border-color": {},
+          "background-color": { "value": "{hof-van-twente.color.grey.82}" },
+          "border-color": { "value": "{hof-van-twente.color.grey.82}" },
           "color": {}
         },
         "hover": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
+          "background-color": { "value": "{hof-van-twente.color.purple.21}" },
+          "border-color": { "value": "{hof-van-twente.color.purple.21}" },
+          "color": { "value": "{hof-van-twente.color.white.100}" }
         },
         "focus": {
-          "background-color": {},
-          "border-color": {},
+          "background-color": { "value": "{hof-van-twente.color.purple.21}" },
+          "border-color": { "value": "{hof-van-twente.color.purple.21}" },
           "color": {}
         },
         "pressed": {
-          "background-color": {},
-          "border-color": {},
+          "background-color": { "value": "{hof-van-twente.color.purple.21}" },
+          "border-color": { "value": "{hof-van-twente.color.purple.21}" },
           "color": {}
         }
       },

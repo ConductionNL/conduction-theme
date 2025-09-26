@@ -21,14 +21,14 @@
         "font-family": {}
       },
       "link": {
-        "color": {"value": "{hof-van-twente.color.white.100}"},
+        "color": {"value": "{hof-van-twente.color.black.13}"},
         "text-decoration": { "value": "underline" },
         "text-decoration-color": { "value": "{hof-van-twente.color.white.100}" },
         "text-decoration-thickness": { "value": "{hof-van-twente.size.4xs}" },
-        "text-underline-offset": {},
+        "text-underline-offset": { "value": "0.25rem" },
         "hover": {
-          "color": { "value": "{hof-van-twente.color.white.100}" },
-          "text-decoration": { "value": "none" },
+          "color": { "value": "{hof-van-twente.color.black.13}" },
+          "text-decoration": { "value": "underline" },
           "text-decoration-thickness": { "value": "{hof-van-twente.size.4xs}" },
           "font-weight": {}
         }

@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "surface": {
-      "background-color": { "value": "{hof-van-twente.color.white.100}" },
+      "background-color": { "value": "{hof-van-twente.color.turquoise.96}" },
       "color": {}
     }
   }

@@ -11,21 +11,21 @@
       "header-cell": {
         "border-inline-end-width": { "value": "{hof-van-twente.size.4xs}" },
         "border-inline-end-style": { "value": "solid" },
-        "border-inline-end-color": { "value": "{hof-van-twente.color.grey.84}" }
+        "border-inline-end-color": { "value": "{hof-van-twente.color.primary}" }
       },
       "cell": {
         "border-inline-end-width": { "value": "{hof-van-twente.size.4xs}" },
         "border-inline-end-style": { "value": "solid" },
-        "border-inline-end-color": { "value": "{hof-van-twente.color.grey.84}" }
+        "border-inline-end-color": { "value": "{hof-van-twente.color.primary}" }
       },
       "row": {
         "hover": {
-          "background-color": { "value": "{hof-van-twente.color.grey.97}" },
+          "background-color": { "value": "none" },
           "color": {}
         }
       },
       "body": {
-        "border": {},
+        "border": { "value": "solid {hof-van-twente.size.4xs} {hof-van-twente.color.primary}" },
         "border-block-end-color": {},
         "border-block-end-width": {}
       },

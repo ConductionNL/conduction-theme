@@ -1,14 +1,14 @@
 {
   "utrecht": {
     "skip-link": {
-      "background-color": { "value": "{hof-van-twente.color.turquoise.48}" },
-      "color": { "value": "{hof-van-twente.color.black.0}" },
+      "background-color": { "value": "{hof-van-twente.color.primary-hover}" },
+      "color": { "value": "{hof-van-twente.color.white.100}" },
       "min-block-size": {},
       "min-inline-size": {},
       "padding-block-start": { "value": "10px" },
       "padding-block-end": { "value": "10px" },
-      "padding-inline-start": { "value": "10px" },
-      "padding-inline-end": { "value": "10px" },
+      "padding-inline-start": { "value": "28px" },
+      "padding-inline-end": { "value": "28px" },
       "text-decoration": { "value": "none" },
       "z-index": { "value": "100000" }
     }

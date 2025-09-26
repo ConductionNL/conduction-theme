@@ -8,9 +8,9 @@
       "border-bottom-color": {},
       "border-bottom-style": {},
       "border-bottom-width": {},
-      "border-radius": { "value": "{hof-van-twente.size.md}" },
+      "border-radius": { "value": "7px" },
       "transition": {},
-      "box-shadow": {"value": "0px 0px 6px 0px rgba(246,246,246,1)"},
+      "box-shadow": {},
       "color": { "value": "{hof-van-twente.color.black.0}" },
       "hover": {
         "background-color": {},
@@ -22,7 +22,7 @@
         "border-bottom-style": {},
         "border-bottom-width": {},
         "border-radius": {},
-        "box-shadow": {"value": "0px 0px 6px 0px rgba(30,128,122,0.4)"}
+        "box-shadow": {}
       },
       "padding-inline-end": { "value": "{hof-van-twente.size.md}" },
       "padding-inline-start": { "value": "{hof-van-twente.size.md}" },

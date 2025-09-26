@@ -13,7 +13,12 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{hof-van-twente.color.primary}" }
+        "color": { "value": "{hof-van-twente.color.primary}" },
+        "hover": {
+          "color": { "value": "{hof-van-twente.color.turquoise.10}" },
+          "text-decoration": { "value": "underline" },
+          "text-underline-offset": { "value": "0.25rem" }
+        }
       },
       "date": {
         "color": { "value": "{hof-van-twente.color.black.0}" },
