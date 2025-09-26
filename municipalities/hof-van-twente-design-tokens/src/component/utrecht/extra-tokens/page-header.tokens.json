@@ -3,12 +3,13 @@
     "page-header": {
       "logo": {
         "max-height": {},
-        "max-width": {}
+        "max-width": { "value": "150px" }
       },
       "border-block-start": {},
       "border-block-end": {},
       "border-inline-start": {},
-      "border-inline-end": {}
+      "border-inline-end": {},
+      "display": { "value": "block" }
     }
   }
 }

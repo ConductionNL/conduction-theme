@@ -43,7 +43,7 @@
         "padding-block-end": { "value": "12px" },
         "disabled": {
           "color": { "value": "{hof-van-twente.color.black.15}" },
-          "background-color": { "value": "transparent" },
+          "background-color": { "value": "{hof-van-twente.color.white.100}" },
           "border-width": {},
           "border-style": {},
           "border-color": {},
@@ -53,8 +53,8 @@
           "border-radius": {}
         },
         "hover": {
-          "color": { "value": "{hof-van-twente.color.black.15}" },
-          "background-color": {},
+          "color": { "value": "{hof-van-twente.color.white.100}" },
+          "background-color": { "value": "{hof-van-twente.color.primary}" },
           "border-width": {},
           "border-style": {},
           "border-color": {},
