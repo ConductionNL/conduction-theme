@@ -1,47 +1,47 @@
 {
   "utrecht": {
     "heading-1": {
-      "color": { "value": "{hof-van-twente.color.black.13}" },
-      "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
+      "color": { "value": "{hof-van-twente.color.turquoise.25}" },
+      "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.3xl}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-      "line-height": { "value": "1.1em" },
+      "line-height": { "value": "1.2" },
       "margin-block-end": { "value": "{hof-van-twente.size.lg}" },
       "margin-block-start": {}
     },
     "heading-2": {
-      "color": { "value": "{hof-van-twente.color.primary}" },
-      "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
+      "color": { "value": "{hof-van-twente.color.turquoise.25}" },
+      "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.2xl}" },
-      "font-weight": { "value": "{hof-van-twente.typography.font-weight.normal}" },
-      "line-height": { "value": "1.1em" },
+      "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
+      "line-height": { "value": "1.2" },
       "margin-block-end": { "value": "{hof-van-twente.size.lg}" },
       "margin-block-start": { "value": "{hof-van-twente.size.xl}" }
     },
     "heading-3": {
-      "color": { "value": "{hof-van-twente.color.black.20}" },
-      "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
-      "font-size": { "value": "{hof-van-twente.font-size.xl}" },
+      "color": { "value": "{hof-van-twente.color.turquoise.25}" },
+      "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
+      "font-size": { "value": "{hof-van-twente.font-size.lg}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-      "line-height": { "value": "1.1em" },
+      "line-height": { "value": "1.2" },
       "margin-block-end": { "value": "{hof-van-twente.size.xl}" },
       "margin-block-start": { "value": "{hof-van-twente.size.md}" }
     },
     "heading-4": {
-      "color": { "value": "{hof-van-twente.color.black.20}" },
-      "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
+      "color": { "value": "{hof-van-twente.color.black.0}" },
+      "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.lg}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-      "line-height": { "value": "1.1em" },
+      "line-height": { "value": "1.2" },
       "margin-block-end": { "value": "{hof-van-twente.size.lg}" },
       "margin-block-start": { "value": "{hof-van-twente.size.md}" }
     },
     "heading-5": {
-      "color": { "value": "{hof-van-twente.color.black.20}" },
-      "font-family": { "value": "{hof-van-twente.typography.roboto-condensed.font-family}" },
+      "color": { "value": "{hof-van-twente.color.black.0}" },
+      "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
       "font-size": { "value": "{hof-van-twente.font-size.md}" },
       "font-weight": { "value": "{hof-van-twente.typography.font-weight.light}" },
-      "line-height": { "value": "1.1em" },
+      "line-height": { "value": "1.2" },
       "margin-block-end": { "value": "{hof-van-twente.size.lg}" },
       "margin-block-start": { "value": "{hof-van-twente.size.md}" }
     }

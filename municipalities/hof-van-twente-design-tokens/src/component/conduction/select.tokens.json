@@ -11,11 +11,11 @@
       "hover": {},
       "focus": {},
       "list-option": {
-        "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+        "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
         "background-color": {},
         "color": {},
         "hover": {
-          "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+          "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
           "background-color": {},
           "color": {}
         },
@@ -32,7 +32,7 @@
         "color": {
           "value": "{utrecht.form-input.placeholder.color}"
         },
-        "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" }
+        "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" }
       }
     }
   }

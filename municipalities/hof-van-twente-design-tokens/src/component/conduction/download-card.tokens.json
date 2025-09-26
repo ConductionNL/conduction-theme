@@ -6,7 +6,7 @@
         "color": { "value": "{utrecht.document.color}" },
         "font-size": { "value": "{hof-van-twente.font-size.md}" },
         "font-weight": { "value": "{hof-van-twente.typography.font-weight.bold}" },
-        "font-family": { "value": "{hof-van-twente.typography.roboto.font-family}" },
+        "font-family": { "value": "{hof-van-twente.typography.open-sans.font-family}" },
         "margin-inline-end": { "value": "{hof-van-twente.size.sm}" }
       },
       "border-width": { "value": "{hof-van-twente.size.4xs}" },
