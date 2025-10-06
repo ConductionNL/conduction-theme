@@ -5,7 +5,7 @@
       "text-decoration": { "value": "underline" },
       "text-decoration-color": {},
       "text-decoration-thickness": {},
-      "text-underline-offset": {},
+      "text-underline-offset": { "value": "0.25em" },
       "active": {
         "color": {}
       },
@@ -15,8 +15,8 @@
         "text-decoration-thickness": {}
       },
       "hover": {
-        "color": {},
-        "text-decoration": { "value": "none" },
+        "color": { "value": "{hof-van-twente.color.turquoise.10}" },
+        "text-decoration": { "value": "underline" },
         "text-decoration-thickness": {}
       },
       "placeholder": {

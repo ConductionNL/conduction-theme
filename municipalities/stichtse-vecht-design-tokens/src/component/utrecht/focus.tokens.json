@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "focus": {
+      "background-color": {},
+      "color": {},
+      "outline-color": { "value": "{stichtse-vecht.color.white.100}" },
+      "outline-offset": { "value": "1px" },
+      "outline-style": { "value": "solid" },
+      "outline-width": { "value": "1px" },
+      "inverse": {
+        "outline-color": { "value": "{stichtse-vecht.color.white.100}" }
+      }
+    }
+  }
+}

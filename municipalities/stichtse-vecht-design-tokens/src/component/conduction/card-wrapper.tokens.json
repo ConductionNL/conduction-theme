@@ -1,0 +1,55 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": {
+        "value": "{stichtse-vecht.color.white.100}"
+      },
+      "border-color": {},
+      "border-style": {},
+      "border-width": {},
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": {
+        "value": "0.25rem"
+      },
+      "transition": {
+        "value": "0.2s"
+      },
+      "box-shadow": {
+        "value": "0 0.15rem 0.5rem 0 rgba(0, 0, 0, 0.16)"
+      },
+      "color": {
+        "value": "{stichtse-vecht.color.black.0}"
+      },
+      "hover": {
+        "background-color": {
+          "value": "{stichtse-vecht.color.grey.97}"
+        },
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {
+          "value": "none"
+        }
+      },
+      "padding-inline-end": {
+        "value": "1.5rem"
+      },
+      "padding-inline-start": {
+        "value": "1.5rem"
+      },
+      "padding-block-end": {
+        "value": "1.5rem"
+      },
+      "padding-block-start": {
+        "value": "1.5rem"
+      }
+    }
+  }
+}

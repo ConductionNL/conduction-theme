@@ -3,12 +3,12 @@
     "focus": {
       "background-color": {},
       "color": {},
-      "outline-color": {},
-      "outline-offset": { "value": "2.5px" },
-      "outline-style": {},
-      "outline-width": { "value": "2.5px" },
+      "outline-color": { "value": "{conduction.color.white.100}" },
+      "outline-offset": { "value": "1px" },
+      "outline-style": { "value": "solid" },
+      "outline-width": { "value": "1px" },
       "inverse": {
-        "outline-color": { "value": "{conduction.color.black.0-60t}" }
+        "outline-color": { "value": "{conduction.color.white.100}" }
       }
     }
   }

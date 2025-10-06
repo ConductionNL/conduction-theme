@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{stichtse-vecht.color.lightgrey.95}" },
+      "color": { "value": "{stichtse-vecht.color.grey.20}" },
+      "font-family": { "value": "{stichtse-vecht.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{stichtse-vecht.font-size.md}" },
+      "font-weight": {},
+      "line-height": { "value": "1.6" }
+    }
+  }
+}

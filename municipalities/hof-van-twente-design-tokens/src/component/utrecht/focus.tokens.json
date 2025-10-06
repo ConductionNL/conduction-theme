@@ -1,14 +1,14 @@
 {
   "utrecht": {
     "focus": {
-      "background-color": {},
+      "background-color": { "value": "none" },
       "color": {},
-      "outline-color": {},
-      "outline-offset": { "value": "2.5px" },
+      "outline-color": { "value": "-webkit-focus-ring-color" },
+      "outline-offset": { "value": "4.7962px" },
       "outline-style": {},
       "outline-width": { "value": "2.5px" },
       "inverse": {
-        "outline-color": { "value": "{hof-van-twente.color.black.0-60t}" }
+        "outline-color": { "value": "none" }
       }
     }
   }

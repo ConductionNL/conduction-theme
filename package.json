@@ -1,6 +1,6 @@
 {
   "name": "@conduction/theme",
-  "version": "1.1.51",
+  "version": "1.1.54",
   "description": "Conduction's design tokens theme",
   "main": "index.js",
   "repository": {
@@ -39,7 +39,8 @@
     "build:helmond": "cd ./municipalities/helmond-design-tokens && npm run build",
     "build:beek": "cd ./municipalities/beek-design-tokens && npm run build",
     "build:baarn": "cd ./municipalities/baarn-design-tokens && npm run build",
-    "build:soest": "cd ./municipalities/soest-design-tokens && npm run build"
+    "build:soest": "cd ./municipalities/soest-design-tokens && npm run build",
+    "build:stichtse-vecht": "cd ./municipalities/stichtse-vecht-design-tokens && npm run build"
   },
   "dependencies": {
     "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100",
