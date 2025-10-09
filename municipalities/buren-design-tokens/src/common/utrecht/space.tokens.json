@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{buren.size.3xs}" },
+        "2xs": { "value": "{buren.size.2xs}" },
+        "xs": { "value": "{buren.size.xs}" },
+        "sm": { "value": "{buren.size.sm}" },
+        "md": { "value": "{buren.size.md}" },
+        "lg": { "value": "{buren.size.lg}" },
+        "xl": { "value": "{buren.size.xl}" },
+        "2xl": { "value": "{buren.size.2xl}" },
+        "3xl": { "value": "{buren.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{buren.size.3xs}" },
+        "2xs": { "value": "{buren.size.2xs}" },
+        "xs": { "value": "{buren.size.xs}" },
+        "sm": { "value": "{buren.size.sm}" },
+        "md": { "value": "{buren.size.md}" },
+        "lg": { "value": "{buren.size.lg}" },
+        "xl": { "value": "{buren.size.xl}" },
+        "2xl": { "value": "{buren.size.2xl}" },
+        "3xl": { "value": "{buren.size.3xl}" }
+      }
+    }
+  }
+}
