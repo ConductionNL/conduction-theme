@@ -35,6 +35,14 @@
           "value": "#f5bf24"
         }
       },
+      "orange": {
+        "88": {
+          "value": "#fde7c4"
+        },
+        "93": {
+          "value": "#fef1dd"
+        }
+      },
       "grey": {
         "20": {
           "value": "#333333"

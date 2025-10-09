@@ -22,20 +22,20 @@
         "comment": "14px"
       },
       "md": {
-        "value": "1.125rem",
-        "comment": "18px"
+        "value": "1rem",
+        "comment": "16px"
       },
       "lg": {
-        "value": "1.25rem",
-        "comment": "20px"
+        "value": "1.3rem",
+        "comment": "20.8px"
       },
       "xl": {
-        "value": "1.5rem",
-        "comment": "24px"
+        "value": "1.6rem",
+        "comment": "25.6px"
       },
       "2xl": {
-        "value": "2rem",
-        "comment": "32px"
+        "value": "2.2rem",
+        "comment": "35.2px"
       },
       "3xl": {
         "value": "3rem",
