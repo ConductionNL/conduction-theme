@@ -2,10 +2,10 @@
   "buren": {
     "color": {
       "primary": {
-        "value": "{buren.color.green.32}"
+        "value": "{buren.color.red.40}"
       },
       "primary-hover": {
-        "value": "{buren.color.green.27}"
+        "value": "{buren.color.red.33}"
       },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
@@ -19,41 +19,20 @@
       "info": { "value": "{buren.color.primary}" },
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
-      "blue": {
-        "52": {
-          "value": "#2e5ed9"
-        },
-        "63": {
-          "value": "#4376fc",
-          "comment": "Base/Blue"
-        },
-        "74": {
-          "value": "#88adf1"
-        },
-        "95": {
-          "value": "#e6edff"
-        }
-      },
-      "green": {
-        "22": {
-          "value": "#195721"
-        },
-        "27": {
-          "value": "#1f6b29"
-        },
-        "32": {
-          "value": "#257e31"
-        },
-        "80": {
-          "value": "#dfe3df"
-        },
-        "96": {
-          "value": "#f2f8f3"
-        }
-      },
       "red": {
+        "33": {
+          "value": "#8a1e25"
+        },
+        "40": {
+          "value": "#a6242d"
+        },
         "46": {
           "value": "#cc0000"
+        }
+      },
+      "yellow": {
+        "55": {
+          "value": "#f5bf24"
         }
       },
       "grey": {
