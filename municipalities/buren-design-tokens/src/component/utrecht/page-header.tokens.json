@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{buren.color.white.100}" },
+      "color": { "value": "{buren.color.grey.20}" },
+      "padding-block-start": { "value": "" },
+      "padding-block-end": { "value": "" }
+    }
+  }
+}
