@@ -2,7 +2,7 @@
   "utrecht": {
     "table": {
       "border-collapse": { "value": "collapse" },
-      "background-color": {},
+      "background-color": { "value": "{buren.color.white.100}" },
       "header": {
         "border-block-end-color": { "value": "{buren.color.grey.82}" },
         "border-block-end-width": { "value": "{buren.size.4xs}" },

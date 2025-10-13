@@ -14,7 +14,7 @@
       "color": { "value": "{buren.color.grey.20}" },
       "hover": {
         "background-color": {},
-        "color": { "value": "{buren.color.grey.20}" },
+        "color": { "value": "{buren.color.primary}" },
         "border-color": { "value": "{buren.color.white.100}" },
         "border-style": { "value": "solid" },
         "border-width": { "value": "0" },

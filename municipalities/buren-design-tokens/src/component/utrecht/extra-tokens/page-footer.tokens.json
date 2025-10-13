@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "page-footer": {
-      "font-size": { "value": "{buren.size.md}" },
+      "font-size": { "value": "{buren.font-size.md}" },
       "font-family": {},
       "min-height": {},
       "logo": {

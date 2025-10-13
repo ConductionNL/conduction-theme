@@ -4,7 +4,7 @@
       "background-color": { "value": "{buren.color.primary}" },
       "border-color": { "value": "{buren.color.primary}" },
       "border-radius": { "value": "3px" },
-      "border-width": { "value": "5px" },
+      "border-width": {},
       "color": { "value": "{buren.color.white.100}" },
       "font-family": { "value": "{buren.typography.sans-serif.font-family}" },
       "font-size": { "value": "{buren.font-size.md}" },
@@ -52,8 +52,8 @@
       },
       "primary-action": {
         "background-color": { "value": "{buren.color.primary}" },
-        "border-color": { "value": "{buren.color.primary}" },
-        "border-width": { "value": "{buren.size.3xs}" },
+        "border-color": {},
+        "border-width": {},
         "color": { "value": "{buren.color.white.100}" },
         "font-weight": { "value": "inherit" },
         "active": {
@@ -85,8 +85,8 @@
       },
       "secondary-action": {
         "background-color": { "value": "{buren.color.white.100}" },
-        "border-color": { "value": "{buren.color.white.100}" },
-        "border-width": { "value": "5px" },
+        "border-color": {},
+        "border-width": {},
         "color": { "value": "{buren.color.black.0}" },
         "font-weight": { "value": "{buren.typography.font-weight.normal}" },
         "active": {
@@ -105,12 +105,12 @@
           "color": { "value": "{buren.color.black.0}" }
         },
         "focus": {
-          "background-color": { "value": "{buren.color.lightgrey.93}" },
+          "background-color": { "value": "{buren.color.white.100}" },
           "border-color": {},
           "color": {}
         },
         "pressed": {
-          "background-color": {},
+          "background-color": { "value": "{buren.color.white.100}" },
           "border-color": {},
           "color": {}
         }
