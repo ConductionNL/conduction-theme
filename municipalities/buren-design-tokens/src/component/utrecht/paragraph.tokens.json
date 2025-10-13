@@ -1,0 +1,25 @@
+{
+  "utrecht": {
+    "paragraph": {
+      "color": { "value": "{utrecht.document.color}" },
+      "font-family": { "value": "{buren.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{buren.font-size.md}" },
+      "font-weight": { "value": "{buren.typography.font-weight.normal}" },
+      "line-height": { "value": "1.6" },
+      "margin-block-start": { "value": 0 },
+      "margin-block-end": { "value": 0 },
+      "lead": {
+        "color": {},
+        "font-size": {},
+        "font-weight": {},
+        "line-height": {}
+      },
+      "small": {
+        "color": {},
+        "font-size": {},
+        "font-weight": {},
+        "line-height": {}
+      }
+    }
+  }
+}
