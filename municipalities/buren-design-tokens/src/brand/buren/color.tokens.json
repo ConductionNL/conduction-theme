@@ -30,6 +30,11 @@
           "value": "#cc0000"
         }
       },
+      "blue": {
+        "40": {
+          "value": "#005fcc"
+        }
+      },
       "yellow": {
         "55": {
           "value": "#f5bf24"
