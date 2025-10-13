@@ -6,8 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
   - 1.1.56: Added Buren theme.
-  - 1.1.55: Updated Soest logo again
-  - 1.1.54: Updated Soest logo.
+  - 1.1.54 / 1.1.55: Updated Soest logo.
   - 1.1.53: Updated Hof van Twente theme to V2
   - 1.1.52: 
     - Added Soest theme
