@@ -6,7 +6,7 @@
         "max-width": { "value": "150px" }
       },
       "border-block-start": {},
-      "border-block-end": { "value": "" },
+      "border-block-end": { "value": "{buren.size.3xs} solid {buren.color.grey.90}" },
       "border-inline-start": {},
       "border-inline-end": {},
       "display": { "value": "block" }
