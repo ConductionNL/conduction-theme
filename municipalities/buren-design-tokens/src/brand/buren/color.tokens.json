@@ -28,6 +28,9 @@
         },
         "46": {
           "value": "#cc0000"
+        },
+        "85": {
+          "value": "#e9c8ca"
         }
       },
       "blue": {
@@ -86,7 +89,7 @@
           "value": "#e9e9e9"
         },
         "93": {
-          "value": "#eceeec",
+          "value": "#e9ecef",
           "comment": "Base/Grey"
         },
         "95": {
