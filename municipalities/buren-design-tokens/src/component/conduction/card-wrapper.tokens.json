@@ -1,0 +1,33 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{buren.color.white.100}" },
+      "border-color": { "value": "{buren.color.white.100}" },
+      "border-style": { "value": "solid" },
+      "border-width": { "value": "0" },
+      "border-bottom-color": { "value": "{buren.color.yellow.55}" },
+      "border-bottom-style": { "value": "solid" },
+      "border-bottom-width": { "value": "3px" },
+      "border-radius": { "value": "0" },
+      "transition": { "value": "all .15s ease" },
+      "box-shadow": {},
+      "color": { "value": "{buren.color.grey.20}" },
+      "hover": {
+        "background-color": {},
+        "color": { "value": "{buren.color.grey.20}" },
+        "border-color": { "value": "{buren.color.white.100}" },
+        "border-style": { "value": "solid" },
+        "border-width": { "value": "0" },
+        "border-bottom-color": { "value": "{buren.color.yellow.55}" },
+        "border-bottom-style": { "value": "solid" },
+        "border-bottom-width": { "value": "3px" },
+        "border-radius": { "value": "0" },
+        "box-shadow": {}
+      },
+      "padding-inline-end": { "value": "1.8rem" },
+      "padding-inline-start": { "value": "1.8rem" },
+      "padding-block-end": { "value": "1.8rem" },
+      "padding-block-start": { "value": "1.8rem" }
+    }
+  }
+}
