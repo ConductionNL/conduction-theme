@@ -20,6 +20,9 @@
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "red": {
+        "25": {
+          "value": "#68161c"
+        },
         "33": {
           "value": "#8a1e25"
         },
