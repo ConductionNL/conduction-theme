@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{buren.color.grey.95}" },
+      "color": { "value": "{buren.color.grey.20}" },
+      "font-family": { "value": "{buren.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{buren.font-size.md}" },
+      "font-weight": {},
+      "line-height": { "value": "1.7" }
+    }
+  }
+}
