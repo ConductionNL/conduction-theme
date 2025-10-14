@@ -17,7 +17,7 @@
         "text-decoration": { "value": "none" },
         "text-underline-offset": { "value": "5px" },
         "hover": {
-          "color": {},
+          "color": { "value": "{buren.color.primary}" },
           "text-decoration": {},
           "text-underline-offset": {}
         }
