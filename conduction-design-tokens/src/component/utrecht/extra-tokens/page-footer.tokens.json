@@ -18,7 +18,9 @@
       },
       "heading": {
         "color": {},
-        "font-family": {}
+        "font-family": {},
+        "font-weight": {},
+        "font-size": {}
       },
       "link": {
         "color": {},
