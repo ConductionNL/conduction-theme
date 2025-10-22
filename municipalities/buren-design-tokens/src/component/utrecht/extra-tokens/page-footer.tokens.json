@@ -14,11 +14,13 @@
         "background-position": {}
       },
       "icon": {
-        "color": {}
+        "color": { "value": "{buren.color.primary}" }
       },
       "heading": {
         "color": {},
-        "font-family": {}
+        "font-family": {},
+        "font-weight": { "value": "{buren.typography.font-weight.bold}" },
+        "font-size": { "value": "1.45rem", "comment": "23.2px" }
       },
       "link": {
         "color": { "value": "{buren.color.grey.20}" },
