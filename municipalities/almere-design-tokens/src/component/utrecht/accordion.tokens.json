@@ -23,7 +23,7 @@
         },
         "font-family": { "value": "{almere.typography.barlow.font-family}" },
         "font-size": { "value": "{almere.font-size.md}" },
-        "font-weight": { "value": "{almere.typography.font-weight.normal}" },
+        "font-weight": { "value": "600" },
         "hover": {
           "background-color": { "value": "{almere.color.yellow.64}" },
           "border-color": { "value": "{almere.color.yellow.64}" },
