@@ -1,7 +1,7 @@
 {
-  "fullName": "Conduction",
-  "name": "Conduction",
-  "prefix": "conduction",
+  "fullName": "Almere",
+  "name": "Almere",
+  "prefix": "almere",
   "npm": "@conduction/theme",
   "stories": [
     "react-utrecht-alert--default",
