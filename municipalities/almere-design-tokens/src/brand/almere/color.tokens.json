@@ -8,8 +8,8 @@
         "value": "{almere.color.blue.31}"
       },
       "error": { "value": "#dc3545" },
-      "alert-error": { "value": "#721c24" },
-      "alert-error-background": { "value": "#f8d7da" },
+      "alert-error": { "value": "{almere.color.white.100}" },
+      "alert-error-background": { "value": "{almere.color.red.51}" },
       "warning": { "value": "#ffc107" },
       "alert-warning": { "value": "#856404" },
       "alert-warning-background": { "value": "#fff3cd" },
