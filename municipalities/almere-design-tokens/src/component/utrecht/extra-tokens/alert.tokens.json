@@ -2,7 +2,7 @@
   "utrecht": {
     "alert": {
       "icon": {
-        "gap": { "value": "{almere.size.xs}" }
+        "gap": { "value": "1.5rem" }
       }
     }
   }
