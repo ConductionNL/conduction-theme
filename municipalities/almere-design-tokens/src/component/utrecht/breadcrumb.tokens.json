@@ -1,0 +1,45 @@
+{
+  "utrecht": {
+    "breadcrumb-nav": {
+      "block-size": {},
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{almere.typography.font-weight.semibold}" },
+      "text-transform": {},
+      "item": {
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "padding-inline-end": { "value": "10px" },
+        "padding-inline-start": { "value": "10px" }
+      },
+      "link": {
+        "background-color": {},
+        "color": { "value": "{almere.color.black.0}" },
+        "text-decoration": { "value": "none" },
+        "focus": {
+          "background-color": {},
+          "color": {},
+          "text-decoration": {}
+        },
+        "hover": {
+          "color": { "value": "{almere.color.black.0}" },
+          "text-decoration": { "value": "underline" }
+        },
+        "current": {
+          "background-color": {},
+          "color": { "value": "{almere.color.black.0}" },
+          "font-weight": {}
+        },
+        "disabled": {
+          "color": { "value": "{almere.color.black.0}" }
+        }
+      },
+      "separator": {
+        "inline-size": { "value": "10px" },
+        "color": { "value": "{almere.color.yellow.64}" },
+        "icon": {
+          "size": { "value": "{almere.font-size.sm}" }
+        }
+      }
+    }
+  }
+}
