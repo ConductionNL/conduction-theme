@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": {},
+      "background-image": { "value": "linear-gradient(to right, {almere.color.grey-blue.89} 0 50%, {almere.color.blue.96} 50% 100%)" },
+      "color": { "value": "{almere.color.black.0}" },
+      "padding-inline-end": { "value": "{almere.size.sm}" },
+      "padding-inline-start": { "value": "{almere.size.sm}" },
+      "padding-block-end": { "value": "{almere.size.2xl}" },
+      "padding-block-start": { "value": "{almere.size.2xl}" }
+    }
+  }
+}
