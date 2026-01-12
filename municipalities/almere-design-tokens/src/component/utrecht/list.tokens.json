@@ -1,0 +1,31 @@
+{
+  "utrecht": {
+    "ordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": {},
+      "margin-block-end": {},
+      "padding-inline-start": {},
+      "item": {
+        "margin-block-start": {},
+        "margin-block-end": {},
+        "padding-inline-start": {}
+      }
+    },
+    "unordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": {},
+      "margin-block-end": {},
+      "padding-inline-start": {},
+      "item": {
+        "margin-block-start": {},
+        "margin-block-end": {},
+        "padding-inline-start": {}
+      },
+      "marker": {
+        "color": {}
+      }
+    }
+  }
+}
