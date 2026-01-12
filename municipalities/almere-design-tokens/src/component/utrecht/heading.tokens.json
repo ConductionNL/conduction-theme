@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{almere.typography.barlow.font-family}" },
+      "font-size": { "value": "{almere.font-size.4xl}" },
+      "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{almere.size.2xl}" },
+      "margin-block-start": { "value": "{almere.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{almere.typography.barlow.font-family}" },
+      "font-size": { "value": "{almere.font-size.3xl}" },
+      "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{almere.size.2xl}" },
+      "margin-block-start": { "value": "{almere.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{almere.typography.barlow.font-family}" },
+      "font-size": { "value": "{almere.font-size.2xl}" },
+      "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{almere.size.xl}" },
+      "margin-block-start": { "value": "{almere.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{almere.typography.barlow.font-family}" },
+      "font-size": { "value": "{almere.font-size.xl}" },
+      "font-weight": { "value": "{almere.typography.font-weight.semibold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{almere.size.lg}" },
+      "margin-block-start": { "value": "{almere.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{almere.typography.barlow.font-family}" },
+      "font-size": { "value": "{almere.font-size.lg}" },
+      "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+      "line-height": { "value": "21px" },
+      "margin-block-end": { "value": "{almere.size.lg}" },
+      "margin-block-start": { "value": "{almere.size.md}" }
+    }
+  }
+}
