@@ -30,7 +30,7 @@
     "heading-4": {
       "color": {},
       "font-family": { "value": "{almere.typography.barlow.font-family}" },
-      "font-size": { "value": "{almere.font-size.xl}" },
+      "font-size": { "value": "{almere.font-size.lg}" },
       "font-weight": { "value": "{almere.typography.font-weight.semibold}" },
       "line-height": {},
       "margin-block-end": { "value": "{almere.size.lg}" },
@@ -39,7 +39,16 @@
     "heading-5": {
       "color": {},
       "font-family": { "value": "{almere.typography.barlow.font-family}" },
-      "font-size": { "value": "{almere.font-size.lg}" },
+      "font-size": { "value": "{almere.font-size.sm}" },
+      "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+      "line-height": { "value": "21px" },
+      "margin-block-end": { "value": "{almere.size.lg}" },
+      "margin-block-start": { "value": "{almere.size.md}" }
+    },
+    "heading-6": {
+      "color": {},
+      "font-family": { "value": "{almere.typography.barlow.font-family}" },
+      "font-size": { "value": "{almere.font-size.xs}" },
       "font-weight": { "value": "{almere.typography.font-weight.bold}" },
       "line-height": { "value": "21px" },
       "margin-block-end": { "value": "{almere.size.lg}" },

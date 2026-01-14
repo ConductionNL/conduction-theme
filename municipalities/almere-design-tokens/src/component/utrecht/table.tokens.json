@@ -1,0 +1,60 @@
+{
+  "utrecht": {
+    "table": {
+      "border-color": { "value": "{almere.color.blue.61}" },
+      "border-width": { "value": "{almere.size.4xs}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{almere.font-size.sm}" },
+      "line-height": {},
+      "margin-block-end": { "value": 0 },
+      "margin-block-start": { "value": "{almere.size.md}" },
+      "caption": {
+        "font-weight": {},
+        "font-family": {},
+        "font-size": {},
+        "color": {},
+        "line-height": {},
+        "text-align": {},
+        "margin-block-end": {}
+      },
+      "header": {
+        "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+        "background-color": { "value": "{almere.color.blue.96}" },
+        "color": { "value": "{utrecht.document.color}" },
+        "text-transform": { "value": "unset" },
+        "border-block-end-color": { "value": "{almere.color.blue.61}" },
+        "border-block-end-width": { "value": "{almere.size.4xs}" }
+      },
+      "header-cell": {
+        "font-size": { "value": "{utrecht.document.font-size}" },
+        "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+        "color": { "value": "{utrecht.document.color}" },
+        "text-transform": { "value": "unset" }
+      },
+      "cell": {
+        "line-height": {},
+        "padding-block-end": { "value": "10px" },
+        "padding-block-start": { "value": "10px" },
+        "padding-inline-end": { "value": "16px" },
+        "padding-inline-start": { "value": "16px" },
+        "icon": {
+          "size": {}
+        }
+      },
+      "row": {
+        "border-block-end-color": { "value": "{almere.color.blue.61}" },
+        "border-block-end-width": { "value": "{almere.size.4xs}" },
+        "padding-inline-end": {},
+        "padding-inline-start": {},
+        "alternate-odd": {
+          "background-color": { "value": "{almere.color.white.100}" },
+          "color": {}
+        },
+        "alternate-even": {
+          "background-color": { "value": "{almere.color.grey-blue.89}" },
+          "color": {}
+        }
+      }
+    }
+  }
+}
