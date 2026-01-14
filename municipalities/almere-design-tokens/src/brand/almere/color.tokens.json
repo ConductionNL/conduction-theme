@@ -37,6 +37,10 @@
         "90": {
           "value": "#ECF3DA",
           "comment": "Background / Lichtgroen"
+        },
+        "92": {
+          "value": "#E9F0E3",
+          "comment": "Groen 100"
         }
       },
       "grey-blue": {
