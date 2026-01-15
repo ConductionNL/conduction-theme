@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.58: Added Almere theme.
   - 1.1.57:
     - Updated footer tokens of Conduction and Buren.
     - Updated primary color of Buren.
