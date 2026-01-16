@@ -1,0 +1,17 @@
+{
+  "conduction": {
+    "tooltip": {
+      "background-color": { "value": "{buren.color.black.0}" },
+      "color": { "value": "{buren.color.white.100}" },
+      "padding-block-start": { "value": "{buren.size.xs}" },
+      "padding-block-end": { "value": "{buren.size.xs}" },
+      "padding-inline-start": { "value": "{buren.size.sm}" },
+      "padding-inline-end": { "value": "{buren.size.sm}" },
+      "border-width": { "value": "0px" },
+      "border-style": { "value": "unset" },
+      "border-color": { "value": "unset" },
+      "border-radius": { "value": "0px" },
+      "z-index": { "value": "9999" }
+    }
+  }
+}

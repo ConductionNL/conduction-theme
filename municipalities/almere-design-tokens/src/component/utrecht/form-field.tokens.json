@@ -1,0 +1,17 @@
+{
+  "utrecht": {
+    "form-field": {
+      "margin-block-start": { "value": "13px" },
+      "margin-block-end": { "value": "{almere.size.2xs}" },
+      "max-inline-size": {},
+      "invalid": {
+        "border-inline-start-color": { "value": "{almere.color.error}" },
+        "border-inline-start-width": { "value": "0px" },
+        "padding-inline-start": { "value": "0px" }
+      },
+      "label": {
+        "margin-block-end": {}
+      }
+    }
+  }
+}

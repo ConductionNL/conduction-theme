@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{almere.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{almere.color.white.100} " },
+      "font-size": { "value": "{almere.font-size.sm}" },
+      "font-weight": { "value": "{almere.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{almere.size.xs}" },
+      "padding-inline": { "value": "{almere.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}

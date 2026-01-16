@@ -5,18 +5,23 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1.1 (breaking changes from 1.0.x)**
-  - 1.1.55: Updated Soest logo again
-  - 1.1.54: Updated Soest logo.
+
+  - 1.1.58: Added Almere theme.
+  - 1.1.57:
+    - Updated footer tokens of Conduction and Buren.
+    - Updated primary color of Buren.
+  - 1.1.56: Added Buren theme.
+  - 1.1.54 / 1.1.55: Updated Soest logo.
   - 1.1.53: Updated Hof van Twente theme to V2
-  - 1.1.52: 
+  - 1.1.52:
     - Added Soest theme
     - Added Stichtse Vecht theme.
   - 1.1.51: Updated BCT logo.
   - 1.1.50: Added Baarn theme.
-  - 1.1.49: 
+  - 1.1.49:
     - Updated Helmond theme
     - Added Beek theme.
-  - 1.1.48: 
+  - 1.1.48:
     - Updated process-step tokens in Conduction theme.
     - Added Helmond theme
   - 1.1.47: Updated tilburg footer icon color.

@@ -1,0 +1,54 @@
+{
+  "almere": {
+    "font-size": {
+      "4xs": {
+        "value": "0.625rem",
+        "comment": "8px"
+      },
+      "3xs": {
+        "value": "0.75rem",
+        "comment": "10px"
+      },
+      "2xs": {
+        "value": "0.875rem",
+        "comment": "14px"
+      },
+      "xs": {
+        "value": "1rem",
+        "comment": "16px"
+      },
+      "sm": {
+        "value": "1.125rem",
+        "comment": "18px"
+      },
+      "md": {
+        "value": "1.25rem",
+        "comment": "20px"
+      },
+      "lg": {
+        "value": "1.5rem",
+        "comment": "24px"
+      },
+      "xl": {
+        "value": "1.75rem",
+        "comment": "28px"
+      },
+      "2xl": {
+        "value": "2rem",
+        "comment": "32px"
+      },
+      "3xl": {
+        "value": "2.5rem",
+        "comment": "40px"
+      },
+      "4xl": {
+        "value": "3.25rem",
+        "comment": "52px"
+      },
+      "5xl": {
+        "value": "3.625rem",
+        "comment": "58px"
+      }
+    }
+  }
+}
