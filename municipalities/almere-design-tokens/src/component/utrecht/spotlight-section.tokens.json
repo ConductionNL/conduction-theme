@@ -1,0 +1,24 @@
+{
+  "utrecht": {
+    "spotlight-section": {
+      "background-color": { "value": "{almere.color.alert-info-background}" },
+      "border-color": {},
+      "border-width": {},
+      "color": { "value": "{almere.color.alert-info}" },
+      "padding-block-start": { "value": "{almere.size.lg}" },
+      "padding-block-end": { "value": "{almere.size.lg}" },
+      "padding-inline-start": { "value": "{almere.size.lg}" },
+      "padding-inline-end": { "value": "{almere.size.lg}" },
+      "margin-block-start": { "value": "{almere.size.lg}" },
+      "margin-block-end": {},
+      "info": {
+        "background-color": { "value": "{almere.color.alert-info-background}" },
+        "color": { "value": "{almere.color.alert-info}" }
+      },
+      "warning": {
+        "background-color": { "value": "{almere.color.alert-warning-background}" },
+        "color": { "value": "{almere.color.alert-warning}" }
+      }
+    }
+  }
+}

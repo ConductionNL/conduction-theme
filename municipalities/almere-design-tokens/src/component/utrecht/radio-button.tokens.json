@@ -1,0 +1,68 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "background-color": { "value": "{almere.color.white.100}" },
+      "border-color": { "value": "{almere.color.yellow.64}" },
+      "border-width": { "value": "{almere.size.3xs}" },
+      "size": {},
+      "margin-block-start": { "value": "8px" },
+      "icon": {
+        "size": { "value": "5px" }
+      },
+      "active": {
+        "border-color": {},
+        "border-width": {},
+        "background-color": {},
+        "color": {}
+      },
+      "checked": {
+        "border-color": { "value": "{almere.color.yellow.64}" },
+        "border-width": { "value": "{almere.size.3xs}" },
+        "background-color": { "value": "{almere.color.white.100}" },
+        "color": { "value": "{almere.color.yellow.64}" },
+        "active": {
+          "border-color": { "value": "{almere.color.yellow.64}" },
+          "border-width": { "value": "{almere.size.4xs}" },
+          "background-color": { "value": "{almere.color.white.100}" },
+          "color": { "value": "{almere.color.yellow.64}" }
+        },
+        "hover": {
+          "border-color": { "value": "{almere.color.yellow.64}" },
+          "border-width": { "value": "{almere.size.3xs}" },
+          "background-color": { "value": "{almere.color.white.100}" },
+          "color": { "value": "{almere.color.yellow.64}" }
+        },
+        "focus": {
+          "border-color": { "value": "{almere.color.yellow.64}" },
+          "border-width": { "value": "{almere.size.4xs}" },
+          "background-color": { "value": "{almere.color.white.100}" },
+          "color": { "value": "{almere.color.yellow.64}" }
+        }
+      },
+      "hover": {
+        "border-color": { "value": "{almere.color.yellow.64}" },
+        "border-width": { "value": "{almere.size.3xs}" },
+        "background-color": { "value": "{almere.color.white.100}" },
+        "color": {}
+      },
+      "focus": {
+        "border-color": { "value": "{almere.color.yellow.64}" },
+        "border-width": { "value": "{almere.size.4xs}" },
+        "background-color": { "value": "{almere.color.white.100}" },
+        "color": { "value": "{almere.color.yellow.64}" }
+      },
+      "disabled": {
+        "border-color": { "value": "{almere.color.grey.82}" },
+        "border-width": { "value": "{almere.size.4xs}" },
+        "background-color": { "value": "{almere.color.grey.97}" },
+        "color": { "value": "{almere.color.grey.82}" }
+      },
+      "invalid": {
+        "border-color": { "value": "{almere.color.error}" },
+        "border-width": { "value": "{almere.size.4xs}" },
+        "background-color": { "value": "{almere.color.white.100}" },
+        "color": { "value": "{almere.color.error}" }
+      }
+    }
+  }
+}

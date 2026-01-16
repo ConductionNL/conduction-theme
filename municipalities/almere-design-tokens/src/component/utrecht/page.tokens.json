@@ -1,0 +1,11 @@
+{
+  "utrecht": {
+    "page": {
+      "background-color": {},
+      "color": {},
+      "margin-inline-start": { "value": "{almere.size.lg}" },
+      "margin-inline-end": { "value": "{almere.size.lg}" },
+      "max-inline-size": { "value": "1440px" }
+    }
+  }
+}
