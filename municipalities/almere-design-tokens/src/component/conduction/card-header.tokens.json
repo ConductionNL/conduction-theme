@@ -24,7 +24,7 @@
       },
       "date": {
         "color": { "value": "{almere.color.black.0}" },
-        "font-size": { "value": "{almere.font-size.sm}" },
+        "font-size": { "value": "{almere.font-size.xs}" },
         "font-weight": { "value": "{almere.typography.font-weight.light}" },
         "font-style": {},
         "margin-block-end": { "value": "{almere.size.xs}" }
