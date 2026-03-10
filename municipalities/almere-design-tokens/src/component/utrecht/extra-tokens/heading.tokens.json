@@ -1,52 +1,28 @@
 {
   "utrecht": {
     "heading-1": {
-      "mobile-font-size": {
-        "value": "25px"
-      },
-      "tablet-font-size": {
-        "value": "28px"
-      }
+      "mobile-font-size": { "value": "25px" },
+      "tablet-font-size": { "value": "28px" }
     },
     "heading-2": {
-      "mobile-font-size": {
-        "value": "24px"
-      },
-      "tablet-font-size": {
-        "value": "27px"
-      }
+      "mobile-font-size": { "value": "24px" },
+      "tablet-font-size": { "value": "27px" }
     },
     "heading-3": {
-      "mobile-font-size": {
-        "value": "23px"
-      },
-      "tablet-font-size": {
-        "value": "26px"
-      }
+      "mobile-font-size": { "value": "23px" },
+      "tablet-font-size": { "value": "26px" }
     },
     "heading-4": {
-      "mobile-font-size": {
-        "value": "22px"
-      },
-      "tablet-font-size": {
-        "value": "25px"
-      }
+      "mobile-font-size": { "value": "22px" },
+      "tablet-font-size": { "value": "25px" }
     },
     "heading-5": {
-      "mobile-font-size": {
-        "value": "21px"
-      },
-      "tablet-font-size": {
-        "value": "24px"
-      }
+      "mobile-font-size": { "value": "21px" },
+      "tablet-font-size": { "value": "24px" }
     },
     "heading-6": {
-      "mobile-font-size": {
-        "value": "21px"
-      },
-      "tablet-font-size": {
-        "value": "23px"
-      }
+      "mobile-font-size": { "value": "21px" },
+      "tablet-font-size": { "value": "23px" }
     }
   }
 }
