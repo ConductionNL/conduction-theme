@@ -42,8 +42,8 @@
         "comment": "40px"
       },
       "4xl": {
-        "value": "3.25rem",
-        "comment": "52px"
+        "value": "3rem",
+        "comment": "48px"
       },
       "5xl": {
         "value": "3.625rem",

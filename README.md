@@ -6,6 +6,12 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.60: Updated Almere theme.
+    - Updated font size tokens.
+    - Updated select tokens.
+    - Updated button tokens.
+    - Updated heading tokens.
+    - Updated form-input and textbox tokens.
   - 1.1.59: 
     - Updated card header and card wrapper tokens in Almere theme.
     - Updated color tokens in Almere theme.
