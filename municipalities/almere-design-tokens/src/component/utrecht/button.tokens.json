@@ -8,7 +8,7 @@
       "color": { "value": "{almere.color.black.0}" },
       "font-family": { "value": "{almere.typography.barlow.font-family}" },
       "font-size": { "value": "16px" },
-      "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+      "font-weight": { "value": "{almere.typography.font-weight.normal}" },
       "inline-size": {},
       "letter-spacing": {},
       "line-height": { "value": "21px" },
@@ -55,7 +55,7 @@
         "border-color": { "value": "{almere.color.yellow.64}" },
         "border-width": { "value": "{almere.size.4xs}" },
         "color": { "value": "{almere.color.black.0}" },
-        "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+        "font-weight": { "value": "{almere.typography.font-weight.normal}" },
         "active": {
           "background-color": {},
           "border-color": {},
@@ -88,7 +88,7 @@
         "border-color": { "value": "rgba(59, 103, 124, 0.25)" },
         "border-width": { "value": "1px" },
         "color": { "value": "{almere.color.black.0}" },
-        "font-weight": { "value": "{almere.typography.font-weight.bold}" },
+        "font-weight": { "value": "{almere.typography.font-weight.normal}" },
         "active": {
           "background-color": {},
           "border-color": {},
