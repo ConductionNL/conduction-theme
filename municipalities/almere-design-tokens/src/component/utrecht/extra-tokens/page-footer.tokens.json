@@ -11,6 +11,11 @@
       "background-size": {},
       "background-position": {},
       "mobile": {
+        "background-image": { "value": "none" },
+        "background-position": {}
+      },
+      "tablet": {
+        "background-image": { "value": "none" },
         "background-position": {}
       },
       "icon": {
