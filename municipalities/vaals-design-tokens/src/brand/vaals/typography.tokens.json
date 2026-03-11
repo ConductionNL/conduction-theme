@@ -1,0 +1,40 @@
+{
+  "vaals": {
+    "typography": {
+      "gt-walsheim": {
+        "font-family": {
+          "value": "\"GT Walsheim\", Helvetica, Arial, sans-serif"
+        }
+      },
+      "sans-serif": {
+        "font-family": {
+          "value": "\"GT Walsheim\", Helvetica, Arial, sans-serif"
+        }
+      },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
+      "font-weight": {
+        "bold": { "value": "700" },
+        "semibold": { "value": "600" },
+        "normal": { "value": "400" },
+        "light": { "value": "300" }
+      },
+      "scale": {
+        "4xs": { "value": "{vaals.font-size.4xs}" },
+        "3xs": { "value": "{vaals.font-size.3xs}" },
+        "2xs": { "value": "{vaals.font-size.2xs}" },
+        "xs": { "value": "{vaals.font-size.xs}" },
+        "sm": { "value": "{vaals.font-size.sm}" },
+        "md": { "value": "{vaals.font-size.md}" },
+        "lg": { "value": "{vaals.font-size.lg}" },
+        "xl": { "value": "{vaals.font-size.xl}" },
+        "2xl": { "value": "{vaals.font-size.2xl}" },
+        "3xl": { "value": "{vaals.font-size.3xl}" },
+        "4xl": { "value": "{vaals.font-size.4xl}" }
+      }
+    }
+  }
+}

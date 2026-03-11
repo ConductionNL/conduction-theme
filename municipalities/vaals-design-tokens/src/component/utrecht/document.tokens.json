@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{vaals.color.white.98}" },
+      "color": { "value": "{vaals.color.black.0}" },
+      "font-family": { "value": "{vaals.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{vaals.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}

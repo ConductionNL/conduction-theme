@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{vaals.typography.gt-walsheim.font-family}" },
+      "font-size": { "value": "{vaals.font-size.3xl}" },
+      "font-weight": { "value": "{vaals.typography.font-weight.semibold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{vaals.size.2xl}" },
+      "margin-block-start": { "value": "{vaals.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{vaals.typography.gt-walsheim.font-family}" },
+      "font-size": { "value": "{vaals.font-size.2xl}" },
+      "font-weight": { "value": "{vaals.typography.font-weight.semibold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{vaals.size.2xl}" },
+      "margin-block-start": { "value": "{vaals.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{vaals.color.primary}" },
+      "font-family": { "value": "{vaals.typography.gt-walsheim.font-family}" },
+      "font-size": { "value": "{vaals.font-size.xl}" },
+      "font-weight": { "value": "{vaals.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{vaals.size.xl}" },
+      "margin-block-start": { "value": "{vaals.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{vaals.typography.gt-walsheim.font-family}" },
+      "font-size": { "value": "{vaals.font-size.lg}" },
+      "font-weight": { "value": "{vaals.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{vaals.size.lg}" },
+      "margin-block-start": { "value": "{vaals.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{vaals.typography.gt-walsheim.font-family}" },
+      "font-size": { "value": "{vaals.font-size.md}" },
+      "font-weight": { "value": "{vaals.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{vaals.size.lg}" },
+      "margin-block-start": { "value": "{vaals.size.md}" }
+    }
+  }
+}
