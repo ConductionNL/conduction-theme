@@ -412,7 +412,7 @@ For every font file URL found in Part A (`.woff2`, `.woff`, `.ttf`, `.otf`):
 
 ### `municipalities/<slug>-design-tokens/src/font.scss`
 
-Write `@font-face` declarations for every font file downloaded above, referencing the local files with a relative path from `src/` (e.g. `url("font/RijksoverheidSans-Regular.woff2")`). Model the structure after `conduction-design-tokens/src/font.scss`. Include the correct `font-weight` value for each file.
+Write `@font-face` declarations for every font file downloaded above. The `font.scss` file lives in `src/` but is compiled to `dist/font.css`, so paths must be relative to `dist/` — use `url("../src/font/<FileName>-<weight>.<ext>")` (e.g. `url("../src/font/RijksoverheidSans-Regular.woff2")`). Model the structure after `conduction-design-tokens/src/font.scss`. Include the correct `font-weight` value for each file.
 
 If no font files could be found or downloaded anywhere, leave a placeholder comment:
 
@@ -711,12 +711,20 @@ Read `conduction-design-tokens/src/common/utrecht/space.tokens.json` and replace
 
 ### Component token files
 
-For each file listed below: read the source file from `conduction-design-tokens/src/`, write it to the equivalent path under `municipalities/<slug>-design-tokens/src/`, replacing every occurrence of:
+For each file listed below:
 
-- `conduction` → `<slug>`
-- `aldritch` → `<fontKey>`
+1. **Read** the source file from `conduction-design-tokens/src/` using the Read tool.
+2. **Copy the full file content verbatim** into memory.
+3. Apply only these text substitutions to the copied content:
+   - `conduction` → `<slug>`
+   - `aldritch` → `<fontKey>`
+4. **Write** the result to the equivalent path under `municipalities/<slug>-design-tokens/src/` using the Write tool.
 
-**Preserve indentation exactly** — copy the file contents verbatim and only do text substitutions. Do not reformat, reindent, or restructure the JSON.
+> **CRITICAL — Indentation must be preserved exactly.**
+> The JSON files use a specific indent style (spaces or tabs) that is intentional.
+> Do **not** reformat, reindent, pretty-print, or restructure the JSON in any way.
+> The only changes allowed are the text substitutions listed above.
+> If the source uses 2-space indentation, the output must also use 2-space indentation — character for character.
 
 **Known reference fix:** The conduction baseline has `{conduction.color.blue.95}` in `calendar.tokens.json` (used for the "today" highlight). After replacement this becomes `{<slug>.color.blue.95}` which will fail if the organisation doesn't have a `blue` palette. **Replace this reference** with `{<slug>.color.grey.95}` (a neutral light highlight) unless the organisation's palette has a light brand color shade that makes more sense.
 
@@ -776,7 +784,9 @@ Create these files:
 - `table.tokens.json`
 - `textbox.tokens.json`
 
-**`src/component/conduction/`** (read from conduction and replace prefix):
+**`src/component/conduction/`** — these are Conduction framework components. The destination folder is **always** `municipalities/<slug>-design-tokens/src/component/conduction/` — **never rename this folder to `<slug>`**.
+
+For file contents: replace only brand token references inside curly braces (`{conduction.` → `{<slug>.`), but **keep the root JSON key `"conduction"` unchanged** so that CSS variables remain `--conduction-*` as expected by the Conduction framework components.
 
 - `card-header.tokens.json`
 - `card-wrapper.tokens.json`
@@ -828,7 +838,29 @@ Read `conduction-design-tokens/documentation/readme.stories.mdx` and copy its co
 
 ### `municipalities/<slug>-design-tokens/LICENSE.md`
 
-Read `conduction-design-tokens/LICENSE.md` and copy it verbatim.
+Generate a new LICENSE.md file for the organisation. If the organisation is a municipality, use `Gemeente <fullName>` as the name; otherwise use `<fullName>`. Use this template:
+
+```md
+# Auteursrecht <OrgName>
+
+Copyright (c) <currentYear> <OrgName>
+
+## Logo en huisstijl
+
+Op het huisstijl en logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik door <OrgName>.
+
+Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van <OrgName> gebruiken en je ontwerpt een eigen huisstijl.
+
+## Lettertype
+
+Lettertypes die worden gebruikt voor de huisstijl zijn niet allemaal gratis en open source. Let op dat bij gebruik van die bijgeleverde lettertypes je een (betaalde) licentie regelt. Pas anders de configuratie aan om minder of andere lettertypes te gebruiken.
+
+## Toestemming
+
+Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met <OrgName>.
+```
+
+Where `<OrgName>` = `Gemeente <fullName>` for municipalities, or `<fullName>` for other organisation types.
 
 ### `municipalities/<slug>-design-tokens/README.md`
 
