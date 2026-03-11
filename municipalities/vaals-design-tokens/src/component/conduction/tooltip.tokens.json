@@ -1,0 +1,17 @@
+{
+  "conduction": {
+    "tooltip": {
+      "background-color": { "value": "{vaals.color.black.0}" },
+      "color": { "value": "{vaals.color.white.100}" },
+      "padding-block-start": { "value": "{vaals.size.xs}" },
+      "padding-block-end": { "value": "{vaals.size.xs}" },
+      "padding-inline-start": { "value": "{vaals.size.sm}" },
+      "padding-inline-end": { "value": "{vaals.size.sm}" },
+      "border-width": { "value": "0px" },
+      "border-style": { "value": "unset" },
+      "border-color": { "value": "unset" },
+      "border-radius": { "value": "0px" },
+      "z-index": { "value": "9999" }
+    }
+  }
+}

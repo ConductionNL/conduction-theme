@@ -2,7 +2,7 @@
   "vaals": {
     "color": {
       "primary": { "value": "{vaals.color.red.46}" },
-      "primary-hover": { "value": "{vaals.color.red.44}" },
+      "primary-hover": { "value": "{vaals.color.red.36}" },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
       "alert-error-background": { "value": "#f8d7da" },
@@ -16,16 +16,19 @@
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "red": {
-        "44": {
-          "value": "#d60a18"
+        "36": {
+          "value": "#b00812",
+          "comment": "Primary red hover / dark"
         },
         "46": {
-          "value": "#e10a17"
+          "value": "#e10a17",
+          "comment": "Primary red"
         }
       },
       "green": {
         "41": {
-          "value": "#558052"
+          "value": "#558052",
+          "comment": "Accent green"
         }
       },
       "grey": {

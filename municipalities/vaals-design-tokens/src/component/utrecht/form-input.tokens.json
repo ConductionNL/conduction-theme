@@ -2,8 +2,8 @@
   "utrecht": {
     "form-input": {
       "border-bottom-width": {},
-      "border-color": { "value": "{vaals.color.grey.48}" },
-      "border-radius": { "value": "3px" },
+      "border-color": { "value": "{vaals.color.grey.46}" },
+      "border-radius": { "value": "8px" },
       "border-width": { "value": "{vaals.size.4xs}" },
       "color": { "value": "{vaals.color.grey.29}" },
       "font-family": { "value": "{vaals.typography.sans-serif.font-family}" },

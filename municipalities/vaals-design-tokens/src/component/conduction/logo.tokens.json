@@ -1,0 +1,27 @@
+{
+  "conduction": {
+    "logo": {
+      "header": {
+        "inline-size": { "value": "220px" },
+        "block-size": { "value": "40px" },
+        "background-image": {
+          "value": "url(\"data:image/svg+xml,%3Csvg id='Laag_1' data-name='Laag 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 234 38.32'%3E%3Cpath d='M20.59,4.69,4,14.27V33.43L20.59,43l16.6-9.58V14.27ZM33,31,20.59,38.13,8.23,31V16.71L20.59,9.57,33,16.71Z' transform='translate(-4 -4.69)' style='fill:%23ffffff'/%3E%3Cpolygon points='16.55 14.34 20.44 16.58 24.96 13.97 16.55 9.11 7.85 14.14 7.85 24.18 16.55 29.21 24.96 24.35 20.44 21.74 16.55 23.99 12.38 21.57 12.38 16.75 16.55 14.34' style='fill:%23ffffff'/%3E%3Cpath d='M42.6,16.64a2.79,2.79,0,0,1,.83-2,3.11,3.11,0,0,1,.9-.61,2.78,2.78,0,0,1,1.1-.23H56.19a2.78,2.78,0,0,1,1.1.23,3.11,3.11,0,0,1,.9.61,2.79,2.79,0,0,1,.83,2v2.55H56.19V16.64H45.43V30.79H56.19V28.25H59v2.54a2.74,2.74,0,0,1-.22,1.1,2.85,2.85,0,0,1-.61.91,2.9,2.9,0,0,1-.9.6,2.77,2.77,0,0,1-1.1.22H45.43a2.77,2.77,0,0,1-1.1-.22,2.9,2.9,0,0,1-.9-.6,2.85,2.85,0,0,1-.61-.91,2.74,2.74,0,0,1-.22-1.1Z' transform='translate(-4 -4.69)' style='fill:%23ffffff'/%3E%3C/svg%3E\")"
+        }
+      },
+      "footer": {
+        "inline-size": { "value": "220px" },
+        "block-size": { "value": "40px" },
+        "background-image": {
+          "value": "url(\"data:image/svg+xml,%3Csvg id='Laag_1' data-name='Laag 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 234 38.32'%3E%3Cpath d='M20.59,4.69,4,14.27V33.43L20.59,43l16.6-9.58V14.27ZM33,31,20.59,38.13,8.23,31V16.71L20.59,9.57,33,16.71Z' transform='translate(-4 -4.69)' style='fill:%234376fc'/%3E%3C/svg%3E\")"
+        }
+      },
+      "navbar": {
+        "inline-size": { "value": "150px" },
+        "block-size": { "value": "40px" },
+        "background-image": {
+          "value": "url(\"data:image/svg+xml,%3Csvg id='Laag_1' data-name='Laag 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 234 38.32'%3E%3Cpath d='M20.59,4.69,4,14.27V33.43L20.59,43l16.6-9.58V14.27ZM33,31,20.59,38.13,8.23,31V16.71L20.59,9.57,33,16.71Z' transform='translate(-4 -4.69)' style='fill:%234376fc'/%3E%3C/svg%3E\")"
+        }
+      }
+    }
+  }
+}

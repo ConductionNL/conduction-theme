@@ -1,0 +1,21 @@
+{
+  "conduction": {
+    "table-wrapper": {
+      "scroll-button": {
+        "background-color": { "value": "{vaals.color.white.100}" },
+        "color": { "value": "{vaals.color.black.0}" },
+        "padding-inline-start": { "value": "{vaals.size.sm}" },
+        "padding-inline-end": { "value": "{vaals.size.sm}" },
+        "padding-block-start": {},
+        "padding-block-end": {},
+        "border-width": {},
+        "border-style": {},
+        "border-color": {},
+        "hover": {
+          "background-color": { "value": "{vaals.color.white.100}" },
+          "color": { "value": "{vaals.color.primary}" }
+        }
+      }
+    }
+  }
+}

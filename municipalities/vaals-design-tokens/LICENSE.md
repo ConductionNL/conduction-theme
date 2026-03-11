@@ -1,12 +1,12 @@
-# Auteursrecht Conduction
+# Auteursrecht Gemeente Vaals
 
-Copyright (c) 2023 Conduction
+Copyright (c) 2026 Gemeente Vaals
 
 ## Logo en huisstijl
 
-Op het huisstijl en logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik door Conduction.
+Op het huisstijl en logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik door Gemeente Vaals.
 
-Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van Conduction gebruiken en je ontwerpt een eigen huisstijl.
+Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van Gemeente Vaals gebruiken en je ontwerpt een eigen huisstijl.
 
 ## Lettertype
 
@@ -14,4 +14,4 @@ Lettertypes die worden gebruikt voor de huisstijl zijn niet allemaal gratis en o
 
 ## Toestemming
 
-Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met Conduction.
+Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met Gemeente Vaals.

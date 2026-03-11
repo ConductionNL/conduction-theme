@@ -30,16 +30,16 @@
         "comment": "24px"
       },
       "xl": {
-        "value": "1.5rem",
-        "comment": "24px"
+        "value": "1.75rem",
+        "comment": "28px"
       },
       "2xl": {
-        "value": "3.056rem",
-        "comment": "48.89px"
+        "value": "3rem",
+        "comment": "48px"
       },
       "3xl": {
-        "value": "4rem",
-        "comment": "64px"
+        "value": "4.5rem",
+        "comment": "72px"
       },
       "4xl": {
         "value": "5rem",

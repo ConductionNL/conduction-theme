@@ -3,7 +3,7 @@
     "button": {
       "background-color": { "value": "{vaals.color.primary}" },
       "border-color": { "value": "{vaals.color.primary}" },
-      "border-radius": { "value": "3px" },
+      "border-radius": { "value": "10px" },
       "border-width": { "value": "{vaals.size.3xs}" },
       "color": { "value": "{vaals.color.white.100}" },
       "font-family": { "value": "{vaals.typography.sans-serif.font-family}" },
