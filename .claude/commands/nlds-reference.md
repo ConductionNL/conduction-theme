@@ -6,16 +6,16 @@ This document is the shared reference for both `/nlds:new` and `/nlds:update`. I
 
 ## Variables provided by the calling skill
 
-| Variable | Example | Description |
-|---|---|---|
-| `<slug>` | `den-haag` | Lowercase, hyphenated identifier |
-| `<prefix>` | `den-haag` | Same as slug |
-| `<fullName>` | `Den Haag` | Proper display name |
-| `<packageName>` | `@nl-design-system-unstable/den-haag-design-tokens` | npm package name |
-| `<folderName>` | `municipalities/den-haag-design-tokens` | Directory path |
-| `<websiteUrl>` | `https://www.denhaag.nl/` | Organisation website (may be empty) |
-| `<huisstijlUrl>` | (url) | Style guide URL (may be empty) |
-| `<mode>` | `new` or `update` | Whether creating from scratch or updating existing |
+| Variable         | Example                                             | Description                                        |
+| ---------------- | --------------------------------------------------- | -------------------------------------------------- |
+| `<slug>`         | `den-haag`                                          | Lowercase, hyphenated identifier                   |
+| `<prefix>`       | `den-haag`                                          | Same as slug                                       |
+| `<fullName>`     | `Den Haag`                                          | Proper display name                                |
+| `<packageName>`  | `@nl-design-system-unstable/den-haag-design-tokens` | npm package name                                   |
+| `<folderName>`   | `municipalities/den-haag-design-tokens`             | Directory path                                     |
+| `<websiteUrl>`   | `https://www.denhaag.nl/`                           | Organisation website (may be empty)                |
+| `<huisstijlUrl>` | (url)                                               | Style guide URL (may be empty)                     |
+| `<mode>`         | `new` or `update`                                   | Whether creating from scratch or updating existing |
 
 > **Notation convention:**
 >
@@ -41,19 +41,28 @@ Run the following JavaScript via `mcp__browser-{N}__browser_evaluate` **exactly 
 ```js
 () => {
   const rgbToHex = (rgb) => {
-    if (!rgb || rgb === 'transparent' || rgb === 'rgba(0, 0, 0, 0)') return null;
+    if (!rgb || rgb === "transparent" || rgb === "rgba(0, 0, 0, 0)")
+      return null;
     const m = rgb.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*([\d.]+))?\)/);
     if (!m) return rgb;
-    const hex = '#' + [m[1],m[2],m[3]].map(x => parseInt(x).toString(16).padStart(2,'0')).join('');
+    const hex =
+      "#" +
+      [m[1], m[2], m[3]]
+        .map((x) => parseInt(x).toString(16).padStart(2, "0"))
+        .join("");
     if (m[4] !== undefined && parseFloat(m[4]) < 1) {
-      const alpha = Math.round(parseFloat(m[4]) * 255).toString(16).padStart(2,'0');
+      const alpha = Math.round(parseFloat(m[4]) * 255)
+        .toString(16)
+        .padStart(2, "0");
       return hex + alpha;
     }
     return hex;
   };
   const hslLightness = (hex) => {
-    const r = parseInt(hex.slice(1,3),16)/255, g = parseInt(hex.slice(3,5),16)/255, b = parseInt(hex.slice(5,7),16)/255;
-    return Math.round((Math.max(r,g,b)+Math.min(r,g,b))/2*100);
+    const r = parseInt(hex.slice(1, 3), 16) / 255,
+      g = parseInt(hex.slice(3, 5), 16) / 255,
+      b = parseInt(hex.slice(5, 7), 16) / 255;
+    return Math.round(((Math.max(r, g, b) + Math.min(r, g, b)) / 2) * 100);
   };
   const getStyles = (el) => {
     if (!el) return null;
@@ -68,27 +77,73 @@ Run the following JavaScript via `mcp__browser-{N}__browser_evaluate` **exactly 
       borderColor: rgbToHex(cs.borderColor),
       borderRadius: cs.borderRadius,
       borderWidth: cs.borderWidth,
-      paddingBlockStart: cs.paddingTop, paddingBlockEnd: cs.paddingBottom,
-      paddingInlineStart: cs.paddingLeft, paddingInlineEnd: cs.paddingRight,
+      paddingBlockStart: cs.paddingTop,
+      paddingBlockEnd: cs.paddingBottom,
+      paddingInlineStart: cs.paddingLeft,
+      paddingInlineEnd: cs.paddingRight,
       textDecoration: cs.textDecoration,
     };
   };
-  const first = (sels) => { for (const s of sels) { const el = document.querySelector(s); if (el) return el; } return null; };
+  const first = (sels) => {
+    for (const s of sels) {
+      const el = document.querySelector(s);
+      if (el) return el;
+    }
+    return null;
+  };
 
-  const result = { components: {}, allColors: [], allFonts: [], loadedFonts: [], fontFaceRules: [] };
+  const result = {
+    components: {},
+    allColors: [],
+    allFonts: [],
+    loadedFonts: [],
+    fontFaceRules: [],
+  };
 
   // Component extraction — multiple selectors per component for robustness
   const componentMap = {
-    h1: ['h1'], h2: ['h2'], h3: ['h3'], h4: ['h4'],
-    paragraph: ['article p', 'main p', '.content p', 'p'],
-    link: ['article a', 'main a', '.content a', 'a:not([class*="logo"]):not([class*="nav"])'],
-    button: ['button[type="submit"]', '.btn-primary', 'button.primary', 'form button', 'button'],
-    searchInput: ['input[type="search"]', 'input[name*="search"]', 'input[name*="zoek"]', 'input[type="text"]'],
-    pageHeader: ['header', '[class*="header"]:not(th)', 'nav[role="navigation"]'],
-    pageFooter: ['footer', '[class*="footer"]'],
-    breadcrumb: ['nav[aria-label*="breadcrumb"] a', '[class*="breadcrumb"] a', 'ol[class*="breadcrumb"] li a'],
-    card: ['[class*="card"]', '[class*="tile"]', '[class*="teaser"]', 'article'],
-    separator: ['hr', '[class*="separator"]', '[class*="divider"]'],
+    h1: ["h1"],
+    h2: ["h2"],
+    h3: ["h3"],
+    h4: ["h4"],
+    paragraph: ["article p", "main p", ".content p", "p"],
+    link: [
+      "article a",
+      "main a",
+      ".content a",
+      'a:not([class*="logo"]):not([class*="nav"])',
+    ],
+    button: [
+      'button[type="submit"]',
+      ".btn-primary",
+      "button.primary",
+      "form button",
+      "button",
+    ],
+    searchInput: [
+      'input[type="search"]',
+      'input[name*="search"]',
+      'input[name*="zoek"]',
+      'input[type="text"]',
+    ],
+    pageHeader: [
+      "header",
+      '[class*="header"]:not(th)',
+      'nav[role="navigation"]',
+    ],
+    pageFooter: ["footer", '[class*="footer"]'],
+    breadcrumb: [
+      'nav[aria-label*="breadcrumb"] a',
+      '[class*="breadcrumb"] a',
+      'ol[class*="breadcrumb"] li a',
+    ],
+    card: [
+      '[class*="card"]',
+      '[class*="tile"]',
+      '[class*="teaser"]',
+      "article",
+    ],
+    separator: ["hr", '[class*="separator"]', '[class*="divider"]'],
   };
   for (const [name, sels] of Object.entries(componentMap)) {
     const el = first(sels);
@@ -97,25 +152,35 @@ Run the following JavaScript via `mcp__browser-{N}__browser_evaluate` **exactly 
 
   // Collect ALL unique colors on the page
   const uniqueColors = new Set();
-  document.querySelectorAll('*').forEach(el => {
+  document.querySelectorAll("*").forEach((el) => {
     const cs = getComputedStyle(el);
-    [cs.backgroundColor, cs.color, cs.borderColor].forEach(v => {
+    [cs.backgroundColor, cs.color, cs.borderColor].forEach((v) => {
       const h = rgbToHex(v);
-      if (h && h.length >= 7) uniqueColors.add(h.slice(0,7));
+      if (h && h.length >= 7) uniqueColors.add(h.slice(0, 7));
     });
   });
-  result.allColors = [...uniqueColors].map(hex => ({ hex, lightness: hslLightness(hex) }));
+  result.allColors = [...uniqueColors].map((hex) => ({
+    hex,
+    lightness: hslLightness(hex),
+  }));
 
   // Font families
   const uniqueFonts = new Set();
-  document.querySelectorAll('h1,h2,h3,h4,p,a,button,input,body').forEach(el => {
-    uniqueFonts.add(getComputedStyle(el).fontFamily);
-  });
+  document
+    .querySelectorAll("h1,h2,h3,h4,p,a,button,input,body")
+    .forEach((el) => {
+      uniqueFonts.add(getComputedStyle(el).fontFamily);
+    });
   result.allFonts = [...uniqueFonts];
 
   // Loaded font faces
-  document.fonts.forEach(f => {
-    result.loadedFonts.push({ family: f.family, weight: f.weight, style: f.style, status: f.status });
+  document.fonts.forEach((f) => {
+    result.loadedFonts.push({
+      family: f.family,
+      weight: f.weight,
+      style: f.style,
+      status: f.status,
+    });
   });
 
   // @font-face rules from stylesheets
@@ -124,24 +189,32 @@ Run the following JavaScript via `mcp__browser-{N}__browser_evaluate` **exactly 
       try {
         for (const rule of sheet.cssRules) {
           if (rule instanceof CSSFontFaceRule) {
-            const src = rule.style.getPropertyValue('src');
-            const family = rule.style.getPropertyValue('font-family');
-            const weight = rule.style.getPropertyValue('font-weight');
-            result.fontFaceRules.push({ family: family.replace(/['"]/g,''), weight, src: src.substring(0, 300) });
+            const src = rule.style.getPropertyValue("src");
+            const family = rule.style.getPropertyValue("font-family");
+            const weight = rule.style.getPropertyValue("font-weight");
+            result.fontFaceRules.push({
+              family: family.replace(/['"]/g, ""),
+              weight,
+              src: src.substring(0, 300),
+            });
           }
         }
-      } catch(e) {}
+      } catch (e) {}
     }
-  } catch(e) {}
+  } catch (e) {}
 
   // Google Fonts links
   result.googleFontLinks = [];
-  document.querySelectorAll('link[href*="fonts.googleapis"], link[href*="fonts.gstatic"]').forEach(l => {
-    result.googleFontLinks.push(l.href);
-  });
+  document
+    .querySelectorAll(
+      'link[href*="fonts.googleapis"], link[href*="fonts.gstatic"]',
+    )
+    .forEach((l) => {
+      result.googleFontLinks.push(l.href);
+    });
 
   return result;
-}
+};
 ```
 
 **Record the returned JSON** — you will use it to set token values.
@@ -167,22 +240,39 @@ From the `fontFaceRules` array in the extraction result, resolve each `src` URL 
     try {
       for (const rule of sheet.cssRules) {
         if (rule instanceof CSSFontFaceRule) {
-          const family = rule.style.getPropertyValue('font-family').replace(/['"]/g, '');
-          const weight = rule.style.getPropertyValue('font-weight') || '400';
-          const src = rule.style.getPropertyValue('src');
+          const family = rule.style
+            .getPropertyValue("font-family")
+            .replace(/['"]/g, "");
+          const weight = rule.style.getPropertyValue("font-weight") || "400";
+          const src = rule.style.getPropertyValue("src");
           // Extract URLs from src
-          const urls = [...src.matchAll(/url\("?([^")\s]+)"?\)/g)].map(m => {
-            try { return new URL(m[1], document.baseURI).href; } catch(e) { return m[1]; }
+          const urls = [...src.matchAll(/url\("?([^")\s]+)"?\)/g)].map((m) => {
+            try {
+              return new URL(m[1], document.baseURI).href;
+            } catch (e) {
+              return m[1];
+            }
           });
           // Prefer woff2 > woff > ttf > otf
-          const preferred = urls.find(u => u.endsWith('.woff2')) || urls.find(u => u.endsWith('.woff')) || urls.find(u => u.endsWith('.ttf')) || urls.find(u => u.endsWith('.otf')) || urls[0];
-          if (preferred) fonts.push({ family, weight, url: preferred, ext: preferred.split('.').pop().split('?')[0] });
+          const preferred =
+            urls.find((u) => u.endsWith(".woff2")) ||
+            urls.find((u) => u.endsWith(".woff")) ||
+            urls.find((u) => u.endsWith(".ttf")) ||
+            urls.find((u) => u.endsWith(".otf")) ||
+            urls[0];
+          if (preferred)
+            fonts.push({
+              family,
+              weight,
+              url: preferred,
+              ext: preferred.split(".").pop().split("?")[0],
+            });
         }
       }
-    } catch(e) {}
+    } catch (e) {}
   }
   return fonts;
-}
+};
 ```
 
 **Record the returned array** — you will download these font files later.
@@ -200,31 +290,31 @@ If a huisstijlhandboek URL was provided:
 
 From the extraction results, build this structured summary (write it out as text in your response so it's clear and traceable):
 
-| Property | Value | Source |
-|----------|-------|--------|
-| **Primary brand color** | (hex) — the most prominent non-black, non-white, non-grey color used for headings, links, or the header | components.h3.color or components.link.color |
-| **Primary hover color** | (hex) — slightly darker variant, OR darken primary by 10% lightness | Observed or calculated |
-| **Body font family** | (font stack) | components.paragraph.fontFamily |
-| **Heading font family** | (font stack) — may be the same as body | components.h1.fontFamily |
-| **Body font size** | (px → rem) | components.paragraph.fontSize |
-| **Body font weight** | (number) | components.paragraph.fontWeight |
-| **Heading font weight** | (number) | components.h1.fontWeight |
-| **H1 font size** | (px → rem) | components.h1.fontSize |
-| **H2 font size** | (px → rem) | components.h2.fontSize |
-| **H3 font size** | (px → rem) | components.h3.fontSize |
-| **H4 font size** | (px → rem, estimated if not found) | components.h4.fontSize |
-| **Page header bg** | (hex) | components.pageHeader.backgroundColor |
-| **Page header text** | (hex) | components.pageHeader.color |
-| **Page footer bg** | (hex) | components.pageFooter.backgroundColor |
-| **Page footer text** | (hex) | components.pageFooter.color |
-| **Link color** | (hex) | components.link.color |
-| **Button bg** | (hex) | components.button.backgroundColor |
-| **Button text** | (hex) | components.button.color |
-| **Button border-radius** | (px) | components.button.borderRadius |
-| **Input border-color** | (hex) | components.searchInput.borderColor |
-| **Input border-radius** | (px) | components.searchInput.borderRadius |
-| **Separator color** | (hex) | components.separator.backgroundColor or borderColor |
-| **Font file URLs** | (list) | From Step A4 |
+| Property                 | Value                                                                                                   | Source                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **Primary brand color**  | (hex) — the most prominent non-black, non-white, non-grey color used for headings, links, or the header | components.h3.color or components.link.color        |
+| **Primary hover color**  | (hex) — slightly darker variant, OR darken primary by 10% lightness                                     | Observed or calculated                              |
+| **Body font family**     | (font stack)                                                                                            | components.paragraph.fontFamily                     |
+| **Heading font family**  | (font stack) — may be the same as body                                                                  | components.h1.fontFamily                            |
+| **Body font size**       | (px → rem)                                                                                              | components.paragraph.fontSize                       |
+| **Body font weight**     | (number)                                                                                                | components.paragraph.fontWeight                     |
+| **Heading font weight**  | (number)                                                                                                | components.h1.fontWeight                            |
+| **H1 font size**         | (px → rem)                                                                                              | components.h1.fontSize                              |
+| **H2 font size**         | (px → rem)                                                                                              | components.h2.fontSize                              |
+| **H3 font size**         | (px → rem)                                                                                              | components.h3.fontSize                              |
+| **H4 font size**         | (px → rem, estimated if not found)                                                                      | components.h4.fontSize                              |
+| **Page header bg**       | (hex)                                                                                                   | components.pageHeader.backgroundColor               |
+| **Page header text**     | (hex)                                                                                                   | components.pageHeader.color                         |
+| **Page footer bg**       | (hex)                                                                                                   | components.pageFooter.backgroundColor               |
+| **Page footer text**     | (hex)                                                                                                   | components.pageFooter.color                         |
+| **Link color**           | (hex)                                                                                                   | components.link.color                               |
+| **Button bg**            | (hex)                                                                                                   | components.button.backgroundColor                   |
+| **Button text**          | (hex)                                                                                                   | components.button.color                             |
+| **Button border-radius** | (px)                                                                                                    | components.button.borderRadius                      |
+| **Input border-color**   | (hex)                                                                                                   | components.searchInput.borderColor                  |
+| **Input border-radius**  | (px)                                                                                                    | components.searchInput.borderRadius                 |
+| **Separator color**      | (hex)                                                                                                   | components.separator.backgroundColor or borderColor |
+| **Font file URLs**       | (list)                                                                                                  | From Step A4                                        |
 
 **This table is your source of truth for all token values.** Every token value you write must trace back to a row in this table. If a property could not be extracted (returned `null`), note it as "not found — using conduction default" and do NOT change that token from the conduction baseline.
 
@@ -445,6 +535,7 @@ lightness = round( (max(R,G,B) + min(R,G,B)) / 2 × 100 )
 The extraction script in A2 already returns `lightness` for every color in the `allColors` array — use those values directly.
 
 Examples:
+
 - `#ffffff` (white) = `100`
 - `#000000` (black) = `0`
 - `#808080` (mid grey) = `50`
@@ -468,6 +559,7 @@ Full reference: https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4
 Only add transparency variants when they are actually used on the organisation website.
 
 **Color palette ordering inside the `color` object:**
+
 1. Semantic aliases (`primary`, `primary-hover`, `error`, alert variants, etc.)
 2. Brand-specific palette groups from the website (e.g. `blue`, `green`, `red`, `yellow`) — ordered lightest group last
 3. `grey` (full baseline)
@@ -490,8 +582,12 @@ Start with this full baseline (replace `conduction` with `<slug>`), then insert 
 {
   "<slug>": {
     "color": {
-      "primary": { "value": "{<slug>.color.<paletteGroup>.<shade>}" },
-      "primary-hover": { "value": "{<slug>.color.<paletteGroup>.<darkerShade>}" },
+      "primary": {
+        "value": "{<slug>.color.<paletteGroup>.<shade>}"
+      },
+      "primary-hover": {
+        "value": "{<slug>.color.<paletteGroup>.<darkerShade>}"
+      },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
       "alert-error-background": { "value": "#f8d7da" },
@@ -505,30 +601,71 @@ Start with this full baseline (replace `conduction` with `<slug>`), then insert 
       "alert-info": { "value": "#004085" },
       "alert-info-background": { "value": "#cce5ff" },
       "grey": {
-        "27": { "value": "#444444" },
-        "29": { "value": "#4a4a4a" },
-        "31": { "value": "#4f4f4f" },
-        "46": { "value": "#767676" },
-        "48": { "value": "#7a7a7a" },
-        "50": { "value": "#808080", "comment": "Base/Grey" },
-        "70": { "value": "#b3b3b3" },
-        "82": { "value": "#d1d1d1" },
-        "87": { "value": "#dddddd" },
-        "90": { "value": "#e6e6e6" },
-        "95": { "value": "#f2f2f2" },
-        "97": { "value": "#f7f7f7" }
+        "27": {
+          "value": "#444444"
+        },
+        "29": {
+          "value": "#4a4a4a"
+        },
+        "31": {
+          "value": "#4f4f4f"
+        },
+        "46": {
+          "value": "#767676"
+        },
+        "48": {
+          "value": "#7a7a7a"
+        },
+        "50": {
+          "value": "#808080",
+          "comment": "Base/Grey"
+        },
+        "70": {
+          "value": "#b3b3b3"
+        },
+        "82": {
+          "value": "#d1d1d1"
+        },
+        "87": {
+          "value": "#dddddd"
+        },
+        "90": {
+          "value": "#e6e6e6"
+        },
+        "95": {
+          "value": "#f2f2f2"
+        },
+        "97": {
+          "value": "#f7f7f7"
+        }
       },
       "lightgrey": {
-        "96": { "value": "#f5f5f5", "comment": "Base/LightGrey" }
+        "96": {
+          "value": "#f5f5f5",
+          "comment": "Base/LightGrey"
+        }
       },
       "white": {
-        "98": { "value": "#fafafa" },
-        "100": { "value": "#ffffff", "comment": "Base/White" }
+        "98": {
+          "value": "#fafafa"
+        },
+        "100": {
+          "value": "#ffffff",
+          "comment": "Base/White"
+        }
       },
       "black": {
-        "0": { "value": "#000000", "comment": "Base/Black" },
-        "0-60t": { "value": "#00000099", "comment": "Black with 60% transparency" },
-        "30": { "value": "#4d4d4d" }
+        "0": {
+          "value": "#000000",
+          "comment": "Base/Black"
+        },
+        "0-60t": {
+          "value": "#00000099",
+          "comment": "Black with 60% transparency"
+        },
+        "30": {
+          "value": "#4d4d4d"
+        }
       }
     }
   }
@@ -543,13 +680,13 @@ After all component files are written, scan every `*.tokens.json` for which `<sl
 
 Set the values based on the computed font sizes extracted from the website. The mapping between font-size keys and components is:
 
-| Key   | Used by component      |
-| ----- | ---------------------- |
+| Key   | Used by component                                                                      |
+| ----- | -------------------------------------------------------------------------------------- |
 | `md`  | `paragraph`, `heading-5` — **set to the most-used paragraph font-size on the website** |
-| `lg`  | `heading-4`            |
-| `xl`  | `heading-3`            |
-| `2xl` | `heading-2`            |
-| `3xl` | `heading-1`            |
+| `lg`  | `heading-4`                                                                            |
+| `xl`  | `heading-3`                                                                            |
+| `2xl` | `heading-2`                                                                            |
+| `3xl` | `heading-1`                                                                            |
 
 Extract the computed `font-size` of `<p>`, `<h1>`, `<h2>`, `<h3>`, `<h4>` from the website and set the corresponding keys. Convert px values to rem (divide by 16). If you find additional distinct sizes used on the website (e.g. for captions, labels, small text), map them to the nearest smaller key.
 
@@ -880,6 +1017,7 @@ npm install <packageName>
 Apply the theme class to your root element:
 
 \`\`\`html
+
 <html class="<slug>-theme">
 \`\`\`
 
@@ -897,6 +1035,7 @@ npm run build
 This part applies in **both** `new` and `update` modes. In update mode, read the existing token files and update only the values that differ from the extraction.
 
 **Rules:**
+
 - **Only change values you have data for** — if the design summary says "not found — using conduction default", do NOT change that token.
 - **Always use palette references** (e.g. `{<slug>.color.red.44}`) rather than hardcoded hex values. If the color is not yet in the palette, add it to `color.tokens.json` first with the correct lightness key.
 - **Never empty a token that had a value** — only replace values with different values.
@@ -904,88 +1043,100 @@ This part applies in **both** `new` and `update` modes. In update mode, read the
 **Use this exact mapping from design summary → token files:**
 
 ### `heading.tokens.json`
-| Token path | Set to |
-|---|---|
-| `heading-1.color` | Design summary: **Primary brand color** if headings are colored, or leave empty if black |
-| `heading-1.font-family` | `{<slug>.typography.<fontKey>.font-family}` using heading font |
-| `heading-1.font-weight` | `{<slug>.typography.font-weight.bold}` or `.semibold` or `.normal` — match **Heading font weight** |
-| `heading-2.color` | Same as h1, or different if h2 has a distinct color |
-| `heading-2.font-family` | Same as h1 |
-| `heading-3.color` | From design summary **H3** — often the primary brand color for links/headings |
-| `heading-3.font-family` | Same as h1 (or body font if h3 uses body font) |
-| All `heading-*.font-weight` | Match the extracted weight. Map: 300→light, 400→normal, 500/600→semibold, 700→bold |
+
+| Token path                  | Set to                                                                                             |
+| --------------------------- | -------------------------------------------------------------------------------------------------- |
+| `heading-1.color`           | Design summary: **Primary brand color** if headings are colored, or leave empty if black           |
+| `heading-1.font-family`     | `{<slug>.typography.<fontKey>.font-family}` using heading font                                     |
+| `heading-1.font-weight`     | `{<slug>.typography.font-weight.bold}` or `.semibold` or `.normal` — match **Heading font weight** |
+| `heading-2.color`           | Same as h1, or different if h2 has a distinct color                                                |
+| `heading-2.font-family`     | Same as h1                                                                                         |
+| `heading-3.color`           | From design summary **H3** — often the primary brand color for links/headings                      |
+| `heading-3.font-family`     | Same as h1 (or body font if h3 uses body font)                                                     |
+| All `heading-*.font-weight` | Match the extracted weight. Map: 300→light, 400→normal, 500/600→semibold, 700→bold                 |
 
 ### `font-size.tokens.json`
-| Token key | Set to |
-|---|---|
-| `md` | **Body font size** (px / 16 = rem) — this is the paragraph/h5 size |
-| `lg` | **H4 font size** in rem. If H4 not found, set to midpoint between md and xl |
-| `xl` | **H3 font size** in rem |
-| `2xl` | **H2 font size** in rem |
-| `3xl` | **H1 font size** in rem |
-| `4xl` | H1 x 1.25 (for oversized display headings if needed) |
+
+| Token key | Set to                                                                      |
+| --------- | --------------------------------------------------------------------------- |
+| `md`      | **Body font size** (px / 16 = rem) — this is the paragraph/h5 size          |
+| `lg`      | **H4 font size** in rem. If H4 not found, set to midpoint between md and xl |
+| `xl`      | **H3 font size** in rem                                                     |
+| `2xl`     | **H2 font size** in rem                                                     |
+| `3xl`     | **H1 font size** in rem                                                     |
+| `4xl`     | H1 x 1.25 (for oversized display headings if needed)                        |
 
 Validate the scale is well-spaced: each step should be >= 20% larger than the previous. Adjust if needed.
 
 ### `paragraph.tokens.json`
-| Token path | Set to |
-|---|---|
+
+| Token path              | Set to                                                                            |
+| ----------------------- | --------------------------------------------------------------------------------- |
 | `paragraph.font-weight` | `{<slug>.typography.font-weight.light}` or `.normal` — match **Body font weight** |
 
 ### `link.tokens.json`
-| Token path | Set to |
-|---|---|
-| `link.color` | `{<slug>.color.primary}` (which references the brand color) |
-| `link.hover.color` | `{<slug>.color.primary-hover}` |
+
+| Token path         | Set to                                                      |
+| ------------------ | ----------------------------------------------------------- |
+| `link.color`       | `{<slug>.color.primary}` (which references the brand color) |
+| `link.hover.color` | `{<slug>.color.primary-hover}`                              |
 
 ### `page-header.tokens.json`
-| Token path | Set to |
-|---|---|
+
+| Token path                     | Set to                                                              |
+| ------------------------------ | ------------------------------------------------------------------- |
 | `page-header.background-color` | From **Page header bg**. Use palette ref if a matching color exists |
-| `page-header.color` | From **Page header text** |
+| `page-header.color`            | From **Page header text**                                           |
 
 ### `page-footer.tokens.json`
-| Token path | Set to |
-|---|---|
-| `page-footer.background-color` | From **Page footer bg** |
-| `page-footer.color` | From **Page footer text** |
+
+| Token path                     | Set to                    |
+| ------------------------------ | ------------------------- |
+| `page-footer.background-color` | From **Page footer bg**   |
+| `page-footer.color`            | From **Page footer text** |
 
 ### `button.tokens.json`
-| Token path | Set to |
-|---|---|
-| `button.background-color` | From **Button bg** — typically `{<slug>.color.primary}` |
-| `button.border-color` | Same as background, or from extraction |
-| `button.border-radius` | From **Button border-radius** |
-| `button.color` | From **Button text** |
-| `button.hover.background-color` | `{<slug>.color.primary-hover}` |
-| `button.hover.border-color` | `{<slug>.color.primary-hover}` |
+
+| Token path                      | Set to                                                  |
+| ------------------------------- | ------------------------------------------------------- |
+| `button.background-color`       | From **Button bg** — typically `{<slug>.color.primary}` |
+| `button.border-color`           | Same as background, or from extraction                  |
+| `button.border-radius`          | From **Button border-radius**                           |
+| `button.color`                  | From **Button text**                                    |
+| `button.hover.background-color` | `{<slug>.color.primary-hover}`                          |
+| `button.hover.border-color`     | `{<slug>.color.primary-hover}`                          |
 
 ### `textbox.tokens.json`
-| Token path | Set to |
-|---|---|
-| `textbox.border-color` | From **Input border-color** |
+
+| Token path              | Set to                       |
+| ----------------------- | ---------------------------- |
+| `textbox.border-color`  | From **Input border-color**  |
 | `textbox.border-radius` | From **Input border-radius** |
 
 ### `document.tokens.json` and `surface.tokens.json`
-| Token path | Set to |
-|---|---|
+
+| Token path                  | Set to                                                           |
+| --------------------------- | ---------------------------------------------------------------- |
 | `document.background-color` | `{<slug>.color.white.100}` or the page's background if not white |
-| `surface.background-color` | Same as document |
+| `surface.background-color`  | Same as document                                                 |
 
 ### `separator.tokens.json`
-| Token path | Set to |
-|---|---|
+
+| Token path        | Set to                   |
+| ----------------- | ------------------------ |
 | `separator.color` | From **Separator color** |
 
 ### `focus.tokens.json`
-| Token path | Set to |
-|---|---|
+
+| Token path            | Set to                                                    |
+| --------------------- | --------------------------------------------------------- |
 | `focus.outline-color` | `{<slug>.color.primary}` (common pattern) or keep default |
 
 ### `breadcrumb.tokens.json`
-| Token path | Set to |
-|---|---|
-| `breadcrumb-nav.link.color` | `{<slug>.color.primary}` |
+
+| Token path                        | Set to                         |
+| --------------------------------- | ------------------------------ |
+| `breadcrumb-nav.link.color`       | `{<slug>.color.primary}`       |
 | `breadcrumb-nav.link.hover.color` | `{<slug>.color.primary-hover}` |
 
 **For all other component files** (alert, badge, calendar, checkbox, code, etc.) — leave the conduction defaults with only the prefix replaced. These components are rarely visible on the organisation's public website, so the defaults are acceptable.
@@ -1003,6 +1154,7 @@ cd municipalities/<slug>-design-tokens && npm run build
 ```
 
 Capture all output. If the build fails:
+
 - Parse every "Reference doesn't exist" error — note the exact token path that is missing
 - Check whether the missing token exists in `conduction-design-tokens/src/brand/conduction/color.tokens.json` or another conduction token file
 - If it does, add it to the corresponding token file for this organisation
@@ -1027,19 +1179,23 @@ After a successful build, test the theme against the `woo-website-template-apiv2
 Produce a **detailed error report** with these sections:
 
 #### Build errors
+
 - List every build error with the exact error message and file
 - For "Reference doesn't exist" errors: state the missing token path and whether it was fixable
 - State whether the build ultimately succeeded or failed
 
 #### Theme integration errors (woo-website-template-apiv2)
+
 - State whether the repository was found and the branch was checked out successfully
 - List any errors encountered when updating config files
 - List any build or server errors
 
 #### Visual component review (from /theme page)
+
 - For each component visible at `/theme` that is part of the created token set: state whether it looks correct or note the specific visual issue
 
 #### Summary of issues requiring manual attention
+
 - List any colors or fonts that could not be determined and were left as placeholders
 - List any build, integration, or visual issues that could not be auto-resolved
 
