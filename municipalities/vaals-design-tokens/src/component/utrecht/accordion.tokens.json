@@ -1,0 +1,68 @@
+{
+  "utrecht": {
+    "accordion": {
+      "button": {
+        "background-color": { "value": "{vaals.color.primary}" },
+        "border-color": { "value": "{vaals.color.primary}" },
+        "border-width": {},
+        "color": { "value": "{vaals.color.white.100}" },
+        "active": {
+          "background-color": { "value": "{vaals.color.primary}" },
+          "border-color": { "value": "{vaals.color.primary}" },
+          "color": { "value": "{vaals.color.white.100}" }
+        },
+        "expanded": {
+          "background-color": { "value": "{vaals.color.primary-hover}" },
+          "border-color": { "value": "{vaals.color.primary-hover}" },
+          "color": { "value": "{vaals.color.white.100}" }
+        },
+        "focus": {
+          "background-color": { "value": "{vaals.color.primary}" },
+          "border-color": { "value": "{vaals.color.primary}" },
+          "color": { "value": "{vaals.color.white.100}" }
+        },
+        "font-family": { "value": "{vaals.typography.gt-walsheim.font-family}" },
+        "font-size": { "value": "{vaals.font-size.xl}" },
+        "font-weight": { "value": "{vaals.typography.font-weight.normal}" },
+        "hover": {
+          "background-color": { "value": "{vaals.color.primary-hover}" },
+          "border-color": { "value": "{vaals.color.primary-hover}" },
+          "color": { "value": "{vaals.color.white.100}" }
+        },
+        "icon": {
+          "margin-inline-start": { "value": "{vaals.size.xs}" },
+          "margin-inline-end": { "value": "{vaals.size.xs}" },
+          "margin-block-start": { "value": "{vaals.size.xs}" },
+          "margin-block-end": { "value": "{vaals.size.xs}" },
+          "size": {},
+          "background-color": {},
+          "fill": { "value": "currentColor" }
+        },
+        "line-height": {},
+        "padding-block-end": { "value": "{vaals.size.xs}" },
+        "padding-block-start": { "value": "{vaals.size.xs}" },
+        "padding-inline-end": { "value": "{vaals.size.xs}" },
+        "padding-inline-start": { "value": "{vaals.size.xs}" }
+      },
+      "panel": {
+        "padding-inline-start": { "value": "{vaals.size.md}" },
+        "padding-inline-end": { "value": "{vaals.size.md}" },
+        "padding-block-start": { "value": "{vaals.size.md}" },
+        "padding-block-end": { "value": "{vaals.size.md}" },
+        "border-width": { "value": "{vaals.size.4xs}" },
+        "border-color": { "value": "{vaals.color.black.0}" }
+      },
+      "section": {
+        "margin-block-start": {},
+        "margin-block-end": {},
+        "border-width": {},
+        "border-color": {},
+        "border-block-end-width": {}
+      },
+      "border-radius": { "value": "0px" },
+      "icon": {
+        "arrow-down": { "value": "transparent" }
+      }
+    }
+  }
+}

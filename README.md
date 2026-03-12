@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.62: Added Vaals theme.
   - 1.1.61: Updated footer tokens in Almere theme.
   - 1.1.60: Updated Almere theme.
     - Updated font size tokens.
