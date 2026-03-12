@@ -42,7 +42,7 @@
         }
       },
       "row": {
-        "border-block-end-color": { "value": "{vaals.color.grey.82}" },
+        "border-block-end-color": { "value": "{vaals.color.grey.87}" },
         "border-block-end-width": { "value": "{vaals.size.4xs}" },
         "padding-inline-end": {},
         "padding-inline-start": {},

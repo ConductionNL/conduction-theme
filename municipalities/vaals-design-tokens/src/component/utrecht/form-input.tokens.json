@@ -3,20 +3,17 @@
     "form-input": {
       "border-bottom-width": {},
       "border-color": { "value": "{vaals.color.grey.46}" },
-      "border-radius": { "value": "8px" },
-      "border-width": { "value": "{vaals.size.4xs}" },
-      "color": { "value": "{vaals.color.grey.29}" },
+      "border-radius": { "value": "11px" },
+      "border-width": { "value": "{vaals.size.3xs}" },
+      "color": { "value": "{vaals.color.black.0}" },
       "font-family": { "value": "{vaals.typography.sans-serif.font-family}" },
-      "font-size": {
-        "value": "0.938rem",
-        "comment": "15px"
-      },
+      "font-size": { "value": "{vaals.font-size.md}" },
       "min-inline-height": {},
       "max-inline-size": {},
-      "padding-block-end": { "value": "{vaals.size.xs}" },
-      "padding-block-start": { "value": "{vaals.size.xs}" },
-      "padding-inline-end": { "value": "{vaals.size.sm}" },
-      "padding-inline-start": { "value": "{vaals.size.sm}" },
+      "padding-block-end": { "value": "0px" },
+      "padding-block-start": { "value": "0px" },
+      "padding-inline-end": { "value": "11px" },
+      "padding-inline-start": { "value": "11px" },
       "disabled": {
         "border-color": { "value": "{vaals.color.grey.87}" },
         "color": {}
