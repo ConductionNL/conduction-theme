@@ -1,15 +1,15 @@
 {
   "utrecht": {
     "skip-link": {
-      "background-color": { "value": "{vaals.color.grey.87}" },
-      "color": { "value": "{vaals.color.grey.27}" },
-      "min-block-size": { "value": "20px" },
-      "min-inline-size": { "value": "20px" },
+      "background-color": { "value": "{vaals.color.black.0-75t}" },
+      "color": { "value": "{vaals.color.white.100}" },
+      "min-block-size": { "value": "100px" },
+      "min-inline-size": { "value": "100%" },
       "padding-block-start": { "value": "15px" },
       "padding-block-end": { "value": "{vaals.size.sm}" },
       "padding-inline-start": { "value": "23px" },
       "padding-inline-end": { "value": "23px" },
-      "text-decoration": { "value": "none" },
+      "text-decoration": { "value": "underline" },
       "z-index": { "value": "100000" }
     }
   }

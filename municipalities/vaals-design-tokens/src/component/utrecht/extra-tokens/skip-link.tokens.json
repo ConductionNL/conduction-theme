@@ -1,11 +1,11 @@
 {
   "utrecht": {
     "skip-link": {
-      "font-weight": { "value": "{vaals.typography.font-weight.bold}" },
+      "font-weight": { "value": "{vaals.typography.font-weight.light}" },
       "font-size": { "value": "{vaals.font-size.md}" },
       "outline-style": { "value": "none" },
       "outline-color": {},
-      "border-radius": { "value": "3px" },
+      "border-radius": { "value": "0px" },
       "focus": {
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
       },
