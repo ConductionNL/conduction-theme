@@ -17,7 +17,7 @@
         }
       },
       "font-weight": {
-        "bold": { "value": "700" },
+        "bold": { "value": "600" },
         "semibold": { "value": "500" },
         "normal": { "value": "400" },
         "light": { "value": "300" }
