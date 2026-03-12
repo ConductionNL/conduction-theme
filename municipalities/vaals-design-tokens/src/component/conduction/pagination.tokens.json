@@ -10,12 +10,12 @@
       },
       "item": {
         "gap": { "value": "{vaals.size.2xs}" },
-        "color": { "value": "{vaals.color.black.0}" },
-        "background-color": { "value": "{vaals.color.white.98}" },
-        "padding-inline-start": { "value": "{vaals.size.xs}" },
-        "padding-inline-end": { "value": "{vaals.size.xs}" },
-        "padding-block-start": { "value": "{vaals.size.xs}" },
-        "padding-block-end": { "value": "{vaals.size.xs}" },
+        "color": { "value": "{vaals.color.primary}" },
+        "background-color": { "value": "{vaals.color.grey.94}" },
+        "padding-inline-start": { "value": "11px" },
+        "padding-inline-end": { "value": "11px" },
+        "padding-block-start": { "value": "10.6px" },
+        "padding-block-end": { "value": "10.6px" },
         "font-size": { "value": "{utrecht.document.font-size}" },
         "font-weight": { "value": "{vaals.typography.font-weight.normal}" },
         "font-family": { "value": "{utrecht.document.font-family}" },
@@ -25,24 +25,24 @@
         "border-bottom-width": {},
         "border-bottom-style": {},
         "border-bottom-color": {},
-        "border-radius": { "value": "{vaals.size.2xs}" }
+        "border-radius": { "value": "0px" }
       },
       "navigation-button": {
-        "color": { "value": "{vaals.color.white.100}" },
-        "background-color": { "value": "{vaals.color.primary}" },
+        "color": { "value": "{vaals.color.primary}" },
+        "background-color": { "value": "{vaals.color.grey.94}" },
         "border-width": {},
         "border-style": {},
         "border-color": {},
         "border-bottom-width": {},
         "border-bottom-style": {},
         "border-bottom-color": {},
-        "border-radius": {},
+        "border-radius": { "value": "0px" },
         "padding-inline-start": { "value": "{vaals.size.xs}" },
         "padding-inline-end": { "value": "{vaals.size.xs}" },
-        "padding-block-start": { "value": "0px" },
-        "padding-block-end": { "value": "0px" },
+        "padding-block-start": { "value": "12.1px" },
+        "padding-block-end": { "value": "12.1px" },
         "disabled": {
-          "color": { "value": "{vaals.color.white.100}" },
+          "color": { "value": "{vaals.color.primary-hover}" },
           "background-color": { "value": "{vaals.color.grey.82}" },
           "border-width": {},
           "border-style": {},
@@ -50,24 +50,24 @@
           "border-bottom-width": {},
           "border-bottom-style": {},
           "border-bottom-color": {},
-          "border-radius": {}
+          "border-radius": { "value": "0px" }
         },
         "hover": {
-          "color": { "value": "{vaals.color.white.100}" },
-          "background-color": { "value": "{vaals.color.primary-hover}" },
+          "color": { "value": "{vaals.color.primary}" },
+          "background-color": { "value": "{vaals.color.grey.84}" },
           "border-width": {},
           "border-style": {},
           "border-color": {},
           "border-bottom-width": {},
           "border-bottom-style": {},
           "border-bottom-color": {},
-          "border-radius": {}
+          "border-radius": { "value": "0px" }
         }
       },
       "current-page": {
         "color": { "value": "{vaals.color.white.100}" },
         "background-color": { "value": "{vaals.color.primary}" },
-        "font-weight": { "value": "{vaals.typography.font-weight.bold}" },
+        "font-weight": { "value": "{vaals.typography.font-weight.light}" },
         "text-decoration": { "value": "unset" },
         "border-width": {},
         "border-style": {},
@@ -79,7 +79,7 @@
       "page": {
         "hover": {
           "color": { "value": "{vaals.color.primary}" },
-          "background-color": { "value": "{vaals.color.white.98}" },
+          "background-color": { "value": "{vaals.color.grey.84}" },
           "text-decoration": { "value": "unset" },
           "text-decoration-thickness": { "value": "0px" },
           "border-width": {},
