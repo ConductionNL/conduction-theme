@@ -19,7 +19,7 @@
       "margin-block-start": { "value": "{vaals.size.md}" }
     },
     "heading-3": {
-      "color": { "value": "{vaals.color.primary}" },
+      "color": {},
       "font-family": { "value": "{vaals.typography.gt-walsheim.font-family}" },
       "font-size": { "value": "{vaals.font-size.xl}" },
       "font-weight": { "value": "{vaals.typography.font-weight.normal}" },
@@ -30,8 +30,8 @@
     "heading-4": {
       "color": {},
       "font-family": { "value": "{vaals.typography.gt-walsheim.font-family}" },
-      "font-size": { "value": "{vaals.font-size.lg}" },
-      "font-weight": { "value": "{vaals.typography.font-weight.normal}" },
+      "font-size": { "value": "{vaals.font-size.md}" },
+      "font-weight": { "value": "{vaals.typography.font-weight.bold}" },
       "line-height": {},
       "margin-block-end": { "value": "{vaals.size.lg}" },
       "margin-block-start": { "value": "{vaals.size.md}" }
