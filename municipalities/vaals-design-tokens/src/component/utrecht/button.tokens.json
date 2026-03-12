@@ -34,7 +34,7 @@
         "color": { "value": "{vaals.color.grey.50}" }
       },
       "focus": {
-        "background-color": {},
+        "background-color": { "value": "{vaals.color.primary-hover}" },
         "border-color": {},
         "color": {},
         "scale": {}
@@ -105,8 +105,8 @@
           "color": { "value": "{vaals.color.primary-hover}" }
         },
         "focus": {
-          "background-color": {},
-          "border-color": {},
+          "background-color": { "value": "{vaals.color.white.100}" },
+          "border-color": { "value": "{vaals.color.primary-hover}" },
           "color": {}
         },
         "pressed": {

@@ -3,10 +3,10 @@
     "focus": {
       "background-color": {},
       "color": {},
-      "outline-color": { "value": "{vaals.color.primary}" },
+      "outline-color": { "value": "{vaals.color.black.11}" },
       "outline-offset": { "value": "1px" },
-      "outline-style": { "value": "solid" },
-      "outline-width": { "value": "1px" },
+      "outline-style": {},
+      "outline-width": {},
       "inverse": {
         "outline-color": { "value": "{vaals.color.white.100}" }
       }
