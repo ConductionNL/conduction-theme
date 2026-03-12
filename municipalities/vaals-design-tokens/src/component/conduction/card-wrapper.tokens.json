@@ -8,12 +8,12 @@
       "border-bottom-color": {},
       "border-bottom-style": {},
       "border-bottom-width": {},
-      "border-radius": { "value": "{vaals.size.md}" },
+      "border-radius": { "value": "0px" },
       "transition": {},
       "box-shadow": {},
       "color": { "value": "{vaals.color.black.0}" },
       "hover": {
-        "background-color": {},
+        "background-color": { "value": "{vaals.color.black.0-10t}" },
         "color": {},
         "border-color": {},
         "border-style": {},
@@ -24,10 +24,10 @@
         "border-radius": {},
         "box-shadow": {}
       },
-      "padding-inline-end": { "value": "{vaals.size.md}" },
-      "padding-inline-start": { "value": "{vaals.size.md}" },
-      "padding-block-end": { "value": "{vaals.size.md}" },
-      "padding-block-start": { "value": "{vaals.size.md}" }
+      "padding-inline-end": { "value": "11px" },
+      "padding-inline-start": { "value": "11px" },
+      "padding-block-end": { "value": "11px" },
+      "padding-block-start": { "value": "11px" }
     }
   }
 }
