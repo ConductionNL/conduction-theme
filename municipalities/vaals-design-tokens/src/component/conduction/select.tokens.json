@@ -2,9 +2,9 @@
   "conduction": {
     "input-select": {
       "background-color": { "value": "{vaals.color.white.100}" },
-      "border": { "value": "{vaals.size.4xs} solid {vaals.color.grey.48}" },
+      "border": { "value": "{vaals.size.3xs} solid {vaals.color.grey.46}" },
       "border-focus": { "value": "unset" },
-      "border-radius": { "value": "{utrecht.form-input.border-radius}" },
+      "border-radius": { "value": "11px" },
       "invalid-border-color": { "value": "{vaals.color.error}" },
       "padding-block-end": { "value": 0 },
       "padding-block-start": { "value": 0 },
