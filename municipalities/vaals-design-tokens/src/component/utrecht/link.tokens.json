@@ -2,10 +2,10 @@
   "utrecht": {
     "link": {
       "color": { "value": "{vaals.color.primary}" },
-      "text-decoration": { "value": "none" },
+      "text-decoration": { "value": "underline" },
       "text-decoration-color": { "value": "unset" },
-      "text-decoration-thickness": { "value": 0 },
-      "text-underline-offset": { "value": "{vaals.size.3xs}" },
+      "text-decoration-thickness": { "value": "{vaals.size.3xs}" },
+      "text-underline-offset": {},
       "active": {
         "color": {}
       },
@@ -15,9 +15,9 @@
         "text-decoration-thickness": {}
       },
       "hover": {
-        "color": { "value": "{vaals.color.primary-hover}" },
+        "color": { "value": "{vaals.color.primary}" },
         "text-decoration": { "value": "underline" },
-        "text-decoration-thickness": { "value": "{vaals.size.4xs}" }
+        "text-decoration-thickness": { "value": "{vaals.size.3xs}" }
       },
       "placeholder": {
         "color": {}
