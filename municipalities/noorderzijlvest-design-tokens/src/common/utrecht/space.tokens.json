@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{noorderzijlvest.size.3xs}" },
+        "2xs": { "value": "{noorderzijlvest.size.2xs}" },
+        "xs": { "value": "{noorderzijlvest.size.xs}" },
+        "sm": { "value": "{noorderzijlvest.size.sm}" },
+        "md": { "value": "{noorderzijlvest.size.md}" },
+        "lg": { "value": "{noorderzijlvest.size.lg}" },
+        "xl": { "value": "{noorderzijlvest.size.xl}" },
+        "2xl": { "value": "{noorderzijlvest.size.2xl}" },
+        "3xl": { "value": "{noorderzijlvest.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{noorderzijlvest.size.3xs}" },
+        "2xs": { "value": "{noorderzijlvest.size.2xs}" },
+        "xs": { "value": "{noorderzijlvest.size.xs}" },
+        "sm": { "value": "{noorderzijlvest.size.sm}" },
+        "md": { "value": "{noorderzijlvest.size.md}" },
+        "lg": { "value": "{noorderzijlvest.size.lg}" },
+        "xl": { "value": "{noorderzijlvest.size.xl}" },
+        "2xl": { "value": "{noorderzijlvest.size.2xl}" },
+        "3xl": { "value": "{noorderzijlvest.size.3xl}" }
+      }
+    }
+  }
+}
