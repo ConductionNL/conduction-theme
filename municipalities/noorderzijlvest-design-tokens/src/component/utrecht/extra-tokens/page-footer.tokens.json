@@ -28,13 +28,13 @@
         "font-size": {}
       },
       "link": {
-        "color": {},
-        "text-decoration": { "value": "none" },
-        "text-decoration-color": { "value": "unset" },
+        "color": { "value": "{noorderzijlvest.color.white.100}" },
+        "text-decoration": { "value": "underline" },
+        "text-decoration-color": { "value": "{noorderzijlvest.color.white.100}" },
         "text-decoration-thickness": { "value": "{noorderzijlvest.size.4xs}" },
-        "text-underline-offset": { "value": "{noorderzijlvest.size.3xs}" },
+        "text-underline-offset": { "value": "0px" },
         "hover": {
-          "color": { "value": "{noorderzijlvest.color.black.30}" },
+          "color": { "value": "{noorderzijlvest.color.white.100}" },
           "text-decoration": { "value": "underline" },
           "text-decoration-thickness": { "value": "{noorderzijlvest.size.4xs}" },
           "font-weight": {}

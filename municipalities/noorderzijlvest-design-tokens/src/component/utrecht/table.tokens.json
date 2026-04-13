@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "table": {
-      "border-color": {},
-      "border-width": {},
+      "border-color": { "value": "{noorderzijlvest.color.black.20}" },
+      "border-width": { "value": "{noorderzijlvest.size.4xs}" },
       "font-family": { "value": "{utrecht.document.font-family}" },
       "font-size": { "value": "{utrecht.document.font-size}" },
       "line-height": {},
@@ -23,7 +23,7 @@
         "color": { "value": "{utrecht.document.color}" },
         "text-transform": { "value": "unset" },
         "border-block-end-color": {},
-        "border-block-end-width": {}
+        "border-block-end-width": { "value": "0px" }
       },
       "header-cell": {
         "font-size": { "value": "{utrecht.document.font-size}" },
@@ -42,7 +42,7 @@
         }
       },
       "row": {
-        "border-block-end-color": { "value": "{noorderzijlvest.color.grey.82}" },
+        "border-block-end-color": { "value": "{noorderzijlvest.color.black.20}" },
         "border-block-end-width": { "value": "{noorderzijlvest.size.4xs}" },
         "padding-inline-end": {},
         "padding-inline-start": {},

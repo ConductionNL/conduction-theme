@@ -2,10 +2,10 @@
   "utrecht": {
     "link": {
       "color": { "value": "{noorderzijlvest.color.primary}" },
-      "text-decoration": { "value": "none" },
+      "text-decoration": { "value": "underline" },
       "text-decoration-color": { "value": "unset" },
-      "text-decoration-thickness": { "value": 0 },
-      "text-underline-offset": { "value": "{noorderzijlvest.size.3xs}" },
+      "text-decoration-thickness": { "value": "{noorderzijlvest.size.4xs}" },
+      "text-underline-offset": { "value": "0px" },
       "active": {
         "color": {}
       },

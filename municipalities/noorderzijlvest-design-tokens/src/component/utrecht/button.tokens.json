@@ -132,8 +132,8 @@
           "color": { "value": "{noorderzijlvest.color.grey.50}" }
         },
         "hover": {
-          "background-color": {},
-          "border-color": {},
+          "background-color": { "value": "{noorderzijlvest.color.primary-hover}" },
+          "border-color": { "value": "{noorderzijlvest.color.primary-hover}" },
           "color": {}
         },
         "focus": {

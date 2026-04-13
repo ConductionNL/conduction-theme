@@ -2,18 +2,18 @@
   "conduction": {
     "card-header": {
       "background-color": {},
-      "border-bottom-width": {},
-      "border-bottom-style": {},
-      "border-bottom-color": {},
-      "color": { "value": "{utrecht.document.color}" },
+      "border-bottom-width": { "value": "{noorderzijlvest.size.2xs}" },
+      "border-bottom-style": { "value": "solid" },
+      "border-bottom-color": { "value": "{noorderzijlvest.color.primary}" },
+      "color": { "value": "{noorderzijlvest.color.primary}" },
       "hover": {
         "background-color": {},
-        "border-bottom-width": {},
-        "border-bottom-style": {},
-        "border-bottom-color": {}
+        "border-bottom-width": { "value": "{noorderzijlvest.size.2xs}" },
+        "border-bottom-style": { "value": "solid" },
+        "border-bottom-color": { "value": "{noorderzijlvest.color.primary}" }
       },
       "title": {
-        "color": { "value": "{noorderzijlvest.color.black.0}" },
+        "color": { "value": "{noorderzijlvest.color.primary}" },
         "text-decoration": { "value": "none" },
         "text-underline-offset": { "value": "5px" },
         "hover": {
@@ -24,7 +24,7 @@
       },
       "date": {
         "color": { "value": "{noorderzijlvest.color.black.0}" },
-        "font-size": { "value": "{noorderzijlvest.font-size.sm}" },
+        "font-size": { "value": "{noorderzijlvest.font-size.3xs}" },
         "font-weight": { "value": "{noorderzijlvest.typography.font-weight.light}" },
         "font-style": {},
         "margin-block-end": { "value": "{noorderzijlvest.size.xs}" }
