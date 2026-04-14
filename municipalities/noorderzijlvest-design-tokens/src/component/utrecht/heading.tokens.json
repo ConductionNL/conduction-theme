@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{noorderzijlvest.color.primary}"},
+      "font-family": { "value": "{noorderzijlvest.typography.roboto.font-family}" },
+      "font-size": { "value": "{noorderzijlvest.font-size.3xl}" },
+      "font-weight": { "value": "{noorderzijlvest.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{noorderzijlvest.size.2xl}" },
+      "margin-block-start": { "value": "{noorderzijlvest.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{noorderzijlvest.color.primary}"},
+      "font-family": { "value": "{noorderzijlvest.typography.roboto.font-family}" },
+      "font-size": { "value": "25.088px" },
+      "font-weight": { "value": "{noorderzijlvest.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{noorderzijlvest.size.2xl}" },
+      "margin-block-start": { "value": "{noorderzijlvest.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{noorderzijlvest.color.primary}"},
+      "font-family": { "value": "{noorderzijlvest.typography.roboto.font-family}" },
+      "font-size": { "value": "{noorderzijlvest.font-size.xl}" },
+      "font-weight": { "value": "{noorderzijlvest.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{noorderzijlvest.size.xl}" },
+      "margin-block-start": { "value": "{noorderzijlvest.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{noorderzijlvest.color.primary}"},
+      "font-family": { "value": "{noorderzijlvest.typography.roboto.font-family}" },
+      "font-size": { "value": "{noorderzijlvest.font-size.lg}" },
+      "font-weight": { "value": "{noorderzijlvest.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{noorderzijlvest.size.lg}" },
+      "margin-block-start": { "value": "{noorderzijlvest.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{noorderzijlvest.color.primary}"},
+      "font-family": { "value": "{noorderzijlvest.typography.roboto.font-family}" },
+      "font-size": { "value": "{noorderzijlvest.font-size.md}" },
+      "font-weight": { "value": "{noorderzijlvest.typography.font-weight.light}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{noorderzijlvest.size.lg}" },
+      "margin-block-start": { "value": "{noorderzijlvest.size.md}" }
+    }
+  }
+}

@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.65: Added Noorderzijlvest theme.
   - 1.1.64: Updated Almere link.
   - 1.1.63: Updated logo Hof van Twente.
   - 1.1.62: Added Vaals theme.

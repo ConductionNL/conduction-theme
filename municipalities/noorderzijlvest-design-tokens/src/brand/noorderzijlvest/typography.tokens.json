@@ -1,0 +1,40 @@
+{
+  "noorderzijlvest": {
+    "typography": {
+      "roboto": {
+        "font-family": {
+          "value": "\"Roboto\", Arial, sans-serif"
+        }
+      },
+      "sans-serif": {
+        "font-family": {
+          "value": "\"Roboto\", Arial, sans-serif"
+        }
+      },
+      "monospace": {
+        "font-family": {
+          "value": "Monospace, \"Lucida Console\""
+        }
+      },
+      "font-weight": {
+        "bold": { "value": "700" },
+        "semibold": { "value": "600" },
+        "normal": { "value": "400" },
+        "light": { "value": "300" }
+      },
+      "scale": {
+        "4xs": { "value": "{noorderzijlvest.font-size.4xs}" },
+        "3xs": { "value": "{noorderzijlvest.font-size.3xs}" },
+        "2xs": { "value": "{noorderzijlvest.font-size.2xs}" },
+        "xs": { "value": "{noorderzijlvest.font-size.xs}" },
+        "sm": { "value": "{noorderzijlvest.font-size.sm}" },
+        "md": { "value": "{noorderzijlvest.font-size.md}" },
+        "lg": { "value": "{noorderzijlvest.font-size.lg}" },
+        "xl": { "value": "{noorderzijlvest.font-size.xl}" },
+        "2xl": { "value": "{noorderzijlvest.font-size.2xl}" },
+        "3xl": { "value": "{noorderzijlvest.font-size.3xl}" },
+        "4xl": { "value": "{noorderzijlvest.font-size.4xl}" }
+      }
+    }
+  }
+}

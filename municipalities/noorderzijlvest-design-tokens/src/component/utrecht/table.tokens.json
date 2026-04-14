@@ -1,0 +1,60 @@
+{
+  "utrecht": {
+    "table": {
+      "border-color": { "value": "{noorderzijlvest.color.black.20}" },
+      "border-width": { "value": "{noorderzijlvest.size.4xs}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-end": { "value": 0 },
+      "margin-block-start": { "value": "{noorderzijlvest.size.md}" },
+      "caption": {
+        "font-weight": {},
+        "font-family": {},
+        "font-size": {},
+        "color": { "value": "{noorderzijlvest.color.black.20}" },
+        "line-height": {},
+        "text-align": {},
+        "margin-block-end": {}
+      },
+      "header": {
+        "font-weight": { "value": "{noorderzijlvest.typography.font-weight.bold}" },
+        "background-color": {},
+        "color": { "value": "{noorderzijlvest.color.black.20}" },
+        "text-transform": { "value": "unset" },
+        "border-block-end-color": { "value": "{noorderzijlvest.color.black.20}" },
+        "border-block-end-width": { "value": "1px" }
+      },
+      "header-cell": {
+        "font-size": { "value": "{utrecht.document.font-size}" },
+        "font-weight": { "value": "{noorderzijlvest.typography.font-weight.bold}" },
+        "color": { "value": "{noorderzijlvest.color.black.20}" },
+        "text-transform": { "value": "unset" }
+      },
+      "cell": {
+        "line-height": {},
+        "padding-block-end": { "value": "{noorderzijlvest.size.md}" },
+        "padding-block-start": { "value": "{noorderzijlvest.size.md}" },
+        "padding-inline-end": { "value": "{noorderzijlvest.size.md}" },
+        "padding-inline-start": { "value": "{noorderzijlvest.size.md}" },
+        "icon": {
+          "size": {}
+        }
+      },
+      "row": {
+        "border-block-end-color": { "value": "{noorderzijlvest.color.black.20}" },
+        "border-block-end-width": { "value": "{noorderzijlvest.size.4xs}" },
+        "padding-inline-end": {},
+        "padding-inline-start": {},
+        "alternate-odd": {
+          "background-color": {},
+          "color": { "value": "{noorderzijlvest.color.black.20}" }
+        },
+        "alternate-even": {
+          "background-color": {},
+          "color": { "value": "{noorderzijlvest.color.black.20}" }
+        }
+      }
+    }
+  }
+}

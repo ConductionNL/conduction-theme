@@ -5,6 +5,7 @@
       "font-size": { "value": "{conduction.font-size.md}" },
       "outline-style": { "value": "none" },
       "outline-color": {},
+      "outline-width": {},
       "border-radius": { "value": "3px" },
       "focus": {
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
@@ -18,7 +19,8 @@
       "border-bottom-width": {},
       "border-bottom-style": {},
       "border-bottom-color": {},
-      "width": {}
+      "width": {},
+      "justify-content": {}
     }
   }
 }

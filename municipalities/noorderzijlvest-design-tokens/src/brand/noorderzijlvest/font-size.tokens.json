@@ -1,0 +1,18 @@
+{
+  "noorderzijlvest": {
+    "font-size": {
+      "4xs": { "value": "0.7rem", "comment": "11.2px" },
+      "3xs": { "value": "0.84rem", "comment": "13.44px" },
+      "2xs": { "value": "0.98rem", "comment": "15.68px" },
+      "xs": { "value": "1.12rem", "comment": "17.92px" },
+      "sm": { "value": "1.26rem", "comment": "20.16px" },
+      "md": { "value": "1.12rem", "comment": "17.92px — body/paragraph size" },
+      "lg": { "value": "1.4rem", "comment": "22.4px — h4 (adjusted from 1rem for scale spacing)" },
+      "xl": { "value": "1.68rem", "comment": "26.88px — h3 (adjusted from 1.2rem for scale spacing)" },
+      "2xl": { "value": "2.1rem", "comment": "33.6px — h2 (adjusted from 1.4rem for scale spacing)" },
+      "3xl": { "value": "2.52rem", "comment": "40.32px — h1 (preserved from website)" },
+      "4xl": { "value": "3.15rem", "comment": "50.4px" },
+      "5xl": { "value": "4.06rem", "comment": "64.96px" }
+    }
+  }
+}

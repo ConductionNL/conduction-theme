@@ -1,0 +1,26 @@
+{
+  "utrecht": {
+    "code": {
+      "background-color": { "value": "{noorderzijlvest.color.lightgrey.96}" },
+      "color": { "value": "{noorderzijlvest.color.black.0}" },
+      "font-family": { "value": "{noorderzijlvest.typography.monospace.font-family}" },
+      "font-size": { "value": "inherit" },
+      "line-height": {}
+    },
+    "code-block": {
+      "background-color": { "value": "{noorderzijlvest.color.lightgrey.96}" },
+      "color": { "value": "{noorderzijlvest.color.black.0}" },
+      "font-family": { "value": "{noorderzijlvest.typography.monospace.font-family}" },
+      "font-size": { "value": "{noorderzijlvest.font-size.md}" },
+      "line-height": { "value": "{noorderzijlvest.size.lg}" },
+      "margin-block-start": { "value": "{noorderzijlvest.size.md}" },
+      "margin-block-end": { "value": "{noorderzijlvest.size.md}" },
+      "margin-inline-start": { "value": 0 },
+      "margin-inline-end": { "value": 0 },
+      "padding-block-start": { "value": "{noorderzijlvest.size.md}" },
+      "padding-block-end": { "value": "{noorderzijlvest.size.md}" },
+      "padding-inline-start": { "value": "{noorderzijlvest.size.md}" },
+      "padding-inline-end": { "value": "{noorderzijlvest.size.md}" }
+    }
+  }
+}

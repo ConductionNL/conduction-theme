@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{noorderzijlvest.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{noorderzijlvest.color.white.100} " },
+      "font-size": { "value": "{noorderzijlvest.font-size.sm}" },
+      "font-weight": { "value": "{noorderzijlvest.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{noorderzijlvest.size.xs}" },
+      "padding-inline": { "value": "{noorderzijlvest.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}
