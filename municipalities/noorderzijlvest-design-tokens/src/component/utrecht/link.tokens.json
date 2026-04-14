@@ -5,7 +5,7 @@
       "text-decoration": { "value": "underline" },
       "text-decoration-color": { "value": "unset" },
       "text-decoration-thickness": { "value": "{noorderzijlvest.size.4xs}" },
-      "text-underline-offset": { "value": "0px" },
+      "text-underline-offset": { "value": "auto" },
       "active": {
         "color": {}
       },

@@ -19,8 +19,8 @@
       "margin-block-end": { "value": 0 },
       "padding-inline-start": { "value": "2ch" },
       "item": {
-        "margin-block-start": { "value": "{noorderzijlvest.size.xs}" },
-        "margin-block-end": { "value": "{noorderzijlvest.size.xs}" },
+        "margin-block-start": { "value": "0" },
+        "margin-block-end": { "value": "0" },
         "padding-inline-start": { "value": "1ch" }
       },
       "marker": {

@@ -2,11 +2,11 @@
   "utrecht": {
     "focus": {
       "background-color": {},
-      "color": {},
-      "outline-color": { "value": "{noorderzijlvest.color.primary}" },
-      "outline-offset": { "value": "1px" },
-      "outline-style": { "value": "solid" },
-      "outline-width": { "value": "1px" },
+      "color": {"value": "{noorderzijlvest.color.black.0}"},
+      "outline-color": { "value": "{noorderzijlvest.color.black.0}" },
+      "outline-offset": { "value": "2px" },
+      "outline-style": { "value": "dotted" },
+      "outline-width": { "value": "3px" },
       "inverse": {
         "outline-color": { "value": "{noorderzijlvest.color.white.100}" }
       }

@@ -12,7 +12,7 @@
         "font-weight": {},
         "font-family": {},
         "font-size": {},
-        "color": {},
+        "color": { "value": "{noorderzijlvest.color.black.20}" },
         "line-height": {},
         "text-align": {},
         "margin-block-end": {}
@@ -20,15 +20,15 @@
       "header": {
         "font-weight": { "value": "{noorderzijlvest.typography.font-weight.bold}" },
         "background-color": {},
-        "color": { "value": "{utrecht.document.color}" },
+        "color": { "value": "{noorderzijlvest.color.black.20}" },
         "text-transform": { "value": "unset" },
-        "border-block-end-color": {},
-        "border-block-end-width": { "value": "0px" }
+        "border-block-end-color": { "value": "{noorderzijlvest.color.black.20}" },
+        "border-block-end-width": { "value": "1px" }
       },
       "header-cell": {
         "font-size": { "value": "{utrecht.document.font-size}" },
         "font-weight": { "value": "{noorderzijlvest.typography.font-weight.bold}" },
-        "color": { "value": "{utrecht.document.color}" },
+        "color": { "value": "{noorderzijlvest.color.black.20}" },
         "text-transform": { "value": "unset" }
       },
       "cell": {
@@ -48,11 +48,11 @@
         "padding-inline-start": {},
         "alternate-odd": {
           "background-color": {},
-          "color": {}
+          "color": { "value": "{noorderzijlvest.color.black.20}" }
         },
         "alternate-even": {
           "background-color": {},
-          "color": {}
+          "color": { "value": "{noorderzijlvest.color.black.20}" }
         }
       }
     }
