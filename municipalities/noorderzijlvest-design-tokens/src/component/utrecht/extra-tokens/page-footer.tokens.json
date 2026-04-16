@@ -32,7 +32,7 @@
         "text-decoration": { "value": "underline" },
         "text-decoration-color": { "value": "{noorderzijlvest.color.white.100}" },
         "text-decoration-thickness": { "value": "{noorderzijlvest.size.4xs}" },
-        "text-underline-offset": { "value": "0px" },
+        "text-underline-offset": { "value": "auto" },
         "hover": {
           "color": { "value": "{noorderzijlvest.color.white.100}" },
           "text-decoration": { "value": "underline" },
