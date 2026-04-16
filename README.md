@@ -6,7 +6,8 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
-  - 1.1.66: Fixed Conduction and Almere theme having white focus color
+  - 1.1.67: Updated footer underline-offset in Noorderzijlvest theme.
+  - 1.1.66: Fixed Conduction and Almere theme having white focus color.
   - 1.1.65: Added Noorderzijlvest theme.
   - 1.1.64: Updated Almere link.
   - 1.1.63: Updated logo Hof van Twente.
