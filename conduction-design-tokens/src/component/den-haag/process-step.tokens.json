@@ -31,18 +31,18 @@
         "font-family": { "value": "{utrecht.heading-1.font-family}" },
         "font-size": { "value": "{conduction.font-size.md}" },
         "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
-        "line-height": { "value": "{utrecht.document.line-height}" },
+        "line-height": {},
         "current": {
           "color": { "value": "{conduction.color.primary}" },
           "font-size": { "value": "{utrecht.document.font-size}" },
           "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
-          "line-height": { "value": "{utrecht.document.line-height}" }
+          "line-height": {}
         },
         "checked": {
           "color": {},
           "font-size": { "value": "{utrecht.document.font-size}" },
           "font-weight": { "value": "{conduction.typography.font-weight.bold}" },
-          "line-height": { "value": "{utrecht.document.line-height}" }
+          "line-height": {}
         },
         "not-checked": {
           "color": {}

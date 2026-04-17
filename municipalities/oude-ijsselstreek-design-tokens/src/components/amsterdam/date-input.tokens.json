@@ -7,7 +7,7 @@
       "font-family": { "value": "{utrecht.textbox.font-family}" },
       "font-size": { "value": "{utrecht.textbox.font-size}" },
       "font-weight": { "value": "{utrecht.textbox.font-weight}" },
-      "line-height": { "value": "{utrecht.textbox.line-height}" },
+      "line-height": {},
       "min-block-size": {},
       "min-inline-size": {},
       "outline-offset": {},
