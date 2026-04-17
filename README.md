@@ -6,6 +6,7 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.68: Fixed WCAG compliance issue on select dropdown hover for Almere and Conduction
   - 1.1.67: Updated footer underline-offset in Noorderzijlvest theme.
   - 1.1.66: Fixed Conduction and Almere theme having white focus color.
   - 1.1.65: Added Noorderzijlvest theme.
