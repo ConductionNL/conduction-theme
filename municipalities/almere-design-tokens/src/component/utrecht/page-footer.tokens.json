@@ -1,8 +1,10 @@
 {
   "utrecht": {
     "page-footer": {
-      "background-color": {},
-      "background-image": { "value": "linear-gradient(to right, {almere.color.blue.96} 0 50%, {almere.color.blue.98} 50% 100%)" },
+      "background-color": { "value": "{almere.color.blue.96}" },
+      "background-image": {
+        "value": "linear-gradient(to right, {almere.color.blue.96} 0 50%, {almere.color.blue.98} 50% 100%)"
+      },
       "color": { "value": "{almere.color.black.0}" },
       "padding-inline-end": { "value": "{almere.size.sm}" },
       "padding-inline-start": { "value": "{almere.size.sm}" },

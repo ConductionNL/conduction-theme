@@ -2,9 +2,9 @@
   "utrecht": {
     "link": {
       "color": { "value": "{almere.color.black.0}" },
-      "text-decoration": { "value": "none" },
+      "text-decoration": { "value": "underline" },
       "text-decoration-color": { "value": "unset" },
-      "text-decoration-thickness": { "value": 0 },
+      "text-decoration-thickness": { "value": "1.5px" },
       "text-underline-offset": { "value": "{almere.size.4xs}" },
       "active": {
         "color": {}
@@ -17,7 +17,7 @@
       "hover": {
         "color": { "value": "{almere.color.black.0}" },
         "text-decoration": { "value": "underline" },
-        "text-decoration-thickness": { "value": "{almere.size.4xs}" }
+        "text-decoration-thickness": { "value": "1.5px" }
       },
       "placeholder": {
         "color": {}

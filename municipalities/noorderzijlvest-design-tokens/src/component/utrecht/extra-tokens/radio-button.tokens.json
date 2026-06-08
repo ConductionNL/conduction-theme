@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "min-block-size": { "value": "16px" },
+      "min-inline-size": { "value": "16px" },
+      "checked-disabled": {
+        "border-color": { "value": "{noorderzijlvest.color.grey.82}" },
+        "border-width": { "value": "{noorderzijlvest.size.4xs}" },
+        "background-color": { "value": "{noorderzijlvest.color.white.100}" },
+        "color": { "value": "{noorderzijlvest.color.grey.82}" }
+      }
+    }
+  }
+}

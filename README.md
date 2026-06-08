@@ -6,6 +6,15 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.69: Fixed issue in Conduction, Beek, Dimpact and Oude Ijsselstreek theme where tokens were not reachable because of a line with {} in them.
+  - 1.1.68: Fixed WCAG compliance issue on select dropdown hover for Almere and Conduction
+  - 1.1.67: Updated footer underline-offset in Noorderzijlvest theme.
+  - 1.1.66: Fixed Conduction and Almere theme having white focus color.
+  - 1.1.65: Added Noorderzijlvest theme.
+  - 1.1.64: Updated Almere link.
+  - 1.1.63: Updated logo Hof van Twente.
+  - 1.1.62: Added Vaals theme.
+  - 1.1.61: Updated footer tokens in Almere theme.
   - 1.1.60: Updated Almere theme.
     - Updated font size tokens.
     - Updated select tokens.
