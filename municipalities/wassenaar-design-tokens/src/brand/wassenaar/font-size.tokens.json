@@ -6,11 +6,11 @@
       "2xs": { "value": "0.8125rem", "comment": "13px" },
       "xs": { "value": "0.9375rem", "comment": "15px" },
       "sm": { "value": "1rem", "comment": "16px" },
-      "md": { "value": "1.1rem", "comment": "body/paragraph (website)" },
-      "lg": { "value": "1.375rem", "comment": "22px - heading-4 (website)" },
-      "xl": { "value": "1.5rem", "comment": "24px - heading-3 (adjusted from website 22px for scale)" },
-      "2xl": { "value": "1.75rem", "comment": "28px - heading-2 (adjusted from website 22px for scale)" },
-      "3xl": { "value": "2.25rem", "comment": "heading-1 (website)" },
+      "md": { "value": "1.1rem", "comment": "~19.7px at 1.12rem root - body/paragraph (website)" },
+      "lg": { "value": "1.228rem", "comment": "22px at 1.12rem root (~17.92px base) - heading-4, anchors to the website heading size (22px)" },
+      "xl": { "value": "1.5rem", "comment": "~26.9px at 1.12rem root - heading-3 (scaled up from website's 22px to keep a WCAG ladder)" },
+      "2xl": { "value": "1.75rem", "comment": "~31.4px at 1.12rem root - heading-2 (scaled up from website's 22px to keep a WCAG ladder)" },
+      "3xl": { "value": "2.25rem", "comment": "~40.3px at 1.12rem root - heading-1 (website)" },
       "4xl": { "value": "2.75rem", "comment": "44px" },
       "5xl": { "value": "3.625rem", "comment": "58px" }
     }
