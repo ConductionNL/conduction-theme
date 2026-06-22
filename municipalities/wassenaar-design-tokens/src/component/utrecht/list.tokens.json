@@ -1,0 +1,31 @@
+{
+  "utrecht": {
+    "ordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{wassenaar.size.sm}" },
+      "margin-block-end": { "value": "{wassenaar.size.sm}" },
+      "padding-inline-start": { "value": "{wassenaar.size.xl}" },
+      "item": {
+        "margin-block-start": { "value": "{wassenaar.size.2xs}" },
+        "margin-block-end": { "value": "{wassenaar.size.2xs}" },
+        "padding-inline-start": { "value": "1ch" }
+      }
+    },
+    "unordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{wassenaar.size.md}" },
+      "margin-block-end": { "value": 0 },
+      "padding-inline-start": { "value": "2ch" },
+      "item": {
+        "margin-block-start": { "value": "{wassenaar.size.xs}" },
+        "margin-block-end": { "value": "{wassenaar.size.xs}" },
+        "padding-inline-start": { "value": "1ch" }
+      },
+      "marker": {
+        "color": { "value": "{wassenaar.color.primary}" }
+      }
+    }
+  }
+}

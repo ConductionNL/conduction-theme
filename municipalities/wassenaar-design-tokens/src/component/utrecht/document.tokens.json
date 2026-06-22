@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{wassenaar.color.white.98}" },
+      "color": { "value": "{wassenaar.color.black.0}" },
+      "font-family": { "value": "{wassenaar.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{wassenaar.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}
