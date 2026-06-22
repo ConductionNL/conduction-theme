@@ -27,12 +27,20 @@
         "24": {
           "value": "#55601c",
           "comment": "Base/Struik (primary)"
+        },
+        "24-90t": {
+          "value": "#55601ce6",
+          "comment": "Base/Struik (primary) with 90% transparancy"
         }
       },
       "zee": {
         "28": {
           "value": "#394a58",
           "comment": "Base/Zee"
+        },
+        "28-90t": {
+          "value": "#394a58e6",
+          "comment": "Base/Zee with 90% transparancy"
         }
       },
       "duin": {
