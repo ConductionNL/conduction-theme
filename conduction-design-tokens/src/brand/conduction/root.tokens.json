@@ -1,0 +1,10 @@
+{
+  "conduction": {
+    "root": {
+      "font-size": {
+        "value": "1rem",
+        "comment": "Body/root font-size = the rem base for the document. Framework-level token (kept under the conduction key so every theme emits the same --conduction-root-font-size variable). Use a RELATIVE unit (rem or %) only, never px, so it honours the user's own browser font-size / zoom (accessibility). Consuming apps apply font-size: var(--conduction-root-font-size, 1rem) on html/body. 1rem = the user's base, 16px by default."
+      }
+    }
+  }
+}

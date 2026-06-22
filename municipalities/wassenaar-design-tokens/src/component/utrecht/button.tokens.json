@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "button": {
-      "background-color": { "value": "{wassenaar.color.zee.28}" },
-      "border-color": { "value": "{wassenaar.color.zee.28}" },
+      "background-color": { "value": "{wassenaar.color.primary}" },
+      "border-color": { "value": "{wassenaar.color.primary}" },
       "border-radius": { "value": "4px" },
       "border-width": { "value": "{wassenaar.size.3xs}" },
       "color": { "value": "{wassenaar.color.white.100}" },
@@ -40,8 +40,8 @@
         "scale": {}
       },
       "hover": {
-        "background-color": { "value": "{wassenaar.color.zee.28}" },
-        "border-color": { "value": "{wassenaar.color.zee.28}" },
+        "background-color": { "value": "{wassenaar.color.primary}" },
+        "border-color": { "value": "{wassenaar.color.primary}" },
         "color": { "value": "{wassenaar.color.white.100}" },
         "scale": {}
       },
@@ -84,10 +84,10 @@
         }
       },
       "secondary-action": {
-        "background-color": { "value": "{wassenaar.color.white.100}" },
-        "border-color": { "value": "{wassenaar.color.primary}" },
+        "background-color": { "value": "{wassenaar.color.zee.28}" },
+        "border-color": { "value": "{wassenaar.color.zee.28}" },
         "border-width": { "value": "{wassenaar.size.3xs}" },
-        "color": { "value": "{wassenaar.color.primary}" },
+        "color": { "value": "{wassenaar.color.white.100}" },
         "font-weight": { "value": "{wassenaar.typography.font-weight.normal}" },
         "active": {
           "background-color": {},
@@ -100,9 +100,9 @@
           "color": { "value": "{wassenaar.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{wassenaar.color.white.100}" },
-          "border-color": { "value": "{wassenaar.color.primary-hover}" },
-          "color": { "value": "{wassenaar.color.primary-hover}" }
+          "background-color": { "value": "{wassenaar.color.zee.28}" },
+          "border-color": { "value": "{wassenaar.color.zee.28}" },
+          "color": { "value": "{wassenaar.color.white.100}" }
         },
         "focus": {
           "background-color": {},
