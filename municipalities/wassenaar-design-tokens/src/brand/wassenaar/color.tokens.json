@@ -63,6 +63,10 @@
         "31": {
           "value": "#4f4f4f"
         },
+        "33": {
+          "value": "#555555",
+          "comment": "Table cell border & text / content color (website --contentColor)"
+        },
         "46": {
           "value": "#767676"
         },
