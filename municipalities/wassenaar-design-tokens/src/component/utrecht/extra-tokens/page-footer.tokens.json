@@ -28,15 +28,15 @@
         "font-size": {}
       },
       "link": {
-        "color": {},
-        "text-decoration": { "value": "none" },
+        "color": { "value": "{wassenaar.color.grey.18}" },
+        "text-decoration": { "value": "underline" },
         "text-decoration-color": { "value": "unset" },
-        "text-decoration-thickness": { "value": "{wassenaar.size.4xs}" },
-        "text-underline-offset": { "value": "{wassenaar.size.3xs}" },
+        "text-decoration-thickness": { "value": "auto" },
+        "text-underline-offset": { "value": "auto" },
         "hover": {
           "color": { "value": "{wassenaar.color.black.30}" },
           "text-decoration": { "value": "underline" },
-          "text-decoration-thickness": { "value": "{wassenaar.size.4xs}" },
+          "text-decoration-thickness": { "value": "auto" },
           "font-weight": {}
         }
       }
