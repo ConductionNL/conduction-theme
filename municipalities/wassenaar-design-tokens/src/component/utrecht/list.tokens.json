@@ -15,12 +15,13 @@
     "unordered-list": {
       "font-size": { "value": "{utrecht.document.font-size}" },
       "line-height": {},
-      "margin-block-start": { "value": "{wassenaar.size.md}" },
-      "margin-block-end": { "value": 0 },
-      "padding-inline-start": { "value": "2ch" },
+      "margin-block-start": { "value": "0.5rem" },
+      "margin-block-end": { "value": "2rem" },
+      "margin-inline-start": { "value": "1.8rem" },
+      "padding-inline-start": { "value": "1.8rem" },
       "item": {
-        "margin-block-start": { "value": "{wassenaar.size.xs}" },
-        "margin-block-end": { "value": "{wassenaar.size.xs}" },
+        "margin-block-start": { "value": 0 },
+        "margin-block-end": { "value": 0 },
         "padding-inline-start": { "value": "1ch" }
       },
       "marker": {
