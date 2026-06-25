@@ -13,7 +13,7 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{wassenaar.color.zee.28}" },
+        "color": { "value": "{wassenaar.color.primary}" },
         "text-decoration": { "value": "none" },
         "text-underline-offset": { "value": "5px" },
         "hover": {
