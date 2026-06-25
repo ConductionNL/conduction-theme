@@ -7,15 +7,12 @@
       "border-width": { "value": "{wassenaar.size.4xs}" },
       "color": { "value": "{wassenaar.color.grey.29}" },
       "font-family": { "value": "{wassenaar.typography.sans-serif.font-family}" },
-      "font-size": {
-        "value": "0.938rem",
-        "comment": "15px"
-      },
+      "font-size": { "value": "100%" },
       "font-weight": { "value": "{wassenaar.typography.font-weight.normal}" },
       "min-inline-height": {},
       "max-inline-size": {},
-      "padding-block-end": { "value": "{wassenaar.size.xs}" },
-      "padding-block-start": { "value": "{wassenaar.size.xs}" },
+      "padding-block-end": { "value": "15px" },
+      "padding-block-start": { "value": "15px" },
       "padding-inline-end": { "value": "{wassenaar.size.sm}" },
       "padding-inline-start": { "value": "{wassenaar.size.sm}" },
       "disabled": {
