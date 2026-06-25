@@ -5,7 +5,7 @@
       "text-decoration": { "value": "underline" },
       "text-decoration-color": { "value": "unset" },
       "text-decoration-thickness": { "value": "auto" },
-      "text-underline-offset": { "value": "{wassenaar.size.3xs}" },
+      "text-underline-offset": { "value": "auto" },
       "active": {
         "color": {}
       },
