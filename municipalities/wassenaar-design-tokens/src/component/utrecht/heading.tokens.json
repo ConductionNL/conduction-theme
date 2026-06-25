@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{wassenaar.color.primary}" },
+      "font-family": { "value": "{wassenaar.typography.roboto.font-family}" },
+      "font-size": { "value": "{wassenaar.font-size.3xl}" },
+      "font-weight": { "value": "{wassenaar.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{wassenaar.size.2xl}" },
+      "margin-block-start": { "value": "{wassenaar.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{wassenaar.color.primary}" },
+      "font-family": { "value": "{wassenaar.typography.roboto.font-family}" },
+      "font-size": { "value": "{wassenaar.font-size.2xl}" },
+      "font-weight": { "value": "{wassenaar.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{wassenaar.size.2xl}" },
+      "margin-block-start": { "value": "{wassenaar.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{wassenaar.color.primary}" },
+      "font-family": { "value": "{wassenaar.typography.roboto.font-family}" },
+      "font-size": { "value": "{wassenaar.font-size.xl}" },
+      "font-weight": { "value": "{wassenaar.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{wassenaar.size.xl}" },
+      "margin-block-start": { "value": "{wassenaar.size.md}" }
+    },
+    "heading-4": {
+      "color": { "value": "{wassenaar.color.primary}" },
+      "font-family": { "value": "{wassenaar.typography.roboto.font-family}" },
+      "font-size": { "value": "{wassenaar.font-size.lg}" },
+      "font-weight": { "value": "{wassenaar.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{wassenaar.size.lg}" },
+      "margin-block-start": { "value": "{wassenaar.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{wassenaar.color.primary}" },
+      "font-family": { "value": "{wassenaar.typography.roboto.font-family}" },
+      "font-size": { "value": "{wassenaar.font-size.md}" },
+      "font-weight": { "value": "{wassenaar.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{wassenaar.size.lg}" },
+      "margin-block-start": { "value": "{wassenaar.size.md}" }
+    }
+  }
+}

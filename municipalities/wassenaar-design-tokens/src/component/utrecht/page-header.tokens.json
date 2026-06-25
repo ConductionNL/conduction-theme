@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{wassenaar.color.white.100}" },
+      "color": { "value": "{wassenaar.color.primary}" },
+      "padding-block-start": { "value": "{wassenaar.size.sm}" },
+      "padding-block-end": { "value": "{wassenaar.size.sm}" }
+    }
+  }
+}

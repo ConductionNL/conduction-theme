@@ -1,0 +1,34 @@
+{
+  "utrecht": {
+    "form-input": {
+      "border-bottom-width": {},
+      "border-color": { "value": "{wassenaar.color.grey.48}" },
+      "border-radius": { "value": "3px" },
+      "border-width": { "value": "{wassenaar.size.4xs}" },
+      "color": { "value": "{wassenaar.color.grey.29}" },
+      "font-family": { "value": "{wassenaar.typography.sans-serif.font-family}" },
+      "font-size": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },
+      "min-inline-height": {},
+      "max-inline-size": {},
+      "padding-block-end": { "value": "{wassenaar.size.xs}" },
+      "padding-block-start": { "value": "{wassenaar.size.xs}" },
+      "padding-inline-end": { "value": "{wassenaar.size.sm}" },
+      "padding-inline-start": { "value": "{wassenaar.size.sm}" },
+      "disabled": {
+        "border-color": { "value": "{wassenaar.color.grey.87}" },
+        "color": {}
+      },
+      "invalid": {
+        "border-color": { "value": "{wassenaar.color.error}" },
+        "border-width": { "value": "{wassenaar.size.4xs}" }
+      },
+      "read-only": {
+        "border-color": { "value": "{wassenaar.color.grey.48}" },
+        "color": {}
+      }
+    }
+  }
+}

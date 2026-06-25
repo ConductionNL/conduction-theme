@@ -1,0 +1,48 @@
+{
+  "utrecht": {
+    "ordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{wassenaar.size.sm}" },
+      "margin-block-end": { "value": "{wassenaar.size.sm}" },
+      "padding-inline-start": { "value": "{wassenaar.size.xl}" },
+      "item": {
+        "margin-block-start": { "value": "{wassenaar.size.2xs}" },
+        "margin-block-end": { "value": "{wassenaar.size.2xs}" },
+        "padding-inline-start": { "value": "1ch" }
+      }
+    },
+    "unordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "0.5rem" },
+      "margin-block-end": { "value": "2rem" },
+      "margin-inline-start": { "value": "1.8rem" },
+      "padding-inline-start": { "value": "1.8rem" },
+      "item": {
+        "margin-block-start": { "value": 0 },
+        "margin-block-end": { "value": 0 },
+        "padding-inline-start": { "value": "1ch" }
+      },
+      "marker": {
+        "color": { "value": "{wassenaar.color.zee.28}" },
+        "content": {
+          "value": "'\\f105'",
+          "comment": "Marker glyph for unordered-list items: FontAwesome angle-right (U+F105), matching the municipality website. Requires the FontAwesome free webfont. Consumed by app CSS that sets the li ::marker content from --utrecht-unordered-list-marker-content. When this token is absent the app CSS leaves the default marker untouched."
+        },
+        "font-family": {
+          "value": "'Font Awesome 6 Free'",
+          "comment": "Marker font so the f105 glyph renders. Requires the FontAwesome free webfont loaded by the consuming app."
+        },
+        "font-weight": {
+          "value": "900",
+          "comment": "FontAwesome free solid style weight."
+        },
+        "font-size": {
+          "value": "1em",
+          "comment": "Marker glyph size relative to the list item text."
+        }
+      }
+    }
+  }
+}
