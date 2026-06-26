@@ -5,10 +5,10 @@
       "color": { "value": "{wassenaar.color.black.0}" },
       "min-block-size": { "value": "20px" },
       "min-inline-size": { "value": "20px" },
-      "padding-block-start": { "value": "22px" },
-      "padding-block-end": { "value": "22px" },
-      "padding-inline-start": { "value": "20px" },
-      "padding-inline-end": { "value": "20px" },
+      "padding-block-start": { "value": "1rem" },
+      "padding-block-end": { "value": "1rem" },
+      "padding-inline-start": { "value": "1rem" },
+      "padding-inline-end": { "value": "1rem" },
       "text-decoration": { "value": "none" },
       "z-index": { "value": "100000" }
     }
