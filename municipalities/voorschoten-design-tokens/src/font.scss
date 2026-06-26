@@ -1,0 +1,11 @@
+/* Place any @font-face definitions here */
+
+/* Roboto - used by voorschoten.nl for body and headings.
+   Variable font (latin subset) covering weights 100-900. */
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("../src/font/Roboto-latin.woff2") format("woff2");
+}

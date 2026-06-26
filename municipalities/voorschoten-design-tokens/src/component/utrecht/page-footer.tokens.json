@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{voorschoten.color.grey.19}" },
+      "background-image": { "value": "unset" },
+      "color": { "value": "{voorschoten.color.white.100}" },
+      "padding-inline-end": { "value": "{voorschoten.size.sm}" },
+      "padding-inline-start": { "value": "{voorschoten.size.sm}" },
+      "padding-block-end": { "value": "{voorschoten.size.2xl}" },
+      "padding-block-start": { "value": "{voorschoten.size.2xl}" }
+    }
+  }
+}

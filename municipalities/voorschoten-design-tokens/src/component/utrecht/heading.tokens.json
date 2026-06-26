@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {},
+      "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
+      "font-size": { "value": "{voorschoten.font-size.3xl}" },
+      "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{voorschoten.size.2xl}" },
+      "margin-block-start": { "value": "{voorschoten.size.md}" }
+    },
+    "heading-2": {
+      "color": {},
+      "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
+      "font-size": { "value": "{voorschoten.font-size.2xl}" },
+      "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{voorschoten.size.2xl}" },
+      "margin-block-start": { "value": "{voorschoten.size.md}" }
+    },
+    "heading-3": {
+      "color": {},
+      "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
+      "font-size": { "value": "{voorschoten.font-size.xl}" },
+      "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{voorschoten.size.xl}" },
+      "margin-block-start": { "value": "{voorschoten.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
+      "font-size": { "value": "{voorschoten.font-size.lg}" },
+      "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{voorschoten.size.lg}" },
+      "margin-block-start": { "value": "{voorschoten.size.md}" }
+    },
+    "heading-5": {
+      "color": {},
+      "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
+      "font-size": { "value": "{voorschoten.font-size.md}" },
+      "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{voorschoten.size.lg}" },
+      "margin-block-start": { "value": "{voorschoten.size.md}" }
+    }
+  }
+}
