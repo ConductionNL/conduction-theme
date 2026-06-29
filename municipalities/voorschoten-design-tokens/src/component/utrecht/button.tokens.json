@@ -34,9 +34,9 @@
         "color": { "value": "{voorschoten.color.grey.50}" }
       },
       "focus": {
-        "background-color": {},
-        "border-color": {},
-        "color": {},
+        "background-color": { "value": "{utrecht.focus.background-color}" },
+        "border-color": { "value": "transparent" },
+        "color": { "value": "{utrecht.focus.color}" },
         "scale": {}
       },
       "hover": {
@@ -73,9 +73,9 @@
           "scale": {}
         },
         "focus": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
+          "background-color": { "value": "{utrecht.focus.background-color}" },
+          "border-color": { "value": "transparent" },
+          "color": { "value": "{utrecht.focus.color}" }
         },
         "pressed": {
           "background-color": {},
@@ -105,9 +105,9 @@
           "color": { "value": "{voorschoten.color.primary-hover}" }
         },
         "focus": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
+          "background-color": { "value": "{utrecht.focus.background-color}" },
+          "border-color": { "value": "transparent" },
+          "color": { "value": "{utrecht.focus.color}" }
         },
         "pressed": {
           "background-color": {},
@@ -137,9 +137,9 @@
           "color": {}
         },
         "focus": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
+          "background-color": { "value": "{utrecht.focus.background-color}" },
+          "border-color": { "value": "transparent" },
+          "color": { "value": "{utrecht.focus.color}" }
         },
         "pressed": {
           "background-color": {},

@@ -4,9 +4,10 @@
       "font-weight": { "value": "{voorschoten.typography.font-weight.bold}" },
       "font-size": { "value": "{voorschoten.font-size.md}" },
       "font-family": {},
-      "outline-style": { "value": "none" },
-      "outline-color": {},
-      "outline-width": {},
+      "outline-style": { "value": "{utrecht.focus.outline-style}" },
+      "outline-color": { "value": "{utrecht.focus.outline-color}" },
+      "outline-width": { "value": "{utrecht.focus.outline-width}" },
+      "outline-offset": { "value": "2px" },
       "border-radius": { "value": "3px" },
       "focus": {
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
