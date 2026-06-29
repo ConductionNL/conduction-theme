@@ -4,19 +4,20 @@
       "border-collapse": { "value": "collapse" },
       "background-color": { "value": "{voorschoten.color.white.100}" },
       "header": {
-        "border-block-end-color": { "value": "{voorschoten.color.grey.82}" },
+        "border-block-end-color": { "value": "{voorschoten.color.grey.33}" },
         "border-block-end-width": { "value": "{voorschoten.size.4xs}" },
         "font-family": {}
       },
       "header-cell": {
-        "border-inline-end-width": {},
-        "border-inline-end-style": {},
-        "border-inline-end-color": {}
+        "border-inline-end-width": { "value": "{voorschoten.size.4xs}" },
+        "border-inline-end-style": { "value": "solid" },
+        "border-inline-end-color": { "value": "{voorschoten.color.grey.33}" }
       },
       "cell": {
-        "border-inline-end-width": {},
-        "border-inline-end-style": {},
-        "border-inline-end-color": {}
+        "min-inline-size": { "value": "100px" },
+        "border-inline-end-width": { "value": "{voorschoten.size.4xs}" },
+        "border-inline-end-style": { "value": "solid" },
+        "border-inline-end-color": { "value": "{voorschoten.color.grey.33}" }
       },
       "row": {
         "hover": {
