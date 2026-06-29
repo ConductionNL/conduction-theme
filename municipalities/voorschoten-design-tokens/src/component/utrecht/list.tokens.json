@@ -25,10 +25,22 @@
       },
       "marker": {
         "color": { "value": "{voorschoten.color.primary}" },
-        "content": {},
-        "font-family": {},
-        "font-weight": {},
-        "font-size": {}
+        "content": {
+          "value": "'\\f105'",
+          "comment": "Marker glyph for unordered-list items: FontAwesome angle-right (U+F105), matching the municipality website (bulletIcon). Requires the FontAwesome free webfont. Consumed by app CSS that sets the li ::marker content from --utrecht-unordered-list-marker-content. When this token is absent the app CSS leaves the default marker untouched."
+        },
+        "font-family": {
+          "value": "'Font Awesome 6 Free'",
+          "comment": "Marker font so the f105 glyph renders. Requires the FontAwesome free webfont loaded by the consuming app."
+        },
+        "font-weight": {
+          "value": "900",
+          "comment": "FontAwesome free solid style weight."
+        },
+        "font-size": {
+          "value": "1em",
+          "comment": "Marker glyph size relative to the list item text."
+        }
       }
     }
   }
