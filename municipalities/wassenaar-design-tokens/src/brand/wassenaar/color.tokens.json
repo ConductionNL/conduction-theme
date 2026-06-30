@@ -54,6 +54,10 @@
           "value": "#2e2e2e",
           "comment": "Page footer text (website)"
         },
+        "25": {
+          "value": "#404040",
+          "comment": "Wassenaar card date / meta text color"
+        },
         "27": {
           "value": "#444444"
         },

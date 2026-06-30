@@ -23,8 +23,8 @@
         }
       },
       "date": {
-        "color": { "value": "{wassenaar.color.black.0}" },
-        "font-size": { "value": "{wassenaar.font-size.sm}" },
+        "color": { "value": "{wassenaar.color.grey.25}" },
+        "font-size": { "value": "0.875rem" },
         "font-weight": { "value": "{wassenaar.typography.font-weight.light}" },
         "font-style": {},
         "margin-block-end": { "value": "{wassenaar.size.xs}" }

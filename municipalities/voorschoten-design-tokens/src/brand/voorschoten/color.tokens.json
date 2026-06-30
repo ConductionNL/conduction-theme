@@ -63,6 +63,10 @@
           "value": "#555555",
           "comment": "Voorschoten document/content text color (website --contentColor)"
         },
+        "38": {
+          "value": "#616161",
+          "comment": "Voorschoten card date / meta text color"
+        },
         "44": {
           "value": "#6f6f6f",
           "comment": "Voorschoten input/search text & placeholder color (website --inputColor / --searchBoxColor)"

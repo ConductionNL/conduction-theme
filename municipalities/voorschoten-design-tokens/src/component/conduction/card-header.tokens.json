@@ -13,18 +13,18 @@
         "border-bottom-color": {}
       },
       "title": {
-        "color": { "value": "{voorschoten.color.black.0}" },
+        "color": { "value": "{voorschoten.color.primary}" },
         "text-decoration": { "value": "none" },
         "text-underline-offset": { "value": "5px" },
         "hover": {
-          "color": {},
+          "color": { "value": "{voorschoten.color.primary}" },
           "text-decoration": {},
           "text-underline-offset": {}
         }
       },
       "date": {
-        "color": { "value": "{voorschoten.color.black.0}" },
-        "font-size": { "value": "{voorschoten.font-size.sm}" },
+        "color": { "value": "{voorschoten.color.grey.38}" },
+        "font-size": { "value": "{voorschoten.font-size.xs}" },
         "font-weight": { "value": "{voorschoten.typography.font-weight.light}" },
         "font-style": {},
         "margin-block-end": { "value": "{voorschoten.size.xs}" }
