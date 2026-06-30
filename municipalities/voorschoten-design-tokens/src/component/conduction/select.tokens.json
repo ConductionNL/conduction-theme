@@ -1,8 +1,8 @@
 {
   "conduction": {
     "input-select": {
-      "background-color": { "value": "{voorschoten.color.white.100}" },
-      "border": { "value": "{voorschoten.size.4xs} solid {voorschoten.color.grey.48}" },
+      "background-color": { "value": "{utrecht.form-input.background-color}" },
+      "border": { "value": "{utrecht.form-input.border-width} solid {utrecht.form-input.border-color}" },
       "border-focus": { "value": "unset" },
       "border-radius": { "value": "{utrecht.form-input.border-radius}" },
       "invalid-border-color": { "value": "{voorschoten.color.error}" },
@@ -16,7 +16,7 @@
         "color": {},
         "hover": {
           "font-family": { "value": "{voorschoten.typography.sans-serif.font-family}" },
-          "background-color": { "value": "#4D94FF" },
+          "background-color": { "value": "{voorschoten.color.blue.63}" },
           "color": {}
         },
         "selected": {
@@ -24,7 +24,7 @@
           "color": {}
         },
         "focus": {
-          "background-color": { "value": "#4D94FF" },
+          "background-color": { "value": "{voorschoten.color.blue.63}" },
           "color": {}
         }
       },
@@ -32,7 +32,9 @@
         "color": {
           "value": "{utrecht.form-input.placeholder.color}"
         },
-        "font-family": { "value": "{voorschoten.typography.sans-serif.font-family}" }
+        "font-family": { "value": "{utrecht.form-input.font-family}" },
+        "font-size": { "value": "{utrecht.form-input.font-size}" },
+        "font-weight": { "value": "{utrecht.form-input.font-weight}" }
       }
     }
   }
