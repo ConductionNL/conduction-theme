@@ -6,7 +6,7 @@
       "font-family": { "value": "{voorschoten.typography.sans-serif.font-family}" },
       "font-size": { "value": "{voorschoten.font-size.md}" },
       "font-weight": {},
-      "line-height": {}
+      "line-height": { "value": "1.5" }
     }
   }
 }

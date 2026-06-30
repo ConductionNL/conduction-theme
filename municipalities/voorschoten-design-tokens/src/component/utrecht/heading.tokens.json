@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "heading-1": {
-      "color": {},
+      "color": { "value": "{voorschoten.color.black.0}" },
       "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
       "font-size": { "value": "{voorschoten.font-size.3xl}" },
       "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
@@ -10,7 +10,7 @@
       "margin-block-start": { "value": "{voorschoten.size.md}" }
     },
     "heading-2": {
-      "color": {},
+      "color": { "value": "{voorschoten.color.black.0}" },
       "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
       "font-size": { "value": "{voorschoten.font-size.2xl}" },
       "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
@@ -19,7 +19,7 @@
       "margin-block-start": { "value": "{voorschoten.size.md}" }
     },
     "heading-3": {
-      "color": {},
+      "color": { "value": "{voorschoten.color.black.0}" },
       "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
       "font-size": { "value": "{voorschoten.font-size.xl}" },
       "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
@@ -28,7 +28,7 @@
       "margin-block-start": { "value": "{voorschoten.size.md}" }
     },
     "heading-4": {
-      "color": {},
+      "color": { "value": "{voorschoten.color.black.0}" },
       "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
       "font-size": { "value": "{voorschoten.font-size.lg}" },
       "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
@@ -37,7 +37,7 @@
       "margin-block-start": { "value": "{voorschoten.size.md}" }
     },
     "heading-5": {
-      "color": {},
+      "color": { "value": "{voorschoten.color.black.0}" },
       "font-family": { "value": "{voorschoten.typography.roboto.font-family}" },
       "font-size": { "value": "{voorschoten.font-size.md}" },
       "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },

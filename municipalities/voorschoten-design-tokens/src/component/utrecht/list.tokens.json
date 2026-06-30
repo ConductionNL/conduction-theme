@@ -19,8 +19,8 @@
       "margin-block-end": { "value": 0 },
       "padding-inline-start": { "value": "2ch" },
       "item": {
-        "margin-block-start": { "value": "{voorschoten.size.xs}" },
-        "margin-block-end": { "value": "{voorschoten.size.xs}" },
+        "margin-block-start": {},
+        "margin-block-end": {},
         "padding-inline-start": { "value": "1ch" }
       },
       "marker": {

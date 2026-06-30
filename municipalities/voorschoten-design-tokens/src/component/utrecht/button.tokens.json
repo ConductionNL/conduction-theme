@@ -20,9 +20,9 @@
       "padding-inline-end": { "value": "{voorschoten.size.sm}" },
       "text-transform": {},
       "active": {
-        "background-color": {},
-        "border-color": {},
-        "color": {}
+        "background-color": { "value": "{voorschoten.color.primary-hover}" },
+        "border-color": { "value": "{voorschoten.color.primary-hover}" },
+        "color": { "value": "{voorschoten.color.white.100}" }
       },
       "icon": {
         "gap": { "value": "{voorschoten.size.xs}" },
@@ -57,9 +57,9 @@
         "color": { "value": "{voorschoten.color.white.100}" },
         "font-weight": { "value": "inherit" },
         "active": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
+          "background-color": { "value": "{voorschoten.color.primary-hover}" },
+          "border-color": { "value": "{voorschoten.color.primary-hover}" },
+          "color": { "value": "{voorschoten.color.white.100}" }
         },
         "disabled": {
           "background-color": { "value": "{voorschoten.color.grey.82}" },
@@ -67,8 +67,8 @@
           "color": { "value": "{voorschoten.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{voorschoten.color.primary}" },
-          "border-color": { "value": "{voorschoten.color.primary}" },
+          "background-color": { "value": "{voorschoten.color.primary-hover}" },
+          "border-color": { "value": "{voorschoten.color.primary-hover}" },
           "color": { "value": "{voorschoten.color.white.100}" },
           "scale": {}
         },
@@ -90,9 +90,9 @@
         "color": { "value": "{voorschoten.color.primary}" },
         "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
         "active": {
-          "background-color": {},
-          "border-color": {},
-          "color": {}
+          "background-color": { "value": "{voorschoten.color.white.100}" },
+          "border-color": { "value": "{voorschoten.color.primary-hover}" },
+          "color": { "value": "{voorschoten.color.primary-hover}" }
         },
         "disabled": {
           "background-color": { "value": "{voorschoten.color.grey.82}" },
