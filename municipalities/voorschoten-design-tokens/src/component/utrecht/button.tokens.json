@@ -1,0 +1,152 @@
+{
+  "utrecht": {
+    "button": {
+      "background-color": { "value": "{voorschoten.color.primary}" },
+      "border-color": { "value": "{voorschoten.color.primary}" },
+      "border-radius": { "value": "0.25rem" },
+      "border-width": { "value": "{voorschoten.size.3xs}" },
+      "color": { "value": "{voorschoten.color.white.100}" },
+      "font-family": { "value": "{voorschoten.typography.sans-serif.font-family}" },
+      "font-size": { "value": "inherit" },
+      "font-weight": { "value": "inherit" },
+      "inline-size": {},
+      "letter-spacing": {},
+      "line-height": {},
+      "min-block-size": {},
+      "min-inline-size": {},
+      "padding-block-start": { "value": "{voorschoten.size.2xs}" },
+      "padding-block-end": { "value": "{voorschoten.size.2xs}" },
+      "padding-inline-start": { "value": "{voorschoten.size.sm}" },
+      "padding-inline-end": { "value": "{voorschoten.size.sm}" },
+      "text-transform": {},
+      "active": {
+        "background-color": { "value": "{voorschoten.color.primary-hover}" },
+        "border-color": { "value": "{voorschoten.color.primary-hover}" },
+        "color": { "value": "{voorschoten.color.white.100}" }
+      },
+      "icon": {
+        "gap": { "value": "{voorschoten.size.xs}" },
+        "size": {}
+      },
+      "disabled": {
+        "background-color": { "value": "{voorschoten.color.grey.82}" },
+        "border-color": { "value": "{voorschoten.color.grey.82}" },
+        "color": { "value": "{voorschoten.color.grey.50}" }
+      },
+      "focus": {
+        "background-color": { "value": "{utrecht.focus.background-color}" },
+        "border-color": { "value": "transparent" },
+        "color": { "value": "{utrecht.focus.color}" },
+        "scale": {}
+      },
+      "hover": {
+        "background-color": { "value": "{voorschoten.color.primary-hover}" },
+        "border-color": { "value": "{voorschoten.color.primary-hover}" },
+        "color": { "value": "{voorschoten.color.white.100}" },
+        "scale": {}
+      },
+      "pressed": {
+        "background-color": {},
+        "border-color": {},
+        "color": {}
+      },
+      "primary-action": {
+        "background-color": { "value": "{voorschoten.color.primary}" },
+        "border-color": { "value": "{voorschoten.color.primary}" },
+        "border-width": { "value": "{voorschoten.size.3xs}" },
+        "color": { "value": "{voorschoten.color.white.100}" },
+        "font-weight": { "value": "inherit" },
+        "active": {
+          "background-color": { "value": "{voorschoten.color.primary-hover}" },
+          "border-color": { "value": "{voorschoten.color.primary-hover}" },
+          "color": { "value": "{voorschoten.color.white.100}" }
+        },
+        "disabled": {
+          "background-color": { "value": "{voorschoten.color.grey.82}" },
+          "border-color": { "value": "{voorschoten.color.grey.82}" },
+          "color": { "value": "{voorschoten.color.grey.50}" }
+        },
+        "hover": {
+          "background-color": { "value": "{voorschoten.color.primary-hover}" },
+          "border-color": { "value": "{voorschoten.color.primary-hover}" },
+          "color": { "value": "{voorschoten.color.white.100}" },
+          "scale": {}
+        },
+        "focus": {
+          "background-color": { "value": "{utrecht.focus.background-color}" },
+          "border-color": { "value": "transparent" },
+          "color": { "value": "{utrecht.focus.color}" }
+        },
+        "pressed": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        }
+      },
+      "secondary-action": {
+        "background-color": { "value": "{voorschoten.color.white.100}" },
+        "border-color": { "value": "{voorschoten.color.primary}" },
+        "border-width": { "value": "{voorschoten.size.3xs}" },
+        "color": { "value": "{voorschoten.color.primary}" },
+        "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
+        "active": {
+          "background-color": { "value": "{voorschoten.color.white.100}" },
+          "border-color": { "value": "{voorschoten.color.primary-hover}" },
+          "color": { "value": "{voorschoten.color.primary-hover}" }
+        },
+        "disabled": {
+          "background-color": { "value": "{voorschoten.color.grey.82}" },
+          "border-color": { "value": "{voorschoten.color.grey.82}" },
+          "color": { "value": "{voorschoten.color.grey.50}" }
+        },
+        "hover": {
+          "background-color": { "value": "{voorschoten.color.white.100}" },
+          "border-color": { "value": "{voorschoten.color.primary-hover}" },
+          "color": { "value": "{voorschoten.color.primary-hover}" }
+        },
+        "focus": {
+          "background-color": { "value": "{utrecht.focus.background-color}" },
+          "border-color": { "value": "transparent" },
+          "color": { "value": "{utrecht.focus.color}" }
+        },
+        "pressed": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        }
+      },
+      "subtle": {
+        "background-color": {},
+        "border-color": {},
+        "border-width": {},
+        "color": {},
+        "font-weight": {},
+        "active": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "disabled": {
+          "background-color": { "value": "{voorschoten.color.grey.82}" },
+          "border-color": { "value": "{voorschoten.color.grey.82}" },
+          "color": { "value": "{voorschoten.color.grey.50}" }
+        },
+        "hover": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "focus": {
+          "background-color": { "value": "{utrecht.focus.background-color}" },
+          "border-color": { "value": "transparent" },
+          "color": { "value": "{utrecht.focus.color}" }
+        },
+        "pressed": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        }
+      }
+    }
+  }
+}

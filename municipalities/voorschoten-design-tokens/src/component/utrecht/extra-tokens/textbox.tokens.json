@@ -1,0 +1,26 @@
+{
+  "utrecht": {
+    "textbox": {
+      "background-color": { "value": "{voorschoten.color.white.100}" },
+      "line-height": {},
+      "placeholder": {
+        "color": { "value": "{voorschoten.color.grey.44}" }
+      },
+      "disabled": {
+        "background-color": { "value": "{voorschoten.color.grey.90}" }
+      },
+      "focus": {
+        "background-color": { "value": "{utrecht.focus.background-color}" },
+        "border-color": { "value": "transparent" },
+        "color": { "value": "{utrecht.focus.color}" }
+      },
+      "invalid": {
+        "background-color": {},
+        "color": {}
+      },
+      "read-only": {
+        "background-color": { "value": "{voorschoten.color.grey.95}" }
+      }
+    }
+  }
+}

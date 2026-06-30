@@ -42,6 +42,7 @@
     "build:stichtse-vecht": "cd ./municipalities/stichtse-vecht-design-tokens && npm run build",
     "build:tubbergen": "cd ./municipalities/tubbergen-design-tokens && npm run build",
     "build:vaals": "cd ./municipalities/vaals-design-tokens && npm run build",
+    "build:voorschoten": "cd ./municipalities/voorschoten-design-tokens && npm run build",
     "build:wassenaar": "cd ./municipalities/wassenaar-design-tokens && npm run build",
     "build:xxllnc": "cd ./municipalities/xxllnc-design-tokens && npm run build",
     "build:zuiddrecht": "cd ./municipalities/zuiddrecht-design-tokens && npm run build",

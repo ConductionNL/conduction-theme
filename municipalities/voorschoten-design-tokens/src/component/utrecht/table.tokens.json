@@ -1,0 +1,61 @@
+{
+  "utrecht": {
+    "table": {
+      "border-color": { "value": "{voorschoten.color.grey.33}" },
+      "border-width": { "value": "{voorschoten.size.4xs}" },
+      "font-family": { "value": "{utrecht.document.font-family}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-end": { "value": "1rem" },
+      "margin-block-start": { "value": 0 },
+      "caption": {
+        "font-weight": {},
+        "font-family": {},
+        "font-size": {},
+        "color": {},
+        "line-height": {},
+        "text-align": {},
+        "margin-block-end": {}
+      },
+      "header": {
+        "font-weight": { "value": "{voorschoten.typography.font-weight.bold}" },
+        "background-color": {},
+        "color": { "value": "{voorschoten.color.grey.33}" },
+        "text-transform": { "value": "unset" },
+        "border-block-end-color": { "value": "{voorschoten.color.grey.33}" },
+        "border-block-end-width": { "value": "{voorschoten.size.4xs}" }
+      },
+      "header-cell": {
+        "font-size": { "value": "{utrecht.document.font-size}" },
+        "font-weight": { "value": "{voorschoten.typography.font-weight.bold}" },
+        "color": { "value": "{voorschoten.color.grey.33}" },
+        "text-transform": { "value": "unset" }
+      },
+      "cell": {
+        "line-height": {},
+        "color": { "value": "{voorschoten.color.grey.33}" },
+        "padding-block-end": { "value": "15px" },
+        "padding-block-start": { "value": "15px" },
+        "padding-inline-end": { "value": "15px" },
+        "padding-inline-start": { "value": "15px" },
+        "icon": {
+          "size": {}
+        }
+      },
+      "row": {
+        "border-block-end-color": { "value": "{voorschoten.color.grey.33}" },
+        "border-block-end-width": { "value": "{voorschoten.size.4xs}" },
+        "padding-inline-end": {},
+        "padding-inline-start": {},
+        "alternate-odd": {
+          "background-color": {},
+          "color": { "value": "{voorschoten.color.grey.33}" }
+        },
+        "alternate-even": {
+          "background-color": {},
+          "color": { "value": "{voorschoten.color.grey.33}" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{voorschoten.color.white.100}" },
+      "color": { "value": "{voorschoten.color.grey.33}" },
+      "font-family": { "value": "{voorschoten.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{voorschoten.font-size.md}" },
+      "font-weight": {},
+      "line-height": { "value": "1.5" }
+    }
+  }
+}

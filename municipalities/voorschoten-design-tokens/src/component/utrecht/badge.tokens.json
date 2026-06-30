@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "badge": {
+      "background-color": { "value": "{voorschoten.color.black.0} " },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{voorschoten.color.white.100} " },
+      "font-size": { "value": "{voorschoten.font-size.sm}" },
+      "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
+      "line-height": {},
+      "padding-block": { "value": "{voorschoten.size.xs}" },
+      "padding-inline": { "value": "{voorschoten.size.xs}" },
+      "text-transform": {}
+    }
+  }
+}
