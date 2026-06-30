@@ -1,0 +1,15 @@
+{
+  "tilburg": {
+    "navigation": {
+      "background-color": {},
+      "color": {},
+      "font-weight": {},
+      "hover": {
+        "background-color": {},
+        "color": {},
+        "font-weight": {},
+        "font-family": {}
+      }
+    }
+  }
+}

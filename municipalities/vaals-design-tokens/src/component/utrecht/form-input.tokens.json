@@ -1,0 +1,31 @@
+{
+  "utrecht": {
+    "form-input": {
+      "border-bottom-width": {},
+      "border-color": { "value": "{vaals.color.grey.46}" },
+      "border-radius": { "value": "11px" },
+      "border-width": { "value": "{vaals.size.3xs}" },
+      "color": { "value": "{vaals.color.black.0}" },
+      "font-family": { "value": "{vaals.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{vaals.font-size.md}" },
+      "min-inline-height": {},
+      "max-inline-size": {},
+      "padding-block-end": { "value": "0px" },
+      "padding-block-start": { "value": "0px" },
+      "padding-inline-end": { "value": "11px" },
+      "padding-inline-start": { "value": "11px" },
+      "disabled": {
+        "border-color": { "value": "{vaals.color.grey.87}" },
+        "color": {}
+      },
+      "invalid": {
+        "border-color": { "value": "{vaals.color.error}" },
+        "border-width": { "value": "{vaals.size.4xs}" }
+      },
+      "read-only": {
+        "border-color": { "value": "{vaals.color.grey.48}" },
+        "color": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "radio-button": {
+      "min-block-size": { "value": "16px" },
+      "min-inline-size": { "value": "16px" },
+      "checked-disabled": {
+        "border-color": { "value": "{vaals.color.grey.82}" },
+        "border-width": { "value": "{vaals.size.4xs}" },
+        "background-color": { "value": "{vaals.color.white.100}" },
+        "color": { "value": "{vaals.color.grey.82}" }
+      }
+    }
+  }
+}

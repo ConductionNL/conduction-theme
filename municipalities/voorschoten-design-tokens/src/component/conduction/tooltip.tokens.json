@@ -1,0 +1,17 @@
+{
+  "conduction": {
+    "tooltip": {
+      "background-color": { "value": "{voorschoten.color.black.0}" },
+      "color": { "value": "{voorschoten.color.white.100}" },
+      "padding-block-start": { "value": "{voorschoten.size.xs}" },
+      "padding-block-end": { "value": "{voorschoten.size.xs}" },
+      "padding-inline-start": { "value": "{voorschoten.size.sm}" },
+      "padding-inline-end": { "value": "{voorschoten.size.sm}" },
+      "border-width": { "value": "0px" },
+      "border-style": { "value": "unset" },
+      "border-color": { "value": "unset" },
+      "border-radius": { "value": "0px" },
+      "z-index": { "value": "9999" }
+    }
+  }
+}

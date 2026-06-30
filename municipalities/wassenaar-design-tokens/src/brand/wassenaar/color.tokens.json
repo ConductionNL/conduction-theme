@@ -1,0 +1,129 @@
+{
+  "wassenaar": {
+    "color": {
+      "primary": {
+        "value": "{wassenaar.color.green.24}"
+      },
+      "primary-hover": {
+        "value": "{wassenaar.color.green.18}"
+      },
+      "error": { "value": "#dc3545" },
+      "alert-error": { "value": "#721c24" },
+      "alert-error-background": { "value": "#f8d7da" },
+      "warning": { "value": "#ffc107" },
+      "alert-warning": { "value": "#856404" },
+      "alert-warning-background": { "value": "#fff3cd" },
+      "succes": { "value": "#28a745" },
+      "alert-succes": { "value": "#155724" },
+      "alert-succes-background": { "value": "#d4edda" },
+      "info": { "value": "{wassenaar.color.primary}" },
+      "alert-info": { "value": "#004085" },
+      "alert-info-background": { "value": "#cce5ff" },
+      "green": {
+        "18": {
+          "value": "#404815",
+          "comment": "Darker Struik (primary-hover)"
+        },
+        "24": {
+          "value": "#55601c",
+          "comment": "Base/Struik (primary)"
+        },
+        "24-90t": {
+          "value": "#55601ce6",
+          "comment": "Base/Struik (primary) with 90% transparancy"
+        }
+      },
+      "zee": {
+        "28": {
+          "value": "#394a58",
+          "comment": "Base/Zee"
+        },
+        "28-90t": {
+          "value": "#394a58e6",
+          "comment": "Base/Zee with 90% transparancy"
+        }
+      },
+      "duin": {
+        "81": {
+          "value": "#d7d3c7",
+          "comment": "Base/Duin"
+        }
+      },
+      "grey": {
+        "18": {
+          "value": "#2e2e2e",
+          "comment": "Page footer text (website)"
+        },
+        "25": {
+          "value": "#404040",
+          "comment": "Wassenaar card date / meta text color"
+        },
+        "27": {
+          "value": "#444444"
+        },
+        "29": {
+          "value": "#4a4a4a"
+        },
+        "31": {
+          "value": "#4f4f4f"
+        },
+        "33": {
+          "value": "#555555",
+          "comment": "Table cell border & text / content color (website --contentColor)"
+        },
+        "46": {
+          "value": "#767676"
+        },
+        "48": {
+          "value": "#7a7a7a"
+        },
+        "50": {
+          "value": "#808080",
+          "comment": "Base/Grey"
+        },
+        "70": {
+          "value": "#b3b3b3"
+        },
+        "82": {
+          "value": "#d1d1d1"
+        },
+        "87": {
+          "value": "#dddddd"
+        },
+        "90": {
+          "value": "#e6e6e6"
+        },
+        "95": {
+          "value": "#f2f2f2"
+        },
+        "97": {
+          "value": "#f7f7f7"
+        }
+      },
+      "lightgrey": {
+        "96": {
+          "value": "#f5f5f5",
+          "comment": "Base/LightGrey"
+        }
+      },
+      "white": {
+        "98": {
+          "value": "#fafafa"
+        },
+        "100": {
+          "value": "#ffffff",
+          "comment": "Base/White"
+        }
+      },
+      "black": {
+        "0": {
+          "value": "#000000",
+          "comment": "Base/Black"
+        },
+        "30": {
+          "value": "#4d4d4d"
+        }
+      }
+    }
+  }
+}

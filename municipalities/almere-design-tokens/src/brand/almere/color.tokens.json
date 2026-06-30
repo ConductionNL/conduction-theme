@@ -99,6 +99,10 @@
         "96": {
           "value": "#ECF6FC",
           "comment": "Background / Lichtblauw"
+        },
+        "98": {
+          "value": "#f5fafd",
+          "comment": "Background / Lichtblauw"
         }
       },
       "grey": {

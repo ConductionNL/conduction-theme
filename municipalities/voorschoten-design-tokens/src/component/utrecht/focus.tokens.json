@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "focus": {
+      "background-color": { "value": "{voorschoten.color.white.100}" },
+      "color": { "value": "{voorschoten.color.black.0}" },
+      "outline-color": { "value": "{voorschoten.color.black.0}" },
+      "outline-offset": { "value": "-3px" },
+      "outline-style": { "value": "dotted" },
+      "outline-width": { "value": "3px" },
+      "inverse": {
+        "outline-color": { "value": "{voorschoten.color.white.100}" }
+      }
+    }
+  }
+}

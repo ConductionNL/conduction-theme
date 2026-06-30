@@ -8,8 +8,7 @@
       "color": { "value": "{almere.color.grey.29}" },
       "font-family": { "value": "{almere.typography.barlow.font-family}" },
       "font-size": {
-        "value": "0.938rem",
-        "comment": "15px"
+        "value": "{utrecht.document.font-size}"
       },
       "font-weight": { "value": "{almere.typography.font-weight.normal}" },
       "min-inline-height": {},

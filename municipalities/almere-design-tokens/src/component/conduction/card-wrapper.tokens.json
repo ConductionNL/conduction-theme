@@ -1,7 +1,7 @@
 {
   "conduction": {
     "card-wrapper": {
-      "background-color": { "value": "{almere.color.white.100}" },
+      "background-color": { "value": "{almere.color.blue.96}" },
       "border-color": {},
       "border-style": {},
       "border-width": {},

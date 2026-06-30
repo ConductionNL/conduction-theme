@@ -6,8 +6,8 @@
       "border-focus": { "value": "unset" },
       "border-radius": { "value": "{utrecht.form-control.border-radius}" },
       "invalid-border-color": { "value": "{almere.color.error}" },
-      "padding-block-end": { "value": 0 },
-      "padding-block-start": { "value": 0 },
+      "padding-block-end": { "value": "9px" },
+      "padding-block-start": { "value": "9px" },
       "hover": {},
       "focus": {},
       "list-option": {
@@ -16,7 +16,7 @@
         "color": {},
         "hover": {
           "font-family": { "value": "{almere.typography.barlow.font-family}" },
-          "background-color": {},
+          "background-color": { "value": "#4D94FF" },
           "color": {}
         },
         "selected": {
@@ -24,7 +24,7 @@
           "color": {}
         },
         "focus": {
-          "background-color": {},
+          "background-color": { "value": "#4D94FF" },
           "color": {}
         }
       },

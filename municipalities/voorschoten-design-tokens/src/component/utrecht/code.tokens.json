@@ -1,0 +1,26 @@
+{
+  "utrecht": {
+    "code": {
+      "background-color": { "value": "{voorschoten.color.lightgrey.96}" },
+      "color": { "value": "{voorschoten.color.black.0}" },
+      "font-family": { "value": "{voorschoten.typography.monospace.font-family}" },
+      "font-size": { "value": "inherit" },
+      "line-height": {}
+    },
+    "code-block": {
+      "background-color": { "value": "{voorschoten.color.lightgrey.96}" },
+      "color": { "value": "{voorschoten.color.black.0}" },
+      "font-family": { "value": "{voorschoten.typography.monospace.font-family}" },
+      "font-size": { "value": "{voorschoten.font-size.md}" },
+      "line-height": { "value": "{voorschoten.size.lg}" },
+      "margin-block-start": { "value": "{voorschoten.size.md}" },
+      "margin-block-end": { "value": "{voorschoten.size.md}" },
+      "margin-inline-start": { "value": 0 },
+      "margin-inline-end": { "value": 0 },
+      "padding-block-start": { "value": "{voorschoten.size.md}" },
+      "padding-block-end": { "value": "{voorschoten.size.md}" },
+      "padding-inline-start": { "value": "{voorschoten.size.md}" },
+      "padding-inline-end": { "value": "{voorschoten.size.md}" }
+    }
+  }
+}
