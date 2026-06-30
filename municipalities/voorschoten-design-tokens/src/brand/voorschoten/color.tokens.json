@@ -63,6 +63,10 @@
           "value": "#555555",
           "comment": "Voorschoten document/content text color (website --contentColor)"
         },
+        "44": {
+          "value": "#6f6f6f",
+          "comment": "Voorschoten input/search text & placeholder color (website --inputColor / --searchBoxColor)"
+        },
         "46": {
           "value": "#767676"
         },
@@ -72,6 +76,10 @@
         "50": {
           "value": "#808080",
           "comment": "Base/Grey"
+        },
+        "56": {
+          "value": "#8f8f8f",
+          "comment": "Voorschoten input/search border color (website --searchBoxBorder)"
         },
         "70": {
           "value": "#b3b3b3"
