@@ -2,10 +2,10 @@
   "utrecht": {
     "link": {
       "color": { "value": "{midden-delfland.color.primary}" },
-      "text-decoration": { "value": "none" },
+      "text-decoration": { "value": "underline" },
       "text-decoration-color": { "value": "unset" },
-      "text-decoration-thickness": { "value": 0 },
-      "text-underline-offset": { "value": "{midden-delfland.size.3xs}" },
+      "text-decoration-thickness": { "value": "auto" },
+      "text-underline-offset": { "value": "auto" },
       "active": {
         "color": {}
       },
@@ -16,9 +16,9 @@
         "text-decoration-thickness": {}
       },
       "hover": {
-        "color": { "value": "{midden-delfland.color.primary-hover}" },
+        "color": { "value": "{midden-delfland.color.primary}" },
         "text-decoration": { "value": "underline" },
-        "text-decoration-thickness": { "value": "{midden-delfland.size.4xs}" }
+        "text-decoration-thickness": { "value": "auto" }
       },
       "placeholder": {
         "color": {}
