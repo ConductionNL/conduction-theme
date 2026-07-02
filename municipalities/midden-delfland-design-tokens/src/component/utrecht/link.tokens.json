@@ -10,7 +10,8 @@
         "color": {}
       },
       "focus": {
-        "color": {},
+        "background-color": { "value": "{utrecht.focus.background-color}" },
+        "color": { "value": "{utrecht.focus.color}" },
         "text-decoration": {},
         "text-decoration-thickness": {}
       },

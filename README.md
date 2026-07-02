@@ -6,6 +6,10 @@ Conduction's design tokens theme
 
 - **Version 1.1 (breaking changes from 1.0.x)**
 
+  - 1.1.71:
+    - Added Midden-Delfland theme.
+    - Updated focus tokens in Buren theme.
+    - Updated font-size comments in Voorschoten and Wassenaar theme to show the rendered pixel sizes.
   - 1.1.70: 
     - Added Voorschoten theme.
     - Added Wassenaar theme.
