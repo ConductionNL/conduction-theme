@@ -7,9 +7,9 @@
       "xs": { "value": "0.875rem", "comment": "renders 15.68px" },
       "sm": { "value": "1rem", "comment": "renders 17.92px" },
       "md": { "value": "1.1rem", "comment": "renders 19.71px - paragraph/body and heading-5 (voorschoten.nl)" },
-      "lg": { "value": "1.25rem", "comment": "renders 22.4px - heading-4 (voorschoten.nl)" },
-      "xl": { "value": "1.375rem", "comment": "renders 24.64px - heading-3 (voorschoten.nl)" },
-      "2xl": { "value": "1.5rem", "comment": "renders 26.88px - heading-2 (voorschoten.nl)" },
+      "lg": { "value": "1.116rem", "comment": "renders 20px - heading-4 (voorschoten.nl --h4FontSize: 20px, exact match)" },
+      "xl": { "value": "1.228rem", "comment": "renders 22px - heading-3 (voorschoten.nl --h3FontSize: 22px, exact match)" },
+      "2xl": { "value": "1.339rem", "comment": "renders 24px - heading-2 (voorschoten.nl --h2FontSize: 24px, exact match)" },
       "3xl": { "value": "2.25rem", "comment": "renders 40.32px - heading-1 (voorschoten.nl)" },
       "4xl": { "value": "2.8125rem", "comment": "renders 50.4px - display heading" },
       "5xl": { "value": "3.625rem", "comment": "renders 64.96px" }

@@ -5,12 +5,12 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1.1 (breaking changes from 1.0.x)**
-
   - 1.1.71:
     - Added Midden-Delfland theme.
     - Updated focus tokens in Buren theme.
-    - Updated font-size comments in Voorschoten and Wassenaar theme to show the rendered pixel sizes.
-  - 1.1.70: 
+    - Updated font-size and pagination tokens in Voorschoten theme.
+    - Updated font-size and pagination tokens in Wassenaar theme.
+  - 1.1.70:
     - Added Voorschoten theme.
     - Added Wassenaar theme.
   - 1.1.69: Fixed issue in Conduction, Beek, Dimpact and Oude Ijsselstreek theme where tokens were not reachable because of a line with {} in them.
@@ -22,13 +22,14 @@ Conduction's design tokens theme
   - 1.1.63: Updated logo Hof van Twente.
   - 1.1.62: Added Vaals theme.
   - 1.1.61: Updated footer tokens in Almere theme.
-  - 1.1.60: Updated Almere theme.
+  - 1.1.60:
+    - Updated Almere theme.
     - Updated font size tokens.
     - Updated select tokens.
     - Updated button tokens.
     - Updated heading tokens.
     - Updated form-input and textbox tokens.
-  - 1.1.59: 
+  - 1.1.59:
     - Updated card header and card wrapper tokens in Almere theme.
     - Updated color tokens in Almere theme.
     - Updated page footer tokens in Almere theme.
@@ -118,7 +119,6 @@ Conduction's design tokens theme
   - 1.1.0: Removed old Conduction, Leiden and XXLLNC theme files.
 
 - **Version 1**
-
   - 1.0.62:
     - Updated themes to NL-Design repo.
     - Added publiccode.
