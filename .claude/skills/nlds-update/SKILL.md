@@ -37,6 +37,17 @@ From the existing token set, read `src/config.json` to get:
 - **packageName**: from `package.json` `name` field
 - **folderName**: `municipalities/<slug>-design-tokens`
 
+### Allowed references
+
+Use **only** these sources:
+
+1. The organisation's **website**
+2. The organisation's **huisstijlhandboek** (style guide)
+3. The **`conduction-design-tokens/`** baseline files (for file structure and default values)
+4. The organisation's **own existing token set** (the one being updated)
+
+**Do NOT look at other themes in `municipalities/` for reference** (e.g. to see how they chose values or mapped sizes). Other themes contain organisation-specific choices and mistakes that silently leak into this theme — for example copying another theme's decision to map the *body* font-size to `font-size.md` instead of the website's actual `<p>` font-size.
+
 ### Execute
 
 Read the shared reference at `conduction-theme/.claude/commands/nlds-reference.md` and follow it, **skipping Part B** (file creation):

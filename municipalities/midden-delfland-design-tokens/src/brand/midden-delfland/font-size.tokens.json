@@ -1,18 +1,18 @@
 {
   "midden-delfland": {
     "font-size": {
-      "4xs": { "value": "0.625rem", "comment": "10px" },
-      "3xs": { "value": "0.75rem", "comment": "12px - figcaption (middendelfland.nl)" },
-      "2xs": { "value": "0.8125rem", "comment": "13px" },
-      "xs": { "value": "0.875rem", "comment": "14px" },
-      "sm": { "value": "1rem", "comment": "16px - paragraph blocks (middendelfland.nl --paragraphFontSize)" },
-      "md": { "value": "1.12rem", "comment": "17.92px - body/paragraph and heading-5 (middendelfland.nl --bodyFontSize)" },
-      "lg": { "value": "1.3rem", "comment": "20.8px - heading-4 (adjusted up from 0.95rem on middendelfland.nl for scale spacing; matches website h2 size)" },
-      "xl": { "value": "1.5rem", "comment": "24px - heading-3 (adjusted up from 1.1rem on middendelfland.nl for scale spacing)" },
-      "2xl": { "value": "1.75rem", "comment": "28px - heading-2 (adjusted up from 1.3rem on middendelfland.nl for scale spacing)" },
-      "3xl": { "value": "2rem", "comment": "32px - heading-1 (middendelfland.nl --h1FontSize)" },
-      "4xl": { "value": "2.5rem", "comment": "40px - display heading (h1 x 1.25)" },
-      "5xl": { "value": "3.625rem", "comment": "58px" }
+      "4xs": { "value": "0.625rem", "comment": "renders 11.2px (root 1.12rem: 1rem = 17.92px)" },
+      "3xs": { "value": "0.75rem", "comment": "renders 13.44px - figcaption (middendelfland.nl --figcaptionFontSize: 0.75rem)" },
+      "2xs": { "value": "0.8125rem", "comment": "renders 14.56px" },
+      "xs": { "value": "0.875rem", "comment": "renders 15.68px" },
+      "sm": { "value": "0.9375rem", "comment": "renders 16.8px" },
+      "md": { "value": "1rem", "comment": "renders 17.92px - paragraph and heading-5 (middendelfland.nl --paragraphFontSize: 1rem on the 1.12rem html root)" },
+      "lg": { "value": "1.3rem", "comment": "renders 23.3px - heading-4 (adjusted up from 0.95rem/17px on middendelfland.nl for scale spacing; same value the website uses for h2)" },
+      "xl": { "value": "1.5rem", "comment": "renders 26.88px - heading-3 (adjusted up from 1.1rem/19.7px on middendelfland.nl for scale spacing)" },
+      "2xl": { "value": "1.75rem", "comment": "renders 31.36px - heading-2 (adjusted up from 1.3rem/23.3px on middendelfland.nl for scale spacing)" },
+      "3xl": { "value": "2rem", "comment": "renders 35.84px - heading-1 (middendelfland.nl --h1FontSize: 2rem, exact match)" },
+      "4xl": { "value": "2.5rem", "comment": "renders 44.8px - display heading (h1 x 1.25)" },
+      "5xl": { "value": "3.625rem", "comment": "renders 64.96px" }
     }
   }
 }

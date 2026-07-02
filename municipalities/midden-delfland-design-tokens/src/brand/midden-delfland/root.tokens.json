@@ -3,7 +3,7 @@
     "root": {
       "font-size": {
         "value": "1.12rem",
-        "comment": "Midden-Delfland root/body rem base. Matches middendelfland.nl, which uses a body font-size of 1.12rem (~17.92px / ~18px). Kept under the conduction key so it emits --conduction-root-font-size (same variable name across all themes). Relative unit so the user's browser font-size / zoom is respected (accessibility)."
+        "comment": "Midden-Delfland root rem base. middendelfland.nl sets the html font-size to var(--bodyFontSize) = 1.12rem, so 1rem = 17.92px site-wide and ALL rem-based tokens scale by 1.12. Kept under the conduction key so it emits --conduction-root-font-size (same variable name across all themes). Relative unit so the user's browser font-size / zoom is respected (accessibility). Consuming apps apply this variable as the font-size on html/body."
       }
     }
   }
