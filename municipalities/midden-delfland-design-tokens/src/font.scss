@@ -1,0 +1,20 @@
+/* Place any @font-face definitions here */
+
+/* Open Sans - huisstijl Midden-Delfland font for on- and offline items
+   (Light 300, Regular 400, Semi-Bold 600, Bold 700, Extra-Bold 800).
+   Variable font (latin subset) covering weights 300-800. */
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300 800;
+  src: url("../src/font/OpenSans-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300 800;
+  src: url("../src/font/OpenSans-italic-latin.woff2") format("woff2");
+}

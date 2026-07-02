@@ -1,0 +1,49 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": { "value": "{midden-delfland.color.primary}" },
+      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-size": { "value": "{midden-delfland.font-size.3xl}" },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{midden-delfland.size.2xl}" },
+      "margin-block-start": { "value": "{midden-delfland.size.md}" }
+    },
+    "heading-2": {
+      "color": { "value": "{midden-delfland.color.primary}" },
+      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-size": { "value": "{midden-delfland.font-size.2xl}" },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{midden-delfland.size.2xl}" },
+      "margin-block-start": { "value": "{midden-delfland.size.md}" }
+    },
+    "heading-3": {
+      "color": { "value": "{midden-delfland.color.primary}" },
+      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-size": { "value": "{midden-delfland.font-size.xl}" },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{midden-delfland.size.xl}" },
+      "margin-block-start": { "value": "{midden-delfland.size.md}" }
+    },
+    "heading-4": {
+      "color": {},
+      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-size": { "value": "{midden-delfland.font-size.lg}" },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.semibold}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{midden-delfland.size.lg}" },
+      "margin-block-start": { "value": "{midden-delfland.size.md}" }
+    },
+    "heading-5": {
+      "color": { "value": "{midden-delfland.color.primary}" },
+      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-size": { "value": "{midden-delfland.font-size.md}" },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
+      "line-height": {},
+      "margin-block-end": { "value": "{midden-delfland.size.lg}" },
+      "margin-block-start": { "value": "{midden-delfland.size.md}" }
+    }
+  }
+}

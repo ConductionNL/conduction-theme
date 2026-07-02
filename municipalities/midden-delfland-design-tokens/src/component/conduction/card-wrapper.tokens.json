@@ -1,0 +1,33 @@
+{
+  "conduction": {
+    "card-wrapper": {
+      "background-color": { "value": "{midden-delfland.color.white.100}" },
+      "border-color": {},
+      "border-style": {},
+      "border-width": {},
+      "border-bottom-color": {},
+      "border-bottom-style": {},
+      "border-bottom-width": {},
+      "border-radius": { "value": "{midden-delfland.size.md}" },
+      "transition": {},
+      "box-shadow": {},
+      "color": { "value": "{midden-delfland.color.black.0}" },
+      "hover": {
+        "background-color": {},
+        "color": {},
+        "border-color": {},
+        "border-style": {},
+        "border-width": {},
+        "border-bottom-color": {},
+        "border-bottom-style": {},
+        "border-bottom-width": {},
+        "border-radius": {},
+        "box-shadow": {}
+      },
+      "padding-inline-end": { "value": "{midden-delfland.size.md}" },
+      "padding-inline-start": { "value": "{midden-delfland.size.md}" },
+      "padding-block-end": { "value": "{midden-delfland.size.md}" },
+      "padding-block-start": { "value": "{midden-delfland.size.md}" }
+    }
+  }
+}

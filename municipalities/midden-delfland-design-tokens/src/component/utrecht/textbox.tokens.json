@@ -1,0 +1,35 @@
+{
+  "utrecht": {
+    "textbox": {
+      "border-bottom-width": {},
+      "border-color": { "value": "{midden-delfland.color.grey.48}" },
+      "border-radius": { "value": "3px" },
+      "border-width": { "value": "{midden-delfland.size.4xs}" },
+      "color": { "value": "{midden-delfland.color.grey.29}" },
+      "font-family": { "value": "{midden-delfland.typography.sans-serif.font-family}" },
+      "font-size": {
+        "value": "0.938rem",
+        "comment": "15px"
+      },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
+      "min-inline-height": {},
+      "max-inline-size": {},
+      "padding-block-end": { "value": "{midden-delfland.size.xs}" },
+      "padding-block-start": { "value": "{midden-delfland.size.xs}" },
+      "padding-inline-end": { "value": "{midden-delfland.size.sm}" },
+      "padding-inline-start": { "value": "{midden-delfland.size.sm}" },
+      "disabled": {
+        "border-color": { "value": "{midden-delfland.color.grey.87}" },
+        "color": {}
+      },
+      "invalid": {
+        "border-color": { "value": "{midden-delfland.color.error}" },
+        "border-width": { "value": "{midden-delfland.size.4xs}" }
+      },
+      "read-only": {
+        "border-color": { "value": "{midden-delfland.color.grey.48}" },
+        "color": {}
+      }
+    }
+  }
+}

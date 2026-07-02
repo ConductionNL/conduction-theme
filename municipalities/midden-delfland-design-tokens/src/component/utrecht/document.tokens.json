@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{midden-delfland.color.white.98}" },
+      "color": { "value": "{midden-delfland.color.black.0}" },
+      "font-family": { "value": "{midden-delfland.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{midden-delfland.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}
