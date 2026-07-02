@@ -5,13 +5,13 @@
       "font-family": { "value": "{midden-delfland.typography.sans-serif.font-family}" },
       "font-size": { "value": "{midden-delfland.font-size.md}" },
       "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
-      "line-height": { "value": "1.5em" },
+      "line-height": { "value": "1.6rem" },
       "margin-block-start": { "value": 0 },
-      "margin-block-end": { "value": 0 },
+      "margin-block-end": { "value": "1rem" },
       "lead": {
         "color": {},
         "font-size": {},
-        "font-weight": {},
+        "font-weight": { "value": "{midden-delfland.typography.font-weight.bold}" },
         "line-height": {}
       },
       "small": {
