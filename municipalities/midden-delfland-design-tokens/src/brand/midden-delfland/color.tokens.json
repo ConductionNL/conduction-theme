@@ -5,7 +5,7 @@
         "value": "{midden-delfland.color.blue.28}"
       },
       "primary-hover": {
-        "value": "{midden-delfland.color.blue.19}"
+        "value": "{midden-delfland.color.blue.28-90t}"
       },
       "error": { "value": "#dc3545" },
       "alert-error": { "value": "#721c24" },
@@ -27,6 +27,10 @@
         "28": {
           "value": "#005C8E",
           "comment": "Midden-Delfland logo blauw (primair) - PMS 2945 U, CMYK C93/M59/Y22/K6, RGB 0/92/142"
+        },
+        "28-90t": {
+          "value": "#005C8EE6",
+          "comment": "Midden-Delfland logo blauw (primair) at 0.9 opacity - button hover/active state"
         },
         "95": {
           "value": "#EEF4F7",
