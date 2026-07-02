@@ -1,20 +1,21 @@
 /* Place any @font-face definitions here */
 
-/* Open Sans - huisstijl Midden-Delfland font for on- and offline items
-   (Light 300, Regular 400, Semi-Bold 600, Bold 700, Extra-Bold 800).
-   Variable font (latin subset) covering weights 300-800. */
+/* Roboto - used by middendelfland.nl for body and headings (website --fontFamily).
+   The huisstijlhandboek lists Open Sans for print/mail items, but the website is
+   the leading source for digital styling. Variable font (latin subset) covering
+   weights 100-900. */
 @font-face {
-  font-family: "Open Sans";
+  font-family: "Roboto";
   font-style: normal;
   font-display: swap;
-  font-weight: 300 800;
-  src: url("../src/font/OpenSans-latin.woff2") format("woff2");
+  font-weight: 100 900;
+  src: url("../src/font/Roboto-latin.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "Open Sans";
+  font-family: "Roboto";
   font-style: italic;
   font-display: swap;
-  font-weight: 300 800;
-  src: url("../src/font/OpenSans-italic-latin.woff2") format("woff2");
+  font-weight: 100 900;
+  src: url("../src/font/Roboto-italic-latin.woff2") format("woff2");
 }

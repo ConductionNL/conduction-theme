@@ -2,7 +2,7 @@
   "utrecht": {
     "heading-1": {
       "color": { "value": "{midden-delfland.color.primary}" },
-      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-family": { "value": "{midden-delfland.typography.roboto.font-family}" },
       "font-size": { "value": "{midden-delfland.font-size.3xl}" },
       "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
       "line-height": {},
@@ -11,7 +11,7 @@
     },
     "heading-2": {
       "color": { "value": "{midden-delfland.color.primary}" },
-      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-family": { "value": "{midden-delfland.typography.roboto.font-family}" },
       "font-size": { "value": "{midden-delfland.font-size.2xl}" },
       "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
       "line-height": {},
@@ -20,7 +20,7 @@
     },
     "heading-3": {
       "color": { "value": "{midden-delfland.color.primary}" },
-      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-family": { "value": "{midden-delfland.typography.roboto.font-family}" },
       "font-size": { "value": "{midden-delfland.font-size.xl}" },
       "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
       "line-height": {},
@@ -29,7 +29,7 @@
     },
     "heading-4": {
       "color": {},
-      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-family": { "value": "{midden-delfland.typography.roboto.font-family}" },
       "font-size": { "value": "{midden-delfland.font-size.lg}" },
       "font-weight": { "value": "{midden-delfland.typography.font-weight.semibold}" },
       "line-height": {},
@@ -38,7 +38,7 @@
     },
     "heading-5": {
       "color": { "value": "{midden-delfland.color.primary}" },
-      "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+      "font-family": { "value": "{midden-delfland.typography.roboto.font-family}" },
       "font-size": { "value": "{midden-delfland.font-size.md}" },
       "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
       "line-height": {},

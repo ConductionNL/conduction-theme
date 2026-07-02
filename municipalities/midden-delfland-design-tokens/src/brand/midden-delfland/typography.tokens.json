@@ -1,14 +1,14 @@
 {
   "midden-delfland": {
     "typography": {
-      "open-sans": {
+      "roboto": {
         "font-family": {
-          "value": "\"Open Sans\", Arial, sans-serif"
+          "value": "\"Roboto\", Arial, sans-serif"
         }
       },
       "sans-serif": {
         "font-family": {
-          "value": "\"Open Sans\", Arial, sans-serif"
+          "value": "\"Roboto\", Arial, sans-serif"
         }
       },
       "monospace": {
@@ -18,7 +18,7 @@
       },
       "font-weight": {
         "bold": { "value": "700" },
-        "semibold": { "value": "600" },
+        "semibold": { "value": "500" },
         "normal": { "value": "400" },
         "light": { "value": "300" }
       },

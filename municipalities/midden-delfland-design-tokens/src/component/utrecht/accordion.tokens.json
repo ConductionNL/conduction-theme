@@ -21,7 +21,7 @@
           "border-color": { "value": "{midden-delfland.color.primary}" },
           "color": { "value": "{midden-delfland.color.white.100}" }
         },
-        "font-family": { "value": "{midden-delfland.typography.open-sans.font-family}" },
+        "font-family": { "value": "{midden-delfland.typography.roboto.font-family}" },
         "font-size": { "value": "{midden-delfland.font-size.xl}" },
         "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
         "hover": {
