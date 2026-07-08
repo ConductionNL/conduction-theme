@@ -2,15 +2,16 @@
   "utrecht": {
     "form-input": {
       "border-bottom-width": {},
-      "border-color": { "value": "{midden-delfland.color.grey.48}" },
-      "border-radius": { "value": "3px" },
+      "border-color": { "value": "{midden-delfland.color.grey.56}" },
+      "border-radius": { "value": "0.25rem" },
       "border-width": { "value": "{midden-delfland.size.4xs}" },
-      "color": { "value": "{midden-delfland.color.grey.29}" },
+      "color": { "value": "{midden-delfland.color.grey.44}" },
       "font-family": { "value": "{midden-delfland.typography.sans-serif.font-family}" },
       "font-size": {
-        "value": "0.938rem",
-        "comment": "15px"
+        "value": "1rem",
+        "comment": "16px - website --searchBoxFontSize"
       },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
       "min-inline-height": {},
       "max-inline-size": {},
       "padding-block-end": { "value": "{midden-delfland.size.xs}" },
@@ -26,7 +27,7 @@
         "border-width": { "value": "{midden-delfland.size.4xs}" }
       },
       "read-only": {
-        "border-color": { "value": "{midden-delfland.color.grey.48}" },
+        "border-color": { "value": "{midden-delfland.color.grey.56}" },
         "color": {}
       }
     }

@@ -7,23 +7,23 @@
       },
       "border-block-end-width": {},
       "border-bottom-width": {},
-      "border-color": { "value": "{midden-delfland.color.grey.48}" },
-      "border-radius": { "value": "3px" },
-      "border-width": { "value": "{midden-delfland.size.4xs}" },
-      "color": {},
-      "font-family": {},
-      "font-size": {},
-      "font-weight": {},
+      "border-color": { "value": "{utrecht.form-input.border-color}" },
+      "border-radius": { "value": "{utrecht.form-input.border-radius}" },
+      "border-width": { "value": "{utrecht.form-input.border-width}" },
+      "color": { "value": "{utrecht.form-input.color}" },
+      "font-family": { "value": "{utrecht.form-input.font-family}" },
+      "font-size": { "value": "{utrecht.form-input.font-size}" },
+      "font-weight": { "value": "{utrecht.form-input.font-weight}" },
       "line-height": {},
       "min-block-size": {},
       "max-inline-size": {},
-      "padding-block-end": { "value": "{midden-delfland.size.3xs}" },
-      "padding-block-start": { "value": "{midden-delfland.size.3xs}" },
-      "padding-inline-end": { "value": "{midden-delfland.size.xs}" },
-      "padding-inline-start": { "value": "{midden-delfland.size.xs}" },
+      "padding-block-end": { "value": "{utrecht.form-input.padding-block-end}" },
+      "padding-block-start": { "value": "{utrecht.form-input.padding-block-start}" },
+      "padding-inline-end": { "value": "{utrecht.form-input.padding-inline-end}" },
+      "padding-inline-start": { "value": "{utrecht.form-input.padding-inline-start}" },
       "disabled": {
         "background-color": { "value": "{midden-delfland.color.grey.82}" },
-        "border-color": { "value": "{midden-delfland.color.grey.82}" },
+        "border-color": { "value": "{utrecht.form-input.disabled.border-color}" },
         "color": { "value": "{midden-delfland.color.grey.50}" }
       },
       "hover": {
@@ -39,8 +39,8 @@
       "invalid": {
         "background-color": {},
         "border-block-end-width": {},
-        "border-color": { "value": "{midden-delfland.color.error}" },
-        "border-width": {}
+        "border-color": { "value": "{utrecht.form-input.invalid.border-color}" },
+        "border-width": { "value": "{utrecht.form-input.invalid.border-width}" }
       }
     }
   }

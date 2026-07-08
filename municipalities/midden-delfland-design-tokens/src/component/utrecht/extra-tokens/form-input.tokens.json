@@ -4,15 +4,15 @@
       "background-color": { "value": "{midden-delfland.color.white.100}" },
       "line-height": {},
       "placeholder": {
-        "color": { "value": "{midden-delfland.color.grey.46}" }
+        "color": { "value": "{midden-delfland.color.grey.44}" }
       },
       "disabled": {
         "background-color": { "value": "{midden-delfland.color.grey.90}" }
       },
       "focus": {
-        "background-color": { "value": "{midden-delfland.color.white.100}" },
-        "border-color": {},
-        "color": {}
+        "background-color": { "value": "{utrecht.focus.background-color}" },
+        "border-color": { "value": "transparent" },
+        "color": { "value": "{utrecht.focus.color}" }
       },
       "invalid": {
         "background-color": {},

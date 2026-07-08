@@ -95,6 +95,10 @@
           "value": "#808080",
           "comment": "Base/Grey"
         },
+        "56": {
+          "value": "#8f8f8f",
+          "comment": "Midden-Delfland input/search border color (website --searchBoxBorder)"
+        },
         "70": {
           "value": "#b3b3b3"
         },
@@ -112,7 +116,7 @@
         },
         "96": {
           "value": "#f4f4f4",
-          "comment": "Midden-Delfland lichtgrijs - top-navigatie/sectie achtergrond (website --topMainNavBackgroundColor / --paragraphEvenColor)"
+          "comment": "Midden-Delfland lichtgrijs - top-navigatie/sectie achtergrond en dropdown hover (website --topMainNavBackgroundColor / --paragraphEvenColor / --searchSuggestionsHoverColor)"
         },
         "97": {
           "value": "#f7f7f7"
