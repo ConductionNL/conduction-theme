@@ -1,19 +1,28 @@
 {
   "utrecht": {
     "skip-link": {
-      "font-weight": { "value": "{midden-delfland.typography.font-weight.bold}" },
-      "font-size": { "value": "{midden-delfland.font-size.md}" },
-      "font-family": {},
-      "outline-style": { "value": "none" },
-      "outline-color": {},
-      "outline-width": {},
-      "border-radius": { "value": "3px" },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
+      "font-size": {
+        "value": "1rem",
+        "comment": "website skiplink font-size: 1rem = 17.92px via the 1.12rem root"
+      },
+      "font-family": {
+        "value": "system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+      },
+      "outline-style": { "value": "dotted" },
+      "outline-color": { "value": "{midden-delfland.color.black.0}" },
+      "outline-width": { "value": "3px" },
+      "outline-offset": { "value": "2px" },
+      "border-radius": {},
       "focus": {
         "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
       },
-      "inset-block-start": {},
+      "inset-block-start": { "value": "5rem" },
       "inset-inline-start": {},
-      "box-shadow-width": {},
+      "box-shadow-width": {
+        "value": "{midden-delfland.size.3xs}",
+        "comment": "2px - solid core of the website focusBoxShadow white glow; template renders 0 0 0 width in focus inverse outline color"
+      },
       "border-width": {},
       "border-style": {},
       "border-color": {},
