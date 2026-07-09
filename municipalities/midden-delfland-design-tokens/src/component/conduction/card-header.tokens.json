@@ -20,6 +20,9 @@
           "color": { "value": "{midden-delfland.color.primary}" },
           "text-decoration": {},
           "text-underline-offset": {}
+        },
+        "focus": {
+          "color": { "value": "{midden-delfland.color.black.0}" }
         }
       },
       "date": {

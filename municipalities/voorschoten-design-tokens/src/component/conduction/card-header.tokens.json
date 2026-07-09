@@ -20,6 +20,9 @@
           "color": { "value": "{voorschoten.color.primary}" },
           "text-decoration": {},
           "text-underline-offset": {}
+        },
+        "focus": {
+          "color": { "value": "{voorschoten.color.black.0}" }
         }
       },
       "date": {
