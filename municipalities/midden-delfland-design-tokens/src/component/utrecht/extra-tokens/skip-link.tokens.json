@@ -1,0 +1,33 @@
+{
+  "utrecht": {
+    "skip-link": {
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
+      "font-size": {
+        "value": "1rem",
+        "comment": "website skiplink font-size: 1rem = 17.92px via the 1.12rem root"
+      },
+      "font-family": {
+        "value": "system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+      },
+      "outline-style": { "value": "dotted" },
+      "outline-color": { "value": "{midden-delfland.color.black.0}" },
+      "outline-width": { "value": "3px" },
+      "outline-offset": { "value": "2px" },
+      "border-radius": {},
+      "focus": {
+        "text-decoration": { "value": "{utrecht.skip-link.text-decoration}" }
+      },
+      "inset-block-start": { "value": "5rem" },
+      "inset-inline-start": {},
+      "box-shadow-width": {},
+      "border-width": {},
+      "border-style": {},
+      "border-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "width": {},
+      "justify-content": {}
+    }
+  }
+}

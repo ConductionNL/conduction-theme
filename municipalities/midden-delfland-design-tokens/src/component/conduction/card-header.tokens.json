@@ -1,0 +1,37 @@
+{
+  "conduction": {
+    "card-header": {
+      "background-color": {},
+      "border-bottom-width": {},
+      "border-bottom-style": {},
+      "border-bottom-color": {},
+      "color": { "value": "{utrecht.document.color}" },
+      "hover": {
+        "background-color": {},
+        "border-bottom-width": {},
+        "border-bottom-style": {},
+        "border-bottom-color": {}
+      },
+      "title": {
+        "color": { "value": "{midden-delfland.color.primary}" },
+        "text-decoration": { "value": "none" },
+        "text-underline-offset": { "value": "5px" },
+        "hover": {
+          "color": { "value": "{midden-delfland.color.primary}" },
+          "text-decoration": {},
+          "text-underline-offset": {}
+        },
+        "focus": {
+          "color": { "value": "{midden-delfland.color.black.0}" }
+        }
+      },
+      "date": {
+        "color": { "value": "{midden-delfland.color.warmgrey.32}" },
+        "font-size": { "value": "{midden-delfland.font-size.sm}" },
+        "font-weight": { "value": "{midden-delfland.typography.font-weight.light}" },
+        "font-style": {},
+        "margin-block-end": { "value": "{midden-delfland.size.xs}" }
+      }
+    }
+  }
+}

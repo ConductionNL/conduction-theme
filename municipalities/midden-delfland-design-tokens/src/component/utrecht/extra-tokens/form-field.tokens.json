@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "description": {
+        "valid-color": { "value": "{midden-delfland.color.succes}" },
+        "warning-color": { "value": "{midden-delfland.color.warning}" },
+        "invalid-color": { "value": "{midden-delfland.color.error}" },
+        "margin-block-end": { "value": "12px" },
+        "margin-block-start": { "value": "12px" }
+      }
+    }
+  }
+}

@@ -20,6 +20,9 @@
           "color": { "value": "{wassenaar.color.primary}" },
           "text-decoration": {},
           "text-underline-offset": {}
+        },
+        "focus": {
+          "color": { "value": "{wassenaar.color.black.0}" }
         }
       },
       "date": {

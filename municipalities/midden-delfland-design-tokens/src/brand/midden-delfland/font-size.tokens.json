@@ -1,0 +1,18 @@
+{
+  "midden-delfland": {
+    "font-size": {
+      "4xs": { "value": "0.625rem", "comment": "renders 11.2px (root 1.12rem: 1rem = 17.92px)" },
+      "3xs": { "value": "0.75rem", "comment": "renders 13.44px - figcaption (middendelfland.nl --figcaptionFontSize: 0.75rem)" },
+      "2xs": { "value": "0.8125rem", "comment": "renders 14.56px" },
+      "xs": { "value": "0.875rem", "comment": "renders 15.68px" },
+      "sm": { "value": "0.9375rem", "comment": "renders 16.8px" },
+      "md": { "value": "1rem", "comment": "renders 17.92px - paragraph and heading-5 (middendelfland.nl --paragraphFontSize: 1rem on the 1.12rem html root)" },
+      "lg": { "value": "1.1rem", "comment": "renders 19.71px - heading-4 (adjusted up from 0.95rem/17px on middendelfland.nl to keep an ascending scale)" },
+      "xl": { "value": "1.2rem", "comment": "renders 21.5px - heading-3 (adjusted up from 1.1rem/19.7px on middendelfland.nl to keep an ascending scale)" },
+      "2xl": { "value": "1.3rem", "comment": "renders 23.3px - heading-2 (middendelfland.nl --h2FontSize: 1.3rem, exact match)" },
+      "3xl": { "value": "2rem", "comment": "renders 35.84px - heading-1 (middendelfland.nl --h1FontSize: 2rem, exact match)" },
+      "4xl": { "value": "2.5rem", "comment": "renders 44.8px - display heading (h1 x 1.25)" },
+      "5xl": { "value": "3.625rem", "comment": "renders 64.96px" }
+    }
+  }
+}

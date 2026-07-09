@@ -11,7 +11,7 @@
       },
       "focus": {
         "color": {},
-        "text-decoration": { "value": "none" },
+        "text-decoration": { "value": "underline" },
         "text-decoration-thickness": {}
       },
       "hover": {
