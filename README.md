@@ -8,8 +8,8 @@ Conduction's design tokens theme
   - 1.1.71:
     - Added Midden-Delfland theme.
     - Updated focus tokens in Buren theme.
-    - Updated font-size, pagination and textbox tokens in Voorschoten theme.
-    - Updated font-size, pagination, page-footer and textbox tokens in Wassenaar theme.
+    - Updated font-size, pagination, textbox, focus and card-header tokens in Voorschoten theme.
+    - Updated font-size, pagination, page-footer, textbox, form-input, select, focus and card-header tokens in Wassenaar theme.
   - 1.1.70:
     - Added Voorschoten theme.
     - Added Wassenaar theme.
