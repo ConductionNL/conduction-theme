@@ -1,6 +1,6 @@
 {
   "name": "@conduction/theme",
-  "version": "1.1.70",
+  "version": "1.1.71",
   "description": "Conduction's design tokens theme",
   "main": "index.js",
   "repository": {
@@ -27,6 +27,7 @@
     "build:hof-van-twente": "cd ./municipalities/hof-van-twente-design-tokens && npm run build",
     "build:lansingerland": "cd ./municipalities/lansingerland-design-tokens && npm run build",
     "build:leiden": "cd ./municipalities/leiden-design-tokens && npm run build",
+    "build:midden-delfland": "cd ./municipalities/midden-delfland-design-tokens && npm run build",
     "build:migrato": "cd ./municipalities/migrato-design-tokens && npm run build",
     "build:moerdijk": "cd ./municipalities/moerdijk-design-tokens && npm run build",
     "build:noaberkracht": "cd ./municipalities/noaberkracht-design-tokens && npm run build",

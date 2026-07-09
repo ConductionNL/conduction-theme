@@ -17,6 +17,8 @@ This document is the shared reference for both `/nlds:new` and `/nlds:update`. I
 | `<huisstijlUrl>` | (url)                                               | Style guide URL (may be empty)                     |
 | `<mode>`         | `new` or `update`                                   | Whether creating from scratch or updating existing |
 
+> **Allowed references:** the organisation's website, its huisstijlhandboek, and the `conduction-design-tokens/` baseline files. **Never look at other themes in `municipalities/` for reference** — they contain organisation-specific choices and mistakes that silently leak into the new theme (e.g. copying another theme's decision to map the body font-size to `font-size.md` instead of the website's actual `<p>` font-size).
+
 > **Notation convention:**
 >
 > - `<slug>`, `<fullName>`, `<fontKey>` etc. in angle brackets = **template variables** — substitute with the actual derived value
@@ -676,6 +678,12 @@ After all component files are written, scan every `*.tokens.json` for which `<sl
 
 ---
 
+#### `municipalities/<slug>-design-tokens/src/brand/<slug>/root.tokens.json`
+
+Copy `conduction-design-tokens/src/brand/conduction/root.tokens.json`. **Keep the root JSON key `"conduction"` unchanged** — this framework-level token must emit the same `--conduction-root-font-size` variable in every theme.
+
+**Check whether the organisation's website changes the html root font-size** (look for a `font-size` rule on `html` or `:root` in its CSS, e.g. `html { font-size: var(--bodyFontSize) }`). If it does, set this token to that value (e.g. `1.12rem`) and document it in the comment; if it does not, keep the baseline `1rem`. Do not put curly braces in the comment — Style Dictionary parses `{...}` inside comment strings as token references and the build fails.
+
 #### `municipalities/<slug>-design-tokens/src/brand/<slug>/font-size.tokens.json`
 
 Set the values based on the computed font sizes extracted from the website. The mapping between font-size keys and components is:
@@ -689,6 +697,10 @@ Set the values based on the computed font sizes extracted from the website. The 
 | `3xl` | `heading-1`                                                                            |
 
 Extract the computed `font-size` of `<p>`, `<h1>`, `<h2>`, `<h3>`, `<h4>` from the website and set the corresponding keys. Convert px values to rem (divide by 16). If you find additional distinct sizes used on the website (e.g. for captions, labels, small text), map them to the nearest smaller key.
+
+**`md` must match the website's `<p>` element font-size** (e.g. the site's `--paragraphFontSize`), not the generic body font-size — the body size belongs in `root.tokens.json` if the site applies it to the html root.
+
+**Comments must state the true rendered pixel size**, taking the root rem base from `root.tokens.json` into account. If the root is `1.12rem`, then `md: 1rem` renders at 17.92px — write `"renders 17.92px"`, not `"16px"` — so the comments always tell the correct pixels.
 
 **Scale validation** — after assigning all heading sizes, verify that the scale is well-spaced (each step should be meaningfully larger than the previous). If sizes are too close together (e.g. `3xl` = 52px, `2xl` = 50px, `xl` = 38px) this indicates a scale problem — set them to better-distributed values, keep the heading sizes as close as possible to the website, and include a note in the summary telling the user which sizes were adjusted and why.
 

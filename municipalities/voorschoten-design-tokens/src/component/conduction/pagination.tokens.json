@@ -16,9 +16,10 @@
         "padding-inline-end": { "value": "0px" },
         "padding-block-start": { "value": "0px" },
         "padding-block-end": { "value": "0px" },
-        "font-size": { "value": "{voorschoten.font-size.lg}" },
+        "font-size": { "value": "{voorschoten.font-size.sm}" },
         "font-weight": { "value": "{voorschoten.typography.font-weight.normal}" },
         "font-family": { "value": "{utrecht.document.font-family}" },
+        "text-decoration": { "value": "underline" },
         "border-width": {},
         "border-style": {},
         "border-color": {},
@@ -36,7 +37,7 @@
         "border-bottom-width": {},
         "border-bottom-style": {},
         "border-bottom-color": {},
-        "border-radius": {},
+        "border-radius": { "value": "5px" },
         "padding-inline-start": { "value": "0px" },
         "padding-inline-end": { "value": "0px" },
         "padding-block-start": { "value": "0px" },
@@ -50,7 +51,7 @@
           "border-bottom-width": {},
           "border-bottom-style": {},
           "border-bottom-color": {},
-          "border-radius": {}
+          "border-radius": { "value": "5px" }
         },
         "hover": {
           "color": { "value": "{voorschoten.color.primary}" },
@@ -61,7 +62,7 @@
           "border-bottom-width": {},
           "border-bottom-style": {},
           "border-bottom-color": {},
-          "border-radius": {}
+          "border-radius": { "value": "5px" }
         }
       },
       "current-page": {

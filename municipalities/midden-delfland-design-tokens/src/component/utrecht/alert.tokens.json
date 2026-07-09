@@ -1,0 +1,46 @@
+{
+  "utrecht": {
+    "alert": {
+      "background-color": { "value": "{midden-delfland.color.alert-info-background}" },
+      "border-color": {},
+      "border-width": {},
+      "color": { "value": "{midden-delfland.color.alert-info}" },
+      "padding-block-start": { "value": "{midden-delfland.size.lg}" },
+      "padding-block-end": { "value": "{midden-delfland.size.lg}" },
+      "padding-inline-start": { "value": "{midden-delfland.size.lg}" },
+      "padding-inline-end": { "value": "{midden-delfland.size.lg}" },
+      "margin-block-start": {},
+      "margin-block-end": {},
+      "warning": {
+        "background-color": { "value": "{midden-delfland.color.alert-warning-background}" },
+        "color": { "value": "{midden-delfland.color.alert-warning}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "error": {
+        "background-color": { "value": "{midden-delfland.color.alert-error-background}" },
+        "color": { "value": "{midden-delfland.color.alert-error}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "ok": {
+        "background-color": { "value": "{midden-delfland.color.alert-succes-background}" },
+        "color": { "value": "{midden-delfland.color.alert-succes}" },
+        "border-color": {},
+        "border-width": {}
+      },
+      "icon": {
+        "color": { "value": "{midden-delfland.color.alert-info}" },
+        "error": {
+          "color": { "value": "{midden-delfland.color.alert-error}" }
+        },
+        "warning": {
+          "color": { "value": "{midden-delfland.color.alert-warning}" }
+        },
+        "ok": {
+          "color": { "value": "{midden-delfland.color.alert-succes}" }
+        }
+      }
+    }
+  }
+}

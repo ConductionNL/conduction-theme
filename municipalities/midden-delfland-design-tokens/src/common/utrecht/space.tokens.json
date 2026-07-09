@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "space": {
+      "block": {
+        "3xs": { "value": "{midden-delfland.size.3xs}" },
+        "2xs": { "value": "{midden-delfland.size.2xs}" },
+        "xs": { "value": "{midden-delfland.size.xs}" },
+        "sm": { "value": "{midden-delfland.size.sm}" },
+        "md": { "value": "{midden-delfland.size.md}" },
+        "lg": { "value": "{midden-delfland.size.lg}" },
+        "xl": { "value": "{midden-delfland.size.xl}" },
+        "2xl": { "value": "{midden-delfland.size.2xl}" },
+        "3xl": { "value": "{midden-delfland.size.3xl}" }
+      },
+      "inline": {
+        "3xs": { "value": "{midden-delfland.size.3xs}" },
+        "2xs": { "value": "{midden-delfland.size.2xs}" },
+        "xs": { "value": "{midden-delfland.size.xs}" },
+        "sm": { "value": "{midden-delfland.size.sm}" },
+        "md": { "value": "{midden-delfland.size.md}" },
+        "lg": { "value": "{midden-delfland.size.lg}" },
+        "xl": { "value": "{midden-delfland.size.xl}" },
+        "2xl": { "value": "{midden-delfland.size.2xl}" },
+        "3xl": { "value": "{midden-delfland.size.3xl}" }
+      }
+    }
+  }
+}

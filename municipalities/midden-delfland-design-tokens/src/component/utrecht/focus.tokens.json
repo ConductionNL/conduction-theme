@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "focus": {
+      "background-color": { "value": "{midden-delfland.color.white.100}" },
+      "color": { "value": "{midden-delfland.color.black.0}" },
+      "outline-color": { "value": "{midden-delfland.color.black.0}" },
+      "outline-offset": { "value": "-3px" },
+      "outline-style": { "value": "dotted" },
+      "outline-width": { "value": "3px" },
+      "box-shadow": { "value": "0 0 0 2px rgba(255, 255, 255, 1), 0 0 8px 4px rgba(255, 255, 255, 0.7), 0 0 12px 6px rgba(255, 255, 255, 0.5)" },
+      "inverse": {
+        "outline-color": { "value": "{midden-delfland.color.white.100}" }
+      }
+    }
+  }
+}

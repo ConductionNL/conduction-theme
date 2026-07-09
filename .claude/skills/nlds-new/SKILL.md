@@ -37,6 +37,16 @@ From the organisation name:
 - **packageName**: `@nl-design-system-unstable/<slug>-design-tokens`
 - **folderName**: `municipalities/<slug>-design-tokens`
 
+### Allowed references
+
+Use **only** these three sources:
+
+1. The organisation's **website**
+2. The organisation's **huisstijlhandboek** (style guide)
+3. The **`conduction-design-tokens/`** baseline files (for file structure and default values)
+
+**Do NOT look at other themes in `municipalities/` for reference** (e.g. to see how they chose values or mapped sizes). Other themes contain organisation-specific choices and mistakes that silently leak into the new theme — for example copying another theme's decision to map the *body* font-size to `font-size.md` instead of the website's actual `<p>` font-size.
+
 ### Execute
 
 Read the shared reference at `conduction-theme/.claude/commands/nlds-reference.md` and follow it from the top:

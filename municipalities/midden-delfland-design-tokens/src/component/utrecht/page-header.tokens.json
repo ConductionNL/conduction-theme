@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{midden-delfland.color.white.100}" },
+      "color": { "value": "{midden-delfland.color.primary}" },
+      "padding-block-start": { "value": "{midden-delfland.size.sm}" },
+      "padding-block-end": { "value": "{midden-delfland.size.sm}" }
+    }
+  }
+}

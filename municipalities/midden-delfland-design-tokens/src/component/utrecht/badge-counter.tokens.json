@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "badge-counter": {
+      "background-color": { "value": "{midden-delfland.color.primary}" },
+      "border-radius": { "value": "50%" },
+      "color": { "value": "{midden-delfland.color.white.100}" },
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "font-weight": { "value": "{midden-delfland.typography.font-weight.normal}" },
+      "padding-block": { "value": "{midden-delfland.size.2xs}" },
+      "padding-inline": { "value": "{midden-delfland.size.2xs}" }
+    }
+  }
+}

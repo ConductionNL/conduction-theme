@@ -37,7 +37,7 @@
         "border-bottom-width": {},
         "border-bottom-style": {},
         "border-bottom-color": {},
-        "border-radius": {},
+        "border-radius": { "value": "5px" },
         "padding-inline-start": { "value": "0px" },
         "padding-inline-end": { "value": "0px" },
         "padding-block-start": { "value": "0px" },
@@ -51,7 +51,7 @@
           "border-bottom-width": {},
           "border-bottom-style": {},
           "border-bottom-color": {},
-          "border-radius": {}
+          "border-radius": { "value": "5px" }
         },
         "hover": {
           "color": { "value": "{wassenaar.color.primary}" },
@@ -62,7 +62,7 @@
           "border-bottom-width": {},
           "border-bottom-style": {},
           "border-bottom-color": {},
-          "border-radius": {}
+          "border-radius": { "value": "5px" }
         }
       },
       "current-page": {
