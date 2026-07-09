@@ -12,6 +12,7 @@
       "focus": {
         "background-color": { "value": "{utrecht.focus.background-color}" },
         "border-color": { "value": "transparent" },
+        "box-shadow": { "value": "{utrecht.focus.box-shadow}" },
         "color": { "value": "{utrecht.focus.color}" }
       },
       "invalid": {

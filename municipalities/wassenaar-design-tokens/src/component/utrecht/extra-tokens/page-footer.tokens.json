@@ -34,7 +34,7 @@
         "text-decoration-thickness": { "value": "auto" },
         "text-underline-offset": { "value": "auto" },
         "hover": {
-          "color": { "value": "{wassenaar.color.black.30}" },
+          "color": { "value": "{wassenaar.color.grey.18}" },
           "text-decoration": { "value": "underline" },
           "text-decoration-thickness": { "value": "auto" },
           "font-weight": {}

@@ -23,7 +23,7 @@
         }
       },
       "date": {
-        "color": { "value": "{midden-delfland.color.black.0}" },
+        "color": { "value": "{midden-delfland.color.warmgrey.32}" },
         "font-size": { "value": "{midden-delfland.font-size.sm}" },
         "font-weight": { "value": "{midden-delfland.typography.font-weight.light}" },
         "font-style": {},

@@ -19,10 +19,7 @@
       },
       "inset-block-start": { "value": "5rem" },
       "inset-inline-start": {},
-      "box-shadow-width": {
-        "value": "{midden-delfland.size.3xs}",
-        "comment": "2px - solid core of the website focusBoxShadow white glow; template renders 0 0 0 width in focus inverse outline color"
-      },
+      "box-shadow-width": {},
       "border-width": {},
       "border-style": {},
       "border-color": {},
