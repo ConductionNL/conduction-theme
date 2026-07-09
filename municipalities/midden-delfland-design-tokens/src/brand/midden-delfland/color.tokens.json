@@ -32,6 +32,10 @@
           "value": "#005C8EE6",
           "comment": "Midden-Delfland logo blauw (primair) at 0.9 opacity - button hover/active state"
         },
+        "28-30t": {
+          "value": "#005C8E4D",
+          "comment": "Midden-Delfland logo blauw (primair) at 0.3 opacity - disabled pagination chevron (website --paginationDisabledOpacity: 0.3)"
+        },
         "95": {
           "value": "#EEF4F7",
           "comment": "Midden-Delfland lichtblauw tint - 7% van logo blauw (huisstijl + website --activeSubNavBackgroundColor)"
