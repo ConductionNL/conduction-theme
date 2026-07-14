@@ -5,6 +5,8 @@ Conduction's design tokens theme
 ## Changelog
 
 - **Version 1.1 (breaking changes from 1.0.x)**
+  - 1.1.72:
+    - Fixed Noorderzijlvest theme footer logo being the conduction logo
   - 1.1.71:
     - Added Midden-Delfland theme.
     - Updated focus tokens in Buren theme.

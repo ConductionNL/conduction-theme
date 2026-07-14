@@ -17,7 +17,7 @@
         "inline-size": { "value": "220px" },
         "block-size": { "value": "40px" },
         "background-image": {
-          "value": "unset"
+          "value": "none"
         }
       },
       "navbar": {
