@@ -62,6 +62,6 @@
   },
   "homepage": "https://codeberg.org/Conduction/conduction-theme#readme",
   "devDependencies": {
-    "rimraf": "^3.0.2"
+    "rimraf": "^6.1.3"
   }
 }
