@@ -1,0 +1,112 @@
+{
+  "openwoo": {
+    "color": {
+      "primary": {
+        "value": "{openwoo.color.green.35}"
+      },
+      "primary-hover": {
+        "value": "{openwoo.color.green.25}"
+      },
+      "error": { "value": "#dc3545" },
+      "alert-error": { "value": "#721c24" },
+      "alert-error-background": { "value": "#f8d7da" },
+      "warning": { "value": "#ffc107" },
+      "alert-warning": { "value": "#856404" },
+      "alert-warning-background": { "value": "#fff3cd" },
+      "succes": { "value": "#28a745" },
+      "alert-succes": { "value": "#155724" },
+      "alert-succes-background": { "value": "#d4edda" },
+      "info": { "value": "{openwoo.color.primary}" },
+      "alert-info": { "value": "#004085" },
+      "alert-info-background": { "value": "#cce5ff" },
+      "blue": {
+        "19": {
+          "value": "#11304e",
+          "comment": "Brand/Navy - magnifying glass ring and OPEN wordmark (exact fill from openwoo_logo_final.svg)"
+        },
+        "19-12t": {
+          "value": "#11304e1F",
+          "comment": "Navy with 12% opacity - card resting shadow"
+        },
+        "19-20t": {
+          "value": "#11304e33",
+          "comment": "Navy with 20% opacity - card hover shadow"
+        },
+        "94": {
+          "value": "#e8eff6",
+          "comment": "Brand/Ice blue - light tint of the navy, surface for page header and footer so the logo stays crisp"
+        }
+      },
+      "green": {
+        "25": {
+          "value": "#1b6748",
+          "comment": "Brand/Green hover - logo green darkened by ~10% lightness"
+        },
+        "35": {
+          "value": "#268f64",
+          "comment": "Brand/Green - WOO wordmark, map, islands and handle (exact fill from openwoo_logo_final.svg)"
+        }
+      },
+      "grey": {
+        "27": {
+          "value": "#444444"
+        },
+        "29": {
+          "value": "#4a4a4a"
+        },
+        "31": {
+          "value": "#4f4f4f"
+        },
+        "46": {
+          "value": "#767676"
+        },
+        "48": {
+          "value": "#7a7a7a"
+        },
+        "50": {
+          "value": "#808080",
+          "comment": "Base/Grey"
+        },
+        "70": {
+          "value": "#b3b3b3"
+        },
+        "82": {
+          "value": "#d1d1d1"
+        },
+        "87": {
+          "value": "#dddddd"
+        },
+        "90": {
+          "value": "#e6e6e6"
+        },
+        "95": {
+          "value": "#f2f2f2"
+        },
+        "97": {
+          "value": "#f7f7f7"
+        }
+      },
+      "lightgrey": {
+        "96": {
+          "value": "#f5f5f5",
+          "comment": "Base/LightGrey"
+        }
+      },
+      "white": {
+        "98": {
+          "value": "#fafafa"
+        },
+        "100": {
+          "value": "#ffffff",
+          "comment": "Base/White"
+        }
+      },
+      "black": {
+        "0": {
+          "value": "#000000",
+          "comment": "Base/Black"
+        }
+      }
+    }
+  }
+}
