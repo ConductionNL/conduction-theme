@@ -4,6 +4,11 @@ Conduction's design tokens theme
 
 ## Changelog
 
+- **Version 2.0 (breaking changes from 1.1.x)**
+  - 2.0.0:
+    - Restructured the repository into category folders: all themes now live in `municipalities/`, `partnerships/`, `water-authorities/` or `other/`. The Conduction baseline theme remains at the root as `conduction-design-tokens/`.
+    - BREAKING: theme paths within the package have changed, e.g. `@conduction/theme/epe-design-tokens/dist/index.css` is now `@conduction/theme/municipalities/epe-design-tokens/dist/index.css`.
+
 - **Version 1.1 (breaking changes from 1.0.x)**
   - 1.1.72:
     - Fixed Noorderzijlvest theme footer logo being the conduction logo
