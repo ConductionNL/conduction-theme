@@ -13,7 +13,7 @@ If `$ARGUMENTS` is empty or does not contain an organisation name, ask:
 
 1. **"What is the name of the organisation to update?"** (required — do not proceed until answered)
 
-Once you have the name, verify the token set exists at `municipalities/<slug>-design-tokens/`. If it does not exist, tell the user and suggest using `/nlds:new` instead.
+Once you have the name, find the token set in one of the four category folders: `municipalities/<slug>-design-tokens/`, `partnerships/<slug>-design-tokens/`, `water-authorities/<slug>-design-tokens/` or `other/<slug>-design-tokens/`. The category folder where it is found is `<category>`. If it does not exist in any of them, tell the user and suggest using `/nlds:new` instead.
 
 Then ask:
 
@@ -35,7 +35,7 @@ From the existing token set, read `src/config.json` to get:
 - **fullName**: the `fullName` field
 - **prefix**: same as slug
 - **packageName**: from `package.json` `name` field
-- **folderName**: `municipalities/<slug>-design-tokens`
+- **folderName**: `<category>/<slug>-design-tokens` (the folder where the token set was found)
 
 ### Allowed references
 
@@ -46,7 +46,7 @@ Use **only** these sources:
 3. The **`conduction-design-tokens/`** baseline files (for file structure and default values)
 4. The organisation's **own existing token set** (the one being updated)
 
-**Do NOT look at other themes in `municipalities/` for reference** (e.g. to see how they chose values or mapped sizes). Other themes contain organisation-specific choices and mistakes that silently leak into this theme — for example copying another theme's decision to map the *body* font-size to `font-size.md` instead of the website's actual `<p>` font-size.
+**Do NOT look at other themes in the category folders (`municipalities/`, `partnerships/`, `water-authorities/`, `other/`) for reference** (e.g. to see how they chose values or mapped sizes). Other themes contain organisation-specific choices and mistakes that silently leak into this theme — for example copying another theme's decision to map the *body* font-size to `font-size.md` instead of the website's actual `<p>` font-size.
 
 ### Execute
 

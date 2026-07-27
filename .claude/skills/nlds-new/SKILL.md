@@ -35,7 +35,8 @@ From the organisation name:
 - **prefix**: same as slug
 - **fullName**: the proper name (e.g. "Den Haag", "VNG Realisatie")
 - **packageName**: `@nl-design-system-unstable/<slug>-design-tokens`
-- **folderName**: `municipalities/<slug>-design-tokens`
+- **category**: the folder matching the organisation type — `municipalities` (gemeenten), `partnerships` (samenwerkingsverbanden such as Noaberkracht), `water-authorities` (waterschappen) or `other` (products, companies, programs, demos). If the type is not obvious, ask the user.
+- **folderName**: `<category>/<slug>-design-tokens`
 
 ### Allowed references
 
@@ -45,7 +46,7 @@ Use **only** these three sources:
 2. The organisation's **huisstijlhandboek** (style guide)
 3. The **`conduction-design-tokens/`** baseline files (for file structure and default values)
 
-**Do NOT look at other themes in `municipalities/` for reference** (e.g. to see how they chose values or mapped sizes). Other themes contain organisation-specific choices and mistakes that silently leak into the new theme — for example copying another theme's decision to map the *body* font-size to `font-size.md` instead of the website's actual `<p>` font-size.
+**Do NOT look at other themes in the category folders (`municipalities/`, `partnerships/`, `water-authorities/`, `other/`) for reference** (e.g. to see how they chose values or mapped sizes). Other themes contain organisation-specific choices and mistakes that silently leak into the new theme — for example copying another theme's decision to map the *body* font-size to `font-size.md` instead of the website's actual `<p>` font-size.
 
 ### Execute
 
