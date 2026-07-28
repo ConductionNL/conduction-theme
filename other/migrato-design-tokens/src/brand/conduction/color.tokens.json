@@ -45,6 +45,10 @@
         }
       },
       "orange": {
+        "41": {
+          "value": "#d07900",
+          "comment": "Hover shade for the orange buttons (orange.47 darkened, same hue/saturation)"
+        },
         "47-90t": {
           "value": "#ef8b00e6"
         },

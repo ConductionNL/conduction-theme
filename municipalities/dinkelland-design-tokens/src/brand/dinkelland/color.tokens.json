@@ -42,6 +42,10 @@
         "48": {
           "value": "#2e79c6"
         },
+        "84": {
+          "value": "#c3dbeb",
+          "comment": "Hover tint for the light-blue primary action button (blue.91 darkened, same hue/saturation)"
+        },
         "91": {
           "value": "#deebf4"
         },

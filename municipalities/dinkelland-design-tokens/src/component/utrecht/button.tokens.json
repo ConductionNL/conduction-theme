@@ -67,8 +67,8 @@
         "color": { "value": "{dinkelland.color.grey.50}" }
       },
         "hover": {
-          "background-color": { "value": "{dinkelland.color.blue.91}" },
-          "border-color": { "value": "{dinkelland.color.blue.91}" },
+          "background-color": { "value": "{dinkelland.color.blue.84}" },
+          "border-color": { "value": "{dinkelland.color.blue.84}" },
           "color": { "value": "{dinkelland.color.blue.26}" },
           "scale": {}
         },

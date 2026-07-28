@@ -67,8 +67,8 @@
           "color": { "value": "{tubbergen.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{tubbergen.color.green.76}" },
-          "border-color": { "value": "{tubbergen.color.green.76}" },
+          "background-color": { "value": "{tubbergen.color.green.89}" },
+          "border-color": { "value": "{tubbergen.color.green.89}" },
           "color": { "value": "{tubbergen.color.green.21}" },
           "scale": {}
         },
