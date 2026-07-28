@@ -2,11 +2,29 @@
 
 Conduction's design tokens theme
 
+## Versioning
+
+From 2.1.0 onwards this package follows semantic versioning as follows:
+
+- **Major** — breaking changes, such as changed import paths or repository restructuring.
+- **Minor** — a new theme is added.
+- **Patch** — updates to existing themes.
+
+Every release gets an entry in the changelog below.
+
 ## Changelog
 
 - **Version 2.0 (breaking changes from 1.1.x)**
+  - 2.1.0:
+    - Added OpenWOO theme.
+    - Set package author to Conduction for the Conduction, OpenWOO and OpenCatalogi themes.
+    - Added missing hover effect on primary action buttons in the Conduction, Dinkelland, Ede, Gouda, Midden-Delfland, Moerdijk, Noordwijk, Oude IJsselstreek, Tubbergen, Vaals, Zutphen, Commonground, Dimpact, Migrato, Open Webconcept, Sloterburg, xxllnc, Noaberkracht and Noorderzijlvest themes.
   - 2.0.0:
-    - Restructured the repository into category folders: `municipalities/` now only contains actual municipalities (gemeenten); the other themes moved to `partnerships/` (Noaberkracht), `water-authorities/` (Noorderzijlvest) or `other/` (products, companies, programs and demos). The Conduction baseline theme remains at the root as `conduction-design-tokens/`.
+    - Restructured the repository into category folders: `municipalities/`, `partnerships/`, `water-authorities/` and `other/`.
+    - `municipalities/` now only contains actual municipalities (gemeenten).
+    - Moved Noaberkracht to `partnerships/` and Noorderzijlvest to `water-authorities/`.
+    - Moved products, companies, programs and demos to `other/`.
+    - The Conduction baseline theme remains at the root as `conduction-design-tokens/`.
     - BREAKING: paths of the moved themes have changed, e.g. `@conduction/theme/municipalities/zuiddrecht-design-tokens/dist/index.css` is now `@conduction/theme/other/zuiddrecht-design-tokens/dist/index.css`. Municipality theme paths are unchanged.
 
 - **Version 1.1 (breaking changes from 1.0.x)**

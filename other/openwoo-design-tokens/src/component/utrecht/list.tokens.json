@@ -1,0 +1,35 @@
+{
+  "utrecht": {
+    "ordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{openwoo.size.sm}" },
+      "margin-block-end": { "value": "{openwoo.size.sm}" },
+      "padding-inline-start": { "value": "{openwoo.size.xl}" },
+      "item": {
+        "margin-block-start": { "value": "{openwoo.size.2xs}" },
+        "margin-block-end": { "value": "{openwoo.size.2xs}" },
+        "padding-inline-start": { "value": "1ch" }
+      }
+    },
+    "unordered-list": {
+      "font-size": { "value": "{utrecht.document.font-size}" },
+      "line-height": {},
+      "margin-block-start": { "value": "{openwoo.size.md}" },
+      "margin-block-end": { "value": 0 },
+      "padding-inline-start": { "value": "2ch" },
+      "item": {
+        "margin-block-start": { "value": "{openwoo.size.xs}" },
+        "margin-block-end": { "value": "{openwoo.size.xs}" },
+        "padding-inline-start": { "value": "1ch" }
+      },
+      "marker": {
+        "color": { "value": "{openwoo.color.primary}" },
+        "content": {},
+        "font-family": {},
+        "font-weight": {},
+        "font-size": {}
+      }
+    }
+  }
+}

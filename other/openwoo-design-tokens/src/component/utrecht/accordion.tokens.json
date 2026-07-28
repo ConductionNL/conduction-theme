@@ -1,0 +1,68 @@
+{
+  "utrecht": {
+    "accordion": {
+      "button": {
+        "background-color": { "value": "{openwoo.color.primary}" },
+        "border-color": { "value": "{openwoo.color.primary}" },
+        "border-width": {},
+        "color": { "value": "{openwoo.color.white.100}" },
+        "active": {
+          "background-color": { "value": "{openwoo.color.primary}" },
+          "border-color": { "value": "{openwoo.color.primary}" },
+          "color": { "value": "{openwoo.color.white.100}" }
+        },
+        "expanded": {
+          "background-color": { "value": "{openwoo.color.primary-hover}" },
+          "border-color": { "value": "{openwoo.color.primary-hover}" },
+          "color": { "value": "{openwoo.color.white.100}" }
+        },
+        "focus": {
+          "background-color": { "value": "{openwoo.color.primary}" },
+          "border-color": { "value": "{openwoo.color.primary}" },
+          "color": { "value": "{openwoo.color.white.100}" }
+        },
+        "font-family": { "value": "{openwoo.typography.sans-serif.font-family}" },
+        "font-size": { "value": "{openwoo.font-size.xl}" },
+        "font-weight": { "value": "{openwoo.typography.font-weight.normal}" },
+        "hover": {
+          "background-color": { "value": "{openwoo.color.primary-hover}" },
+          "border-color": { "value": "{openwoo.color.primary-hover}" },
+          "color": { "value": "{openwoo.color.white.100}" }
+        },
+        "icon": {
+          "margin-inline-start": { "value": "{openwoo.size.xs}" },
+          "margin-inline-end": { "value": "{openwoo.size.xs}" },
+          "margin-block-start": { "value": "{openwoo.size.xs}" },
+          "margin-block-end": { "value": "{openwoo.size.xs}" },
+          "size": {},
+          "background-color": {},
+          "fill": { "value": "currentColor" }
+        },
+        "line-height": {},
+        "padding-block-end": { "value": "{openwoo.size.xs}" },
+        "padding-block-start": { "value": "{openwoo.size.xs}" },
+        "padding-inline-end": { "value": "{openwoo.size.xs}" },
+        "padding-inline-start": { "value": "{openwoo.size.xs}" }
+      },
+      "panel": {
+        "padding-inline-start": { "value": "{openwoo.size.md}" },
+        "padding-inline-end": { "value": "{openwoo.size.md}" },
+        "padding-block-start": { "value": "{openwoo.size.md}" },
+        "padding-block-end": { "value": "{openwoo.size.md}" },
+        "border-width": { "value": "{openwoo.size.4xs}" },
+        "border-color": { "value": "{openwoo.color.black.0}" }
+      },
+      "section": {
+        "margin-block-start": {},
+        "margin-block-end": {},
+        "border-width": {},
+        "border-color": {},
+        "border-block-end-width": {}
+      },
+      "border-radius": { "value": "0px" },
+      "icon": {
+        "arrow-down": { "value": "transparent" }
+      }
+    }
+  }
+}

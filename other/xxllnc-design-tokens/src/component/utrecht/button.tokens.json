@@ -67,9 +67,9 @@
           "color": { "value": "{xxllnc.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{xxllnc.color.black.17}" },
+          "background-color": { "value": "{xxllnc.color.black.17-hover}" },
           "border-color": {},
-          "color": { "value": "{xxllnc.color.grey.90}" },
+          "color": { "value": "{xxllnc.color.grey.90-hover}" },
           "scale": {}
         },
         "focus": {

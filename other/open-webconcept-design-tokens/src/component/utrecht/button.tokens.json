@@ -67,8 +67,8 @@
           "color": { "value": "{open-webconcept.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{open-webconcept.color.primary}" },
-          "border-color": { "value": "{open-webconcept.color.primary}" },
+          "background-color": { "value": "{open-webconcept.color.primary-hover}" },
+          "border-color": { "value": "{open-webconcept.color.primary-hover}" },
           "color": { "value": "{open-webconcept.color.white.100}" },
           "scale": {}
         },

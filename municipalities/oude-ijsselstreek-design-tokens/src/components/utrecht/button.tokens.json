@@ -67,8 +67,8 @@
           "color": { "value": "{oude-ijsselstreek.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{oude-ijsselstreek.color.primary}" },
-          "border-color": { "value": "{oude-ijsselstreek.color.primary}" },
+          "background-color": { "value": "{oude-ijsselstreek.color.primary-hover}" },
+          "border-color": { "value": "{oude-ijsselstreek.color.primary-hover}" },
           "color": { "value": "{oude-ijsselstreek.color.white.100}" },
           "scale": {}
         },

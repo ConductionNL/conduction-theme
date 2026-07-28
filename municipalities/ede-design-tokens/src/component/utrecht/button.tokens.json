@@ -67,8 +67,8 @@
           "color": { "value": "{ede.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{ede.color.primary}" },
-          "border-color": { "value": "{ede.color.primary}" },
+          "background-color": { "value": "{ede.color.primary-hover}" },
+          "border-color": { "value": "{ede.color.primary-hover}" },
           "color": { "value": "{ede.color.white.100}" },
           "scale": {}
         },

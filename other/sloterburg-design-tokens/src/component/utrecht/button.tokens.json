@@ -67,8 +67,8 @@
           "color": { "value": "{sloterburg.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{sloterburg.color.primary}" },
-          "border-color": { "value": "{sloterburg.color.primary}" },
+          "background-color": { "value": "{sloterburg.color.primary-hover}" },
+          "border-color": { "value": "{sloterburg.color.primary-hover}" },
           "color": { "value": "{sloterburg.color.white.100}" },
           "scale": {}
         },

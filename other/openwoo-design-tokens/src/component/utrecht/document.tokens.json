@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "{openwoo.color.white.100}" },
+      "color": { "value": "{openwoo.color.black.0}" },
+      "font-family": { "value": "{openwoo.typography.sans-serif.font-family}" },
+      "font-size": { "value": "{openwoo.font-size.md}" },
+      "font-weight": {},
+      "line-height": {}
+    }
+  }
+}

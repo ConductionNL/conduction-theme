@@ -67,8 +67,8 @@
           "color": { "value": "{gouda.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{gouda.color.primary}" },
-          "border-color": { "value": "{gouda.color.primary}" },
+          "background-color": { "value": "{gouda.color.primary-hover}" },
+          "border-color": { "value": "{gouda.color.primary-hover}" },
           "color": { "value": "{gouda.color.white.100}" },
           "scale": {}
         },

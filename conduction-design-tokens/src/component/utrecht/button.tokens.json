@@ -67,8 +67,8 @@
           "color": { "value": "{conduction.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{conduction.color.primary}" },
-          "border-color": { "value": "{conduction.color.primary}" },
+          "background-color": { "value": "{conduction.color.primary-hover}" },
+          "border-color": { "value": "{conduction.color.primary-hover}" },
           "color": { "value": "{conduction.color.white.100}" },
           "scale": {}
         },

@@ -56,4 +56,5 @@ Read the shared reference at `conduction-theme/.claude/commands/nlds-reference.m
 2. **Create all files** — follow the file creation procedure to create the full token set from scratch
 3. **Update component tokens** — follow the component update mapping to apply extracted values
 4. **Build and test** — follow the build procedure, fix any errors
-5. **Summary** — output the summary as described in the reference
+5. **Version and changelog** — a new theme is a **minor** bump of the root `package.json` version (updates to existing themes are a patch bump — see the Versioning section in the root README); add a matching changelog entry in the root README with one bullet per change
+6. **Summary** — output the summary as described in the reference
