@@ -61,4 +61,5 @@ Read the shared reference at `conduction-theme/.claude/commands/nlds-reference.m
    - Update `font-size.tokens.json` if sizes changed
    - Download any new font files to `src/font/` and update `font.scss`
 5. **Build and test** (Part D) — follow the build procedure, fix any errors
-6. **Summary** (Part E) — output the summary, highlighting what changed vs the previous version
+6. **Version and changelog** — updating an existing theme is a **patch** bump of the root `package.json` version (a new theme is a minor bump — see the Versioning section in the root README); add a matching changelog entry in the root README with one bullet per change
+7. **Summary** (Part E) — output the summary, highlighting what changed vs the previous version
