@@ -4,7 +4,7 @@
       "border-collapse": { "value": "collapse" },
       "background-color": { "value": "{openwoo.color.white.100}" },
       "header": {
-        "border-block-end-color": { "value": "{openwoo.color.grey.82}" },
+        "border-block-end-color": { "value": "{openwoo.color.blue.94}" },
         "border-block-end-width": { "value": "{openwoo.size.4xs}" },
         "font-family": {}
       },
@@ -20,7 +20,7 @@
       },
       "row": {
         "hover": {
-          "background-color": { "value": "{openwoo.color.grey.97}" },
+          "background-color": { "value": "{openwoo.color.blue.86}" },
           "color": {}
         }
       },

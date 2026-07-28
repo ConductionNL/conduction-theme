@@ -19,7 +19,7 @@
       },
       "header": {
         "font-weight": { "value": "{openwoo.typography.font-weight.bold}" },
-        "background-color": {},
+        "background-color": { "value": "{openwoo.color.blue.94}" },
         "color": { "value": "{utrecht.document.color}" },
         "text-transform": { "value": "unset" },
         "border-block-end-color": {},
@@ -42,7 +42,7 @@
         }
       },
       "row": {
-        "border-block-end-color": { "value": "{openwoo.color.grey.82}" },
+        "border-block-end-color": { "value": "{openwoo.color.blue.94}" },
         "border-block-end-width": { "value": "{openwoo.size.4xs}" },
         "padding-inline-end": {},
         "padding-inline-start": {},
@@ -51,7 +51,7 @@
           "color": {}
         },
         "alternate-even": {
-          "background-color": {},
+          "background-color": { "value": "{openwoo.color.blue.94}" },
           "color": {}
         }
       }

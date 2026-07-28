@@ -18,7 +18,7 @@ Every release gets an entry in the changelog below.
   - 2.1.0:
     - Added OpenWOO theme.
     - Set package author to Conduction for the Conduction, OpenWOO and OpenCatalogi themes.
-    - Added missing hover effect on primary action buttons in the Conduction, Ede, Gouda, Midden-Delfland, Moerdijk, Noordwijk, Oude IJsselstreek, Vaals, Zutphen, Commonground, Dimpact, Open Webconcept, Sloterburg, xxllnc, Noaberkracht and Noorderzijlvest themes.
+    - Added missing hover effect on primary action buttons in the Conduction, Dinkelland, Ede, Gouda, Midden-Delfland, Moerdijk, Noordwijk, Oude IJsselstreek, Tubbergen, Vaals, Zutphen, Commonground, Dimpact, Migrato, Open Webconcept, Sloterburg, xxllnc, Noaberkracht and Noorderzijlvest themes.
   - 2.0.0:
     - Restructured the repository into category folders: `municipalities/`, `partnerships/`, `water-authorities/` and `other/`.
     - `municipalities/` now only contains actual municipalities (gemeenten).

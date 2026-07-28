@@ -32,6 +32,10 @@
           "value": "#11304e33",
           "comment": "Navy with 20% opacity - card hover shadow"
         },
+        "86": {
+          "value": "#cbdbeb",
+          "comment": "Deeper ice-blue tint (blue.94 darkened, same hue/saturation) - table row hover, visible on both white and blue.94 zebra rows"
+        },
         "94": {
           "value": "#e8eff6",
           "comment": "Brand/Ice blue - light tint of the navy, surface for page header and footer so the logo stays crisp"
