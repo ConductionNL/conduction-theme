@@ -1,0 +1,11 @@
+{
+  "utrecht": {
+    "link": {
+      "hover": {
+        "font-weight": {},
+        "text-decoration-color": {},
+        "text-decoration-skip-ink": { "value": "auto" }
+      }
+    }
+  }
+}

@@ -50,6 +50,7 @@
     "build:migrato": "cd ./other/migrato-design-tokens && npm run build",
     "build:open-webconcept": "cd ./other/open-webconcept-design-tokens && npm run build",
     "build:opencatalogi": "cd ./other/opencatalogi-design-tokens && npm run build",
+    "build:openwoo": "cd ./other/openwoo-design-tokens && npm run build",
     "build:sloterburg": "cd ./other/sloterburg-design-tokens && npm run build",
     "build:xxllnc": "cd ./other/xxllnc-design-tokens && npm run build",
     "build:zuiddrecht": "cd ./other/zuiddrecht-design-tokens && npm run build"
