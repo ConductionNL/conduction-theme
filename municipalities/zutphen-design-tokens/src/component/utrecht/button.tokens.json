@@ -67,8 +67,8 @@
           "color": { "value": "{zutphen.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{zutphen.color.primary}" },
-          "border-color": { "value": "{zutphen.color.primary}" },
+          "background-color": { "value": "{zutphen.color.primary-hover}" },
+          "border-color": { "value": "{zutphen.color.primary-hover}" },
           "color": { "value": "{zutphen.color.white.100}" },
           "scale": {}
         },

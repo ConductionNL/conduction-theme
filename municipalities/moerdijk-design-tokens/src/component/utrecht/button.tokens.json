@@ -67,8 +67,8 @@
           "color": { "value": "{moerdijk.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{moerdijk.color.primary}" },
-          "border-color": { "value": "{moerdijk.color.primary}" },
+          "background-color": { "value": "{moerdijk.color.primary-hover}" },
+          "border-color": { "value": "{moerdijk.color.primary-hover}" },
           "color": { "value": "{moerdijk.color.white.100}" },
           "scale": {}
         },

@@ -67,8 +67,8 @@
           "color": { "value": "{openwoo.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{openwoo.color.primary}" },
-          "border-color": { "value": "{openwoo.color.primary}" },
+          "background-color": { "value": "{openwoo.color.primary-hover}" },
+          "border-color": { "value": "{openwoo.color.primary-hover}" },
           "color": { "value": "{openwoo.color.white.100}" },
           "scale": {}
         },

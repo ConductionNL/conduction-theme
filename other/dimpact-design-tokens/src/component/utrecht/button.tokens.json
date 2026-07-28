@@ -67,8 +67,8 @@
           "color": { "value": "{dimpact.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{dimpact.color.primary}" },
-          "border-color": { "value": "{dimpact.color.primary}" },
+          "background-color": { "value": "{dimpact.color.primary-hover}" },
+          "border-color": { "value": "{dimpact.color.primary-hover}" },
           "color": { "value": "{dimpact.color.white.100}" },
           "scale": {}
         },

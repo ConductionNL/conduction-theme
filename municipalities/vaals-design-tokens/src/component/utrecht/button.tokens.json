@@ -67,8 +67,8 @@
           "color": { "value": "{vaals.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{vaals.color.primary}" },
-          "border-color": { "value": "{vaals.color.primary}" },
+          "background-color": { "value": "{vaals.color.primary-hover}" },
+          "border-color": { "value": "{vaals.color.primary-hover}" },
           "color": { "value": "{vaals.color.white.100}" },
           "scale": {}
         },

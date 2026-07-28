@@ -67,8 +67,8 @@
           "color": { "value": "{midden-delfland.color.grey.50}" }
         },
         "hover": {
-          "background-color": { "value": "{midden-delfland.color.primary}" },
-          "border-color": { "value": "{midden-delfland.color.primary}" },
+          "background-color": { "value": "{midden-delfland.color.primary-hover}" },
+          "border-color": { "value": "{midden-delfland.color.primary-hover}" },
           "color": { "value": "{midden-delfland.color.white.100}" },
           "scale": {}
         },
