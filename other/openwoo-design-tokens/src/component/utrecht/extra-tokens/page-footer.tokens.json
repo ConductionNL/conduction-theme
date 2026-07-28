@@ -28,7 +28,7 @@
         "font-size": {}
       },
       "link": {
-        "color": {},
+        "color": { "value": "{openwoo.color.blue.19}" },
         "text-decoration": { "value": "none" },
         "text-decoration-color": { "value": "unset" },
         "text-decoration-thickness": { "value": "{openwoo.size.4xs}" },

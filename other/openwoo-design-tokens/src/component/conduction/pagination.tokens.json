@@ -78,7 +78,7 @@
       },
       "page": {
         "hover": {
-          "color": { "value": "{openwoo.color.primary}" },
+          "color": { "value": "{openwoo.color.primary-hover}" },
           "background-color": { "value": "{openwoo.color.white.98}" },
           "text-decoration": { "value": "unset" },
           "text-decoration-thickness": { "value": "0px" },

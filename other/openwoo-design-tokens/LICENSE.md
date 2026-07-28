@@ -1,17 +1,17 @@
 # Auteursrecht OpenWOO
 
-Copyright (c) 2026 OpenWOO
+Copyright (c) 2026 Conduction
 
 ## Logo en huisstijl
 
-Op het huisstijl en logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik door OpenWOO.
+Het OpenWOO-logo en de bijbehorende huisstijl zijn ontworpen door Conduction. Op de huisstijl en het logo zijn auteursrechten van toepassing. Het gebruik van logo en huisstijl is alleen toegestaan voor gebruik binnen OpenWOO.
 
-Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van OpenWOO gebruiken en je ontwerpt een eigen huisstijl.
+Wanneer je een bewerking van de software wilt gebruiken voor andere doeleinden, mag je niet het logo van OpenWOO gebruiken en ontwerp je een eigen huisstijl.
 
 ## Lettertype
 
-Lettertypes die worden gebruikt voor de huisstijl zijn niet allemaal gratis en open source. Let op dat bij gebruik van die bijgeleverde lettertypes je een (betaalde) licentie regelt. Pas anders de configuratie aan om minder of andere lettertypes te gebruiken.
+De huisstijl gebruikt Arial, een standaard systeemlettertype. Hiervoor is geen aanvullende licentie nodig en er worden geen lettertypebestanden meegeleverd.
 
 ## Toestemming
 
-Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met OpenWOO.
+Wanneer je het logo of de huisstijl wilt gebruiken kun je voor toestemming contact opnemen met Conduction.

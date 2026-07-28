@@ -23,7 +23,7 @@
         }
       },
       "date": {
-        "color": { "value": "{openwoo.color.grey.46}" },
+        "color": { "value": "{openwoo.color.grey.31}" },
         "font-size": { "value": "{openwoo.font-size.sm}" },
         "font-weight": { "value": "{openwoo.typography.font-weight.normal}" },
         "font-style": {},

@@ -2,8 +2,8 @@
   "utrecht": {
     "form-field": {
       "description": {
-        "valid-color": { "value": "{openwoo.color.succes}" },
-        "warning-color": { "value": "{openwoo.color.warning}" },
+        "valid-color": { "value": "{openwoo.color.alert-succes}" },
+        "warning-color": { "value": "{openwoo.color.alert-warning}" },
         "invalid-color": { "value": "{openwoo.color.error}" },
         "margin-block-end": { "value": "12px" },
         "margin-block-start": { "value": "12px" }

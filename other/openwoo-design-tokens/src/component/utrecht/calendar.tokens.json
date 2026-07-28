@@ -39,7 +39,7 @@
           },
           "is-today": {
             "background-color": { "value": "{openwoo.color.grey.95}" },
-            "color": { "value": "{openwoo.color.primary}" },
+            "color": { "value": "{openwoo.color.primary-hover}" },
             "border-color": { "value": "{openwoo.color.primary}" },
             "font-weight": { "value": "{openwoo.typography.font-weight.bold}" }
           },
