@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://codeberg.org/Conduction/conduction-theme.git"
+    "url": "git+https://github.com/ConductionNL/conduction-theme.git"
   },
   "scripts": {
     "clean": "rimraf -rf dist/",
@@ -34,7 +34,7 @@
     "style-dictionary": "3.8.0"
   },
   "bugs": {
-    "url": "https://codeberg.org/Conduction/conduction-theme/issues"
+    "url": "https://github.com/ConductionNL/conduction-theme/issues"
   },
-  "homepage": "https://codeberg.org/Conduction/conduction-theme#readme"
+  "homepage": "https://github.com/ConductionNL/conduction-theme#readme"
 }

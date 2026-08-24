@@ -27,7 +27,7 @@
   "dependencies": { "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100" },
 
   "bugs": {
-    "url": "https://codeberg.org/Conduction/conduction-theme/issues"
+    "url": "https://github.com/ConductionNL/conduction-theme/issues"
   },
-  "homepage": "https://codeberg.org/Conduction/conduction-theme#readme"
+  "homepage": "https://github.com/ConductionNL/conduction-theme#readme"
 }

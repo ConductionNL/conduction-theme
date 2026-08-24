@@ -1,7 +1,7 @@
 publiccodeYmlVersion: '0.1'
 name: conduction-theme
 applicationSuite: null
-url: https://codeberg.org/Conduction/conduction-theme
+url: https://github.com/ConductionNL/conduction-theme
 landingURL: null
 isBasedOn: null
 softwareVersion: null
@@ -81,4 +81,4 @@ nl:
     model: null
   upl: []
 downloadUrls:
-  - https://codeberg.org/Conduction/conduction-theme/archive/refs/heads/main.zip
+  - https://github.com/ConductionNL/conduction-theme/archive/refs/heads/main.zip
