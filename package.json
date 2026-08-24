@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://codeberg.org/Conduction/conduction-theme.git"
+    "url": "git+https://github.com/ConductionNL/conduction-theme.git"
   },
   "scripts": {
     "postinstall": "npm run build",
@@ -69,9 +69,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://codeberg.org/Conduction/conduction-theme/issues"
+    "url": "https://github.com/ConductionNL/conduction-theme/issues"
   },
-  "homepage": "https://codeberg.org/Conduction/conduction-theme#readme",
+  "homepage": "https://github.com/ConductionNL/conduction-theme#readme",
   "devDependencies": {
     "rimraf": "^6.1.3"
   }
