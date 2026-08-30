@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "@nl-design-system-unstable/rotterdam-design-tokens": "^1.0.0-alpha.100",
-    "npm-run-all2": "^8.0.4",
+    "npm-run-all2": "^9.0.3",
     "sass": "^1.70.0",
     "style-dictionary": "^3.9.2"
   },
